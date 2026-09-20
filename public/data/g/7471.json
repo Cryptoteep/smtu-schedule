@@ -1,0 +1,571 @@
+{
+  "groupId": "7471",
+  "groupName": "2330",
+  "updatedAt": "2026-09-20T13:46:59.701Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7471-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "both"
+        },
+        {
+          "id": "7471-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "both"
+        },
+        {
+          "id": "7471-1-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Производственная практика. Технологическая (проектно-технологическая) практика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "both"
+        },
+        {
+          "id": "7471-1-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Производственная практика. Технологическая (проектно-технологическая) практика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "both"
+        },
+        {
+          "id": "7471-1-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "both"
+        },
+        {
+          "id": "7471-1-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Производственная практика. Технологическая (проектно-технологическая) практика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "both"
+        },
+        {
+          "id": "7471-1-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Производственная практика. Технологическая (проектно-технологическая) практика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7471-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Основы проектирования машин",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 312",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванова Марина Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/12/06/small/p100452.jpg?token_static=b0a7c13cd5642cab318dfcd633ba3225"
+          }
+        },
+        {
+          "id": "7471-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы проектирования машин",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 312",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванова Марина Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/12/06/small/p100452.jpg?token_static=b0a7c13cd5642cab318dfcd633ba3225"
+          }
+        },
+        {
+          "id": "7471-2-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Судовые энергетические установки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Архипов Георгий Алексеевич",
+            "id": "100053",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100053/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100053.jpg?token_static=04a30d16d5596ca670d3f9cd0ad945fe"
+          }
+        },
+        {
+          "id": "7471-2-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы проектирования машин",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 312",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванова Марина Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/12/06/small/p100452.jpg?token_static=b0a7c13cd5642cab318dfcd633ba3225"
+          }
+        },
+        {
+          "id": "7471-2-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Судовые энергетические установки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Архипов Георгий Алексеевич",
+            "id": "100053",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100053/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100053.jpg?token_static=04a30d16d5596ca670d3f9cd0ad945fe"
+          }
+        },
+        {
+          "id": "7471-2-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Судовое вспомогательное энергетическое оборудование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чернов Александр Иванович",
+            "id": "101313",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
+          }
+        },
+        {
+          "id": "7471-2-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Судовое вспомогательное энергетическое оборудование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чернов Александр Иванович",
+            "id": "101313",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7471-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Производственная практика. Технологическая (проектно-технологическая) практика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "both"
+        },
+        {
+          "id": "7471-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Производственная практика. Технологическая (проектно-технологическая) практика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "both"
+        },
+        {
+          "id": "7471-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Производственная практика. Технологическая (проектно-технологическая) практика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "both"
+        },
+        {
+          "id": "7471-3-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Производственная практика. Технологическая (проектно-технологическая) практика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7471-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Судовое вспомогательное энергетическое оборудование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чернов Александр Иванович",
+            "id": "101313",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
+          }
+        },
+        {
+          "id": "7471-4-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Судовое главное энергетическое оборудование (дизельное)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пугач Андрей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p123535.jpg?token_static=633e528767d1f7528433350c1abd49ca"
+          }
+        },
+        {
+          "id": "7471-4-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Судовое вспомогательное энергетическое оборудование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Чернов Александр Иванович",
+            "id": "101313",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
+          }
+        },
+        {
+          "id": "7471-4-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Правоведение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Радько Анастасия Сергеевна",
+            "id": "100966",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100966/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/11/09/small/p100966.jpg?token_static=6b12ac50507a5e51f661a3dcf45fc8c0"
+          }
+        },
+        {
+          "id": "7471-4-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Правоведение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 308",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Радько Анастасия Сергеевна",
+            "id": "100966",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100966/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/11/09/small/p100966.jpg?token_static=6b12ac50507a5e51f661a3dcf45fc8c0"
+          }
+        },
+        {
+          "id": "7471-4-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Альтернативные источники энергии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Патина Ирина Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100876.jpg?token_static=4aa2f8b617431ed9b0bafc9e1aaada26"
+          }
+        },
+        {
+          "id": "7471-4-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Альтернативные источники энергии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Патина Ирина Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100876.jpg?token_static=4aa2f8b617431ed9b0bafc9e1aaada26"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7471-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Судовое главное энергетическое оборудование (дизельное)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пугач Андрей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p123535.jpg?token_static=633e528767d1f7528433350c1abd49ca"
+          }
+        },
+        {
+          "id": "7471-5-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Электротехника и электроника",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "down"
+        },
+        {
+          "id": "7471-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Электротехника и электроника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "both"
+        },
+        {
+          "id": "7471-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Судовое главное энергетическое оборудование (турбинное)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Андреев Константин Дмитриевич",
+            "id": "123490",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123490/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/29/small/p123490.jpg?token_static=ee7bc2000d2c2747bcec514341568d0e"
+          }
+        },
+        {
+          "id": "7471-5-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Судовое главное энергетическое оборудование (турбинное)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Андреев Константин Дмитриевич",
+            "id": "123490",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123490/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/29/small/p123490.jpg?token_static=ee7bc2000d2c2747bcec514341568d0e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7471-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Судовые энергетические установки",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 522",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Самусев Константин Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/01/small/p126173.jpg?token_static=2e968e9c0f276d4e623ff7ee9eea6a8a"
+          }
+        },
+        {
+          "id": "7471-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Рогозин Андрей Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100982.jpg?token_static=692e530242e12bedae9975b652c98520"
+          }
+        },
+        {
+          "id": "7471-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Термодинамика и теплопередача",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Малых Николай Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100718.jpg?token_static=d7e07e78de38d38c6399e60c99ca5481"
+          }
+        },
+        {
+          "id": "7471-6-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рогозин Андрей Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100982.jpg?token_static=692e530242e12bedae9975b652c98520"
+          }
+        },
+        {
+          "id": "7471-6-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Термодинамика и теплопередача",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2330",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малых Николай Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100718.jpg?token_static=d7e07e78de38d38c6399e60c99ca5481"
+          }
+        }
+      ]
+    }
+  ]
+}

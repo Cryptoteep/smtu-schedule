@@ -1,0 +1,153 @@
+{
+  "groupId": "7909",
+  "groupName": "20365",
+  "updatedAt": "2026-09-20T13:47:05.471Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7909-1-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Дефектоскопия и металлография материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20365",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мендагалиев Руслан Валисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/11/small/p104013.jpg?token_static=e1803f56f754322bba4f5b5b66678acd"
+          }
+        },
+        {
+          "id": "7909-1-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Дефектоскопия и металлография материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20365",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мендагалиев Руслан Валисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/11/small/p104013.jpg?token_static=e1803f56f754322bba4f5b5b66678acd"
+          }
+        },
+        {
+          "id": "7909-1-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Дефектоскопия и металлография материалов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК208",
+          "campus": "СПбГМТУ",
+          "groupName": "20365",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мендагалиев Руслан Валисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/11/small/p104013.jpg?token_static=e1803f56f754322bba4f5b5b66678acd"
+          }
+        },
+        {
+          "id": "7909-1-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Дефектоскопия и металлография материалов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК208",
+          "campus": "СПбГМТУ",
+          "groupName": "20365",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мендагалиев Руслан Валисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/11/small/p104013.jpg?token_static=e1803f56f754322bba4f5b5b66678acd"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7909-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Проектирование технологического оборудования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20365",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Зернин Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/05/15/small/p124399.jpg?token_static=acd22df3c9ee08d5b13fa2491c00ae5c"
+          }
+        },
+        {
+          "id": "7909-2-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование технологического оборудования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20365",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Зернин Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/05/15/small/p124399.jpg?token_static=acd22df3c9ee08d5b13fa2491c00ae5c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7909-4-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Проектирование технологического оборудования",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ НПК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20365",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Воропаев Артем Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/29/small/p107556.jpg?token_static=1ab1eda115a89fdfeb2445001cc9d0be"
+          }
+        },
+        {
+          "id": "7909-4-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование технологического оборудования",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ НПК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20365",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Воропаев Артем Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/29/small/p107556.jpg?token_static=1ab1eda115a89fdfeb2445001cc9d0be"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "groupId": "7613",
+  "groupName": "2441",
+  "updatedAt": "2026-09-20T13:47:00.165Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7613-1-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность при эксплуатации объектов морской инфраструктуры",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2441",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мханна Ааед Исмаил Назир",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/16/small/p128126.jpg?token_static=e8f00aeafbb18ce6efb5f4f5e81d5183"
+          }
+        },
+        {
+          "id": "7613-1-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Обеспечение безопасности объектов энергетики (промышленная безопасность на морских объектах и объектах морской инфраструктуры)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2441",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Хуснуллина Алия Рафаэлевна",
+            "id": "122800",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122800/"
+          }
+        },
+        {
+          "id": "7613-1-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Безопасность при эксплуатации объектов морской инфраструктуры",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2441",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мханна Ааед Исмаил Назир",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/16/small/p128126.jpg?token_static=e8f00aeafbb18ce6efb5f4f5e81d5183"
+          }
+        },
+        {
+          "id": "7613-1-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Обеспечение безопасности объектов энергетики (промышленная безопасность на морских объектах и объектах морской инфраструктуры)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2441",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Хуснуллина Алия Рафаэлевна",
+            "id": "122800",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122800/"
+          }
+        },
+        {
+          "id": "7613-1-19:00-5",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Охрана труда в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2441",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Хуснуллина Алия Рафаэлевна",
+            "id": "122800",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122800/"
+          }
+        },
+        {
+          "id": "7613-1-19:00-6",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Обеспечение безопасности объектов энергетики (промышленная безопасность на морских объектах и объектах морской инфраструктуры)",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2441",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Хуснуллина Алия Рафаэлевна",
+            "id": "122800",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122800/"
+          }
+        },
+        {
+          "id": "7613-1-20:40-7",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 8,
+          "subject": "Охрана труда в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2441",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Хуснуллина Алия Рафаэлевна",
+            "id": "122800",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122800/"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7613-2-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методология проведения аудитов по безопасности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2441",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+          }
+        },
+        {
+          "id": "7613-2-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Экспертиза промышленной безопасности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2441",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Любимов Ярослав Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/12/small/p127485.jpg?token_static=7b0150e50ca96057774ed4a15dbc34b7"
+          }
+        },
+        {
+          "id": "7613-2-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Методология проведения аудитов по безопасности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2441",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+          }
+        },
+        {
+          "id": "7613-2-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Экспертиза промышленной безопасности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2441",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Любимов Ярослав Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/12/small/p127485.jpg?token_static=7b0150e50ca96057774ed4a15dbc34b7"
+          }
+        },
+        {
+          "id": "7613-2-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Пожарная безопасность на предприятиях судостроения и морских судах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2441",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Хуснуллина Алия Рафаэлевна",
+            "id": "122800",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122800/"
+          }
+        },
+        {
+          "id": "7613-2-19:00-6",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Пожарная безопасность на предприятиях судостроения и морских судах",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2441",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Хуснуллина Алия Рафаэлевна",
+            "id": "122800",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122800/"
+          }
+        },
+        {
+          "id": "7613-2-20:40-7",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 8,
+          "subject": "Пожарная безопасность на предприятиях судостроения и морских судах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2441",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Хуснуллина Алия Рафаэлевна",
+            "id": "122800",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122800/"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7613-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Нормативно-техническая база в области охраны труда, пожарной и промышленной безопасности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2441",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+          }
+        },
+        {
+          "id": "7613-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Нормативно-техническая база в области охраны труда, пожарной и промышленной безопасности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2441",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+          }
+        },
+        {
+          "id": "7613-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Экспертиза промышленной безопасности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 422",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2441",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Любимов Ярослав Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/12/small/p127485.jpg?token_static=7b0150e50ca96057774ed4a15dbc34b7"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7613-4-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Охрана труда в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 326",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2441",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сидельникова Екатерина Олеговна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/02/05/small/p140366.jpg?token_static=3774fc20e0e1215ae3bfbc4e1f10d721"
+          }
+        },
+        {
+          "id": "7613-4-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Охрана труда в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 326",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2441",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сидельникова Екатерина Олеговна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/02/05/small/p140366.jpg?token_static=3774fc20e0e1215ae3bfbc4e1f10d721"
+          }
+        },
+        {
+          "id": "7613-4-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Причины возникновения ЧС на объектах судостроения и морских судах",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 326",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2441",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+          }
+        },
+        {
+          "id": "7613-4-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Причины возникновения ЧС на объектах судостроения и морских судах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 326",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2441",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7613-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2441",
+          "weekParity": "both"
+        },
+        {
+          "id": "7613-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2441",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7613-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2441",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Алешина Елена Владимировна",
+            "id": "123129",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123129/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123129.jpg?token_static=c57301c6fc89bb528160cb158c513074"
+          }
+        },
+        {
+          "id": "7613-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2441",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Алешина Елена Владимировна",
+            "id": "123129",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123129/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123129.jpg?token_static=c57301c6fc89bb528160cb158c513074"
+          }
+        },
+        {
+          "id": "7613-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Промышленная безопасность технологических процессов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 309а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2441",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Любимов Ярослав Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/12/small/p127485.jpg?token_static=7b0150e50ca96057774ed4a15dbc34b7"
+          }
+        },
+        {
+          "id": "7613-6-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Промышленная безопасность технологических процессов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 309а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2441",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Любимов Ярослав Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/12/small/p127485.jpg?token_static=7b0150e50ca96057774ed4a15dbc34b7"
+          }
+        }
+      ]
+    }
+  ]
+}

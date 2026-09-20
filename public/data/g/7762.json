@@ -1,0 +1,45 @@
+{
+  "groupId": "7762",
+  "groupName": "20295",
+  "updatedAt": "2026-09-20T13:47:05.238Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7762-1-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы гибридного инжиниринга",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 416",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20295",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "7762-1-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Методы гибридного инжиниринга",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 416",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20295",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        }
+      ]
+    }
+  ]
+}

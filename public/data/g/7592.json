@@ -1,0 +1,501 @@
+{
+  "groupId": "7592",
+  "groupName": "2269",
+  "updatedAt": "2026-09-20T13:46:59.269Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7592-1-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Комбинированные циклы в теплоэнергетике",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Толмачев Валерий Вячеславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/29/small/p101196.jpg?token_static=949a90b8ef0e17cb3842058b6e8ed802"
+          }
+        },
+        {
+          "id": "7592-1-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Комбинированные циклы в теплоэнергетике",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Толмачев Валерий Вячеславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/29/small/p101196.jpg?token_static=949a90b8ef0e17cb3842058b6e8ed802"
+          }
+        },
+        {
+          "id": "7592-1-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Современные численные методы в задачах теплового состояния и прочности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кривоносова Виктория Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/03/small/140535.jpg?token_static=8595755624a818b0023b68d6ab1fdca9"
+          }
+        },
+        {
+          "id": "7592-1-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Современные численные методы в задачах теплового состояния и прочности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кривоносова Виктория Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/03/small/140535.jpg?token_static=8595755624a818b0023b68d6ab1fdca9"
+          }
+        },
+        {
+          "id": "7592-1-20:40-5",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 6,
+          "subject": "Современные численные методы в задачах теплового состояния и прочности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кривоносова Виктория Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/03/small/140535.jpg?token_static=8595755624a818b0023b68d6ab1fdca9"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7592-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "both"
+        },
+        {
+          "id": "7592-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "both"
+        },
+        {
+          "id": "7592-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "both"
+        },
+        {
+          "id": "7592-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7592-4-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Моделирование процессов создания и эксплуатации морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Алексеев Анатолий Владимирович",
+            "id": "100015",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100015/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100015.jpg?token_static=45edf14c28c6554af254e58654d70193"
+          }
+        },
+        {
+          "id": "7592-4-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Современные методы экспериментальных исследований",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Смирнов Александр Анатольевич",
+            "id": "103256",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/103256/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p103256.jpg?token_static=81c55ffc382380da0f2a6a1c31184028"
+          }
+        },
+        {
+          "id": "7592-4-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Моделирование процессов создания и эксплуатации морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Алексеев Анатолий Владимирович",
+            "id": "100015",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100015/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100015.jpg?token_static=45edf14c28c6554af254e58654d70193"
+          }
+        },
+        {
+          "id": "7592-4-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Современные методы экспериментальных исследований",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Смирнов Александр Анатольевич",
+            "id": "103256",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/103256/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p103256.jpg?token_static=81c55ffc382380da0f2a6a1c31184028"
+          }
+        },
+        {
+          "id": "7592-4-19:00-5",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Лабораторный практикум по исследованию лопаточных машин",
+          "type": "lab",
+          "rawType": "Практическое занятие",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Безухов Андрей Павлович",
+            "id": "100085",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100085/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p100085.jpg?token_static=5913fe8def86339b0d57222cd9de9dae"
+          }
+        },
+        {
+          "id": "7592-4-20:40-6",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 7,
+          "subject": "Лабораторный практикум по исследованию лопаточных машин",
+          "type": "lab",
+          "rawType": "Практическое занятие",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Безухов Андрей Павлович",
+            "id": "100085",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100085/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p100085.jpg?token_static=5913fe8def86339b0d57222cd9de9dae"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7592-5-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2269",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Загребельный Кирилл Александрович",
+            "id": "102751",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
+          }
+        },
+        {
+          "id": "7592-5-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7592-5-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2269",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Загребельный Кирилл Александрович",
+            "id": "102751",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
+          }
+        },
+        {
+          "id": "7592-5-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7592-5-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2269",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Загребельный Кирилл Александрович",
+            "id": "102751",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
+          }
+        },
+        {
+          "id": "7592-5-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2269",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Загребельный Кирилл Александрович",
+            "id": "102751",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
+          }
+        },
+        {
+          "id": "7592-5-19:00-7",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2269",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Загребельный Кирилл Александрович",
+            "id": "102751",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
+          }
+        },
+        {
+          "id": "7592-5-19:00-8",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7592-5-20:40-9",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 10,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7592-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Современные методы экспериментальных исследований",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Смирнов Александр Анатольевич",
+            "id": "103256",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/103256/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p103256.jpg?token_static=81c55ffc382380da0f2a6a1c31184028"
+          }
+        },
+        {
+          "id": "7592-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информационные технологии в жизненном цикле турбинных двигателей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 301а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2269",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лебедев Дмитрий Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100659.jpg?token_static=e4504ac314819d7ec38b146e029a8a4e"
+          }
+        },
+        {
+          "id": "7592-6-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информационные технологии в жизненном цикле турбинных двигателей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 301а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2269",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лебедев Дмитрий Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100659.jpg?token_static=e4504ac314819d7ec38b146e029a8a4e"
+          }
+        },
+        {
+          "id": "7592-6-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информационные технологии в жизненном цикле турбинных двигателей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 301а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2269",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Лебедев Дмитрий Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100659.jpg?token_static=e4504ac314819d7ec38b146e029a8a4e"
+          }
+        }
+      ]
+    }
+  ]
+}

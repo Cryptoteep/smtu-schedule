@@ -1,0 +1,325 @@
+{
+  "groupId": "7477",
+  "groupName": "4211",
+  "updatedAt": "2026-09-20T13:47:07.100Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7477-1-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Бухгалтерский учет",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4211",
+          "weekParity": "both",
+          "dateSpecific": "07.09 по 26.10",
+          "teacher": {
+            "name": "Лазарева Наталья Алексеевна",
+            "id": "123118",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123118/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/29/small/p123118.jpg?token_static=f2f52a3d096552c76273044a533edcbc"
+          }
+        },
+        {
+          "id": "7477-1-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Финансы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4211",
+          "weekParity": "both",
+          "dateSpecific": "02.11 по 21.12",
+          "teacher": {
+            "name": "Калугина Яна Александровна",
+            "id": "123274",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123274/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/01/24/small/p123274.jpg?token_static=98e716930392a1a17de76ac50cd6dc1d"
+          }
+        },
+        {
+          "id": "7477-1-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Финансы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4211",
+          "weekParity": "both",
+          "dateSpecific": "02.11 по 21.12",
+          "teacher": {
+            "name": "Калугина Яна Александровна",
+            "id": "123274",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123274/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/01/24/small/p123274.jpg?token_static=98e716930392a1a17de76ac50cd6dc1d"
+          }
+        },
+        {
+          "id": "7477-1-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Бухгалтерский учет",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4211",
+          "weekParity": "both",
+          "dateSpecific": "07.09 по 26.10",
+          "teacher": {
+            "name": "Лазарева Наталья Алексеевна",
+            "id": "123118",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123118/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/29/small/p123118.jpg?token_static=f2f52a3d096552c76273044a533edcbc"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7477-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 407",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4211",
+          "weekParity": "both",
+          "dateSpecific": "08.09 по 28.11",
+          "teacher": {
+            "name": "Седова Елена Германовна",
+            "id": "101047",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101047/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101047.jpg?token_static=99a98d22dfdb03c33fb502d171e041d5"
+          }
+        },
+        {
+          "id": "7477-2-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 407",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4211",
+          "weekParity": "both",
+          "dateSpecific": "08.09 по 28.11",
+          "teacher": {
+            "name": "Седова Елена Германовна",
+            "id": "101047",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101047/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101047.jpg?token_static=99a98d22dfdb03c33fb502d171e041d5"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7477-3-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Деловой иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4211",
+          "weekParity": "both",
+          "dateSpecific": "28.10 по 16.12",
+          "teacher": {
+            "name": "Кулаков Дмитрий Юрьевич",
+            "id": "103609",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/103609/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/16/small/p103609.jpg?token_static=c5d8f6f06a4844906b4ab50208eb3bd7"
+          }
+        },
+        {
+          "id": "7477-3-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Менеджмент",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4211",
+          "weekParity": "both",
+          "dateSpecific": "02.09 по 21.10",
+          "teacher": {
+            "name": "Васильева Светлана Альбертовна",
+            "id": "122788",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122788/"
+          }
+        },
+        {
+          "id": "7477-3-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Деловой иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4211",
+          "weekParity": "both",
+          "dateSpecific": "28.10 по 16.12",
+          "teacher": {
+            "name": "Кулаков Дмитрий Юрьевич",
+            "id": "103609",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/103609/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/16/small/p103609.jpg?token_static=c5d8f6f06a4844906b4ab50208eb3bd7"
+          }
+        },
+        {
+          "id": "7477-3-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Менеджмент",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4211",
+          "weekParity": "both",
+          "dateSpecific": "02.09 по 21.10",
+          "teacher": {
+            "name": "Васильева Светлана Альбертовна",
+            "id": "122788",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122788/"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7477-4-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Макроэкономика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б ЛУИТ",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "4211",
+          "weekParity": "both",
+          "dateSpecific": "29.10 по 17.12",
+          "teacher": {
+            "name": "Зефиров Владимир Игоревич",
+            "id": "106021",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106021/"
+          }
+        },
+        {
+          "id": "7477-4-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы бизнес-планирования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "4211",
+          "weekParity": "both",
+          "dateSpecific": "03.09 по 22.10",
+          "teacher": {
+            "name": "Мамаджарова Татьяна Александровна",
+            "id": "107057",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107057/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/04/small/p107057.jpg?token_static=c4ed18c5ad4e5db127a9ed29e207b919"
+          }
+        },
+        {
+          "id": "7477-4-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Макроэкономика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б ЛУИТ",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "4211",
+          "weekParity": "both",
+          "dateSpecific": "29.10 по 17.12",
+          "teacher": {
+            "name": "Зефиров Владимир Игоревич",
+            "id": "106021",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106021/"
+          }
+        },
+        {
+          "id": "7477-4-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы бизнес-планирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "4211",
+          "weekParity": "both",
+          "dateSpecific": "03.09 по 22.10",
+          "teacher": {
+            "name": "Мамаджарова Татьяна Александровна",
+            "id": "107057",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107057/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/04/small/p107057.jpg?token_static=c4ed18c5ad4e5db127a9ed29e207b919"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7477-5-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Правоведение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4211",
+          "weekParity": "both",
+          "dateSpecific": "04.09 по 23.10"
+        },
+        {
+          "id": "7477-5-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Правоведение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4211",
+          "weekParity": "both",
+          "dateSpecific": "04.09 по 23.10"
+        }
+      ]
+    }
+  ]
+}

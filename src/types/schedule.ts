@@ -4,7 +4,9 @@ export type LessonType = 'lecture' | 'practice' | 'lab' | 'military' | 'exam' | 
 
 export interface TeacherInfo {
   name: string;
+  id?: string;
   photoUrl?: string;
+  profileUrl?: string;
 }
 
 export interface Lesson {
@@ -19,6 +21,9 @@ export interface Lesson {
   groupName: string;
   weekParity: WeekParity;
   dateSpecific?: string;
+  dateRange?: string;
+  exactDates?: string[];
+  note?: string;
   teacher?: TeacherInfo;
 }
 

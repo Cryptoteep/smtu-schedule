@@ -1,0 +1,541 @@
+{
+  "groupId": "7582",
+  "groupName": "2210",
+  "updatedAt": "2026-09-20T13:46:58.877Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7582-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Термодинамика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2210",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Алексин Евгений Николаевич",
+            "id": "106151",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106151/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/25/small/p106151.jpg?token_static=6078c7ba5ee7618cae9255d45143327a"
+          }
+        },
+        {
+          "id": "7582-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Термодинамика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2210",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Алексин Евгений Николаевич",
+            "id": "106151",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106151/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/25/small/p106151.jpg?token_static=6078c7ba5ee7618cae9255d45143327a"
+          }
+        },
+        {
+          "id": "7582-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Термодинамика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Алексин Евгений Николаевич",
+            "id": "106151",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106151/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/25/small/p106151.jpg?token_static=6078c7ba5ee7618cae9255d45143327a"
+          }
+        },
+        {
+          "id": "7582-1-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Термодинамика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Алексин Евгений Николаевич",
+            "id": "106151",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106151/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/25/small/p106151.jpg?token_static=6078c7ba5ee7618cae9255d45143327a"
+          }
+        },
+        {
+          "id": "7582-1-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Экология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Алексеева Татьяна Николаевна",
+            "id": "100021",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100021/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/11/small/p100021.jpg?token_static=9017b4f3bd8aac37c737479a47be7768"
+          }
+        },
+        {
+          "id": "7582-1-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Экология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Алексеева Татьяна Николаевна",
+            "id": "100021",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100021/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/11/small/p100021.jpg?token_static=9017b4f3bd8aac37c737479a47be7768"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7582-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2210",
+          "weekParity": "both"
+        },
+        {
+          "id": "7582-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2210",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7582-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Детали машин и основы конструирования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 514",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сенчурин Леонид Порфирьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/12/14/small/p101059.jpg?token_static=aba7b4065debe2b015d568695387d6cf"
+          }
+        },
+        {
+          "id": "7582-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 107",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сегаль Ирина Фридриховна",
+            "id": "101045",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101045/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101045.jpg?token_static=6022d087974e1b759c0d1084f6153a41"
+          }
+        },
+        {
+          "id": "7582-3-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Детали машин и основы конструирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 311",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сенчурин Леонид Порфирьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/12/14/small/p101059.jpg?token_static=aba7b4065debe2b015d568695387d6cf"
+          }
+        },
+        {
+          "id": "7582-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сегаль Ирина Фридриховна",
+            "id": "101045",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101045/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101045.jpg?token_static=6022d087974e1b759c0d1084f6153a41"
+          }
+        },
+        {
+          "id": "7582-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7582-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ляшко Илья Дмитриевич"
+          }
+        },
+        {
+          "id": "7582-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сегаль Ирина Фридриховна",
+            "id": "101045",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101045/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101045.jpg?token_static=6022d087974e1b759c0d1084f6153a41"
+          }
+        },
+        {
+          "id": "7582-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Философия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 504",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ляшко Илья Дмитриевич"
+          }
+        },
+        {
+          "id": "7582-4-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материаловедение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 504",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Филиппов Сергей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/27/small/p123170.jpg?token_static=f4a42d2549f24ad1f85d125beac38227"
+          }
+        },
+        {
+          "id": "7582-4-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Материаловедение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 504",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Филиппов Сергей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/27/small/p123170.jpg?token_static=f4a42d2549f24ad1f85d125beac38227"
+          }
+        },
+        {
+          "id": "7582-4-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7582-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Прикладная механика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 514",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Иванова Марина Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/12/06/small/p100452.jpg?token_static=b0a7c13cd5642cab318dfcd633ba3225"
+          }
+        },
+        {
+          "id": "7582-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Прикладная механика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 311",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванова Марина Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/12/06/small/p100452.jpg?token_static=b0a7c13cd5642cab318dfcd633ba3225"
+          }
+        },
+        {
+          "id": "7582-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Прикладная механика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 311",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванова Марина Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/12/06/small/p100452.jpg?token_static=b0a7c13cd5642cab318dfcd633ba3225"
+          }
+        },
+        {
+          "id": "7582-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Молчановский Василий Максимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123187.jpg?token_static=349f98fcb04531802fdc5487080e3847"
+          }
+        },
+        {
+          "id": "7582-5-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 301",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Молчановский Василий Максимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123187.jpg?token_static=349f98fcb04531802fdc5487080e3847"
+          }
+        },
+        {
+          "id": "7582-5-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 504",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Молчановский Василий Максимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123187.jpg?token_static=349f98fcb04531802fdc5487080e3847"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7582-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Детали машин и основы конструирования",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 311",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Черенкова Светлана Валентиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101308.jpg?token_static=58d96d50199b18d7731fc8afb996c5a3"
+          }
+        },
+        {
+          "id": "7582-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Филиппов Сергей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/27/small/p123170.jpg?token_static=f4a42d2549f24ad1f85d125beac38227"
+          }
+        },
+        {
+          "id": "7582-6-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бабынькина Анна Николаевна",
+            "id": "100061",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100061/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100061.jpg?token_static=ee68ca04b80e7fb2894d1e1918a55f63"
+          }
+        },
+        {
+          "id": "7582-6-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Детали машин и основы конструирования",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 311",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Черенкова Светлана Валентиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101308.jpg?token_static=58d96d50199b18d7731fc8afb996c5a3"
+          }
+        },
+        {
+          "id": "7582-6-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Компьютерное конструирование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гордеев Николай Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/30/small/p100284.jpg?token_static=7a8acf6c33fda39652d9701465d99e93"
+          }
+        },
+        {
+          "id": "7582-6-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Компьютерное конструирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гордеев Николай Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/30/small/p100284.jpg?token_static=7a8acf6c33fda39652d9701465d99e93"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "groupId": "7855",
+  "groupName": "5370",
+  "updatedAt": "2026-09-20T13:47:00.751Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7855-1-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Тепломассообмен",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 417-2",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Глазырина Диана Олеговна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
+          }
+        },
+        {
+          "id": "7855-1-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Динамика двигателей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Минасян Минас Арменакович",
+            "id": "100754",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100754/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100754.jpg?token_static=21b37c2485db0b01e0e177d729420dc8"
+          }
+        },
+        {
+          "id": "7855-1-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Тепломассообмен",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-2",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Глазырина Диана Олеговна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
+          }
+        },
+        {
+          "id": "7855-1-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Динамика двигателей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Минасян Минас Арменакович",
+            "id": "100754",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100754/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100754.jpg?token_static=21b37c2485db0b01e0e177d729420dc8"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7855-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Теория рабочих процессов двигателей внутреннего сгорания",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Юрин Василий Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101387.jpg?token_static=63b961ea011953e599e23b153e77a44f"
+          }
+        },
+        {
+          "id": "7855-2-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Теория рабочих процессов двигателей внутреннего сгорания",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Юрин Василий Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101387.jpg?token_static=63b961ea011953e599e23b153e77a44f"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7855-3-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Детали машин и основы конструирования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 312",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пазилова Ульяна Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100866.jpg?token_static=a956881f8b0e4ef38b028aab8dc13f76"
+          }
+        },
+        {
+          "id": "7855-3-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Детали машин и основы конструирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 312",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пазилова Ульяна Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100866.jpg?token_static=a956881f8b0e4ef38b028aab8dc13f76"
+          }
+        },
+        {
+          "id": "7855-3-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "История техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 412",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гурьянов Михаил Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/06/05/small/p114729.jpg?token_static=40e6058f1bcbbc4e6ecc0e45356eac1e"
+          }
+        },
+        {
+          "id": "7855-3-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Детали машин и основы конструирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 312",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пазилова Ульяна Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100866.jpg?token_static=a956881f8b0e4ef38b028aab8dc13f76"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7855-4-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Прикладная механика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 311",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Черенкова Светлана Валентиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101308.jpg?token_static=58d96d50199b18d7731fc8afb996c5a3"
+          }
+        },
+        {
+          "id": "7855-4-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Прикладная механика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 311",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Черенкова Светлана Валентиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101308.jpg?token_static=58d96d50199b18d7731fc8afb996c5a3"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7855-5-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Механика жидкости и газа (специальные вопросы)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "7855-5-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        },
+        {
+          "id": "7855-5-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Механика жидкости и газа (специальные вопросы)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "7855-5-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        }
+      ]
+    }
+  ]
+}

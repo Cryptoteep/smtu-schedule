@@ -1,0 +1,263 @@
+{
+  "groupId": "7691",
+  "groupName": "4450",
+  "updatedAt": "2026-09-20T13:47:08.140Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7691-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Предиктивная аналитика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Гребная база Учебный класс",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "4450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ефимов Анатолий Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/02/15/small/p140371.jpg?token_static=ff693eb6064d8cc48a90ea3accbc0105"
+          }
+        },
+        {
+          "id": "7691-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Предиктивная аналитика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Гребная база Учебный класс",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "4450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ефимов Анатолий Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/02/15/small/p140371.jpg?token_static=ff693eb6064d8cc48a90ea3accbc0105"
+          }
+        },
+        {
+          "id": "7691-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Предиктивная аналитика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Гребная база Учебный класс",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "4450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ефимов Анатолий Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/02/15/small/p140371.jpg?token_static=ff693eb6064d8cc48a90ea3accbc0105"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7691-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Управление ценностью ИТ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "4450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Будрина Елена Викторовна",
+            "id": "123214",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123214/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/23/small/p123214.jpg?token_static=272f349531f6f83d1d7f7faf34e37f28"
+          }
+        },
+        {
+          "id": "7691-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление ценностью ИТ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Будрина Елена Викторовна",
+            "id": "123214",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123214/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/23/small/p123214.jpg?token_static=272f349531f6f83d1d7f7faf34e37f28"
+          }
+        },
+        {
+          "id": "7691-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы моделирования и UML",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 505(2)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "4450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Будрина Елена Викторовна",
+            "id": "123214",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123214/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/23/small/p123214.jpg?token_static=272f349531f6f83d1d7f7faf34e37f28"
+          }
+        },
+        {
+          "id": "7691-2-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы моделирования и UML",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гришечко Артем Александрович",
+            "id": "139770",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/139770/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/16/small/p139770.jpg?token_static=afa4182f114c672e578098d06b564eee"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7691-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Управление ИТ-инфраструктурой предприятия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Лехмус Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/142879.jpg?token_static=ae92aeb66ddab12b43eefd6aee85b2d6"
+          }
+        },
+        {
+          "id": "7691-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Управление ИТ-инфраструктурой предприятия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лехмус Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/142879.jpg?token_static=ae92aeb66ddab12b43eefd6aee85b2d6"
+          }
+        },
+        {
+          "id": "7691-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы экспертизы проектов в ИТ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лехмус Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/142879.jpg?token_static=ae92aeb66ddab12b43eefd6aee85b2d6"
+          }
+        },
+        {
+          "id": "7691-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы экспертизы проектов в ИТ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 505(2)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "4450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Лехмус Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/142879.jpg?token_static=ae92aeb66ddab12b43eefd6aee85b2d6"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7691-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Цифровые бизнес-технологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "М 31",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ефимов Анатолий Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/02/15/small/p140371.jpg?token_static=ff693eb6064d8cc48a90ea3accbc0105"
+          }
+        },
+        {
+          "id": "7691-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Цифровые бизнес-технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 31",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ефимов Анатолий Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/02/15/small/p140371.jpg?token_static=ff693eb6064d8cc48a90ea3accbc0105"
+          }
+        },
+        {
+          "id": "7691-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Цифровые бизнес-технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 31",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ефимов Анатолий Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/02/15/small/p140371.jpg?token_static=ff693eb6064d8cc48a90ea3accbc0105"
+          }
+        }
+      ]
+    }
+  ]
+}

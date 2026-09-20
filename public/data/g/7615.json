@@ -1,0 +1,482 @@
+{
+  "groupId": "7615",
+  "groupName": "2470",
+  "updatedAt": "2026-09-20T13:47:00.201Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7615-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Экономика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7615-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Экономика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7615-1-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Обеспечение надежности изделий машиностроения технологическими методами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Карпенко Виктория Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/05/small/p106531.jpg?token_static=0c946b260b0b73c6085306b8ac602203"
+          }
+        },
+        {
+          "id": "7615-1-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Обеспечение надежности изделий машиностроения технологическими методами",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Карпенко Виктория Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/05/small/p106531.jpg?token_static=0c946b260b0b73c6085306b8ac602203"
+          }
+        },
+        {
+          "id": "7615-1-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технологическая подготовка производства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Карпенко Виктория Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/05/small/p106531.jpg?token_static=0c946b260b0b73c6085306b8ac602203"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7615-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бокатов Антон Юрьевич",
+            "id": "100134",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
+          }
+        },
+        {
+          "id": "7615-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 534",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бокатов Антон Юрьевич",
+            "id": "100134",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
+          }
+        },
+        {
+          "id": "7615-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 534",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бокатов Антон Юрьевич",
+            "id": "100134",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
+          }
+        },
+        {
+          "id": "7615-2-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Марченко Сергей Сергеевич",
+            "id": "100733",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100733/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100733.jpg?token_static=ad8ce444af017c0dcbefaf3f17969b58"
+          }
+        },
+        {
+          "id": "7615-2-20:40-5",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 6,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Марченко Сергей Сергеевич",
+            "id": "100733",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100733/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100733.jpg?token_static=ad8ce444af017c0dcbefaf3f17969b58"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7615-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Техническое и технологическое оснащение машиностроительных производств",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Токаренко София Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128936.jpg?token_static=7dce80773d7ed41ade2f5219bda626bb"
+          }
+        },
+        {
+          "id": "7615-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Техническое и технологическое оснащение машиностроительных производств",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Токаренко София Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128936.jpg?token_static=7dce80773d7ed41ade2f5219bda626bb"
+          }
+        },
+        {
+          "id": "7615-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Монтаж, ремонт и техническое обслуживание судовых энергетических установок",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 537б",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Вегнер Антон Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/18/small/p106984.jpg?token_static=78647b25eff2e7938fb9f6a4cc6219fe"
+          }
+        },
+        {
+          "id": "7615-3-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Монтаж, ремонт и техническое обслуживание судовых энергетических установок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 537б",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Вегнер Антон Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/18/small/p106984.jpg?token_static=78647b25eff2e7938fb9f6a4cc6219fe"
+          }
+        },
+        {
+          "id": "7615-3-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Монтаж, ремонт и техническое обслуживание судовых энергетических установок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 537б",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Вегнер Антон Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/18/small/p106984.jpg?token_static=78647b25eff2e7938fb9f6a4cc6219fe"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7615-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Введение в профессиональную деятельность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Голубева Дарья Евгеньевна",
+            "id": "103341",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/103341/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p103341.jpg?token_static=c3829a92b3851b1d83afa6bd677bd359"
+          }
+        },
+        {
+          "id": "7615-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Введение в профессиональную деятельность",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Голубева Дарья Евгеньевна",
+            "id": "103341",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/103341/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p103341.jpg?token_static=c3829a92b3851b1d83afa6bd677bd359"
+          }
+        },
+        {
+          "id": "7615-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Обеспечение технологичности и ремонтопригодности судовых машин и механизмов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Вегнер Антон Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/18/small/p106984.jpg?token_static=78647b25eff2e7938fb9f6a4cc6219fe"
+          }
+        },
+        {
+          "id": "7615-4-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Обеспечение технологичности и ремонтопригодности судовых машин и механизмов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Вегнер Антон Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/18/small/p106984.jpg?token_static=78647b25eff2e7938fb9f6a4cc6219fe"
+          }
+        },
+        {
+          "id": "7615-4-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технологические методы повышения работоспособности деталей и узлов машин",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Вегнер Антон Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/18/small/p106984.jpg?token_static=78647b25eff2e7938fb9f6a4cc6219fe"
+          }
+        },
+        {
+          "id": "7615-4-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технологическая подготовка производства",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Карпенко Виктория Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/05/small/p106531.jpg?token_static=0c946b260b0b73c6085306b8ac602203"
+          }
+        },
+        {
+          "id": "7615-4-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технологическая подготовка производства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Карпенко Виктория Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/05/small/p106531.jpg?token_static=0c946b260b0b73c6085306b8ac602203"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7615-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "both"
+        },
+        {
+          "id": "7615-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7615-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Технологические методы повышения работоспособности деталей и узлов машин",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кунгурцев Данил Евгеньевич"
+          }
+        },
+        {
+          "id": "7615-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технологические методы повышения работоспособности деталей и узлов машин",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кунгурцев Данил Евгеньевич"
+          }
+        },
+        {
+          "id": "7615-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технологические методы повышения работоспособности деталей и узлов машин",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кунгурцев Данил Евгеньевич"
+          }
+        }
+      ]
+    }
+  ]
+}

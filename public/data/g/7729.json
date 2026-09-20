@@ -1,0 +1,375 @@
+{
+  "groupId": "7729",
+  "groupName": "8330",
+  "updatedAt": "2026-09-20T13:47:11.280Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7729-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Выполнение работ по одной или нескольким профессиям рабочих, должностям служащих",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319а(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Афанасьев Егор Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/17/small/p128701.jpg?token_static=113f86c18c0100135d471df8b344607b"
+          }
+        },
+        {
+          "id": "7729-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Выполнение работ по одной или нескольким профессиям рабочих, должностям служащих",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 423",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Афанасьев Егор Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/17/small/p128701.jpg?token_static=113f86c18c0100135d471df8b344607b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7729-2-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы робототехники",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 424",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Скопцов Дмитрий Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/30/small/p132628.jpg?token_static=bb0f61d1bd70d7480f56f25386860ec4"
+          }
+        },
+        {
+          "id": "7729-2-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Метрология, стандартизация и сертификация",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Поплавская Елена Константиновна"
+          }
+        },
+        {
+          "id": "7729-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Выполнение работ по одной или нескольким профессиям рабочих, должностям служащих",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Афанасьев Егор Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/17/small/p128701.jpg?token_static=113f86c18c0100135d471df8b344607b"
+          }
+        },
+        {
+          "id": "7729-2-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Выполнение работ по одной или нескольким профессиям рабочих, должностям служащих",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Афанасьев Егор Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/17/small/p128701.jpg?token_static=113f86c18c0100135d471df8b344607b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7729-3-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Установка и регулировка элементов мехатронных систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Изотова Надежда Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/02/20/small/p102942.jpg?token_static=18c82c6b03857293e22afc24c6205acd"
+          }
+        },
+        {
+          "id": "7729-3-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Иностранный язык в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 423",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Самодуров Алексей Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123538.jpg?token_static=92f249a587127aa5c480290651841ba9"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7729-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы автоматического управления",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Птицын Артём",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/05/26/small/p130699.jpg?token_static=5086a47e1b85b4945976f520bb318d91"
+          }
+        },
+        {
+          "id": "7729-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы автоматического управления",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 425",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Птицын Артём",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/05/26/small/p130699.jpg?token_static=5086a47e1b85b4945976f520bb318d91"
+          }
+        },
+        {
+          "id": "7729-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Метрология, стандартизация и сертификация",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 169",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Поплавская Елена Константиновна"
+          }
+        },
+        {
+          "id": "7729-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Метрология, стандартизация и сертификация",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 169",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Поплавская Елена Константиновна"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7729-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 169",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Боговский Сергей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p129754.jpg?token_static=30d3e29f09510fd8b7f3aefda649438d"
+          }
+        },
+        {
+          "id": "7729-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 169",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Боговский Сергей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p129754.jpg?token_static=30d3e29f09510fd8b7f3aefda649438d"
+          }
+        },
+        {
+          "id": "7729-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Метрология, стандартизация и сертификация",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Поплавская Елена Константиновна"
+          }
+        },
+        {
+          "id": "7729-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319а(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Боговский Сергей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p129754.jpg?token_static=30d3e29f09510fd8b7f3aefda649438d"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7729-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы робототехники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 424",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Скопцов Дмитрий Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/30/small/p132628.jpg?token_static=bb0f61d1bd70d7480f56f25386860ec4"
+          }
+        },
+        {
+          "id": "7729-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы робототехники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Скопцов Дмитрий Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/30/small/p132628.jpg?token_static=bb0f61d1bd70d7480f56f25386860ec4"
+          }
+        },
+        {
+          "id": "7729-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Установка и регулировка элементов мехатронных систем",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 319а(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Изотова Надежда Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/02/20/small/p102942.jpg?token_static=18c82c6b03857293e22afc24c6205acd"
+          }
+        },
+        {
+          "id": "7729-6-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Установка и регулировка элементов мехатронных систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319а(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Изотова Надежда Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/02/20/small/p102942.jpg?token_static=18c82c6b03857293e22afc24c6205acd"
+          }
+        },
+        {
+          "id": "7729-6-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физическая культура",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8330",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Маркова Анна Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/23/small/p103366.jpg?token_static=61c35dff587f391455311381da94fc99"
+          }
+        }
+      ]
+    }
+  ]
+}

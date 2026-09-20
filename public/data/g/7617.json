@@ -1,0 +1,597 @@
+{
+  "groupId": "7617",
+  "groupName": "2491",
+  "updatedAt": "2026-09-20T13:47:00.417Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7617-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Электропривод",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 318-А",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Воршевский Александр Алексеевич",
+            "id": "100239",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100239/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100239.jpg?token_static=5881e52d972f8086d2ccf4994a8ccaef"
+          }
+        },
+        {
+          "id": "7617-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Экологическая безопасность морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 522",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Патина Ирина Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100876.jpg?token_static=4aa2f8b617431ed9b0bafc9e1aaada26"
+          }
+        },
+        {
+          "id": "7617-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Экологическая безопасность морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Патина Ирина Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100876.jpg?token_static=4aa2f8b617431ed9b0bafc9e1aaada26"
+          }
+        },
+        {
+          "id": "7617-1-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Автоматизация судовых энергетических установок",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Равин Александр Александрович",
+            "id": "100963",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100963/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100963.jpg?token_static=d5943e4bc45704ebe6d3e67f8418c999"
+          }
+        },
+        {
+          "id": "7617-1-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Защита электрических сетей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 318-А",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Саввин Вячеслав Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101018.jpg?token_static=20bdc243afbac3268ee6687f9cc8f358"
+          }
+        },
+        {
+          "id": "7617-1-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Защита электрических сетей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 318-А",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Саввин Вячеслав Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101018.jpg?token_static=20bdc243afbac3268ee6687f9cc8f358"
+          }
+        },
+        {
+          "id": "7617-1-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Защита электрических сетей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Саввин Вячеслав Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101018.jpg?token_static=20bdc243afbac3268ee6687f9cc8f358"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7617-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2491",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бокатов Антон Юрьевич",
+            "id": "100134",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
+          }
+        },
+        {
+          "id": "7617-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Экономика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 107",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2491",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Алешина Елена Владимировна",
+            "id": "123129",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123129/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123129.jpg?token_static=c57301c6fc89bb528160cb158c513074"
+          }
+        },
+        {
+          "id": "7617-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Экономика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2491",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Еремеева Дарья Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p127344.jpg?token_static=fb97232ff487c8a37f6a93eb8fededeb"
+          }
+        },
+        {
+          "id": "7617-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Экономика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 107",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2491",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Алешина Елена Владимировна",
+            "id": "123129",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123129/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123129.jpg?token_static=c57301c6fc89bb528160cb158c513074"
+          }
+        },
+        {
+          "id": "7617-2-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Экономика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2491",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Еремеева Дарья Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p127344.jpg?token_static=fb97232ff487c8a37f6a93eb8fededeb"
+          }
+        },
+        {
+          "id": "7617-2-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2491",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Марченко Сергей Сергеевич",
+            "id": "100733",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100733/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100733.jpg?token_static=ad8ce444af017c0dcbefaf3f17969b58"
+          }
+        },
+        {
+          "id": "7617-2-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2491",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Марченко Сергей Сергеевич",
+            "id": "100733",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100733/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100733.jpg?token_static=ad8ce444af017c0dcbefaf3f17969b58"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7617-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Автоматизация судовых энергетических установок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Буковский Илья Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101918.jpg?token_static=cff0f02ec383b0030b735f40d18a8d00"
+          }
+        },
+        {
+          "id": "7617-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Комплексы автоматизации судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Буковский Илья Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101918.jpg?token_static=cff0f02ec383b0030b735f40d18a8d00"
+          }
+        },
+        {
+          "id": "7617-3-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Электропривод",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сеньков Алексей Петрович",
+            "id": "101060",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101060/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101060.jpg?token_static=a46feda299f1838b4859191cf25bfea8"
+          }
+        },
+        {
+          "id": "7617-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Электропривод",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сеньков Алексей Петрович",
+            "id": "101060",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101060/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101060.jpg?token_static=a46feda299f1838b4859191cf25bfea8"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7617-4-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Комплексы автоматизации судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Буковский Илья Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101918.jpg?token_static=cff0f02ec383b0030b735f40d18a8d00"
+          }
+        },
+        {
+          "id": "7617-4-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Комплексы автоматизации судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 414",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Буковский Илья Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101918.jpg?token_static=cff0f02ec383b0030b735f40d18a8d00"
+          }
+        },
+        {
+          "id": "7617-4-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Управление качеством",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Скударнова Ирина Владимировна",
+            "id": "101089",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101089/"
+          }
+        },
+        {
+          "id": "7617-4-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Управление электроэнергетическими системами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 318-А",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Губанов Юрий Александрович",
+            "id": "106201",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106201/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p106201.jpg?token_static=54b826df9cfb69bd35b67eb10ab3b66a"
+          }
+        },
+        {
+          "id": "7617-4-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Управление электроэнергетическими системами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 318-А",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Губанов Юрий Александрович",
+            "id": "106201",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106201/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p106201.jpg?token_static=54b826df9cfb69bd35b67eb10ab3b66a"
+          }
+        },
+        {
+          "id": "7617-4-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Управление электроэнергетическими системами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 318-А",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Губанов Юрий Александрович",
+            "id": "106201",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106201/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p106201.jpg?token_static=54b826df9cfb69bd35b67eb10ab3b66a"
+          }
+        },
+        {
+          "id": "7617-4-19:00-7",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы надежности и долговечности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Губанов Юрий Александрович",
+            "id": "106201",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106201/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p106201.jpg?token_static=54b826df9cfb69bd35b67eb10ab3b66a"
+          }
+        },
+        {
+          "id": "7617-4-19:00-8",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы надежности и долговечности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Губанов Юрий Александрович",
+            "id": "106201",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106201/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p106201.jpg?token_static=54b826df9cfb69bd35b67eb10ab3b66a"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7617-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "both"
+        },
+        {
+          "id": "7617-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "both"
+        },
+        {
+          "id": "7617-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление качеством",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Скударнова Ирина Владимировна",
+            "id": "101089",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101089/"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7617-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Автоматизация судовых энергетических установок",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Буковский Илья Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101918.jpg?token_static=cff0f02ec383b0030b735f40d18a8d00"
+          }
+        },
+        {
+          "id": "7617-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Автоматизация судовых энергетических установок",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Буковский Илья Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101918.jpg?token_static=cff0f02ec383b0030b735f40d18a8d00"
+          }
+        },
+        {
+          "id": "7617-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 534",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2491",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бокатов Антон Юрьевич",
+            "id": "100134",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
+          }
+        },
+        {
+          "id": "7617-6-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 534",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2491",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бокатов Антон Юрьевич",
+            "id": "100134",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "groupId": "7880",
+  "groupName": "20575",
+  "updatedAt": "2026-09-20T13:47:06.087Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7880-1-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Технология роботизированного производства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 410",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20575",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Вострецов Геннадий Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/02/22/small/p123942.jpg?token_static=7e62feee66fce5aa46aa2c4376304bf6"
+          }
+        },
+        {
+          "id": "7880-1-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Технология роботизированного производства",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20575",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Воропаев Артем Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/29/small/p107556.jpg?token_static=1ab1eda115a89fdfeb2445001cc9d0be"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7880-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы числового программного управления",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20575",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Певзнер Яков Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p106219.jpg?token_static=cacb9c7f62085d0cdeefe08d65aa12fe"
+          }
+        },
+        {
+          "id": "7880-2-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы числового программного управления",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20575",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Певзнер Яков Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p106219.jpg?token_static=cacb9c7f62085d0cdeefe08d65aa12fe"
+          }
+        },
+        {
+          "id": "7880-2-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Основы числового программного управления",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20575",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Певзнер Яков Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p106219.jpg?token_static=cacb9c7f62085d0cdeefe08d65aa12fe"
+          }
+        },
+        {
+          "id": "7880-2-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы числового программного управления",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20575",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Певзнер Яков Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p106219.jpg?token_static=cacb9c7f62085d0cdeefe08d65aa12fe"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,497 @@
+{
+  "groupId": "7666",
+  "groupName": "4202",
+  "updatedAt": "2026-09-20T13:47:07.042Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7666-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Макроэкономика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 519",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Санжина Ольга Петровна",
+            "id": "123539",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123539/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/17/small/p123539.jpg?token_static=a9aa7bea8902e5dbffbdd17fc8203f14"
+          }
+        },
+        {
+          "id": "7666-1-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Методы принятия решений",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 154",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пономарёв Алексей Александрович",
+            "id": "122756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/06/19/small/p122756.jpg?token_static=1cbedd5cfab898a1b2f0c78dd2522591"
+          }
+        },
+        {
+          "id": "7666-1-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Макроэкономика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 519",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Санжина Ольга Петровна",
+            "id": "123539",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123539/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/17/small/p123539.jpg?token_static=a9aa7bea8902e5dbffbdd17fc8203f14"
+          }
+        },
+        {
+          "id": "7666-1-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Методы принятия решений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 154",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пономарёв Алексей Александрович",
+            "id": "122756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/06/19/small/p122756.jpg?token_static=1cbedd5cfab898a1b2f0c78dd2522591"
+          }
+        },
+        {
+          "id": "7666-1-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Деловой иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "up"
+        },
+        {
+          "id": "7666-1-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Правоведение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ладыка Сергей Иванович",
+            "id": "100652",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100652/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100652.jpg?token_static=72ffcb9a21f07a0af5ce8f938f7cfe8f"
+          }
+        },
+        {
+          "id": "7666-1-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Финансы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Фролова Вероника Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p105303.jpg?token_static=f02ddf6ad924430e02d6c4cc204c817e"
+          }
+        },
+        {
+          "id": "7666-1-14:00-8",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Правоведение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 502",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ладыка Сергей Иванович",
+            "id": "100652",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100652/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100652.jpg?token_static=72ffcb9a21f07a0af5ce8f938f7cfe8f"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7666-2-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Бухгалтерский учет",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Горцевская Оксана Григорьевна",
+            "id": "100288",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100288/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100288.jpg?token_static=295837e2752af4d69b49d4816ae67726"
+          }
+        },
+        {
+          "id": "7666-2-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Бухгалтерский учет",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 514",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Горцевская Оксана Григорьевна",
+            "id": "100288",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100288/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100288.jpg?token_static=295837e2752af4d69b49d4816ae67726"
+          }
+        },
+        {
+          "id": "7666-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Деловой иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "down"
+        },
+        {
+          "id": "7666-2-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Макроэкономика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 115",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Санжина Ольга Петровна",
+            "id": "123539",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123539/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/17/small/p123539.jpg?token_static=a9aa7bea8902e5dbffbdd17fc8203f14"
+          }
+        },
+        {
+          "id": "7666-2-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Финансы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Фролова Вероника Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p105303.jpg?token_static=f02ddf6ad924430e02d6c4cc204c817e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7666-3-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Финансы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Фролова Вероника Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p105303.jpg?token_static=f02ddf6ad924430e02d6c4cc204c817e"
+          }
+        },
+        {
+          "id": "7666-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Бухгалтерский учет",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 410",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Горцевская Оксана Григорьевна",
+            "id": "100288",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100288/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100288.jpg?token_static=295837e2752af4d69b49d4816ae67726"
+          }
+        },
+        {
+          "id": "7666-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Страхование и страховые риски",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 544",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Горцевская Оксана Григорьевна",
+            "id": "100288",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100288/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100288.jpg?token_static=295837e2752af4d69b49d4816ae67726"
+          }
+        },
+        {
+          "id": "7666-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Страхование и страховые риски",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 544",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Горцевская Оксана Григорьевна",
+            "id": "100288",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100288/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100288.jpg?token_static=295837e2752af4d69b49d4816ae67726"
+          }
+        },
+        {
+          "id": "7666-3-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 155",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Крупицкая Ольга Савельевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/08/small/p122711.jpg?token_static=4b97a048cd33a9d92d4dddfeb85d4940"
+          }
+        },
+        {
+          "id": "7666-3-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Крупицкая Ольга Савельевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/08/small/p122711.jpg?token_static=4b97a048cd33a9d92d4dddfeb85d4940"
+          }
+        },
+        {
+          "id": "7666-3-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Крупицкая Ольга Савельевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/08/small/p122711.jpg?token_static=4b97a048cd33a9d92d4dddfeb85d4940"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7666-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (матросы/солдаты запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "4202",
+          "weekParity": "both"
+        },
+        {
+          "id": "7666-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (матросы/солдаты запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "4202",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7666-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Менеджмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "4202",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Васильева Светлана Альбертовна",
+            "id": "122788",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122788/"
+          }
+        },
+        {
+          "id": "7666-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Менеджмент",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "4202",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Васильева Светлана Альбертовна",
+            "id": "122788",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122788/"
+          }
+        },
+        {
+          "id": "7666-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Спортзал",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "4202",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7666-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Управление экологической безопасностью",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 532",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бокатов Антон Юрьевич",
+            "id": "100134",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
+          }
+        },
+        {
+          "id": "7666-6-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Управление экологической безопасностью",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 532",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бокатов Антон Юрьевич",
+            "id": "100134",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
+          }
+        },
+        {
+          "id": "7666-6-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "both"
+        }
+      ]
+    }
+  ]
+}

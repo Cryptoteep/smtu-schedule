@@ -1,0 +1,481 @@
+{
+  "groupId": "7609",
+  "groupName": "2410",
+  "updatedAt": "2026-09-20T13:47:00.032Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7609-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Экономика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7609-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Экономика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7609-1-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Автоматическое регулирование энергоустановок",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Толмачев Валерий Вячеславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/29/small/p101196.jpg?token_static=949a90b8ef0e17cb3842058b6e8ed802"
+          }
+        },
+        {
+          "id": "7609-1-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Автоматическое регулирование энергоустановок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Толмачев Валерий Вячеславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/29/small/p101196.jpg?token_static=949a90b8ef0e17cb3842058b6e8ed802"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7609-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Основы проектирования паровых турбин и газотурбинных двигателей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Безухов Андрей Павлович",
+            "id": "100085",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100085/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p100085.jpg?token_static=5913fe8def86339b0d57222cd9de9dae"
+          }
+        },
+        {
+          "id": "7609-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы проектирования паровых турбин и газотурбинных двигателей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Безухов Андрей Павлович",
+            "id": "100085",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100085/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p100085.jpg?token_static=5913fe8def86339b0d57222cd9de9dae"
+          }
+        },
+        {
+          "id": "7609-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Паротурбинные и газотурбинные установки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Толмачев Валерий Вячеславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/29/small/p101196.jpg?token_static=949a90b8ef0e17cb3842058b6e8ed802"
+          }
+        },
+        {
+          "id": "7609-2-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Паротурбинные и газотурбинные установки",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Толмачев Валерий Вячеславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/29/small/p101196.jpg?token_static=949a90b8ef0e17cb3842058b6e8ed802"
+          }
+        },
+        {
+          "id": "7609-2-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление техническими системами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мащенко Владимир Юрьевич",
+            "id": "100746",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100746/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100746.jpg?token_static=7b1b0198b26b91e39f3a2e9dd3ec1b84"
+          }
+        },
+        {
+          "id": "7609-2-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление техническими системами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мащенко Владимир Юрьевич",
+            "id": "100746",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100746/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100746.jpg?token_static=7b1b0198b26b91e39f3a2e9dd3ec1b84"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7609-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Теплообменники энергетических установок",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Безухов Андрей Павлович",
+            "id": "100085",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100085/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p100085.jpg?token_static=5913fe8def86339b0d57222cd9de9dae"
+          }
+        },
+        {
+          "id": "7609-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теплообменники энергетических установок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Безухов Андрей Павлович",
+            "id": "100085",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100085/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p100085.jpg?token_static=5913fe8def86339b0d57222cd9de9dae"
+          }
+        },
+        {
+          "id": "7609-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Учебно-исследовательская работа студентов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Безухов Андрей Павлович",
+            "id": "100085",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100085/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p100085.jpg?token_static=5913fe8def86339b0d57222cd9de9dae"
+          }
+        },
+        {
+          "id": "7609-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Математическое моделирование в турбостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ерохин Сергей Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/08/small/p100375.jpg?token_static=887b502b14076d32644427b2522b4f60"
+          }
+        },
+        {
+          "id": "7609-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Математическое моделирование в турбостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ерохин Сергей Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/08/small/p100375.jpg?token_static=887b502b14076d32644427b2522b4f60"
+          }
+        },
+        {
+          "id": "7609-3-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Математическое моделирование в турбостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ерохин Сергей Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/08/small/p100375.jpg?token_static=887b502b14076d32644427b2522b4f60"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7609-4-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 519",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2410",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Марченко Сергей Сергеевич",
+            "id": "100733",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100733/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100733.jpg?token_static=ad8ce444af017c0dcbefaf3f17969b58"
+          }
+        },
+        {
+          "id": "7609-4-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 514",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2410",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бокатов Антон Юрьевич",
+            "id": "100134",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
+          }
+        },
+        {
+          "id": "7609-4-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 514",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2410",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бокатов Антон Юрьевич",
+            "id": "100134",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
+          }
+        },
+        {
+          "id": "7609-4-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 534",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2410",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бокатов Антон Юрьевич",
+            "id": "100134",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7609-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "both"
+        },
+        {
+          "id": "7609-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7609-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Переменные режимы работы турбомашин и турбоустановок",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Андреев Константин Дмитриевич",
+            "id": "123490",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123490/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/29/small/p123490.jpg?token_static=ee7bc2000d2c2747bcec514341568d0e"
+          }
+        },
+        {
+          "id": "7609-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материалы в турбоустановках",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гордеев Николай Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/30/small/p100284.jpg?token_static=7a8acf6c33fda39652d9701465d99e93"
+          }
+        },
+        {
+          "id": "7609-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Переменные режимы работы турбомашин и турбоустановок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Андреев Константин Дмитриевич",
+            "id": "123490",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123490/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/29/small/p123490.jpg?token_static=ee7bc2000d2c2747bcec514341568d0e"
+          }
+        },
+        {
+          "id": "7609-6-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Материалы в турбоустановках",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гордеев Николай Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/30/small/p100284.jpg?token_static=7a8acf6c33fda39652d9701465d99e93"
+          }
+        }
+      ]
+    }
+  ]
+}

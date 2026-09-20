@@ -1,7 +1,7 @@
 {
   "groupId": "7712",
   "groupName": "7301",
-  "updatedAt": "2026-09-20T13:40:40.342Z",
+  "updatedAt": "2026-09-20T13:47:09.180Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -15,11 +15,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Конгресс-Центр 403",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "up",
           "teacher": {
-            "name": "Солдатов Андрей Александрович"
+            "name": "Солдатов Андрей Александрович",
+            "id": "101131",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101131/"
           }
         },
         {
@@ -30,11 +32,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Конгресс-Центр 403",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "down",
           "teacher": {
             "name": "Шмырева Ольга Валерьевна",
+            "id": "101372",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
           }
         },
@@ -46,11 +50,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Конгресс-Центр 403",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "up",
           "teacher": {
-            "name": "Солдатов Андрей Александрович"
+            "name": "Солдатов Андрей Александрович",
+            "id": "101131",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101131/"
           }
         },
         {
@@ -61,11 +67,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Конгресс-Центр 403",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "down",
           "teacher": {
             "name": "Шмырева Ольга Валерьевна",
+            "id": "101372",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
           }
         },
@@ -77,11 +85,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Конгресс-Центр 403",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "both",
           "teacher": {
             "name": "Романова Виктория Алексеевна",
+            "id": "104884",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104884/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104884.jpg?token_static=a3fc5e849a507d011c794fa4548055fb"
           }
         }
@@ -99,7 +109,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "А ВУЦ",
-          "campus": "Лоцманская (А)",
+          "campus": "Лоцманская (Корпус А)",
           "groupName": "7301",
           "weekParity": "both"
         },
@@ -111,7 +121,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "А ВУЦ",
-          "campus": "Лоцманская (А)",
+          "campus": "Лоцманская (Корпус А)",
           "groupName": "7301",
           "weekParity": "both"
         }
@@ -129,11 +139,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 511",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "up",
           "teacher": {
             "name": "Романова Виктория Алексеевна",
+            "id": "104884",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104884/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104884.jpg?token_static=a3fc5e849a507d011c794fa4548055fb"
           }
         },
@@ -145,11 +157,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 314",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "down",
           "teacher": {
             "name": "Романова Виктория Алексеевна",
+            "id": "104884",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104884/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104884.jpg?token_static=a3fc5e849a507d011c794fa4548055fb"
           }
         },
@@ -161,11 +175,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 511",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "up",
           "teacher": {
             "name": "Романова Виктория Алексеевна",
+            "id": "104884",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104884/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104884.jpg?token_static=a3fc5e849a507d011c794fa4548055fb"
           }
         },
@@ -177,11 +193,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 02ю",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "down",
           "teacher": {
             "name": "Баранник Олеся Андреевна",
+            "id": "101777",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101777/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101777.jpg?token_static=7a29f7315e90ef2fc59ee35e9b299d9d"
           }
         },
@@ -193,11 +211,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 531",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "up",
           "teacher": {
             "name": "Евграфова Ирина Владимировна",
+            "id": "100356",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100356/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
           }
         },
@@ -209,11 +229,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 531",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "down",
           "teacher": {
             "name": "Баранник Олеся Андреевна",
+            "id": "101777",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101777/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101777.jpg?token_static=7a29f7315e90ef2fc59ee35e9b299d9d"
           }
         }
@@ -231,7 +253,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 543",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "up",
           "teacher": {
@@ -247,11 +269,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 543",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "down",
           "teacher": {
             "name": "Баранник Олеся Андреевна",
+            "id": "101777",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101777/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101777.jpg?token_static=7a29f7315e90ef2fc59ee35e9b299d9d"
           }
         },
@@ -263,7 +287,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Конгресс-Центр 207",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "up",
           "teacher": {
@@ -279,11 +303,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 440",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "down",
           "teacher": {
             "name": "Баранник Олеся Андреевна",
+            "id": "101777",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101777/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101777.jpg?token_static=7a29f7315e90ef2fc59ee35e9b299d9d"
           }
         },
@@ -295,11 +321,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 410",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "up",
           "teacher": {
-            "name": "Солдатов Андрей Александрович"
+            "name": "Солдатов Андрей Александрович",
+            "id": "101131",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101131/"
           }
         },
         {
@@ -310,11 +338,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 407",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "down",
           "teacher": {
-            "name": "Солдатов Андрей Александрович"
+            "name": "Солдатов Андрей Александрович",
+            "id": "101131",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101131/"
           }
         }
       ]
@@ -331,11 +361,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 209ю",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "both",
           "teacher": {
             "name": "Голованова Оксана Владимировна",
+            "id": "100277",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100277/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/29/small/p100277.jpg?token_static=82fac71e5bf4707c30a33e1d670dbeec"
           }
         },
@@ -347,11 +379,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 209ю",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "both",
           "teacher": {
             "name": "Голованова Оксана Владимировна",
+            "id": "100277",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100277/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/29/small/p100277.jpg?token_static=82fac71e5bf4707c30a33e1d670dbeec"
           }
         },
@@ -363,11 +397,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Конгресс-Центр 306",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "both",
           "teacher": {
             "name": "Голованова Оксана Владимировна",
+            "id": "100277",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100277/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/29/small/p100277.jpg?token_static=82fac71e5bf4707c30a33e1d670dbeec"
           }
         },
@@ -379,11 +415,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 165",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "up",
           "teacher": {
             "name": "Евграфова Ирина Владимировна",
+            "id": "100356",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100356/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
           }
         }
@@ -401,11 +439,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Конгресс-Центр 207",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "both",
           "teacher": {
             "name": "Медведев Владимир Иванович",
+            "id": "100748",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
           }
         },
@@ -417,11 +457,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Конгресс-Центр 207",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "7301",
           "weekParity": "both",
           "teacher": {
             "name": "Медведев Владимир Иванович",
+            "id": "100748",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
           }
         }

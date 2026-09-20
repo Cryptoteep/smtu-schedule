@@ -137,11 +137,23 @@ export function parseSmtuScheduleHtml(html: string, groupId: string, groupName =
 
       // Teacher from cell 5 (if present)
       let teacherName = '';
+      let teacherId: string | undefined;
       let teacherPhotoUrl: string | undefined;
       if (cells.length >= 6) {
         const teacherCell = cells[5];
         const teacherSpan = teacherCell.match(/<span[^>]*>([\s\S]*?)<\/span>/i);
-        teacherName = teacherSpan ? teacherSpan[1].replace(/<[^>]+>/g, '').trim() : teacherCell.replace(/<[^>]+>/g, '').trim();
+        const teacherA = teacherCell.match(/<a[^>]*href=[\"']\/ru\/viewperson\/(\d+)\/?[\"'][^>]*>([\s\S]*?)<\/a>/i);
+        if (teacherA) {
+          teacherId = teacherA[1];
+          teacherName = teacherA[2].replace(/<[^>]+>/g, '').trim();
+        } else {
+          teacherName = teacherSpan ? teacherSpan[1].replace(/<[^>]+>/g, '').trim() : teacherCell.replace(/<[^>]+>/g, '').trim();
+        }
+
+        const personMatch = teacherCell.match(/\/ru\/viewperson\/(\d+)/i);
+        if (personMatch) {
+          teacherId = personMatch[1];
+        }
 
         const imgMatch = teacherCell.match(/<img[^>]+src=[\"']([^\"']+)[\"']/i);
         if (imgMatch) {
@@ -150,6 +162,19 @@ export function parseSmtuScheduleHtml(html: string, groupId: string, groupName =
             teacherPhotoUrl = 'https://www.smtu.ru' + teacherPhotoUrl;
           }
         }
+      }
+
+      // Extract exact dates list from title="14.09.2026, 28.09.2026, ..." if available
+      let exactDates: string[] | undefined;
+      let dateRange: string | undefined;
+      const titleMatch = rowHtml.match(/title=[\"'](\d{2}\.\d{2}\.\d{4}[^\"']*)[\"']/i);
+      if (titleMatch) {
+        const rawList = titleMatch[1];
+        exactDates = rawList.split(',').map((s) => s.trim()).filter((s) => /^\d{2}\.\d{2}\.\d{4}$/.test(s));
+      }
+      const rangeMatch = rowHtml.match(/<td[^>]*>(\d{1,2}\s+[а-яёА-ЯЁ]+\s*—\s*\d{1,2}\s+[а-яёА-ЯЁ]+\s*\d{4})<\/td>/i);
+      if (rangeMatch) {
+        dateRange = rangeMatch[1].trim();
       }
 
       const lessonType = determineLessonType(rawType, subject);
@@ -168,8 +193,12 @@ export function parseSmtuScheduleHtml(html: string, groupId: string, groupName =
         groupName: parsedGroupName,
         weekParity,
         dateSpecific,
+        dateRange,
+        exactDates,
         teacher: teacherName ? {
           name: teacherName,
+          id: teacherId,
+          profileUrl: teacherId ? `https://www.smtu.ru/ru/viewperson/${teacherId}/` : undefined,
           photoUrl: teacherPhotoUrl
         } : undefined
       });

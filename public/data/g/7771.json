@@ -1,0 +1,317 @@
+{
+  "groupId": "7771",
+  "groupName": "20390",
+  "updatedAt": "2026-09-20T13:47:05.780Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7771-1-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы военной подготовки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У ВУЦ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20390",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Опарин Александр Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100843.jpg?token_static=97843249d42587ca996716e10bc5f564"
+          }
+        },
+        {
+          "id": "7771-1-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Вычислительные методы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20390",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Хазанов Владимир Борисович",
+            "id": "101267",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101267/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101267.jpg?token_static=4a3bdd427715af036e24b523a83f0270"
+          }
+        },
+        {
+          "id": "7771-1-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы военной подготовки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У ВУЦ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20390",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цаплин Виталий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/05/small/p137667.jpg?token_static=a9d73937a075b4e4c1586e3dfc598567"
+          }
+        },
+        {
+          "id": "7771-1-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Вычислительные методы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20390",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Хазанов Владимир Борисович",
+            "id": "101267",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101267/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101267.jpg?token_static=4a3bdd427715af036e24b523a83f0270"
+          }
+        },
+        {
+          "id": "7771-1-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Вычислительные методы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20390",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Хазанов Владимир Борисович",
+            "id": "101267",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101267/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101267.jpg?token_static=4a3bdd427715af036e24b523a83f0270"
+          }
+        },
+        {
+          "id": "7771-1-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Вычислительные методы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20390",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Хазанов Владимир Борисович",
+            "id": "101267",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101267/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101267.jpg?token_static=4a3bdd427715af036e24b523a83f0270"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7771-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "ЭВМ и периферийные устройства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20390",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Галушин Сергей Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100258.jpg?token_static=b4b019e33609ed6e45b81ee239b86c66"
+          }
+        },
+        {
+          "id": "7771-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "ЭВМ и периферийные устройства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20390",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Галушин Сергей Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100258.jpg?token_static=b4b019e33609ed6e45b81ee239b86c66"
+          }
+        },
+        {
+          "id": "7771-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "ЭВМ и периферийные устройства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20390",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Галушин Сергей Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100258.jpg?token_static=b4b019e33609ed6e45b81ee239b86c66"
+          }
+        },
+        {
+          "id": "7771-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "ЭВМ и периферийные устройства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 301а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20390",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Куприянов Дмитрий Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p128882.jpg?token_static=5e44748c4db63195b0147d0621dba7a0"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7771-4-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Морская энциклопедия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 501(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20390",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Дедкова Ольга Валентиновна",
+            "id": "100327",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100327/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100327.jpg?token_static=10c4cbb583bca3c607344d621ccc84f7"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7771-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (матросы/солдаты запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У ВУЦ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20390",
+          "weekParity": "up"
+        },
+        {
+          "id": "7771-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (матросы/солдаты запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У ВУЦ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20390",
+          "weekParity": "down"
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7771-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Электротехника, электроника и схемотехника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20390",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лупкин Иван Дмитриевич",
+            "id": "100695",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100695/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/26/small/p100695.jpg?token_static=36cf35300c477e3cc074ed597c5d1379"
+          }
+        },
+        {
+          "id": "7771-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Электротехника, электроника и схемотехника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20390",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лупкин Иван Дмитриевич",
+            "id": "100695",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100695/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/26/small/p100695.jpg?token_static=36cf35300c477e3cc074ed597c5d1379"
+          }
+        },
+        {
+          "id": "7771-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Электротехника, электроника и схемотехника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20390",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лупкин Иван Дмитриевич",
+            "id": "100695",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100695/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/26/small/p100695.jpg?token_static=36cf35300c477e3cc074ed597c5d1379"
+          }
+        },
+        {
+          "id": "7771-6-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Электротехника, электроника и схемотехника",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-03",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20390",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Крупинин Олег Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/09/small/p123105.jpg?token_static=e2f03f3e78bae3f3088363c7e71c5fd6"
+          }
+        }
+      ]
+    }
+  ]
+}

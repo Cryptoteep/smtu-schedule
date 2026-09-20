@@ -1,0 +1,161 @@
+{
+  "groupId": "7853",
+  "groupName": "5316",
+  "updatedAt": "2026-09-20T13:46:57.611Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7853-1-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Автоматизированные системы технологической подготовки производства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 410",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5316",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Фирсова Анна Валентиновна",
+            "id": "101258",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101258/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/05/22/small/p101258.jpg?token_static=8dab6470258b3163cbed9293ba1029e5"
+          }
+        },
+        {
+          "id": "7853-1-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Автоматизированные системы технологической подготовки производства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 410",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5316",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Фирсова Анна Валентиновна",
+            "id": "101258",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101258/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/05/22/small/p101258.jpg?token_static=8dab6470258b3163cbed9293ba1029e5"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7853-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Технология судостроения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 410",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5316",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мышков Яков Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p129941.jpg?token_static=e94eca74b905f502bc6f782cabcad493"
+          }
+        },
+        {
+          "id": "7853-2-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Технология судостроения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 410",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5316",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мышков Яков Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p129941.jpg?token_static=e94eca74b905f502bc6f782cabcad493"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7853-4-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Автоматизированное проектирование судовых конструкций",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 207",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5316",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мороз Вера Сергеевна",
+            "id": "127943",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127943/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/02/small/p127943.jpg?token_static=a1d372bea01dc4407df28b32ed0ef09e"
+          }
+        },
+        {
+          "id": "7853-4-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Автоматизированные системы технологической подготовки производства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5316",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Буров Даниил Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/20/small/p123667.jpg?token_static=beac735d6215e12dbfb988ac68365555"
+          }
+        },
+        {
+          "id": "7853-4-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Автоматизированное проектирование судовых конструкций",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 207",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5316",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мороз Вера Сергеевна",
+            "id": "127943",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127943/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/02/small/p127943.jpg?token_static=a1d372bea01dc4407df28b32ed0ef09e"
+          }
+        },
+        {
+          "id": "7853-4-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Автоматизированные системы технологической подготовки производства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5316",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Буров Даниил Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/20/small/p123667.jpg?token_static=beac735d6215e12dbfb988ac68365555"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "groupId": "7929",
   "groupName": "12317-32",
-  "updatedAt": "2026-09-20T13:40:43.437Z",
+  "updatedAt": "2026-09-20T13:47:01.000Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -15,7 +15,7 @@
           "type": "military",
           "rawType": "Практическое занятие",
           "room": "У ВУЦ",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "both",
           "teacher": {
@@ -31,11 +31,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 410",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "both",
           "teacher": {
             "name": "Русина Лариса Германовна",
+            "id": "123501",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123501/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/17/small/p123501.jpg?token_static=ec8df21930d8598050ff7830e2e2ec38"
           }
         },
@@ -47,11 +49,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Конгресс-Центр Конференц-зал",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "both",
           "teacher": {
             "name": "Русина Лариса Германовна",
+            "id": "123501",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123501/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/17/small/p123501.jpg?token_static=ec8df21930d8598050ff7830e2e2ec38"
           }
         }
@@ -69,7 +73,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Б 503",
-          "campus": "Лоцманская (Б)",
+          "campus": "Лоцманская (Корпус Б)",
           "groupName": "12317-32",
           "weekParity": "up",
           "dateSpecific": "01.09 по 23.11",
@@ -86,7 +90,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Б 503",
-          "campus": "Лоцманская (Б)",
+          "campus": "Лоцманская (Корпус Б)",
           "groupName": "12317-32",
           "weekParity": "up",
           "dateSpecific": "01.09 по 23.11",
@@ -109,7 +113,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У каф.ИЯ",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "both"
         },
@@ -121,11 +125,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 536(2)",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "up",
           "teacher": {
             "name": "Богданова Светлана Ефимовна",
+            "id": "100121",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100121/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/01/small/p100121.jpg?token_static=30bdeb2e4f242c6f53d03029f7457014"
           }
         },
@@ -137,11 +143,13 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 536(2)",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "down",
           "teacher": {
             "name": "Богданова Светлана Ефимовна",
+            "id": "100121",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100121/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/01/small/p100121.jpg?token_static=30bdeb2e4f242c6f53d03029f7457014"
           }
         },
@@ -153,12 +161,14 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 115",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "both",
           "dateSpecific": "01.09",
           "teacher": {
             "name": "Богданова Татьяна Владимировна",
+            "id": "100122",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100122/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/05/small/p100122.jpg?token_static=647755b070c41d931bb0b14a2a82dec3"
           }
         },
@@ -170,7 +180,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 115",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "up"
         }
@@ -188,7 +198,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Конгресс-Центр Конференц-зал",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "both",
           "teacher": {
@@ -204,7 +214,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 103",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "both",
           "teacher": {
@@ -220,11 +230,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 161",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "both",
           "teacher": {
             "name": "Богданова Светлана Ефимовна",
+            "id": "100121",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100121/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/01/small/p100121.jpg?token_static=30bdeb2e4f242c6f53d03029f7457014"
           }
         },
@@ -236,11 +248,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 167",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "up",
           "teacher": {
             "name": "Пантелеева Екатерина Валерьевна",
+            "id": "100873",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100873/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100873.jpg?token_static=0581704817a1db2ba4e2795028e98174"
           }
         }
@@ -258,7 +272,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У каф.ИЯ",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "up"
         },
@@ -270,7 +284,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 105",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "down",
           "dateSpecific": "01.09 по 26.10",
@@ -287,7 +301,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 410",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "up",
           "teacher": {
@@ -303,11 +317,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 115",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "down",
           "teacher": {
             "name": "Романов Александр Иванович",
+            "id": "122500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
           }
         },
@@ -319,11 +335,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 167",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "both",
           "teacher": {
             "name": "Пантелеева Екатерина Валерьевна",
+            "id": "100873",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100873/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100873.jpg?token_static=0581704817a1db2ba4e2795028e98174"
           }
         }
@@ -341,7 +359,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Конгресс-Центр 304",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "both",
           "teacher": {
@@ -357,7 +375,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Конгресс-Центр 304",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "up",
           "teacher": {
@@ -373,11 +391,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 165",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "down",
           "teacher": {
             "name": "Беляева Людмила Ивановна",
+            "id": "100096",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100096/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100096.jpg?token_static=6a35cb9ea4cadfef6d7e7e493a8f7626"
           }
         },
@@ -389,11 +409,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 217",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12317-32",
           "weekParity": "up",
           "teacher": {
             "name": "Беляева Людмила Ивановна",
+            "id": "100096",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100096/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100096.jpg?token_static=6a35cb9ea4cadfef6d7e7e493a8f7626"
           }
         }

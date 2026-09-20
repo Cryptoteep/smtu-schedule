@@ -1,0 +1,588 @@
+{
+  "groupId": "7013",
+  "groupName": "1380",
+  "updatedAt": "2026-09-20T13:46:56.792Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7013-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Ходкость корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 422",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Капонен Валерий Арвиевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p100495.jpg?token_static=1cad03b1b677b2c048933e25e7b44bdf"
+          }
+        },
+        {
+          "id": "7013-1-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Ходкость корабля",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 422",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Капонен Валерий Арвиевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p100495.jpg?token_static=1cad03b1b677b2c048933e25e7b44bdf"
+          }
+        },
+        {
+          "id": "7013-1-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Математическая теория быстроходных судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Вишневский Леонид Иосифович",
+            "id": "123867",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123867/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/06/small/p123867.jpg?token_static=cecbbd44160bd5a0c80440f28da4a900"
+          }
+        },
+        {
+          "id": "7013-1-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Гидромеханика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тряскин Никита Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101210.jpg?token_static=1cee014c4169a8fcb3b605dd9051ba69"
+          }
+        },
+        {
+          "id": "7013-1-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Гидромеханика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Тряскин Никита Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101210.jpg?token_static=1cee014c4169a8fcb3b605dd9051ba69"
+          }
+        },
+        {
+          "id": "7013-1-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Статика корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Альбаев Данил Айдарович",
+            "id": "101505",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101505/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p101505.jpg?token_static=e0f44ca0ab3df528b3d17443537a0733"
+          }
+        },
+        {
+          "id": "7013-1-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Статика корабля",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Альбаев Данил Айдарович",
+            "id": "101505",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101505/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p101505.jpg?token_static=e0f44ca0ab3df528b3d17443537a0733"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7013-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1380",
+          "weekParity": "both"
+        },
+        {
+          "id": "7013-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1380",
+          "weekParity": "both"
+        },
+        {
+          "id": "7013-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1380",
+          "weekParity": "both"
+        },
+        {
+          "id": "7013-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1380",
+          "weekParity": "down"
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7013-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бронникова Лилия Васильевна",
+            "id": "100159",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
+          }
+        },
+        {
+          "id": "7013-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Экспериментальная гидроаэромеханика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шульц Вячеслав Юрьевич",
+            "id": "102897",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102897/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p102897.jpg?token_static=ca977fe8dcce7a9fd86d41e7a9a139cc"
+          }
+        },
+        {
+          "id": "7013-3-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Экспериментальная гидроаэромеханика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шульц Вячеслав Юрьевич",
+            "id": "102897",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102897/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p102897.jpg?token_static=ca977fe8dcce7a9fd86d41e7a9a139cc"
+          }
+        },
+        {
+          "id": "7013-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 534",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бронникова Лилия Васильевна",
+            "id": "100159",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
+          }
+        },
+        {
+          "id": "7013-3-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 534",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бронникова Лилия Васильевна",
+            "id": "100159",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
+          }
+        },
+        {
+          "id": "7013-3-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Стеткар Мария Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/10/14/small/p128639.jpg?token_static=413803e12024ddf9f03be17dfacfd473"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7013-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Механика сплошных сред",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 318",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Яковлев Алексей Юрьевич",
+            "id": "101392",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
+          }
+        },
+        {
+          "id": "7013-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Механика сплошных сред",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 318",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Яковлев Алексей Юрьевич",
+            "id": "101392",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
+          }
+        },
+        {
+          "id": "7013-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Динамика корабля",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Семенова Виктория Юрьевна",
+            "id": "101054",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101054/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p101054.jpg?token_static=ebe8f210ab0cb93306e96a8f447a378c"
+          }
+        },
+        {
+          "id": "7013-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Динамика корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Семенова Виктория Юрьевна",
+            "id": "101054",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101054/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p101054.jpg?token_static=ebe8f210ab0cb93306e96a8f447a378c"
+          }
+        },
+        {
+          "id": "7013-4-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Динамика корабля",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Семенова Виктория Юрьевна",
+            "id": "101054",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101054/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p101054.jpg?token_static=ebe8f210ab0cb93306e96a8f447a378c"
+          }
+        },
+        {
+          "id": "7013-4-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Гидромеханика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Тряскин Никита Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101210.jpg?token_static=1cee014c4169a8fcb3b605dd9051ba69"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7013-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Гидромеханика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 318",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ермолаева Елена Валерьевна",
+            "id": "102673",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102673/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/07/small/p102673.jpg?token_static=7def5afa9dacd45cc6996d73a8dca9a9"
+          }
+        },
+        {
+          "id": "7013-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 522",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Серов Алексей Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/30/small/p105269.jpg?token_static=254d96391f2a1b1b7d928fbb085d2d4e"
+          }
+        },
+        {
+          "id": "7013-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ведерников Юрий Вадимович",
+            "id": "123303",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
+          }
+        },
+        {
+          "id": "7013-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 522",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Серов Алексей Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/30/small/p105269.jpg?token_static=254d96391f2a1b1b7d928fbb085d2d4e"
+          }
+        },
+        {
+          "id": "7013-5-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ведерников Юрий Вадимович",
+            "id": "123303",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7013-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "both",
+          "dateSpecific": "19.09",
+          "teacher": {
+            "name": "Серов Алексей Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/30/small/p105269.jpg?token_static=254d96391f2a1b1b7d928fbb085d2d4e"
+          }
+        },
+        {
+          "id": "7013-6-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Серов Алексей Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/30/small/p105269.jpg?token_static=254d96391f2a1b1b7d928fbb085d2d4e"
+          }
+        },
+        {
+          "id": "7013-6-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Математическая теория быстроходных судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 318",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кадомцева Алена Борисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/24/small/p101729.jpg?token_static=42f1ea8a8c9f9b344c7d98703b289299"
+          }
+        },
+        {
+          "id": "7013-6-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Дополнительные разделы динамики вязкой жидкости",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 318",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чепурко Сергей Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101303.jpg?token_static=13452f5950258ad17bc45eb8063970d1"
+          }
+        },
+        {
+          "id": "7013-6-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Дополнительные разделы динамики вязкой жидкости",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 318",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кадомцева Алена Борисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/24/small/p101729.jpg?token_static=42f1ea8a8c9f9b344c7d98703b289299"
+          }
+        }
+      ]
+    }
+  ]
+}

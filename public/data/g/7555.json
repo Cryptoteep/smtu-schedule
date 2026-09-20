@@ -1,0 +1,503 @@
+{
+  "groupId": "7555",
+  "groupName": "1286",
+  "updatedAt": "2026-09-20T13:46:56.315Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7555-1-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Механика контактного взаимодействия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 215",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1286",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пономарев Дмитрий Александрович",
+            "id": "100929",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100929/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100929.jpg?token_static=4f169654a1b4d86c82da676ba5108714"
+          }
+        },
+        {
+          "id": "7555-1-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Механика контактного взаимодействия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 215",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1286",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пономарев Дмитрий Александрович",
+            "id": "100929",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100929/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100929.jpg?token_static=4f169654a1b4d86c82da676ba5108714"
+          }
+        },
+        {
+          "id": "7555-1-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Динамика и прочность морских сооружений",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 215",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1286",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Коршунов Владимир Александрович",
+            "id": "100566",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100566/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100566.jpg?token_static=d6c761e9ea105214cda2121cde1e5712"
+          }
+        },
+        {
+          "id": "7555-1-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Динамика и прочность морских сооружений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 215",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1286",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Коршунов Владимир Александрович",
+            "id": "100566",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100566/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100566.jpg?token_static=d6c761e9ea105214cda2121cde1e5712"
+          }
+        },
+        {
+          "id": "7555-1-19:00-5",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Динамика и прочность морских сооружений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 215",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1286",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Коршунов Владимир Александрович",
+            "id": "100566",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100566/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100566.jpg?token_static=d6c761e9ea105214cda2121cde1e5712"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7555-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1286",
+          "weekParity": "both"
+        },
+        {
+          "id": "7555-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1286",
+          "weekParity": "both"
+        },
+        {
+          "id": "7555-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1286",
+          "weekParity": "both"
+        },
+        {
+          "id": "7555-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1286",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7555-3-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Прочность глубоководных аппаратов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 215",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1286",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Тумашик Глеб Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101214.jpg?token_static=b5c463b0b0ae8e7e1a9beb2c7eabe73e"
+          }
+        },
+        {
+          "id": "7555-3-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Прочность глубоководных аппаратов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 215",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1286",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Тумашик Глеб Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101214.jpg?token_static=b5c463b0b0ae8e7e1a9beb2c7eabe73e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7555-4-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Научно-технический семинар по механике деформируемого твердого тела",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1286",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Терентьев Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101178.jpg?token_static=7e8740ce1225542f012a6f8109bd827e"
+          }
+        },
+        {
+          "id": "7555-4-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Волны в деформируемых телах",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 144",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1286",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Терентьев Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101178.jpg?token_static=7e8740ce1225542f012a6f8109bd827e"
+          }
+        },
+        {
+          "id": "7555-4-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Волны в деформируемых телах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 144",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1286",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Терентьев Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101178.jpg?token_static=7e8740ce1225542f012a6f8109bd827e"
+          }
+        },
+        {
+          "id": "7555-4-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Волны в деформируемых телах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 144",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1286",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Терентьев Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101178.jpg?token_static=7e8740ce1225542f012a6f8109bd827e"
+          }
+        },
+        {
+          "id": "7555-4-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Проблемы механотроники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1286",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сиек Юрий Леонардович",
+            "id": "101074",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101074/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101074.jpg?token_static=3902692d5a461e131a3dac1bb7d80834"
+          }
+        },
+        {
+          "id": "7555-4-19:00-6",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Проблемы механотроники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1286",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сиек Юрий Леонардович",
+            "id": "101074",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101074/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101074.jpg?token_static=3902692d5a461e131a3dac1bb7d80834"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7555-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Системы автоматизированного проектирования морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1286",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Овчинников Кирилл Дмитриевич",
+            "id": "100836",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100836/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100836.jpg?token_static=2aa4c777fa8676fc89ba0c631c82ef57"
+          }
+        },
+        {
+          "id": "7555-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Системы автоматизированного проектирования морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1286",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Овчинников Кирилл Дмитриевич",
+            "id": "100836",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100836/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100836.jpg?token_static=2aa4c777fa8676fc89ba0c631c82ef57"
+          }
+        },
+        {
+          "id": "7555-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория оболочек",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1286",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Миронов Михаил Юрьевич",
+            "id": "100756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
+          }
+        },
+        {
+          "id": "7555-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория оболочек",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1286",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Миронов Михаил Юрьевич",
+            "id": "100756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
+          }
+        },
+        {
+          "id": "7555-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Механика композитов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 410",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1286",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Миронов Михаил Юрьевич",
+            "id": "100756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
+          }
+        },
+        {
+          "id": "7555-5-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Механика композитов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 410",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1286",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Миронов Михаил Юрьевич",
+            "id": "100756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
+          }
+        },
+        {
+          "id": "7555-5-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Механика композитов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 410",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1286",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Миронов Михаил Юрьевич",
+            "id": "100756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7555-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1286",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Богомолов Владимир Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/11/11/small/p107994.jpg?token_static=8102e9db97a0c475b36a35bf051e77cd"
+          }
+        },
+        {
+          "id": "7555-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1286",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Богомолов Владимир Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/11/11/small/p107994.jpg?token_static=8102e9db97a0c475b36a35bf051e77cd"
+          }
+        },
+        {
+          "id": "7555-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1286",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Богомолов Владимир Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/11/11/small/p107994.jpg?token_static=8102e9db97a0c475b36a35bf051e77cd"
+          }
+        },
+        {
+          "id": "7555-6-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1286",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Богомолов Владимир Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/11/11/small/p107994.jpg?token_static=8102e9db97a0c475b36a35bf051e77cd"
+          }
+        }
+      ]
+    }
+  ]
+}

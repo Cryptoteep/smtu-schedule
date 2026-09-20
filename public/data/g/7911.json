@@ -1,0 +1,513 @@
+{
+  "groupId": "7911",
+  "groupName": "1433",
+  "updatedAt": "2026-09-20T13:46:57.225Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7911-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Вычислительная механика жидкости и газа",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 610",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1433",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Тряскин Никита Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101210.jpg?token_static=1cee014c4169a8fcb3b605dd9051ba69"
+          }
+        },
+        {
+          "id": "7911-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Управляемость судна",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1433",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Альбаев Данил Айдарович",
+            "id": "101505",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101505/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p101505.jpg?token_static=e0f44ca0ab3df528b3d17443537a0733"
+          }
+        },
+        {
+          "id": "7911-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управляемость судна",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1433",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Альбаев Данил Айдарович",
+            "id": "101505",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101505/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p101505.jpg?token_static=e0f44ca0ab3df528b3d17443537a0733"
+          }
+        },
+        {
+          "id": "7911-1-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория волновых движений жидкости",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1433",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мальцева Юлия Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100720.jpg?token_static=f8e418990bfc22189eb5747b7ad16701"
+          }
+        },
+        {
+          "id": "7911-1-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность мореплавания",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 330",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1433",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Никущенко Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+          }
+        },
+        {
+          "id": "7911-1-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Безопасность мореплавания",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 330",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1433",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Никущенко Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7911-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1433",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Фролова Вероника Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p105303.jpg?token_static=f02ddf6ad924430e02d6c4cc204c817e"
+          }
+        },
+        {
+          "id": "7911-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1433",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Фролова Вероника Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p105303.jpg?token_static=f02ddf6ad924430e02d6c4cc204c817e"
+          }
+        },
+        {
+          "id": "7911-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление динамическими процессами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1433",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шульц Вячеслав Юрьевич",
+            "id": "102897",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102897/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p102897.jpg?token_static=ca977fe8dcce7a9fd86d41e7a9a139cc"
+          }
+        },
+        {
+          "id": "7911-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление динамическими процессами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1433",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Шульц Вячеслав Юрьевич",
+            "id": "102897",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102897/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p102897.jpg?token_static=ca977fe8dcce7a9fd86d41e7a9a139cc"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7911-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Русский язык как иностранный: техническая терминология в профессиональной сфере",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 403",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1433",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Григорьева-Голубева Виктория Аркадьевна",
+            "id": "100302",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100302/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/08/28/small/p100302.jpg?token_static=3c400786fd351508022ddc8929baa59e"
+          }
+        },
+        {
+          "id": "7911-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Динамика подводных аппаратов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1433",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шульц Вячеслав Юрьевич",
+            "id": "102897",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102897/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p102897.jpg?token_static=ca977fe8dcce7a9fd86d41e7a9a139cc"
+          }
+        },
+        {
+          "id": "7911-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Динамика подводных аппаратов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1433",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шульц Вячеслав Юрьевич",
+            "id": "102897",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102897/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p102897.jpg?token_static=ca977fe8dcce7a9fd86d41e7a9a139cc"
+          }
+        },
+        {
+          "id": "7911-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Ходкость быстроходных судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1433",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шульц Вячеслав Юрьевич",
+            "id": "102897",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102897/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p102897.jpg?token_static=ca977fe8dcce7a9fd86d41e7a9a139cc"
+          }
+        },
+        {
+          "id": "7911-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Ходкость быстроходных судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1433",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шульц Вячеслав Юрьевич",
+            "id": "102897",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102897/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p102897.jpg?token_static=ca977fe8dcce7a9fd86d41e7a9a139cc"
+          }
+        },
+        {
+          "id": "7911-3-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1433",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7911-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Моделирование движения судов во льдах",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 330",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1433",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Карулин Евгений Борисович",
+            "id": "100505",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100505/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100505.jpg?token_static=52d842b1c67df1d85c863d992d850394"
+          }
+        },
+        {
+          "id": "7911-4-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Моделирование движения судов во льдах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 330",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1433",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Карулин Евгений Борисович",
+            "id": "100505",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100505/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100505.jpg?token_static=52d842b1c67df1d85c863d992d850394"
+          }
+        },
+        {
+          "id": "7911-4-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория волновых движений жидкости",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1433",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мальцева Юлия Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100720.jpg?token_static=f8e418990bfc22189eb5747b7ad16701"
+          }
+        },
+        {
+          "id": "7911-4-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория волновых движений жидкости",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1433",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мальцева Юлия Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100720.jpg?token_static=f8e418990bfc22189eb5747b7ad16701"
+          }
+        },
+        {
+          "id": "7911-4-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Гидроакустика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1433",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чепурко Сергей Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101303.jpg?token_static=13452f5950258ad17bc45eb8063970d1"
+          }
+        },
+        {
+          "id": "7911-4-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Гидроакустика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1433",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чепурко Сергей Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101303.jpg?token_static=13452f5950258ad17bc45eb8063970d1"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7911-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория крыла",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1433",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ермолаева Елена Валерьевна",
+            "id": "102673",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102673/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/07/small/p102673.jpg?token_static=7def5afa9dacd45cc6996d73a8dca9a9"
+          }
+        },
+        {
+          "id": "7911-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Вычислительная механика жидкости и газа",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 318",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1433",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ромадин Дмитрий Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/08/small/p124281.jpg?token_static=35c0aed366ab63318d2455cf21c381bb"
+          }
+        },
+        {
+          "id": "7911-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Дополнительные главы по мореходности судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1433",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Семенова Виктория Юрьевна",
+            "id": "101054",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101054/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p101054.jpg?token_static=ebe8f210ab0cb93306e96a8f447a378c"
+          }
+        },
+        {
+          "id": "7911-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Дополнительные главы по мореходности судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1433",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Семенова Виктория Юрьевна",
+            "id": "101054",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101054/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p101054.jpg?token_static=ebe8f210ab0cb93306e96a8f447a378c"
+          }
+        },
+        {
+          "id": "7911-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория крыла",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 102",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1433",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ермолаева Елена Валерьевна",
+            "id": "102673",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102673/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/07/small/p102673.jpg?token_static=7def5afa9dacd45cc6996d73a8dca9a9"
+          }
+        },
+        {
+          "id": "7911-5-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория крыла",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 102",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1433",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ермолаева Елена Валерьевна",
+            "id": "102673",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102673/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/07/small/p102673.jpg?token_static=7def5afa9dacd45cc6996d73a8dca9a9"
+          }
+        }
+      ]
+    }
+  ]
+}

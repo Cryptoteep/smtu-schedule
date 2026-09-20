@@ -1,0 +1,595 @@
+{
+  "groupId": "7638",
+  "groupName": "3264",
+  "updatedAt": "2026-09-20T13:47:02.139Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7638-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Медицинские полимеры",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3264",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сенчик Константин Юрьевич",
+            "id": "122994",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122994/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122994.jpg?token_static=cce95444db6273bdb111a64b74625297"
+          }
+        },
+        {
+          "id": "7638-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Лазерные медицинские аппараты",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3264",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сенчик Константин Юрьевич",
+            "id": "122994",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122994/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122994.jpg?token_static=cce95444db6273bdb111a64b74625297"
+          }
+        },
+        {
+          "id": "7638-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Медицинские полимеры",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3264",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сенчик Константин Юрьевич",
+            "id": "122994",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122994/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122994.jpg?token_static=cce95444db6273bdb111a64b74625297"
+          }
+        },
+        {
+          "id": "7638-1-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Лазерные медицинские аппараты",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3264",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сенчик Константин Юрьевич",
+            "id": "122994",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122994/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122994.jpg?token_static=cce95444db6273bdb111a64b74625297"
+          }
+        },
+        {
+          "id": "7638-1-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Медицинские полимеры",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3264",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сенчик Константин Юрьевич",
+            "id": "122994",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122994/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122994.jpg?token_static=cce95444db6273bdb111a64b74625297"
+          }
+        },
+        {
+          "id": "7638-1-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Лазерные медицинские аппараты",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3264",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сенчик Константин Юрьевич",
+            "id": "122994",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122994/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122994.jpg?token_static=cce95444db6273bdb111a64b74625297"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7638-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3264",
+          "weekParity": "both"
+        },
+        {
+          "id": "7638-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3264",
+          "weekParity": "both"
+        },
+        {
+          "id": "7638-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3264",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7638-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Приборы и методы функциональной диагностики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3264",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Точильников Григорий Викторович",
+            "id": "123221",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123221/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123221.jpg?token_static=323cc824d934301ba4374d894e982548"
+          }
+        },
+        {
+          "id": "7638-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Телемедицина",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3264",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Точильников Григорий Викторович",
+            "id": "123221",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123221/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123221.jpg?token_static=323cc824d934301ba4374d894e982548"
+          }
+        },
+        {
+          "id": "7638-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Приборы и методы функциональной диагностики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3264",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Точильников Григорий Викторович",
+            "id": "123221",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123221/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123221.jpg?token_static=323cc824d934301ba4374d894e982548"
+          }
+        },
+        {
+          "id": "7638-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Телемедицина",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3264",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Точильников Григорий Викторович",
+            "id": "123221",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123221/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123221.jpg?token_static=323cc824d934301ba4374d894e982548"
+          }
+        },
+        {
+          "id": "7638-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Приборы и методы функциональной диагностики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3264",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Точильников Григорий Викторович",
+            "id": "123221",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123221/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123221.jpg?token_static=323cc824d934301ba4374d894e982548"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7638-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Алгоритмы телеуправления медицинскими роботами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Медцентр 303",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "3264",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Першина Елена Игоревна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/17/small/p124664.jpg?token_static=4045740a78a16930b058422181cf9e71"
+          }
+        },
+        {
+          "id": "7638-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Алгоритмы обработки цифровых управляющих сигналов в медицинской робототехнике",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Медцентр 303",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "3264",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Першина Елена Игоревна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/17/small/p124664.jpg?token_static=4045740a78a16930b058422181cf9e71"
+          }
+        },
+        {
+          "id": "7638-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Алгоритмы телеуправления медицинскими роботами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Медцентр 303",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "3264",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Першина Елена Игоревна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/17/small/p124664.jpg?token_static=4045740a78a16930b058422181cf9e71"
+          }
+        },
+        {
+          "id": "7638-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Алгоритмы обработки цифровых управляющих сигналов в медицинской робототехнике",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Медцентр 303",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "3264",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Першина Елена Игоревна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/17/small/p124664.jpg?token_static=4045740a78a16930b058422181cf9e71"
+          }
+        },
+        {
+          "id": "7638-5-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Алгоритмы телеуправления медицинскими роботами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Медцентр 303",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "3264",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Першина Елена Игоревна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/17/small/p124664.jpg?token_static=4045740a78a16930b058422181cf9e71"
+          }
+        },
+        {
+          "id": "7638-5-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Алгоритмы обработки цифровых управляющих сигналов в медицинской робототехнике",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Медцентр 303",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "3264",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Першина Елена Игоревна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/17/small/p124664.jpg?token_static=4045740a78a16930b058422181cf9e71"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7638-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "3264",
+          "weekParity": "both",
+          "dateSpecific": "17.10 и 24.10",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7638-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "3264",
+          "weekParity": "both",
+          "dateSpecific": "17.10 и 24.10",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7638-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Медицинская робототехника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3264",
+          "weekParity": "both",
+          "dateSpecific": "5.09 - 26.09",
+          "teacher": {
+            "name": "Савинова Наталья Владимировна",
+            "id": "123574",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123574/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/30/small/p123574.jpg?token_static=ae9b9b3cee6ab34befabf865a6a75fa3"
+          }
+        },
+        {
+          "id": "7638-6-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "3264",
+          "weekParity": "both",
+          "dateSpecific": "17.10 и 24.10",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7638-6-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Медицинская робототехника",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3264",
+          "weekParity": "both",
+          "dateSpecific": "3.10 - 10.10",
+          "teacher": {
+            "name": "Савинова Наталья Владимировна",
+            "id": "123574",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123574/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/30/small/p123574.jpg?token_static=ae9b9b3cee6ab34befabf865a6a75fa3"
+          }
+        },
+        {
+          "id": "7638-6-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Медицинская робототехника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3264",
+          "weekParity": "both",
+          "dateSpecific": "5.09 - 26.09",
+          "teacher": {
+            "name": "Савинова Наталья Владимировна",
+            "id": "123574",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123574/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/30/small/p123574.jpg?token_static=ae9b9b3cee6ab34befabf865a6a75fa3"
+          }
+        },
+        {
+          "id": "7638-6-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "3264",
+          "weekParity": "both",
+          "dateSpecific": "17.10 и 24.10",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7638-6-15:40-8",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Медицинская робототехника",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3264",
+          "weekParity": "both",
+          "dateSpecific": "3.10 - 10.10",
+          "teacher": {
+            "name": "Савинова Наталья Владимировна",
+            "id": "123574",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123574/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/30/small/p123574.jpg?token_static=ae9b9b3cee6ab34befabf865a6a75fa3"
+          }
+        },
+        {
+          "id": "7638-6-17:20-9",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Медицинская робототехника",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3264",
+          "weekParity": "both",
+          "dateSpecific": "3.10 - 10.10",
+          "teacher": {
+            "name": "Савинова Наталья Владимировна",
+            "id": "123574",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123574/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/30/small/p123574.jpg?token_static=ae9b9b3cee6ab34befabf865a6a75fa3"
+          }
+        },
+        {
+          "id": "7638-6-17:20-10",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Медицинская робототехника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3264",
+          "weekParity": "both",
+          "dateSpecific": "5.09 - 26.09",
+          "teacher": {
+            "name": "Савинова Наталья Владимировна",
+            "id": "123574",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123574/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/30/small/p123574.jpg?token_static=ae9b9b3cee6ab34befabf865a6a75fa3"
+          }
+        },
+        {
+          "id": "7638-6-19:00-11",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Медицинская робототехника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3264",
+          "weekParity": "both",
+          "dateSpecific": "5.09 - 26.09",
+          "teacher": {
+            "name": "Савинова Наталья Владимировна",
+            "id": "123574",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123574/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/30/small/p123574.jpg?token_static=ae9b9b3cee6ab34befabf865a6a75fa3"
+          }
+        },
+        {
+          "id": "7638-6-19:00-12",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Медицинская робототехника",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3264",
+          "weekParity": "both",
+          "dateSpecific": "3.10 - 10.10",
+          "teacher": {
+            "name": "Савинова Наталья Владимировна",
+            "id": "123574",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123574/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/30/small/p123574.jpg?token_static=ae9b9b3cee6ab34befabf865a6a75fa3"
+          }
+        }
+      ]
+    }
+  ]
+}

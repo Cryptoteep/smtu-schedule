@@ -1,0 +1,450 @@
+{
+  "groupId": "7674",
+  "groupName": "4251",
+  "updatedAt": "2026-09-20T13:47:07.416Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7674-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Внутрифирменное и бизнес планирование на предприятии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4251",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лавренко Елена Александровна",
+            "id": "123927",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123927/"
+          }
+        },
+        {
+          "id": "7674-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Финансы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4251",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Калугина Яна Александровна",
+            "id": "123274",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123274/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/01/24/small/p123274.jpg?token_static=98e716930392a1a17de76ac50cd6dc1d"
+          }
+        },
+        {
+          "id": "7674-1-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Внутрифирменное и бизнес планирование на предприятии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4251",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лавренко Елена Александровна",
+            "id": "123927",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123927/"
+          }
+        },
+        {
+          "id": "7674-1-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Правоведение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4251",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ладыка Сергей Иванович",
+            "id": "100652",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100652/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100652.jpg?token_static=72ffcb9a21f07a0af5ce8f938f7cfe8f"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7674-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 154",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4251",
+          "weekParity": "both"
+        },
+        {
+          "id": "7674-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Правоведение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 303ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4251",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ладыка Сергей Иванович",
+            "id": "100652",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100652/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100652.jpg?token_static=72ffcb9a21f07a0af5ce8f938f7cfe8f"
+          }
+        },
+        {
+          "id": "7674-2-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Макроэкономика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 303ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4251",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Санжина Ольга Петровна",
+            "id": "123539",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123539/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/17/small/p123539.jpg?token_static=a9aa7bea8902e5dbffbdd17fc8203f14"
+          }
+        },
+        {
+          "id": "7674-2-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Макроэкономика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4251",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Санжина Ольга Петровна",
+            "id": "123539",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123539/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/17/small/p123539.jpg?token_static=a9aa7bea8902e5dbffbdd17fc8203f14"
+          }
+        },
+        {
+          "id": "7674-2-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Макроэкономика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 519",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4251",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Санжина Ольга Петровна",
+            "id": "123539",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123539/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/17/small/p123539.jpg?token_static=a9aa7bea8902e5dbffbdd17fc8203f14"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7674-3-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Деловой иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4251",
+          "weekParity": "both"
+        },
+        {
+          "id": "7674-3-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Деловой иностранный язык",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4251",
+          "weekParity": "both"
+        },
+        {
+          "id": "7674-3-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Финансы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4251",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Калугина Яна Александровна",
+            "id": "123274",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123274/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/01/24/small/p123274.jpg?token_static=98e716930392a1a17de76ac50cd6dc1d"
+          }
+        },
+        {
+          "id": "7674-3-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4251",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Крупицкая Ольга Савельевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/08/small/p122711.jpg?token_static=4b97a048cd33a9d92d4dddfeb85d4940"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7674-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (матросы/солдаты запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "4251",
+          "weekParity": "both"
+        },
+        {
+          "id": "7674-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (матросы/солдаты запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "4251",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7674-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Риск-менеджмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 31",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4251",
+          "weekParity": "up"
+        },
+        {
+          "id": "7674-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Риск-менеджмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "4251",
+          "weekParity": "down"
+        },
+        {
+          "id": "7674-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Менеджмент",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "4251",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Васильева Светлана Альбертовна",
+            "id": "122788",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122788/"
+          }
+        },
+        {
+          "id": "7674-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Менеджмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 11",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4251",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Васильева Светлана Альбертовна",
+            "id": "122788",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122788/"
+          }
+        },
+        {
+          "id": "7674-5-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Спортзал",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "4251",
+          "weekParity": "down"
+        },
+        {
+          "id": "7674-5-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Менеджмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 11",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4251",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Васильева Светлана Альбертовна",
+            "id": "122788",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122788/"
+          }
+        },
+        {
+          "id": "7674-5-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Финансы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 610",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "4251",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Калугина Яна Александровна",
+            "id": "123274",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123274/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/01/24/small/p123274.jpg?token_static=98e716930392a1a17de76ac50cd6dc1d"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7674-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Управление жизненным циклом информационных систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 340(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4251",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванов Сергей Евгеньевич",
+            "id": "105886",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/105886/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/14/small/p105886.jpg?token_static=51d7d476dcf4bf747ff3adbb30af97af"
+          }
+        },
+        {
+          "id": "7674-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Управление жизненным циклом информационных систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 340(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4251",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванов Сергей Евгеньевич",
+            "id": "105886",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/105886/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/14/small/p105886.jpg?token_static=51d7d476dcf4bf747ff3adbb30af97af"
+          }
+        },
+        {
+          "id": "7674-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4251",
+          "weekParity": "both"
+        },
+        {
+          "id": "7674-6-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление жизненным циклом информационных систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 340(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4251",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванов Сергей Евгеньевич",
+            "id": "105886",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/105886/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/14/small/p105886.jpg?token_static=51d7d476dcf4bf747ff3adbb30af97af"
+          }
+        }
+      ]
+    }
+  ]
+}

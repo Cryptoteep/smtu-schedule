@@ -1,0 +1,441 @@
+{
+  "groupId": "7681",
+  "groupName": "4305",
+  "updatedAt": "2026-09-20T13:47:07.780Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7681-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Методы и средства защиты от шума и вибрации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 130",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "4305",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Пименов Игорь Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/13/small/p100902.jpg?token_static=930e20a1f1510ce105773e34853c26fc"
+          }
+        },
+        {
+          "id": "7681-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Методы и средства защиты от шума и вибрации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 130",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "4305",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пименов Игорь Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/13/small/p100902.jpg?token_static=930e20a1f1510ce105773e34853c26fc"
+          }
+        },
+        {
+          "id": "7681-1-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Методы и средства защиты от шума и вибрации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 130",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "4305",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пименов Игорь Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/13/small/p100902.jpg?token_static=930e20a1f1510ce105773e34853c26fc"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7681-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Методы и средства защиты от шума и вибрации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "4305",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пименов Игорь Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/13/small/p100902.jpg?token_static=930e20a1f1510ce105773e34853c26fc"
+          }
+        },
+        {
+          "id": "7681-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Моделирование информационно-управляющих систем роботов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "4305",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Коротицкий Евгений Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100560.jpg?token_static=4ab1935f60b285e985ff015b33dcd5fb"
+          }
+        },
+        {
+          "id": "7681-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Моделирование информационно-управляющих систем роботов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "4305",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Коротицкий Евгений Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100560.jpg?token_static=4ab1935f60b285e985ff015b33dcd5fb"
+          }
+        },
+        {
+          "id": "7681-2-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Методы и средства защиты от шума и вибрации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 215",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "4305",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пименов Игорь Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/13/small/p100902.jpg?token_static=930e20a1f1510ce105773e34853c26fc"
+          }
+        },
+        {
+          "id": "7681-2-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Моделирование информационно-управляющих систем роботов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "4305",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Коротицкий Евгений Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100560.jpg?token_static=4ab1935f60b285e985ff015b33dcd5fb"
+          }
+        },
+        {
+          "id": "7681-2-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Моделирование информационно-управляющих систем роботов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "4305",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Коротицкий Евгений Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100560.jpg?token_static=4ab1935f60b285e985ff015b33dcd5fb"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7681-3-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Цифровой маркетинг",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 303ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4305",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Гулый Илья Михайлович",
+            "id": "131311",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/131311/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/02/small/p131311.jpg?token_static=3695b359c3fab75fc5f09dab6e7dbd74"
+          }
+        },
+        {
+          "id": "7681-3-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Цифровой маркетинг",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4305",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Гулый Илья Михайлович",
+            "id": "131311",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/131311/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/02/small/p131311.jpg?token_static=3695b359c3fab75fc5f09dab6e7dbd74"
+          }
+        },
+        {
+          "id": "7681-3-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Деловые коммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 105",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4305",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Березовская Ирина Петровна"
+          }
+        },
+        {
+          "id": "7681-3-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 502",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4305",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Березовская Ирина Петровна"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7681-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Нечеткая логика в цифровых технологиях",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "4305",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Борисов Александр Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+          }
+        },
+        {
+          "id": "7681-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Нечеткая логика в цифровых технологиях",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "4305",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Борисов Александр Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+          }
+        },
+        {
+          "id": "7681-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы технологий автоматизированного проектирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "4305",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Барашкова Елена Евгеньевна",
+            "id": "100076",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100076/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100076.jpg?token_static=20a0a14ebc1387574af9f2e877ce8e83"
+          }
+        },
+        {
+          "id": "7681-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы технологий автоматизированного проектирования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "4305",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Барашкова Елена Евгеньевна",
+            "id": "100076",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100076/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100076.jpg?token_static=20a0a14ebc1387574af9f2e877ce8e83"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7681-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Моделирование технологических и цифровых процессов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4305",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Будрина Елена Викторовна",
+            "id": "123214",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123214/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/23/small/p123214.jpg?token_static=272f349531f6f83d1d7f7faf34e37f28"
+          }
+        },
+        {
+          "id": "7681-6-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Ресурсное обеспечение инновационных проектов и процессов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4305",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Будрина Елена Викторовна",
+            "id": "123214",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123214/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/23/small/p123214.jpg?token_static=272f349531f6f83d1d7f7faf34e37f28"
+          }
+        },
+        {
+          "id": "7681-6-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Моделирование технологических и цифровых процессов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4305",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Будрина Елена Викторовна",
+            "id": "123214",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123214/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/23/small/p123214.jpg?token_static=272f349531f6f83d1d7f7faf34e37f28"
+          }
+        },
+        {
+          "id": "7681-6-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Ресурсное обеспечение инновационных проектов и процессов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4305",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Будрина Елена Викторовна",
+            "id": "123214",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123214/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/23/small/p123214.jpg?token_static=272f349531f6f83d1d7f7faf34e37f28"
+          }
+        },
+        {
+          "id": "7681-6-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Моделирование технологических и цифровых процессов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4305",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гришечко Артем Александрович",
+            "id": "139770",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/139770/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/16/small/p139770.jpg?token_static=afa4182f114c672e578098d06b564eee"
+          }
+        },
+        {
+          "id": "7681-6-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Ресурсное обеспечение инновационных проектов и процессов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4305",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Будрина Елена Викторовна",
+            "id": "123214",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123214/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/23/small/p123214.jpg?token_static=272f349531f6f83d1d7f7faf34e37f28"
+          }
+        },
+        {
+          "id": "7681-6-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Моделирование технологических и цифровых процессов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4305",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гришечко Артем Александрович",
+            "id": "139770",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/139770/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/16/small/p139770.jpg?token_static=afa4182f114c672e578098d06b564eee"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "groupId": "7725",
+  "groupName": "8260",
+  "updatedAt": "2026-09-20T13:47:10.791Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7725-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "История России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 421",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Левин Сергей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123537.jpg?token_static=c80696fc3e373517247f83a66b712fe6"
+          }
+        },
+        {
+          "id": "7725-1-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Техническая механика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 420",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Птицын Артём",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/05/26/small/p130699.jpg?token_static=5086a47e1b85b4945976f520bb318d91"
+          }
+        },
+        {
+          "id": "7725-1-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Техническое обслуживание судовых установок, средств автоматики, судовых машин и механизмов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Щербаков Вадим Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/04/small/p139718.jpg?token_static=ba90e58a67a4b7632b4bff29fb89a115"
+          }
+        },
+        {
+          "id": "7725-1-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Техническое обслуживание судовых установок, средств автоматики, судовых машин и механизмов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 418",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Щербаков Вадим Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/04/small/p139718.jpg?token_static=ba90e58a67a4b7632b4bff29fb89a115"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7725-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Выполнение работ по одной или нескольким профессиям рабочих, должностям служащих",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 424",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сизов Владислав Денисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/03/22/small/p133370.jpg?token_static=b669a0e8fe33c808e5c0ee31eef4d232"
+          }
+        },
+        {
+          "id": "7725-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Техническая механика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Птицын Артём",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/05/26/small/p130699.jpg?token_static=5086a47e1b85b4945976f520bb318d91"
+          }
+        },
+        {
+          "id": "7725-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Общее устройство судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Птицын Артём",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/05/26/small/p130699.jpg?token_static=5086a47e1b85b4945976f520bb318d91"
+          }
+        },
+        {
+          "id": "7725-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Иностранный язык в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 419",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Самодуров Алексей Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123538.jpg?token_static=92f249a587127aa5c480290651841ba9"
+          }
+        },
+        {
+          "id": "7725-2-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физическая культура",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Клеверова Станислава Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/01/16/small/p124699.jpg?token_static=ad67a1148c5ff05c8417abed39368a22"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7725-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319а(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Боговский Сергей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p129754.jpg?token_static=30d3e29f09510fd8b7f3aefda649438d"
+          }
+        },
+        {
+          "id": "7725-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319а(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Боговский Сергей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p129754.jpg?token_static=30d3e29f09510fd8b7f3aefda649438d"
+          }
+        },
+        {
+          "id": "7725-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Электроника и электротехника",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 423",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Югай Андрей Вячеславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/04/20/small/p124795.jpg?token_static=4231934ded37f4970bce991772dd758a"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7725-4-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Инженерная графика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 425",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Степаненков Никита Станиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p131937.jpg?token_static=0ca5f2ea4096ff7cf691f0f82e27465b"
+          }
+        },
+        {
+          "id": "7725-4-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Инженерная графика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 425",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Степаненков Никита Станиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p131937.jpg?token_static=0ca5f2ea4096ff7cf691f0f82e27465b"
+          }
+        },
+        {
+          "id": "7725-4-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Левин Сергей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123537.jpg?token_static=c80696fc3e373517247f83a66b712fe6"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7725-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "ВПР 25 сентября",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "down"
+        },
+        {
+          "id": "7725-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "ВПР 25 сентября",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "down"
+        },
+        {
+          "id": "7725-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Общее устройство судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 421",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Птицын Артём",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/05/26/small/p130699.jpg?token_static=5086a47e1b85b4945976f520bb318d91"
+          }
+        },
+        {
+          "id": "7725-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Общее устройство судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 421",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Птицын Артём",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/05/26/small/p130699.jpg?token_static=5086a47e1b85b4945976f520bb318d91"
+          }
+        },
+        {
+          "id": "7725-5-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Электроника и электротехника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 417",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Югай Андрей Вячеславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/04/20/small/p124795.jpg?token_static=4231934ded37f4970bce991772dd758a"
+          }
+        },
+        {
+          "id": "7725-5-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Электроника и электротехника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Югай Андрей Вячеславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/04/20/small/p124795.jpg?token_static=4231934ded37f4970bce991772dd758a"
+          }
+        },
+        {
+          "id": "7725-5-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "История России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 418",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Левин Сергей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123537.jpg?token_static=c80696fc3e373517247f83a66b712fe6"
+          }
+        }
+      ]
+    }
+  ]
+}

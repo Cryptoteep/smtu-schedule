@@ -1,7 +1,7 @@
 {
   "groupId": "7738",
   "groupName": "10274",
-  "updatedAt": "2026-09-20T13:40:40.768Z",
+  "updatedAt": "2026-09-20T13:47:09.694Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -15,7 +15,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "А ВУЦ",
-          "campus": "Лоцманская (А)",
+          "campus": "Лоцманская (Корпус А)",
           "groupName": "10274",
           "weekParity": "both"
         },
@@ -27,7 +27,7 @@
           "type": "military",
           "rawType": "Практическое занятие",
           "room": "А ВУЦ",
-          "campus": "Лоцманская (А)",
+          "campus": "Лоцманская (Корпус А)",
           "groupName": "10274",
           "weekParity": "both"
         },
@@ -39,7 +39,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 165",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "both",
           "teacher": {
@@ -55,7 +55,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 326",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "up",
           "teacher": {
@@ -71,7 +71,7 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 301",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "down",
           "teacher": {
@@ -93,11 +93,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 536(2)",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "both",
           "teacher": {
             "name": "Ходжаев Рустам Саломович",
+            "id": "105760",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/105760/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/16/small/p105760.jpg?token_static=3d0d9f5f122ca15298918ba28e486a68"
           }
         },
@@ -109,11 +111,13 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 536(2)",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "up",
           "teacher": {
             "name": "Ходжаев Рустам Саломович",
+            "id": "105760",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/105760/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/16/small/p105760.jpg?token_static=3d0d9f5f122ca15298918ba28e486a68"
           }
         },
@@ -125,11 +129,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 161",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "down",
           "teacher": {
             "name": "Чихонадских Елена Александровна",
+            "id": "101326",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
           }
         },
@@ -141,11 +147,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 340(2)",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "up",
           "teacher": {
             "name": "Чихонадских Елена Александровна",
+            "id": "101326",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
           }
         },
@@ -157,11 +165,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 340(1)",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "up",
           "teacher": {
             "name": "Чихонадских Елена Александровна",
+            "id": "101326",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
           }
         },
@@ -173,7 +183,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 245",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "down",
           "teacher": {
@@ -189,7 +199,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 245",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "both",
           "teacher": {
@@ -211,11 +221,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 536(2)",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "both",
           "teacher": {
             "name": "Трусов Валерий Иванович",
+            "id": "101208",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101208/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101208.jpg?token_static=48d2d4be94fc7a8e58a329b1b449f7db"
           }
         },
@@ -227,7 +239,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 245а",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "both",
           "teacher": {
@@ -243,7 +255,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 245а",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "both",
           "teacher": {
@@ -259,7 +271,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 245",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "both",
           "teacher": {
@@ -275,7 +287,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 314",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "both",
           "teacher": {
@@ -297,7 +309,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 167",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "both",
           "teacher": {
@@ -313,11 +325,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 438",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "up",
           "teacher": {
             "name": "Андреев Александр Николаевич",
+            "id": "123117",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123117/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123117.jpg?token_static=fd886bd31e90cac74ae3d7295cb89183"
           }
         },
@@ -329,11 +343,13 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 438",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "down",
           "teacher": {
             "name": "Андреев Александр Николаевич",
+            "id": "123117",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123117/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123117.jpg?token_static=fd886bd31e90cac74ae3d7295cb89183"
           }
         },
@@ -345,11 +361,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 438",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "up",
           "teacher": {
             "name": "Андреев Александр Николаевич",
+            "id": "123117",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123117/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123117.jpg?token_static=fd886bd31e90cac74ae3d7295cb89183"
           }
         },
@@ -361,11 +379,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 438",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "down",
           "teacher": {
             "name": "Андреев Александр Николаевич",
+            "id": "123117",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123117/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123117.jpg?token_static=fd886bd31e90cac74ae3d7295cb89183"
           }
         },
@@ -377,7 +397,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У Спортзал",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "both"
         }
@@ -395,11 +415,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 438",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "up",
           "teacher": {
             "name": "Грибанькова Анжела Алексеевна",
+            "id": "106390",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106390/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/16/small/p106390.jpg?token_static=b36010da9c11264f10037dd15f87a7b5"
           }
         },
@@ -411,11 +433,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 437",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "down",
           "teacher": {
             "name": "Грибанькова Анжела Алексеевна",
+            "id": "106390",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106390/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/16/small/p106390.jpg?token_static=b36010da9c11264f10037dd15f87a7b5"
           }
         },
@@ -427,7 +451,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У Спортзал",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "both"
         },
@@ -439,11 +463,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 536(2)",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "up",
           "teacher": {
             "name": "Ходжаев Рустам Саломович",
+            "id": "105760",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/105760/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/16/small/p105760.jpg?token_static=3d0d9f5f122ca15298918ba28e486a68"
           }
         },
@@ -455,11 +481,13 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 536(2)",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "down",
           "teacher": {
             "name": "Ходжаев Рустам Саломович",
+            "id": "105760",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/105760/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/16/small/p105760.jpg?token_static=3d0d9f5f122ca15298918ba28e486a68"
           }
         }

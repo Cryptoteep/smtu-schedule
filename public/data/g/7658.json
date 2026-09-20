@@ -1,0 +1,585 @@
+{
+  "groupId": "7658",
+  "groupName": "3440",
+  "updatedAt": "2026-09-20T13:47:03.168Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7658-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Техника цифровой обработки сигналов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7658-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Техника цифровой обработки сигналов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 215",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7658-1-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Экспериментальные методы исследований",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 215",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Розанов Михаил Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/09/small/p100991.jpg?token_static=6a71a9ae293d49a298a8d990858e00ef"
+          }
+        },
+        {
+          "id": "7658-1-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование средств виброакустической защиты",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 215",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пименов Игорь Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/13/small/p100902.jpg?token_static=930e20a1f1510ce105773e34853c26fc"
+          }
+        },
+        {
+          "id": "7658-1-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Экспериментальные методы исследований",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 215",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Розанов Михаил Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/09/small/p100991.jpg?token_static=6a71a9ae293d49a298a8d990858e00ef"
+          }
+        },
+        {
+          "id": "7658-1-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технология применения средств защиты морской техники от физических полей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пименов Игорь Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/13/small/p100902.jpg?token_static=930e20a1f1510ce105773e34853c26fc"
+          }
+        },
+        {
+          "id": "7658-1-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Проектирование средств виброакустической защиты",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пименов Игорь Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/13/small/p100902.jpg?token_static=930e20a1f1510ce105773e34853c26fc"
+          }
+        },
+        {
+          "id": "7658-1-15:40-8",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технология применения средств защиты морской техники от физических полей",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пименов Игорь Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/13/small/p100902.jpg?token_static=930e20a1f1510ce105773e34853c26fc"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7658-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "both"
+        },
+        {
+          "id": "7658-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "both"
+        },
+        {
+          "id": "7658-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7658-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Пакеты прикладных программ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Пальникова Оксана Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/08/small/p100867.jpg?token_static=243091ddd3c0c72117ebb7a756956185"
+          }
+        },
+        {
+          "id": "7658-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Гидролокационная защита",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 130",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Филимонова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101252.jpg?token_static=328c5b57462d1329ce139479c07e8a35"
+          }
+        },
+        {
+          "id": "7658-3-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Метрология и стандартизация",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кузнецова Александра Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/02/small/p100611.jpg?token_static=0cf2f585c7b9808f1d627b6b25691e1a"
+          }
+        },
+        {
+          "id": "7658-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Гидролокационная защита",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 130",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Филимонова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101252.jpg?token_static=328c5b57462d1329ce139479c07e8a35"
+          }
+        },
+        {
+          "id": "7658-3-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Метрология и стандартизация",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кузнецова Александра Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/02/small/p100611.jpg?token_static=0cf2f585c7b9808f1d627b6b25691e1a"
+          }
+        },
+        {
+          "id": "7658-3-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы натурных измерений физических полей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 214",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ягло Максим Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/29/small/p107345.jpg?token_static=46523f3b6a35cce1e59dd9bf36f0f2ea"
+          }
+        },
+        {
+          "id": "7658-3-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы натурных измерений физических полей",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 214",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ягло Максим Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/29/small/p107345.jpg?token_static=46523f3b6a35cce1e59dd9bf36f0f2ea"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7658-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Методы натурных измерений физических полей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 215",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пименов Игорь Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/13/small/p100902.jpg?token_static=930e20a1f1510ce105773e34853c26fc"
+          }
+        },
+        {
+          "id": "7658-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Аналитические и численные методы расчета физических полей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Григоров Максим Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113051.jpg?token_static=229a53a2e515b2be673253677af5b9a2"
+          }
+        },
+        {
+          "id": "7658-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование средств виброакустической защиты",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пименов Игорь Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/13/small/p100902.jpg?token_static=930e20a1f1510ce105773e34853c26fc"
+          }
+        },
+        {
+          "id": "7658-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Аналитические и численные методы расчета физических полей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Григоров Максим Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113051.jpg?token_static=229a53a2e515b2be673253677af5b9a2"
+          }
+        },
+        {
+          "id": "7658-4-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технология применения средств защиты морской техники от физических полей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 215",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пименов Игорь Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/13/small/p100902.jpg?token_static=930e20a1f1510ce105773e34853c26fc"
+          }
+        },
+        {
+          "id": "7658-4-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Аналитические и численные методы расчета физических полей",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Григоров Максим Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113051.jpg?token_static=229a53a2e515b2be673253677af5b9a2"
+          }
+        },
+        {
+          "id": "7658-4-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технология применения средств защиты морской техники от физических полей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 215",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пименов Игорь Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/13/small/p100902.jpg?token_static=930e20a1f1510ce105773e34853c26fc"
+          }
+        },
+        {
+          "id": "7658-4-17:20-8",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Аналитические и численные методы расчета физических полей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Григоров Максим Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113051.jpg?token_static=229a53a2e515b2be673253677af5b9a2"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7658-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Проектирование средств электромагнитной защиты",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 215",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лаповок Андрей Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/11/small/p106482.jpg?token_static=6c7bbf846ce58c13e4a5778598fb52d1"
+          }
+        },
+        {
+          "id": "7658-5-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Гидрофизические поля (С)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 512",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сезонов Евгений Анатольевич",
+            "id": "122816",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122816/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/07/small/p122816.jpg?token_static=a48a2879a1897ee12cb37ba3eb16fedb"
+          }
+        },
+        {
+          "id": "7658-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Проектирование средств электромагнитной защиты",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 215",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лаповок Андрей Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/11/small/p106482.jpg?token_static=6c7bbf846ce58c13e4a5778598fb52d1"
+          }
+        },
+        {
+          "id": "7658-5-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Гидрофизические поля (С)",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 512",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сезонов Евгений Анатольевич",
+            "id": "122816",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122816/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/07/small/p122816.jpg?token_static=a48a2879a1897ee12cb37ba3eb16fedb"
+          }
+        },
+        {
+          "id": "7658-5-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование средств электромагнитной защиты",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лаповок Андрей Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/11/small/p106482.jpg?token_static=6c7bbf846ce58c13e4a5778598fb52d1"
+          }
+        },
+        {
+          "id": "7658-5-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Гидрофизические поля (С)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 512",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сезонов Евгений Анатольевич",
+            "id": "122816",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122816/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/07/small/p122816.jpg?token_static=a48a2879a1897ee12cb37ba3eb16fedb"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7658-6-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Золотов Алексей Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/127835.jpg?token_static=366477f80a1bc86b4a7ece2949998ad7"
+          }
+        },
+        {
+          "id": "7658-6-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Золотов Алексей Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/127835.jpg?token_static=366477f80a1bc86b4a7ece2949998ad7"
+          }
+        }
+      ]
+    }
+  ]
+}

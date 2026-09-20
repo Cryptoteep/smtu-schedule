@@ -1,0 +1,308 @@
+{
+  "groupId": "7696",
+  "groupName": "5270",
+  "updatedAt": "2026-09-20T13:47:00.655Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7696-1-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Седова Елена Германовна",
+            "id": "101047",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101047/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101047.jpg?token_static=99a98d22dfdb03c33fb502d171e041d5"
+          }
+        },
+        {
+          "id": "7696-1-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Седова Елена Германовна",
+            "id": "101047",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101047/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101047.jpg?token_static=99a98d22dfdb03c33fb502d171e041d5"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7696-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Прикладная механика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 154",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Федотова Ираида Александровна",
+            "id": "122755",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122755/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/20/small/p122755.jpg?token_static=1e8470bed47c190588e0d9adb0588b30"
+          }
+        },
+        {
+          "id": "7696-2-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 301",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рытов Евгений Юрьевич",
+            "id": "101015",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101015/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101015.jpg?token_static=683859205b38587375e093ab8c155358"
+          }
+        },
+        {
+          "id": "7696-2-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Механика поршневых машин",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 154",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гурьянов Михаил Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/06/05/small/p114729.jpg?token_static=40e6058f1bcbbc4e6ecc0e45356eac1e"
+          }
+        },
+        {
+          "id": "7696-2-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Прикладная механика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 311",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Черенкова Светлана Валентиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101308.jpg?token_static=58d96d50199b18d7731fc8afb996c5a3"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7696-3-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Физика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5270",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Рытов Евгений Юрьевич",
+            "id": "101015",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101015/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101015.jpg?token_static=683859205b38587375e093ab8c155358"
+          }
+        },
+        {
+          "id": "7696-3-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Детали машин и основы конструирования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пазилова Ульяна Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100866.jpg?token_static=a956881f8b0e4ef38b028aab8dc13f76"
+          }
+        },
+        {
+          "id": "7696-3-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Философия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5270",
+          "weekParity": "down",
+          "dateSpecific": "07.09 по 19.10",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7696-4-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Детали машин и основы конструирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 312",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пазилова Ульяна Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100866.jpg?token_static=a956881f8b0e4ef38b028aab8dc13f76"
+          }
+        },
+        {
+          "id": "7696-4-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 443",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Седова Елена Германовна",
+            "id": "101047",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101047/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101047.jpg?token_static=99a98d22dfdb03c33fb502d171e041d5"
+          }
+        },
+        {
+          "id": "7696-4-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 443",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Седова Елена Германовна",
+            "id": "101047",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101047/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101047.jpg?token_static=99a98d22dfdb03c33fb502d171e041d5"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7696-5-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Компьютерное конструирование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гурьянов Михаил Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/06/05/small/p114729.jpg?token_static=40e6058f1bcbbc4e6ecc0e45356eac1e"
+          }
+        },
+        {
+          "id": "7696-5-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Двигатели и транспортные средства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 412",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гурьянов Михаил Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/06/05/small/p114729.jpg?token_static=40e6058f1bcbbc4e6ecc0e45356eac1e"
+          }
+        },
+        {
+          "id": "7696-5-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Двигатели и транспортные средства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гурьянов Михаил Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/06/05/small/p114729.jpg?token_static=40e6058f1bcbbc4e6ecc0e45356eac1e"
+          }
+        },
+        {
+          "id": "7696-5-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Компьютерное конструирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 412",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гурьянов Михаил Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/06/05/small/p114729.jpg?token_static=40e6058f1bcbbc4e6ecc0e45356eac1e"
+          }
+        }
+      ]
+    }
+  ]
+}

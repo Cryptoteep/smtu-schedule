@@ -1,0 +1,557 @@
+{
+  "groupId": "7573",
+  "groupName": "1450",
+  "updatedAt": "2026-09-20T13:46:57.288Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7573-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Морские операции на шельфе",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Осипов Михаил Витальевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/17/small/p124939.jpg?token_static=7be741702f2fd760ee211c93dbccd41c"
+          }
+        },
+        {
+          "id": "7573-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическое моделирование объектов океанотехники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Добродеев Алексей Алексеевич",
+            "id": "122046",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122046/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/14/small/p122046.jpg?token_static=4dab72b69bce1c7516f698cc6e4ff45a"
+          }
+        },
+        {
+          "id": "7573-1-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическое моделирование объектов океанотехники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Добродеев Алексей Алексеевич",
+            "id": "122046",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122046/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/14/small/p122046.jpg?token_static=4dab72b69bce1c7516f698cc6e4ff45a"
+          }
+        },
+        {
+          "id": "7573-1-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Подводно-технические работы на море",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чеснокова Ирина Геннадьевна",
+            "id": "101318",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101318/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101318.jpg?token_static=cd623e72331c78c7f77105b9acfec1f9"
+          }
+        },
+        {
+          "id": "7573-1-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Подводно-технические работы на море",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чеснокова Ирина Геннадьевна",
+            "id": "101318",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101318/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101318.jpg?token_static=cd623e72331c78c7f77105b9acfec1f9"
+          }
+        },
+        {
+          "id": "7573-1-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Специальное программное обеспечение для расчетов средств океанотехники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 206",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Едуш Наталья Юрьевна",
+            "id": "100364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7573-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Алешина Елена Владимировна",
+            "id": "123129",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123129/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123129.jpg?token_static=c57301c6fc89bb528160cb158c513074"
+          }
+        },
+        {
+          "id": "7573-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическое моделирование объектов океанотехники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Добродеев Алексей Алексеевич",
+            "id": "122046",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122046/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/14/small/p122046.jpg?token_static=4dab72b69bce1c7516f698cc6e4ff45a"
+          }
+        },
+        {
+          "id": "7573-2-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Алешина Елена Владимировна",
+            "id": "123129",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123129/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123129.jpg?token_static=c57301c6fc89bb528160cb158c513074"
+          }
+        },
+        {
+          "id": "7573-2-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Техническая инспекция средств океанотехники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Вербицкий Сергей Владимирович",
+            "id": "100204",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100204/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100204.jpg?token_static=2713abca32ca2f5d770960ec3e27f440"
+          }
+        },
+        {
+          "id": "7573-2-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Надежность средств океанотехники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 309а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гончаров Вадим Константинович",
+            "id": "100280",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100280/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100280.jpg?token_static=3d883bdfe67e335d08cac7cf1213e0e1"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7573-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Надежность средств океанотехники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гончаров Вадим Константинович",
+            "id": "100280",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100280/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100280.jpg?token_static=3d883bdfe67e335d08cac7cf1213e0e1"
+          }
+        },
+        {
+          "id": "7573-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Надежность средств океанотехники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гончаров Вадим Константинович",
+            "id": "100280",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100280/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100280.jpg?token_static=3d883bdfe67e335d08cac7cf1213e0e1"
+          }
+        },
+        {
+          "id": "7573-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование средств океанотехники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Квятковская Елена Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p104676.jpg?token_static=73f8aa365721b9924489294afbc8ab74"
+          }
+        },
+        {
+          "id": "7573-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технология постройки морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чулкин Сергей Георгиевич",
+            "id": "101331",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101331/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101331.jpg?token_static=6918fb7ad00b49ab93f0dd8b0518b2ca"
+          }
+        },
+        {
+          "id": "7573-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технология постройки морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чулкин Сергей Георгиевич",
+            "id": "101331",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101331/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101331.jpg?token_static=6918fb7ad00b49ab93f0dd8b0518b2ca"
+          }
+        },
+        {
+          "id": "7573-3-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технология постройки морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чулкин Сергей Георгиевич",
+            "id": "101331",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101331/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101331.jpg?token_static=6918fb7ad00b49ab93f0dd8b0518b2ca"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7573-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1450",
+          "weekParity": "both"
+        },
+        {
+          "id": "7573-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1450",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7573-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Специальное программное обеспечение для расчетов средств океанотехники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 501(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кравцов Никита Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/04/17/small/p128883.jpg?token_static=3808880e1222813ee0a2c97e02551fd5"
+          }
+        },
+        {
+          "id": "7573-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория риска при создании и эксплуатации средств океанотехники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Любимов Ярослав Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/12/small/p127485.jpg?token_static=7b0150e50ca96057774ed4a15dbc34b7"
+          }
+        },
+        {
+          "id": "7573-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория риска при создании и эксплуатации средств океанотехники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Любимов Ярослав Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/12/small/p127485.jpg?token_static=7b0150e50ca96057774ed4a15dbc34b7"
+          }
+        },
+        {
+          "id": "7573-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технология буровых работ на море",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чеснокова Ирина Геннадьевна",
+            "id": "101318",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101318/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101318.jpg?token_static=cd623e72331c78c7f77105b9acfec1f9"
+          }
+        },
+        {
+          "id": "7573-5-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технология буровых работ на море",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чеснокова Ирина Геннадьевна",
+            "id": "101318",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101318/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101318.jpg?token_static=cd623e72331c78c7f77105b9acfec1f9"
+          }
+        },
+        {
+          "id": "7573-5-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Специальное программное обеспечение для расчетов средств океанотехники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 206",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Едуш Наталья Юрьевна",
+            "id": "100364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7573-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Морские операции на шельфе",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Осипов Михаил Витальевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/17/small/p124939.jpg?token_static=7be741702f2fd760ee211c93dbccd41c"
+          }
+        },
+        {
+          "id": "7573-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Техническая инспекция средств океанотехники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Вербицкий Сергей Владимирович",
+            "id": "100204",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100204/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100204.jpg?token_static=2713abca32ca2f5d770960ec3e27f440"
+          }
+        },
+        {
+          "id": "7573-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Техническая инспекция средств океанотехники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Вербицкий Сергей Владимирович",
+            "id": "100204",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100204/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100204.jpg?token_static=2713abca32ca2f5d770960ec3e27f440"
+          }
+        },
+        {
+          "id": "7573-6-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Проектирование средств океанотехники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Бережной Константин Геннадьевич",
+            "id": "100102",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100102/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/12/21/small/p100102.jpg?token_static=f69a9d6a1fb1d3917ff5c2b1d48c88b2"
+          }
+        },
+        {
+          "id": "7573-6-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Специальное программное обеспечение для расчетов средств океанотехники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 501(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кравцов Никита Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/04/17/small/p128883.jpg?token_static=3808880e1222813ee0a2c97e02551fd5"
+          }
+        }
+      ]
+    }
+  ]
+}

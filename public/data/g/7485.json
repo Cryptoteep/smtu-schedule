@@ -1,0 +1,614 @@
+{
+  "groupId": "7485",
+  "groupName": "1320",
+  "updatedAt": "2026-09-20T13:46:56.721Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7485-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Корабельное электрооборудование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1320",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Гришаков Евгений Сергеевич",
+            "id": "100304",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100304/"
+          }
+        },
+        {
+          "id": "7485-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Математическое моделирование статики и динамики морских инженерных сооружений",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 422",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Капонен Валерий Арвиевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p100495.jpg?token_static=1cad03b1b677b2c048933e25e7b44bdf"
+          }
+        },
+        {
+          "id": "7485-1-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Математическое моделирование статики и динамики морских инженерных сооружений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 422",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Капонен Валерий Арвиевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p100495.jpg?token_static=1cad03b1b677b2c048933e25e7b44bdf"
+          }
+        },
+        {
+          "id": "7485-1-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Математические модели оптимизации морских нефтегазовых сооружений",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 309а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Любимов Ярослав Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/12/small/p127485.jpg?token_static=7b0150e50ca96057774ed4a15dbc34b7"
+          }
+        },
+        {
+          "id": "7485-1-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Математические модели оптимизации морских нефтегазовых сооружений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 309а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Любимов Ярослав Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/12/small/p127485.jpg?token_static=7b0150e50ca96057774ed4a15dbc34b7"
+          }
+        },
+        {
+          "id": "7485-1-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Математические модели оптимизации морских нефтегазовых сооружений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 309а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Любимов Ярослав Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/12/small/p127485.jpg?token_static=7b0150e50ca96057774ed4a15dbc34b7"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7485-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1320",
+          "weekParity": "both"
+        },
+        {
+          "id": "7485-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1320",
+          "weekParity": "both"
+        },
+        {
+          "id": "7485-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1320",
+          "weekParity": "both"
+        },
+        {
+          "id": "7485-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1320",
+          "weekParity": "down"
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7485-3-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Прочность и вибрация конструкций морских нефтегазовых сооружений",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Коршунов Владимир Александрович",
+            "id": "100566",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100566/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100566.jpg?token_static=d6c761e9ea105214cda2121cde1e5712"
+          }
+        },
+        {
+          "id": "7485-3-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Прочность и вибрация конструкций морских нефтегазовых сооружений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Коршунов Владимир Александрович",
+            "id": "100566",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100566/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100566.jpg?token_static=d6c761e9ea105214cda2121cde1e5712"
+          }
+        },
+        {
+          "id": "7485-3-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Конструкция морских инженерных сооружений",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 207",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бойко Максим Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/21/small/p100129.jpg?token_static=c27035600c48dc672ff3fe449eda3efc"
+          }
+        },
+        {
+          "id": "7485-3-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Конструкция морских инженерных сооружений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 207",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бойко Максим Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/21/small/p100129.jpg?token_static=c27035600c48dc672ff3fe449eda3efc"
+          }
+        },
+        {
+          "id": "7485-3-20:40-5",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 6,
+          "subject": "Конструкция морских инженерных сооружений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 207",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бойко Максим Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/21/small/p100129.jpg?token_static=c27035600c48dc672ff3fe449eda3efc"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7485-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Метрология, стандартизация и сертификация",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ромадин Дмитрий Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/08/small/p124281.jpg?token_static=35c0aed366ab63318d2455cf21c381bb"
+          }
+        },
+        {
+          "id": "7485-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Корабельное электрооборудование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гришаков Евгений Сергеевич",
+            "id": "100304",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100304/"
+          }
+        },
+        {
+          "id": "7485-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Корабельное электрооборудование",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гришаков Евгений Сергеевич",
+            "id": "100304",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100304/"
+          }
+        },
+        {
+          "id": "7485-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Метрология, стандартизация и сертификация",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мальцева Юлия Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100720.jpg?token_static=f8e418990bfc22189eb5747b7ad16701"
+          }
+        },
+        {
+          "id": "7485-4-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 309а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Зуева Екатерина Сергеевна",
+            "id": "100432",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100432/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p100432.jpg?token_static=b3926a065385abad8a5ee8e108279ed6"
+          }
+        },
+        {
+          "id": "7485-4-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 309а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Зуева Екатерина Сергеевна",
+            "id": "100432",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100432/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p100432.jpg?token_static=b3926a065385abad8a5ee8e108279ed6"
+          }
+        },
+        {
+          "id": "7485-4-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 309а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Зуева Екатерина Сергеевна",
+            "id": "100432",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100432/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p100432.jpg?token_static=b3926a065385abad8a5ee8e108279ed6"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7485-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Технология аварийно-спасательных и подводно-технических работ на море",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 309а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Едуш Наталья Юрьевна",
+            "id": "100364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+          }
+        },
+        {
+          "id": "7485-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ведерников Юрий Вадимович",
+            "id": "123303",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
+          }
+        },
+        {
+          "id": "7485-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технология аварийно-спасательных и подводно-технических работ на море",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 309а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Едуш Наталья Юрьевна",
+            "id": "100364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+          }
+        },
+        {
+          "id": "7485-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ведерников Юрий Вадимович",
+            "id": "123303",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
+          }
+        },
+        {
+          "id": "7485-5-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Сооружения морской нефтегазовой индустрии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 309а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Зуева Екатерина Сергеевна",
+            "id": "100432",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100432/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p100432.jpg?token_static=b3926a065385abad8a5ee8e108279ed6"
+          }
+        },
+        {
+          "id": "7485-5-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Стеткар Мария Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/10/14/small/p128639.jpg?token_static=413803e12024ddf9f03be17dfacfd473"
+          }
+        },
+        {
+          "id": "7485-5-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Сооружения морской нефтегазовой индустрии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 309а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Зуева Екатерина Сергеевна",
+            "id": "100432",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100432/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p100432.jpg?token_static=b3926a065385abad8a5ee8e108279ed6"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7485-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Серов Алексей Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/30/small/p105269.jpg?token_static=254d96391f2a1b1b7d928fbb085d2d4e"
+          }
+        },
+        {
+          "id": "7485-6-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "both",
+          "dateSpecific": "19.09",
+          "teacher": {
+            "name": "Серов Алексей Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/30/small/p105269.jpg?token_static=254d96391f2a1b1b7d928fbb085d2d4e"
+          }
+        },
+        {
+          "id": "7485-6-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Экологические аспекты при обустройстве морских месторождений",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 309а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Любимов Ярослав Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/12/small/p127485.jpg?token_static=7b0150e50ca96057774ed4a15dbc34b7"
+          }
+        },
+        {
+          "id": "7485-6-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Экологические аспекты при обустройстве морских месторождений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 309а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Любимов Ярослав Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/12/small/p127485.jpg?token_static=7b0150e50ca96057774ed4a15dbc34b7"
+          }
+        },
+        {
+          "id": "7485-6-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Серов Алексей Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/30/small/p105269.jpg?token_static=254d96391f2a1b1b7d928fbb085d2d4e"
+          }
+        },
+        {
+          "id": "7485-6-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "both",
+          "dateSpecific": "19.09",
+          "teacher": {
+            "name": "Серов Алексей Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/30/small/p105269.jpg?token_static=254d96391f2a1b1b7d928fbb085d2d4e"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,475 @@
+{
+  "groupId": "7550",
+  "groupName": "1262",
+  "updatedAt": "2026-09-20T13:46:55.951Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7550-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Транспортировка нефти и газа",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 501(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1262",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Осипов Михаил Витальевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/17/small/p124939.jpg?token_static=7be741702f2fd760ee211c93dbccd41c"
+          }
+        },
+        {
+          "id": "7550-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование скоростных судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 610",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1262",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Демешко Геннадий Федорович",
+            "id": "100328",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100328/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100328.jpg?token_static=83ba06f60fbb9d93121f082cb75db24a"
+          }
+        },
+        {
+          "id": "7550-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование скоростных судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 610",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Демешко Геннадий Федорович",
+            "id": "100328",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100328/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100328.jpg?token_static=83ba06f60fbb9d93121f082cb75db24a"
+          }
+        },
+        {
+          "id": "7550-1-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Автоматизированные системы технологической подготовки производства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 610",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Фирсова Анна Валентиновна",
+            "id": "101258",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101258/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/05/22/small/p101258.jpg?token_static=8dab6470258b3163cbed9293ba1029e5"
+          }
+        },
+        {
+          "id": "7550-1-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Автоматизированные системы технологической подготовки производства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Буров Даниил Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/20/small/p123667.jpg?token_static=beac735d6215e12dbfb988ac68365555"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7550-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1262",
+          "weekParity": "both"
+        },
+        {
+          "id": "7550-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1262",
+          "weekParity": "both"
+        },
+        {
+          "id": "7550-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1262",
+          "weekParity": "both"
+        },
+        {
+          "id": "7550-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1262",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7550-3-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Ледовая навигация",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1262",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гончаров Вадим Константинович",
+            "id": "100280",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100280/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100280.jpg?token_static=3d883bdfe67e335d08cac7cf1213e0e1"
+          }
+        },
+        {
+          "id": "7550-3-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Ледовая навигация",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гончаров Вадим Константинович",
+            "id": "100280",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100280/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100280.jpg?token_static=3d883bdfe67e335d08cac7cf1213e0e1"
+          }
+        },
+        {
+          "id": "7550-3-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Логистика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1262",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Майорова Ксения Сергеевна",
+            "id": "102450",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102450/"
+          }
+        },
+        {
+          "id": "7550-3-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Логистика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Майорова Ксения Сергеевна",
+            "id": "102450",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102450/"
+          }
+        },
+        {
+          "id": "7550-3-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технология судостроения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 410",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1262",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Фирсова Анна Валентиновна",
+            "id": "101258",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101258/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/05/22/small/p101258.jpg?token_static=8dab6470258b3163cbed9293ba1029e5"
+          }
+        },
+        {
+          "id": "7550-3-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технология судостроения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 410",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лазарев Дмитрий Романович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/01/small/p130363.jpg?token_static=f5485446078c8a0fbbc3112cc3e8aad4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7550-4-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория риска при проектировании морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Любимов Ярослав Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/12/small/p127485.jpg?token_static=7b0150e50ca96057774ed4a15dbc34b7"
+          }
+        },
+        {
+          "id": "7550-4-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Проектирование судовых систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1262",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кадомцева Алена Борисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/24/small/p101729.jpg?token_static=42f1ea8a8c9f9b344c7d98703b289299"
+          }
+        },
+        {
+          "id": "7550-4-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория риска при проектировании морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Любимов Ярослав Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/12/small/p127485.jpg?token_static=7b0150e50ca96057774ed4a15dbc34b7"
+          }
+        },
+        {
+          "id": "7550-4-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Проектирование судовых систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1262",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кадомцева Алена Борисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/24/small/p101729.jpg?token_static=42f1ea8a8c9f9b344c7d98703b289299"
+          }
+        },
+        {
+          "id": "7550-4-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Проектирование судовых систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 318",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кадомцева Алена Борисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/24/small/p101729.jpg?token_static=42f1ea8a8c9f9b344c7d98703b289299"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7550-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Цифровые трансформации в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1262",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Завьялов Артем Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/10/small/p125367.jpg?token_static=e9be5f756fd0ae8a47d7bfc7e7b4d7b6"
+          }
+        },
+        {
+          "id": "7550-5-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Цифровые трансформации в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1262",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Завьялов Артем Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/10/small/p125367.jpg?token_static=e9be5f756fd0ae8a47d7bfc7e7b4d7b6"
+          }
+        },
+        {
+          "id": "7550-5-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Цифровые трансформации в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 154",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1262",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Липис Алексей Викторович",
+            "id": "100677",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100677/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/11/12/small/p100677.jpg?token_static=35ac23d3b3b37e54d55a7264b7f8e46d"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7550-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1262",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Богомолов Владимир Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/11/11/small/p107994.jpg?token_static=8102e9db97a0c475b36a35bf051e77cd"
+          }
+        },
+        {
+          "id": "7550-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1262",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Богомолов Владимир Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/11/11/small/p107994.jpg?token_static=8102e9db97a0c475b36a35bf051e77cd"
+          }
+        },
+        {
+          "id": "7550-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1262",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Богомолов Владимир Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/11/11/small/p107994.jpg?token_static=8102e9db97a0c475b36a35bf051e77cd"
+          }
+        },
+        {
+          "id": "7550-6-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1262",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Богомолов Владимир Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/11/11/small/p107994.jpg?token_static=8102e9db97a0c475b36a35bf051e77cd"
+          }
+        }
+      ]
+    }
+  ]
+}

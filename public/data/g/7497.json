@@ -1,0 +1,540 @@
+{
+  "groupId": "7497",
+  "groupName": "7201",
+  "updatedAt": "2026-09-20T13:47:09.365Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7497-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "7201",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7497-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Институциональная экономика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Прозоровская Камилла Александровна",
+            "id": "100945",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100945/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100945.jpg?token_static=d755f1e819d4a1f558a1b4dbe38eca41"
+          }
+        },
+        {
+          "id": "7497-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Экономическая социология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 02ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Вишталь Мария Игоревна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p102084.jpg?token_static=3d038eaa70eb8f688d80b9568c075f89"
+          }
+        },
+        {
+          "id": "7497-2-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Экономическая социология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 407",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Вишталь Мария Игоревна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p102084.jpg?token_static=3d038eaa70eb8f688d80b9568c075f89"
+          }
+        },
+        {
+          "id": "7497-2-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Социология девиантного поведения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 209ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Романова Виктория Алексеевна",
+            "id": "104884",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104884/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104884.jpg?token_static=a3fc5e849a507d011c794fa4548055fb"
+          }
+        },
+        {
+          "id": "7497-2-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Социология семьи",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шмырева Ольга Валерьевна",
+            "id": "101372",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7497-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Институциональная экономика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Прозоровская Камилла Александровна",
+            "id": "100945",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100945/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100945.jpg?token_static=d755f1e819d4a1f558a1b4dbe38eca41"
+          }
+        },
+        {
+          "id": "7497-3-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Экономическая теория",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Аминова Фируза Исмоиловна",
+            "id": "123130",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123130/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/10/13/small/p123130.jpg?token_static=4724c05c4e570ece330418b4285ed9da"
+          }
+        },
+        {
+          "id": "7497-3-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 154",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шмырева Ольга Валерьевна",
+            "id": "101372",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
+          }
+        },
+        {
+          "id": "7497-3-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Экономическая теория",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Аминова Фируза Исмоиловна",
+            "id": "123130",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123130/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/10/13/small/p123130.jpg?token_static=4724c05c4e570ece330418b4285ed9da"
+          }
+        },
+        {
+          "id": "7497-3-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "up"
+        },
+        {
+          "id": "7497-3-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Религиоведение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 544",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Солдатов Андрей Александрович",
+            "id": "101131",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101131/"
+          }
+        },
+        {
+          "id": "7497-3-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Философия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 01Ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шмырева Ольга Валерьевна",
+            "id": "101372",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7497-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Экономическая социология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 01Ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Прозоровская Камилла Александровна",
+            "id": "100945",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100945/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100945.jpg?token_static=d755f1e819d4a1f558a1b4dbe38eca41"
+          }
+        },
+        {
+          "id": "7497-4-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Политология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 01Ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Козырев Александр Борисович",
+            "id": "100538",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100538/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100538.jpg?token_static=fa9574620f938d52e5638d422b57fb04"
+          }
+        },
+        {
+          "id": "7497-4-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Политология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Козырев Александр Борисович",
+            "id": "100538",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100538/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100538.jpg?token_static=fa9574620f938d52e5638d422b57fb04"
+          }
+        },
+        {
+          "id": "7497-4-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Математика. Теория вероятностей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 410",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Забавникова Татьяна Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/10/small/p128144.jpg?token_static=0a22e705380705821d98fffef1eee980"
+          }
+        },
+        {
+          "id": "7497-4-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Политология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Козырев Александр Борисович",
+            "id": "100538",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100538/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100538.jpg?token_static=fa9574620f938d52e5638d422b57fb04"
+          }
+        },
+        {
+          "id": "7497-4-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Математика. Теория вероятностей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Забавникова Татьяна Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/10/small/p128144.jpg?token_static=0a22e705380705821d98fffef1eee980"
+          }
+        },
+        {
+          "id": "7497-4-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Социология семьи",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 105",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Шмырева Ольга Валерьевна",
+            "id": "101372",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7497-5-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "both"
+        },
+        {
+          "id": "7497-5-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Социология девиантного поведения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Голованова Оксана Владимировна",
+            "id": "100277",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100277/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/29/small/p100277.jpg?token_static=82fac71e5bf4707c30a33e1d670dbeec"
+          }
+        },
+        {
+          "id": "7497-5-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Религиоведение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Солдатов Андрей Александрович",
+            "id": "101131",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101131/"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7497-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 154",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "down"
+        },
+        {
+          "id": "7497-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "История социологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Медведев Владимир Иванович",
+            "id": "100748",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+          }
+        },
+        {
+          "id": "7497-6-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "История социологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Медведев Владимир Иванович",
+            "id": "100748",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+          }
+        },
+        {
+          "id": "7497-6-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "История социологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Медведев Владимир Иванович",
+            "id": "100748",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+          }
+        },
+        {
+          "id": "7497-6-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "История социологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Медведев Владимир Иванович",
+            "id": "100748",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+          }
+        },
+        {
+          "id": "7497-6-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Деловые коммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 504",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Березовская Ирина Петровна"
+          }
+        },
+        {
+          "id": "7497-6-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7201",
+          "weekParity": "down"
+        }
+      ]
+    }
+  ]
+}

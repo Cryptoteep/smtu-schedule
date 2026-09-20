@@ -1,7 +1,7 @@
 {
   "groupId": "7624",
   "groupName": "3210",
-  "updatedAt": "2026-09-20T13:40:38.610Z",
+  "updatedAt": "2026-09-20T13:47:01.542Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -15,7 +15,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Г 407",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "up",
           "teacher": {
@@ -31,7 +31,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Г 407",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "down",
           "teacher": {
@@ -47,7 +47,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Г 407",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "up",
           "teacher": {
@@ -63,7 +63,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Г 407",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "down",
           "teacher": {
@@ -79,11 +79,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Г 408",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "up",
           "teacher": {
             "name": "Сакович Сергей Юрьевич",
+            "id": "101024",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
           }
         },
@@ -95,11 +97,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Г 408",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "up",
           "teacher": {
             "name": "Сакович Сергей Юрьевич",
+            "id": "101024",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
           }
         }
@@ -117,7 +121,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Г 216",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "both"
         },
@@ -129,7 +133,7 @@
           "type": "military",
           "rawType": "Практическое занятие",
           "room": "Г 216",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "both"
         },
@@ -141,7 +145,7 @@
           "type": "military",
           "rawType": "Практическое занятие",
           "room": "Г 216",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "both"
         }
@@ -159,7 +163,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Г 406",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "up",
           "teacher": {
@@ -175,11 +179,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Г 425",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "down",
           "teacher": {
             "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
           }
         },
@@ -191,7 +197,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Г 406",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "up",
           "teacher": {
@@ -207,11 +213,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Г 425",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "down",
           "teacher": {
             "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
           }
         },
@@ -223,7 +231,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Г 406",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "up",
           "teacher": {
@@ -239,11 +247,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Г 425",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "down",
           "teacher": {
             "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
           }
         },
@@ -255,7 +265,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Г 406",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "up",
           "teacher": {
@@ -277,7 +287,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Г 425",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "both",
           "teacher": {
@@ -293,7 +303,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Г 425",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "up",
           "teacher": {
@@ -309,7 +319,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Г 425",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "down",
           "teacher": {
@@ -331,7 +341,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Г 312",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "up",
           "teacher": {
@@ -347,7 +357,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Г 312",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "down",
           "teacher": {
@@ -363,7 +373,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Г 312",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "up",
           "teacher": {
@@ -379,7 +389,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Г 312",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "down",
           "teacher": {
@@ -395,11 +405,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Г 412",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "up",
           "teacher": {
             "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
           }
         },
@@ -411,11 +423,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Г 426",
-          "campus": "Горьковская (Г)",
+          "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
           "weekParity": "up",
           "teacher": {
             "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
           }
         }
@@ -433,12 +447,14 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Б 401",
-          "campus": "Лоцманская (Б)",
+          "campus": "Лоцманская (Корпус Б)",
           "groupName": "3210",
           "weekParity": "both",
           "dateSpecific": "17.10 и 24.10",
           "teacher": {
             "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
           }
         },
@@ -450,12 +466,14 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Б 401",
-          "campus": "Лоцманская (Б)",
+          "campus": "Лоцманская (Корпус Б)",
           "groupName": "3210",
           "weekParity": "both",
           "dateSpecific": "17.10 и 24.10",
           "teacher": {
             "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
           }
         },
@@ -467,12 +485,14 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Б 401",
-          "campus": "Лоцманская (Б)",
+          "campus": "Лоцманская (Корпус Б)",
           "groupName": "3210",
           "weekParity": "both",
           "dateSpecific": "17.10 и 24.10",
           "teacher": {
             "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
           }
         },
@@ -484,12 +504,14 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Б 401",
-          "campus": "Лоцманская (Б)",
+          "campus": "Лоцманская (Корпус Б)",
           "groupName": "3210",
           "weekParity": "both",
           "dateSpecific": "17.10 и 24.10",
           "teacher": {
             "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
           }
         }

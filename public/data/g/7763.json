@@ -1,0 +1,508 @@
+{
+  "groupId": "7763",
+  "groupName": "20300",
+  "updatedAt": "2026-09-20T13:47:05.385Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7763-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Методы оптимизации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 511",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Федорова Татьяна Александровна",
+            "id": "101243",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101243/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101243.jpg?token_static=34cc10c7f2dec8f3d2d541dd9e316dfd"
+          }
+        },
+        {
+          "id": "7763-1-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Методы оптимизации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 511",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Федорова Татьяна Александровна",
+            "id": "101243",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101243/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101243.jpg?token_static=34cc10c7f2dec8f3d2d541dd9e316dfd"
+          }
+        },
+        {
+          "id": "7763-1-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Методы оптимизации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 511",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Федорова Татьяна Александровна",
+            "id": "101243",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101243/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101243.jpg?token_static=34cc10c7f2dec8f3d2d541dd9e316dfd"
+          }
+        },
+        {
+          "id": "7763-1-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория устойчивости и катастроф",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 511",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Федорова Татьяна Александровна",
+            "id": "101243",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101243/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101243.jpg?token_static=34cc10c7f2dec8f3d2d541dd9e316dfd"
+          }
+        },
+        {
+          "id": "7763-1-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория устойчивости и катастроф",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 511",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Федорова Татьяна Александровна",
+            "id": "101243",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101243/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101243.jpg?token_static=34cc10c7f2dec8f3d2d541dd9e316dfd"
+          }
+        },
+        {
+          "id": "7763-1-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория устойчивости и катастроф",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 511",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Федорова Татьяна Александровна",
+            "id": "101243",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101243/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101243.jpg?token_static=34cc10c7f2dec8f3d2d541dd9e316dfd"
+          }
+        },
+        {
+          "id": "7763-1-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Уравнения математической физики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 511",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рыжов Владимир Александрович",
+            "id": "101012",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101012/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/03/small/p101012.jpg?token_static=ef90d7ca1f2951ec306da663eb55fa22"
+          }
+        },
+        {
+          "id": "7763-1-14:00-8",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Уравнения математической физики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 511",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рыжов Владимир Александрович",
+            "id": "101012",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101012/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/03/small/p101012.jpg?token_static=ef90d7ca1f2951ec306da663eb55fa22"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7763-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 505(2)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        },
+        {
+          "id": "7763-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 505(2)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        },
+        {
+          "id": "7763-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Системы компьютерной алгебры",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        },
+        {
+          "id": "7763-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Операционное исчисление",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 511",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Федорова Татьяна Александровна",
+            "id": "101243",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101243/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101243.jpg?token_static=34cc10c7f2dec8f3d2d541dd9e316dfd"
+          }
+        },
+        {
+          "id": "7763-2-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы компьютерной алгебры",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        },
+        {
+          "id": "7763-2-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Операционное исчисление",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 511",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Федорова Татьяна Александровна",
+            "id": "101243",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101243/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101243.jpg?token_static=34cc10c7f2dec8f3d2d541dd9e316dfd"
+          }
+        },
+        {
+          "id": "7763-2-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Системы компьютерной алгебры",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7763-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Уравнения математической физики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рыжов Владимир Александрович",
+            "id": "101012",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101012/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/03/small/p101012.jpg?token_static=ef90d7ca1f2951ec306da663eb55fa22"
+          }
+        },
+        {
+          "id": "7763-4-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        },
+        {
+          "id": "7763-4-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Уравнения математической физики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рыжов Владимир Александрович",
+            "id": "101012",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101012/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/03/small/p101012.jpg?token_static=ef90d7ca1f2951ec306da663eb55fa22"
+          }
+        },
+        {
+          "id": "7763-4-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        },
+        {
+          "id": "7763-4-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Вычислительные методы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Хазанов Владимир Борисович",
+            "id": "101267",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101267/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101267.jpg?token_static=4a3bdd427715af036e24b523a83f0270"
+          }
+        },
+        {
+          "id": "7763-4-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Вычислительные методы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Хазанов Владимир Борисович",
+            "id": "101267",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101267/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101267.jpg?token_static=4a3bdd427715af036e24b523a83f0270"
+          }
+        },
+        {
+          "id": "7763-4-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Вычислительные методы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Хазанов Владимир Борисович",
+            "id": "101267",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101267/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101267.jpg?token_static=4a3bdd427715af036e24b523a83f0270"
+          }
+        },
+        {
+          "id": "7763-4-14:00-8",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Вычислительные методы",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Хазанов Владимир Борисович",
+            "id": "101267",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101267/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101267.jpg?token_static=4a3bdd427715af036e24b523a83f0270"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7763-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20300",
+          "weekParity": "up"
+        },
+        {
+          "id": "7763-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20300",
+          "weekParity": "down",
+          "dateSpecific": "23.10 - 18.12"
+        },
+        {
+          "id": "7763-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20300",
+          "weekParity": "down"
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7763-6-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Арбузов Богдан Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/11/26/small/p127334.jpg?token_static=29f1144041dac363bbd8c28ec8f520bb"
+          }
+        },
+        {
+          "id": "7763-6-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 451",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        }
+      ]
+    }
+  ]
+}

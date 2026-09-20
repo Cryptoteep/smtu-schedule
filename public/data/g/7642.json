@@ -1,0 +1,621 @@
+{
+  "groupId": "7642",
+  "groupName": "3324",
+  "updatedAt": "2026-09-20T13:47:02.418Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7642-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3324",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ведерников Юрий Вадимович",
+            "id": "123303",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
+          }
+        },
+        {
+          "id": "7642-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3324",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ведерников Юрий Вадимович",
+            "id": "123303",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
+          }
+        },
+        {
+          "id": "7642-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3324",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ведерников Юрий Вадимович",
+            "id": "123303",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
+          }
+        },
+        {
+          "id": "7642-1-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материаловедение. Технология конструкционных материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 245",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3324",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Юнусов Фируз Абдукадимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123521.jpg?token_static=0ad0f3727125e27b503247a5b407397f"
+          }
+        },
+        {
+          "id": "7642-1-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материаловедение. Технология конструкционных материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 245а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3324",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Щепелина Дарья Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106091.jpg?token_static=869fd0be91ffb5f55fa6afaab774cb93"
+          }
+        },
+        {
+          "id": "7642-1-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Материаловедение. Технология конструкционных материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3324",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Юнусов Фируз Абдукадимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123521.jpg?token_static=0ad0f3727125e27b503247a5b407397f"
+          }
+        },
+        {
+          "id": "7642-1-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Гидромеханика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 101",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3324",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Яковлев Алексей Юрьевич",
+            "id": "101392",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7642-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Проектирование торпед (ДСП)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 323",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Федотенков Александр Петрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/30/small/p123881.jpg?token_static=9b9239ef9a05aa24632c085cbbe977d1"
+          }
+        },
+        {
+          "id": "7642-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Проектирование торпед (ДСП)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 323",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Федотенков Александр Петрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/30/small/p123881.jpg?token_static=9b9239ef9a05aa24632c085cbbe977d1"
+          }
+        },
+        {
+          "id": "7642-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование торпед (ДСП)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 323",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Федотенков Александр Петрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/30/small/p123881.jpg?token_static=9b9239ef9a05aa24632c085cbbe977d1"
+          }
+        },
+        {
+          "id": "7642-2-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Реактивные двигатели подводных аппаратов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 323",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Огнерубова Дарья Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p123967.jpg?token_static=b7929beb0a8123fa794540d53f55019c"
+          }
+        },
+        {
+          "id": "7642-2-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Реактивные двигатели подводных аппаратов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 317",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Огнерубова Дарья Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p123967.jpg?token_static=b7929beb0a8123fa794540d53f55019c"
+          }
+        },
+        {
+          "id": "7642-2-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы технологии приборостроения и машиностроения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Щукина Елена Викторовна",
+            "id": "122753",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122753/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/03/small/p122753.jpg?token_static=f2559a07b32327bade8503ceba557bbc"
+          }
+        },
+        {
+          "id": "7642-2-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы технологии приборостроения и машиностроения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Щукина Елена Викторовна",
+            "id": "122753",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122753/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/03/small/p122753.jpg?token_static=f2559a07b32327bade8503ceba557bbc"
+          }
+        },
+        {
+          "id": "7642-2-17:20-8",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы технологии приборостроения и машиностроения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Щукина Елена Викторовна",
+            "id": "122753",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122753/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/03/small/p122753.jpg?token_static=f2559a07b32327bade8503ceba557bbc"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7642-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Защита государственной и коммерческой тайны",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Солодко Алексей Вячеславович",
+            "id": "107946",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107946/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/05/small/p107946.jpg?token_static=706374c82abf94c889adadb689798712"
+          }
+        },
+        {
+          "id": "7642-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Защита государственной и коммерческой тайны",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Солодко Алексей Вячеславович",
+            "id": "107946",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107946/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/05/small/p107946.jpg?token_static=706374c82abf94c889adadb689798712"
+          }
+        },
+        {
+          "id": "7642-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы технологии приборостроения и машиностроения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пантелеева Екатерина Игоревна",
+            "id": "123122",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123122/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/22/small/p123122.jpg?token_static=7bd9648d996c310a06098d7a24f060ec"
+          }
+        },
+        {
+          "id": "7642-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Реактивные двигатели подводных аппаратов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 317",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Салимова Наргиз Алибековна",
+            "id": "101026",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101026/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p101026.jpg?token_static=3c569bac73a45c8b7aca82d169bf051e"
+          }
+        },
+        {
+          "id": "7642-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы технологии приборостроения и машиностроения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пантелеева Екатерина Игоревна",
+            "id": "123122",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123122/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/22/small/p123122.jpg?token_static=7bd9648d996c310a06098d7a24f060ec"
+          }
+        },
+        {
+          "id": "7642-3-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Реактивные двигатели подводных аппаратов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 317",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Салимова Наргиз Алибековна",
+            "id": "101026",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101026/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p101026.jpg?token_static=3c569bac73a45c8b7aca82d169bf051e"
+          }
+        },
+        {
+          "id": "7642-3-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы технологии приборостроения и машиностроения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пантелеева Екатерина Игоревна",
+            "id": "123122",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123122/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/22/small/p123122.jpg?token_static=7bd9648d996c310a06098d7a24f060ec"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7642-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Схемотехника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Шилина Екатерина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101361.jpg?token_static=5c4cc058e748d1ac21b1832d804116d2"
+          }
+        },
+        {
+          "id": "7642-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Схемотехника",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 119",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Шилина Екатерина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101361.jpg?token_static=5c4cc058e748d1ac21b1832d804116d2"
+          }
+        },
+        {
+          "id": "7642-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Источники энергии электрических специальных подводных аппаратов и роботов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Жалнин Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/08/26/small/140536.jpg?token_static=1d77635d31b1c869c32cbb09641ec49a"
+          }
+        },
+        {
+          "id": "7642-4-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Источники энергии электрических специальных подводных аппаратов и роботов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Жалнин Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/08/26/small/140536.jpg?token_static=1d77635d31b1c869c32cbb09641ec49a"
+          }
+        },
+        {
+          "id": "7642-4-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы моделирования динамических процессов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 207",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Животнев Николай Сергеевич",
+            "id": "100387",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100387/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/24/small/p100387.jpg?token_static=5ac0f57934eb0351c3ffbf31be1f7978"
+          }
+        },
+        {
+          "id": "7642-4-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы моделирования динамических процессов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 208",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Животнев Николай Сергеевич",
+            "id": "100387",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100387/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/24/small/p100387.jpg?token_static=5ac0f57934eb0351c3ffbf31be1f7978"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7642-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (кадровые офицеры)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "both"
+        },
+        {
+          "id": "7642-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (кадровые офицеры)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "both"
+        },
+        {
+          "id": "7642-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (кадровые офицеры)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7642-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Проектирование торпед (ДСП)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 317",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Федотенков Александр Петрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/30/small/p123881.jpg?token_static=9b9239ef9a05aa24632c085cbbe977d1"
+          }
+        },
+        {
+          "id": "7642-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Гидромеханика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 601",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "3324",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ефимова Мария Андреевна"
+          }
+        },
+        {
+          "id": "7642-6-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Проектирование торпед (ДСП)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 317",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Федотенков Александр Петрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/30/small/p123881.jpg?token_static=9b9239ef9a05aa24632c085cbbe977d1"
+          }
+        },
+        {
+          "id": "7642-6-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Гидромеханика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 601",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "3324",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ефимова Мария Андреевна"
+          }
+        }
+      ]
+    }
+  ]
+}

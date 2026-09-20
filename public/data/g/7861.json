@@ -1,0 +1,127 @@
+{
+  "groupId": "7861",
+  "groupName": "5510",
+  "updatedAt": "2026-09-20T13:46:57.722Z",
+  "days": [
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7861-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Конструкция корпуса судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 207",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5510",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чижевский Виталий Владимирович",
+            "id": "122497",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122497/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/13/small/p122497.jpg?token_static=499cb431d216782196b3269b50471ef5"
+          }
+        },
+        {
+          "id": "7861-2-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Конструкция корпуса судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 207",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5510",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чижевский Виталий Владимирович",
+            "id": "122497",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122497/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/13/small/p122497.jpg?token_static=499cb431d216782196b3269b50471ef5"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7861-3-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Проектирование судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 609",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5510",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Одегова Ольга Витальевна",
+            "id": "100839",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100839/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100839.jpg?token_static=84385e3a9f2a534105dc6c22fbd66084"
+          }
+        },
+        {
+          "id": "7861-3-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 609",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5510",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Одегова Ольга Витальевна",
+            "id": "100839",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100839/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100839.jpg?token_static=84385e3a9f2a534105dc6c22fbd66084"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7861-4-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Проектирование судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 610",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5510",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Карплюк Артём Олегович"
+          }
+        },
+        {
+          "id": "7861-4-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 610",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5510",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Карплюк Артём Олегович"
+          }
+        }
+      ]
+    }
+  ]
+}

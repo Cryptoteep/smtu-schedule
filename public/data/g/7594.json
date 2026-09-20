@@ -1,0 +1,487 @@
+{
+  "groupId": "7594",
+  "groupName": "2275",
+  "updatedAt": "2026-09-20T13:46:59.058Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7594-1-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2275",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Забавникова Татьяна Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/10/small/p128144.jpg?token_static=0a22e705380705821d98fffef1eee980"
+          }
+        },
+        {
+          "id": "7594-1-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Сопротивление материалов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 144",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2275",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гаврильева Татьяна Федоровна",
+            "id": "122678",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122678/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/20/small/p122678.jpg?token_static=764911c79c89d32e8ace6d44a8e8ee35"
+          }
+        },
+        {
+          "id": "7594-1-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Сопротивление материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 144",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2275",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гаврильева Татьяна Федоровна",
+            "id": "122678",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122678/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/20/small/p122678.jpg?token_static=764911c79c89d32e8ace6d44a8e8ee35"
+          }
+        },
+        {
+          "id": "7594-1-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2275",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Смирнова Дарья Леонидовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/21/small/p115788.jpg?token_static=dae84bbc10e7606ca1d3d6f5a714fff4"
+          }
+        },
+        {
+          "id": "7594-1-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2275",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Бабынькина Анна Николаевна",
+            "id": "100061",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100061/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100061.jpg?token_static=ee68ca04b80e7fb2894d1e1918a55f63"
+          }
+        },
+        {
+          "id": "7594-1-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Сопротивление материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2275",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гаврильева Татьяна Федоровна",
+            "id": "122678",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122678/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/20/small/p122678.jpg?token_static=764911c79c89d32e8ace6d44a8e8ee35"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7594-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2275",
+          "weekParity": "both"
+        },
+        {
+          "id": "7594-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2275",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7594-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2275",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Олейник Мария Михайловна",
+            "id": "100842",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100842/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p100842.jpg?token_static=1bdb942e994fdfea306c4750bfd38d50"
+          }
+        },
+        {
+          "id": "7594-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2275",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Олейник Мария Михайловна",
+            "id": "100842",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100842/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p100842.jpg?token_static=1bdb942e994fdfea306c4750bfd38d50"
+          }
+        },
+        {
+          "id": "7594-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Детали машин",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 311",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2275",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Иванова Марина Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/12/06/small/p100452.jpg?token_static=b0a7c13cd5642cab318dfcd633ba3225"
+          }
+        },
+        {
+          "id": "7594-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Сопротивление материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 105",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2275",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Гаврильева Татьяна Федоровна",
+            "id": "122678",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122678/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/20/small/p122678.jpg?token_static=764911c79c89d32e8ace6d44a8e8ee35"
+          }
+        },
+        {
+          "id": "7594-3-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Философия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2275",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шмырева Ольга Валерьевна",
+            "id": "101372",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
+          }
+        },
+        {
+          "id": "7594-3-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2275",
+          "weekParity": "down"
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7594-4-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2275",
+          "weekParity": "up"
+        },
+        {
+          "id": "7594-4-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 443",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2275",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Забавникова Татьяна Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/10/small/p128144.jpg?token_static=0a22e705380705821d98fffef1eee980"
+          }
+        },
+        {
+          "id": "7594-4-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 320 -320а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2275",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Олейник Мария Михайловна",
+            "id": "100842",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100842/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p100842.jpg?token_static=1bdb942e994fdfea306c4750bfd38d50"
+          }
+        },
+        {
+          "id": "7594-4-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 320 -320а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2275",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Олейник Мария Михайловна",
+            "id": "100842",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100842/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p100842.jpg?token_static=1bdb942e994fdfea306c4750bfd38d50"
+          }
+        },
+        {
+          "id": "7594-4-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2275",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шмырева Ольга Валерьевна",
+            "id": "101372",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7594-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2275",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Болдина Ольга Борисовна",
+            "id": "100135",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100135/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100135.jpg?token_static=01c02725c3153eaec7b85aef2066e808"
+          }
+        },
+        {
+          "id": "7594-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2275",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Болдина Ольга Борисовна",
+            "id": "100135",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100135/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100135.jpg?token_static=01c02725c3153eaec7b85aef2066e808"
+          }
+        },
+        {
+          "id": "7594-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теоретические основы электротехники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2275",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Корнев Александр Сергеевич",
+            "id": "107926",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107926/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107926.jpg?token_static=dfcf8831adb92ff91605d30e97e7a399"
+          }
+        },
+        {
+          "id": "7594-5-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теоретические основы электротехники",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2275",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Румянцев Артем Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/30/small/p123825.jpg?token_static=d790bbd3d3b254700f2e3f2b5696bea2"
+          }
+        },
+        {
+          "id": "7594-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теоретические основы электротехники",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 320",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2275",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Корнев Александр Сергеевич",
+            "id": "107926",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107926/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107926.jpg?token_static=dfcf8831adb92ff91605d30e97e7a399"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7594-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2275",
+          "weekParity": "both"
+        },
+        {
+          "id": "7594-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Детали машин",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2275",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сенчурин Леонид Порфирьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/12/14/small/p101059.jpg?token_static=aba7b4065debe2b015d568695387d6cf"
+          }
+        },
+        {
+          "id": "7594-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Материаловедение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2275",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Бабынькина Анна Николаевна",
+            "id": "100061",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100061/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100061.jpg?token_static=ee68ca04b80e7fb2894d1e1918a55f63"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "groupId": "7835",
+  "groupName": "12226-57",
+  "updatedAt": "2026-09-20T13:46:58.416Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7835-1-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Перспективные энергетические установки и их элементы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-57",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Вегнер Антон Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/18/small/p106984.jpg?token_static=78647b25eff2e7938fb9f6a4cc6219fe"
+          }
+        },
+        {
+          "id": "7835-1-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Перспективные энергетические установки и их элементы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-57",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Вегнер Антон Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/18/small/p106984.jpg?token_static=78647b25eff2e7938fb9f6a4cc6219fe"
+          }
+        },
+        {
+          "id": "7835-1-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Автоматизированные системы исследовательского проектирования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 537б",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-57",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Вегнер Антон Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/18/small/p106984.jpg?token_static=78647b25eff2e7938fb9f6a4cc6219fe"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7835-2-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория эксперимента",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-57",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Токаренко София Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128936.jpg?token_static=7dce80773d7ed41ade2f5219bda626bb"
+          }
+        },
+        {
+          "id": "7835-2-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление проектами и инновациями",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-57",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гордеев Николай Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/30/small/p100284.jpg?token_static=7a8acf6c33fda39652d9701465d99e93"
+          }
+        },
+        {
+          "id": "7835-2-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория эксперимента",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-57",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Токаренко София Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128936.jpg?token_static=7dce80773d7ed41ade2f5219bda626bb"
+          }
+        },
+        {
+          "id": "7835-2-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Теория эксперимента",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-57",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Токаренко София Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128936.jpg?token_static=7dce80773d7ed41ade2f5219bda626bb"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7835-3-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы принятия решений в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-57",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Равин Александр Александрович",
+            "id": "100963",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100963/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100963.jpg?token_static=d5943e4bc45704ebe6d3e67f8418c999"
+          }
+        },
+        {
+          "id": "7835-3-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Методы принятия решений в профессиональной деятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-57",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Равин Александр Александрович",
+            "id": "100963",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100963/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100963.jpg?token_static=d5943e4bc45704ebe6d3e67f8418c999"
+          }
+        },
+        {
+          "id": "7835-3-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Иностранный язык в профессиональной и академической коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12226-57",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Суринова Елена Аркадьевна",
+            "id": "101156",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101156/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101156.jpg?token_static=52fd6bee87ec2f49ca409f2f940502c8"
+          }
+        },
+        {
+          "id": "7835-3-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Иностранный язык в профессиональной и академической коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12226-57",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Суринова Елена Аркадьевна",
+            "id": "101156",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101156/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101156.jpg?token_static=52fd6bee87ec2f49ca409f2f940502c8"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7835-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-57",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7835-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление проектами и инновациями",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-57",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гордеев Николай Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/30/small/p100284.jpg?token_static=7a8acf6c33fda39652d9701465d99e93"
+          }
+        },
+        {
+          "id": "7835-5-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Научно-технический семинар",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-57",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ворожейко Анастасия Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/11/small/p106538.jpg?token_static=a46f970454ad734881b8ad2509e37f04"
+          }
+        },
+        {
+          "id": "7835-5-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Научно-технический семинар",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-57",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ворожейко Анастасия Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/11/small/p106538.jpg?token_static=a46f970454ad734881b8ad2509e37f04"
+          }
+        },
+        {
+          "id": "7835-5-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Автоматизированные системы исследовательского проектирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 537б",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-57",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кунгурцев Данил Евгеньевич"
+          }
+        }
+      ]
+    }
+  ]
+}

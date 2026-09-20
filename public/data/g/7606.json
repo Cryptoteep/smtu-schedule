@@ -1,0 +1,413 @@
+{
+  "groupId": "7606",
+  "groupName": "2375",
+  "updatedAt": "2026-09-20T13:46:59.857Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7606-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "both"
+        },
+        {
+          "id": "7606-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "both"
+        },
+        {
+          "id": "7606-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7606-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы технологии машиностроения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Махалов Максим Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/04/small/p139682.jpg?token_static=bf878e8d3433c45b5fdb3d82467c5229"
+          }
+        },
+        {
+          "id": "7606-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы технологии машиностроения",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Махалов Максим Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/04/small/p139682.jpg?token_static=bf878e8d3433c45b5fdb3d82467c5229"
+          }
+        },
+        {
+          "id": "7606-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Конструкторская и технологическая документация",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 537б",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Карпенко Виктория Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/05/small/p106531.jpg?token_static=0c946b260b0b73c6085306b8ac602203"
+          }
+        },
+        {
+          "id": "7606-2-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Конструкторская и технологическая документация",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 537б",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Карпенко Виктория Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/05/small/p106531.jpg?token_static=0c946b260b0b73c6085306b8ac602203"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7606-3-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Термодинамика и тепломассообмен",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2375",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Глазырина Диана Олеговна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
+          }
+        },
+        {
+          "id": "7606-3-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы алгоритмизации и программирования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 537б",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Васильев Алексей Евгеньевич",
+            "id": "122685",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122685/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/18/small/p122685.jpg?token_static=23c1208200a142c486d2f04d9376f1f1"
+          }
+        },
+        {
+          "id": "7606-3-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Термодинамика и тепломассообмен",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 404",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Глазырина Диана Олеговна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
+          }
+        },
+        {
+          "id": "7606-3-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы алгоритмизации и программирования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 537б",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Васильев Алексей Евгеньевич",
+            "id": "122685",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122685/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/18/small/p122685.jpg?token_static=23c1208200a142c486d2f04d9376f1f1"
+          }
+        },
+        {
+          "id": "7606-3-19:00-5",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы алгоритмизации и программирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 537б",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Васильев Алексей Евгеньевич",
+            "id": "122685",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122685/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/18/small/p122685.jpg?token_static=23c1208200a142c486d2f04d9376f1f1"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7606-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Металлорежущие станки, оснастка и инструмент",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ковалев Василий Данилович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128996.jpg?token_static=c71ad6887b486c6af220d394cbf16d21"
+          }
+        },
+        {
+          "id": "7606-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Металлорежущие станки, оснастка и инструмент",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ковалев Василий Данилович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128996.jpg?token_static=c71ad6887b486c6af220d394cbf16d21"
+          }
+        },
+        {
+          "id": "7606-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        },
+        {
+          "id": "7606-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7606-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Правоведение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Радько Анастасия Сергеевна",
+            "id": "100966",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100966/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/11/09/small/p100966.jpg?token_static=6b12ac50507a5e51f661a3dcf45fc8c0"
+          }
+        },
+        {
+          "id": "7606-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Правоведение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 308",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Радько Анастасия Сергеевна",
+            "id": "100966",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100966/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/11/09/small/p100966.jpg?token_static=6b12ac50507a5e51f661a3dcf45fc8c0"
+          }
+        },
+        {
+          "id": "7606-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Инженерные принципы проектирования испытаний машин и механизмов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 537б",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Вегнер Антон Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/18/small/p106984.jpg?token_static=78647b25eff2e7938fb9f6a4cc6219fe"
+          }
+        },
+        {
+          "id": "7606-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Инженерные принципы проектирования испытаний машин и механизмов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 537б",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Вегнер Антон Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/18/small/p106984.jpg?token_static=78647b25eff2e7938fb9f6a4cc6219fe"
+          }
+        },
+        {
+          "id": "7606-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Инженерные принципы проектирования испытаний машин и механизмов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 537б",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Вегнер Антон Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/18/small/p106984.jpg?token_static=78647b25eff2e7938fb9f6a4cc6219fe"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7606-6-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Устройство судов, морская техника и СЭУ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ворожейко Анастасия Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/11/small/p106538.jpg?token_static=a46f970454ad734881b8ad2509e37f04"
+          }
+        },
+        {
+          "id": "7606-6-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Устройство судов, морская техника и СЭУ",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ворожейко Анастасия Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/11/small/p106538.jpg?token_static=a46f970454ad734881b8ad2509e37f04"
+          }
+        }
+      ]
+    }
+  ]
+}

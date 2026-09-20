@@ -1,0 +1,391 @@
+{
+  "groupId": "7726",
+  "groupName": "8270",
+  "updatedAt": "2026-09-20T13:47:11.041Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7726-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 421",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Левин Сергей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123537.jpg?token_static=c80696fc3e373517247f83a66b712fe6"
+          }
+        },
+        {
+          "id": "7726-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "История России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 421",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Левин Сергей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123537.jpg?token_static=c80696fc3e373517247f83a66b712fe6"
+          }
+        },
+        {
+          "id": "7726-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информационные технологии в цифровой экономике",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 424",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Бояров Игорь Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/11/10/small/p139927.jpg?token_static=b4816c47a784e838cdb12f8d976276b1"
+          }
+        },
+        {
+          "id": "7726-1-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы финансовой грамотности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 421",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Корябина Анна Павловна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100568.jpg?token_static=f946be404c919c6c8722e1799777831d"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7726-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Выполнение работ по одной или нескольким  профессиям рабочих, должностей служащих («Кассир»)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319а(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Молявко Елена Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/11/04/small/p139924.jpg?token_static=db93e86a99256f74d7d9545c69068a59"
+          }
+        },
+        {
+          "id": "7726-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Выполнение работ по одной или нескольким  профессиям рабочих, должностей служащих («Кассир»)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319а(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Молявко Елена Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/11/04/small/p139924.jpg?token_static=db93e86a99256f74d7d9545c69068a59"
+          }
+        },
+        {
+          "id": "7726-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы бухгалтерского учета",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319а(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Молявко Елена Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/11/04/small/p139924.jpg?token_static=db93e86a99256f74d7d9545c69068a59"
+          }
+        },
+        {
+          "id": "7726-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физическая культура",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Клеверова Станислава Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/01/16/small/p124699.jpg?token_static=ad67a1148c5ff05c8417abed39368a22"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7726-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Основы бухгалтерского учета",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 420",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Молявко Елена Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/11/04/small/p139924.jpg?token_static=db93e86a99256f74d7d9545c69068a59"
+          }
+        },
+        {
+          "id": "7726-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы бухгалтерского учета",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319а(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Молявко Елена Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/11/04/small/p139924.jpg?token_static=db93e86a99256f74d7d9545c69068a59"
+          }
+        },
+        {
+          "id": "7726-3-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Финансы, денежное обращение и кредит",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319а(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Молявко Елена Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/11/04/small/p139924.jpg?token_static=db93e86a99256f74d7d9545c69068a59"
+          }
+        },
+        {
+          "id": "7726-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Финансы, денежное обращение и кредит",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319а(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Молявко Елена Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/11/04/small/p139924.jpg?token_static=db93e86a99256f74d7d9545c69068a59"
+          }
+        },
+        {
+          "id": "7726-3-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Финансы, денежное обращение и кредит",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319а(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Молявко Елена Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/11/04/small/p139924.jpg?token_static=db93e86a99256f74d7d9545c69068a59"
+          }
+        },
+        {
+          "id": "7726-3-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Финансы, денежное обращение и кредит",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319а(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Молявко Елена Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/11/04/small/p139924.jpg?token_static=db93e86a99256f74d7d9545c69068a59"
+          }
+        },
+        {
+          "id": "7726-3-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы финансовой грамотности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319а(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Корябина Анна Павловна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100568.jpg?token_static=f946be404c919c6c8722e1799777831d"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7726-5-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 418",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Купренюк Светлана Михайловна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123511.jpg?token_static=68ce1dd05f4b715f4a039ea36c619131"
+          }
+        },
+        {
+          "id": "7726-5-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 421",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Купренюк Светлана Михайловна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123511.jpg?token_static=68ce1dd05f4b715f4a039ea36c619131"
+          }
+        },
+        {
+          "id": "7726-5-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 421",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Купренюк Светлана Михайловна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123511.jpg?token_static=68ce1dd05f4b715f4a039ea36c619131"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7726-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Экономика организации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 418",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Луганская Анастасия Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p129661.jpg?token_static=784e830c74e01b80dc74eb73e64706fe"
+          }
+        },
+        {
+          "id": "7726-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Экономика организации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319а(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Луганская Анастасия Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p129661.jpg?token_static=784e830c74e01b80dc74eb73e64706fe"
+          }
+        },
+        {
+          "id": "7726-6-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Экономика организации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 418",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Луганская Анастасия Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p129661.jpg?token_static=784e830c74e01b80dc74eb73e64706fe"
+          }
+        },
+        {
+          "id": "7726-6-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Иностранный язык в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 423",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8270",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мусалаев Башир Гаджибуттаевич",
+            "id": "122533",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122533/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/28/small/p122533.jpg?token_static=8620b886b88c9ebeebb12e069cc3b1cc"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "groupId": "7690",
+  "groupName": "4422",
+  "updatedAt": "2026-09-20T13:47:08.072Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7690-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Цифровой маркетинг",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 304ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рогавичене Лариса Ивановна",
+            "id": "123212",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123212/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/21/small/p123212.jpg?token_static=a34c5734fbf34efb4a1f5b20f3d58875"
+          }
+        },
+        {
+          "id": "7690-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Цифровой маркетинг",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 304ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рогавичене Лариса Ивановна",
+            "id": "123212",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123212/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/21/small/p123212.jpg?token_static=a34c5734fbf34efb4a1f5b20f3d58875"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7690-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Антикризисное управление",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Красильников Алексей Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/03/small/p124551.jpg?token_static=8f058c870d832209b17f6f0960b18415"
+          }
+        },
+        {
+          "id": "7690-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Антикризисное управление",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Красильников Алексей Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/03/small/p124551.jpg?token_static=8f058c870d832209b17f6f0960b18415"
+          }
+        },
+        {
+          "id": "7690-2-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Антикризисное управление",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 304ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Красильников Алексей Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/03/small/p124551.jpg?token_static=8f058c870d832209b17f6f0960b18415"
+          }
+        },
+        {
+          "id": "7690-2-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление затратами и контроллинг",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 209",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гоголюхина Мария Евгеньевна",
+            "id": "100274",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100274/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/27/small/p100274.jpg?token_static=39a45e1b3ba5272bac18b5ce3a124af9"
+          }
+        },
+        {
+          "id": "7690-2-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление затратами и контроллинг",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 209",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гоголюхина Мария Евгеньевна",
+            "id": "100274",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100274/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/27/small/p100274.jpg?token_static=39a45e1b3ba5272bac18b5ce3a124af9"
+          }
+        },
+        {
+          "id": "7690-2-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Финансовый менеджмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 217",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Неуступова Алина Серафимовна",
+            "id": "100807",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100807/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/12/small/p100807.jpg?token_static=2266277177c32b413f2b503d6e3e84ee"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7690-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Проектный менеджмент в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 209",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Алехин Михаил Юрьевич",
+            "id": "100023",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100023/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100023.jpg?token_static=d9305271ebe95da7dd19806b3b4d31cf"
+          }
+        },
+        {
+          "id": "7690-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Проектный менеджмент в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 209",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Алехин Михаил Юрьевич",
+            "id": "100023",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100023/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100023.jpg?token_static=d9305271ebe95da7dd19806b3b4d31cf"
+          }
+        },
+        {
+          "id": "7690-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Производственные наукоемкие технологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 217",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шальнова Светлана Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/08/small/p104340.jpg?token_static=9f781f55e7228447ae56566dfcd92ec3"
+          }
+        },
+        {
+          "id": "7690-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Производственные наукоемкие технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 212",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шальнова Светлана Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/08/small/p104340.jpg?token_static=9f781f55e7228447ae56566dfcd92ec3"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7690-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Финансовый менеджмент",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 519",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Неуступова Алина Серафимовна",
+            "id": "100807",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100807/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/12/small/p100807.jpg?token_static=2266277177c32b413f2b503d6e3e84ee"
+          }
+        },
+        {
+          "id": "7690-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория решения изобретательских задач",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 209",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Талеров Павел Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101162.jpg?token_static=ba663936f2579f7af2e8549078d9dfd3"
+          }
+        },
+        {
+          "id": "7690-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория решения изобретательских задач",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 209",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Золотов Алексей Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/127835.jpg?token_static=366477f80a1bc86b4a7ece2949998ad7"
+          }
+        },
+        {
+          "id": "7690-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление экологической безопасностью",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 532",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бокатов Антон Юрьевич",
+            "id": "100134",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
+          }
+        },
+        {
+          "id": "7690-4-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление экологической безопасностью",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 532",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бокатов Антон Юрьевич",
+            "id": "100134",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7690-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Методы принятия управленческих решений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Марченко Сергей Сергеевич",
+            "id": "100733",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100733/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100733.jpg?token_static=ad8ce444af017c0dcbefaf3f17969b58"
+          }
+        },
+        {
+          "id": "7690-5-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление конкурентоспособностью наукоемкой продукции",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Марченко Сергей Сергеевич",
+            "id": "100733",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100733/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100733.jpg?token_static=ad8ce444af017c0dcbefaf3f17969b58"
+          }
+        },
+        {
+          "id": "7690-5-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Методы принятия управленческих решений",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Марченко Сергей Сергеевич",
+            "id": "100733",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100733/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100733.jpg?token_static=ad8ce444af017c0dcbefaf3f17969b58"
+          }
+        },
+        {
+          "id": "7690-5-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Управление конкурентоспособностью наукоемкой продукции",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Марченко Сергей Сергеевич",
+            "id": "100733",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100733/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100733.jpg?token_static=ad8ce444af017c0dcbefaf3f17969b58"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,711 @@
+{
+  "groupId": "7643",
+  "groupName": "3325",
+  "updatedAt": "2026-09-20T13:47:02.469Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7643-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3325",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ведерников Юрий Вадимович",
+            "id": "123303",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
+          }
+        },
+        {
+          "id": "7643-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3325",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ведерников Юрий Вадимович",
+            "id": "123303",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
+          }
+        },
+        {
+          "id": "7643-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3325",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ведерников Юрий Вадимович",
+            "id": "123303",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
+          }
+        },
+        {
+          "id": "7643-1-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материаловедение. Технология конструкционных материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 245а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3325",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Щепелина Дарья Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106091.jpg?token_static=869fd0be91ffb5f55fa6afaab774cb93"
+          }
+        },
+        {
+          "id": "7643-1-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материаловедение. Технология конструкционных материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 245",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3325",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Юнусов Фируз Абдукадимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123521.jpg?token_static=0ad0f3727125e27b503247a5b407397f"
+          }
+        },
+        {
+          "id": "7643-1-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Материаловедение. Технология конструкционных материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3325",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Юнусов Фируз Абдукадимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123521.jpg?token_static=0ad0f3727125e27b503247a5b407397f"
+          }
+        },
+        {
+          "id": "7643-1-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Гидромеханика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 101",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3325",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Яковлев Алексей Юрьевич",
+            "id": "101392",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7643-2-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Конструкции позиционных подводных аппаратов (С)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 415",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Солодко Алексей Вячеславович",
+            "id": "107946",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107946/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/05/small/p107946.jpg?token_static=706374c82abf94c889adadb689798712"
+          }
+        },
+        {
+          "id": "7643-2-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Термодинамика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Семко Иван Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/26/small/p114977.jpg?token_static=d1296e1f07720d549ebc88934a2e6fa1"
+          }
+        },
+        {
+          "id": "7643-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы технологии приборостроения и машиностроения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Щукина Елена Викторовна",
+            "id": "122753",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122753/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/03/small/p122753.jpg?token_static=f2559a07b32327bade8503ceba557bbc"
+          }
+        },
+        {
+          "id": "7643-2-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Термодинамика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Семко Иван Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/26/small/p114977.jpg?token_static=d1296e1f07720d549ebc88934a2e6fa1"
+          }
+        },
+        {
+          "id": "7643-2-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы технологии приборостроения и машиностроения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Щукина Елена Викторовна",
+            "id": "122753",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122753/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/03/small/p122753.jpg?token_static=f2559a07b32327bade8503ceba557bbc"
+          }
+        },
+        {
+          "id": "7643-2-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Моделирование с применением CAD/CAE/CAM",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Омаров Сергей Магомедович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/28/small/p119606.jpg?token_static=ac1b5d8bc96604b7d97ee99f755cb0ac"
+          }
+        },
+        {
+          "id": "7643-2-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы технологии приборостроения и машиностроения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Щукина Елена Викторовна",
+            "id": "122753",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122753/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/03/small/p122753.jpg?token_static=f2559a07b32327bade8503ceba557bbc"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7643-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Защита государственной и коммерческой тайны",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Солодко Алексей Вячеславович",
+            "id": "107946",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107946/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/05/small/p107946.jpg?token_static=706374c82abf94c889adadb689798712"
+          }
+        },
+        {
+          "id": "7643-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Защита государственной и коммерческой тайны",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Солодко Алексей Вячеславович",
+            "id": "107946",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107946/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/05/small/p107946.jpg?token_static=706374c82abf94c889adadb689798712"
+          }
+        },
+        {
+          "id": "7643-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы технологии приборостроения и машиностроения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пантелеева Екатерина Игоревна",
+            "id": "123122",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123122/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/22/small/p123122.jpg?token_static=7bd9648d996c310a06098d7a24f060ec"
+          }
+        },
+        {
+          "id": "7643-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Конструкции позиционных подводных аппаратов (С)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 415",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Солодко Алексей Вячеславович",
+            "id": "107946",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107946/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/05/small/p107946.jpg?token_static=706374c82abf94c889adadb689798712"
+          }
+        },
+        {
+          "id": "7643-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы технологии приборостроения и машиностроения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пантелеева Екатерина Игоревна",
+            "id": "123122",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123122/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/22/small/p123122.jpg?token_static=7bd9648d996c310a06098d7a24f060ec"
+          }
+        },
+        {
+          "id": "7643-3-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Моделирование с применением CAD/CAE/CAM",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 323",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Полочанин Константин Вячеславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/11/small/130492.jpg?token_static=2734ec3578cd8fe9b5faac41e5c9feb4"
+          }
+        },
+        {
+          "id": "7643-3-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы технологии приборостроения и машиностроения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пантелеева Екатерина Игоревна",
+            "id": "123122",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123122/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/22/small/p123122.jpg?token_static=7bd9648d996c310a06098d7a24f060ec"
+          }
+        },
+        {
+          "id": "7643-3-15:40-8",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Моделирование с применением CAD/CAE/CAM",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 323",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Полочанин Константин Вячеславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/11/small/130492.jpg?token_static=2734ec3578cd8fe9b5faac41e5c9feb4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7643-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Теплоэнергетические системы и агрегаты самоходных подводных аппаратов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Клоков Андрей Александрович",
+            "id": "123468",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123468/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/12/small/p123468.jpg?token_static=bea28e6d212e802ae914dd66a0a00a80"
+          }
+        },
+        {
+          "id": "7643-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теплоэнергетические системы и агрегаты самоходных подводных аппаратов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 414",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Клоков Андрей Александрович",
+            "id": "123468",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123468/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/12/small/p123468.jpg?token_static=bea28e6d212e802ae914dd66a0a00a80"
+          }
+        },
+        {
+          "id": "7643-4-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теплоэнергетические системы и агрегаты самоходных подводных аппаратов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Клоков Андрей Александрович",
+            "id": "123468",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123468/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/12/small/p123468.jpg?token_static=bea28e6d212e802ae914dd66a0a00a80"
+          }
+        },
+        {
+          "id": "7643-4-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Источники энергии электрических специальных подводных аппаратов и роботов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Жалнин Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/08/26/small/140536.jpg?token_static=1d77635d31b1c869c32cbb09641ec49a"
+          }
+        },
+        {
+          "id": "7643-4-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Источники энергии электрических специальных подводных аппаратов и роботов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Жалнин Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/08/26/small/140536.jpg?token_static=1d77635d31b1c869c32cbb09641ec49a"
+          }
+        },
+        {
+          "id": "7643-4-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Конструкции позиционных подводных аппаратов (С)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 415",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Солодко Алексей Вячеславович",
+            "id": "107946",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107946/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/05/small/p107946.jpg?token_static=706374c82abf94c889adadb689798712"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7643-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "both"
+        },
+        {
+          "id": "7643-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "both"
+        },
+        {
+          "id": "7643-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3325",
+          "weekParity": "both"
+        },
+        {
+          "id": "7643-5-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3325",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Романов Александр Иванович",
+            "id": "122500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
+          }
+        },
+        {
+          "id": "7643-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3325",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
+        },
+        {
+          "id": "7643-5-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3325",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Романов Александр Иванович",
+            "id": "122500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
+          }
+        },
+        {
+          "id": "7643-5-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3325",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
+        },
+        {
+          "id": "7643-5-19:00-8",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы военной подготовки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3325",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
+        },
+        {
+          "id": "7643-5-19:00-9",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы военной подготовки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У ВУЦ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3325",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Романов Александр Иванович",
+            "id": "122500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
+          }
+        },
+        {
+          "id": "7643-5-19:00-10",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы военной подготовки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3325",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7643-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Гидромеханика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 601",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "3325",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ефимова Мария Андреевна"
+          }
+        },
+        {
+          "id": "7643-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Гидромеханика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 601",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "3325",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ефимова Мария Андреевна"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "groupId": "7906",
   "groupName": "13726-70",
-  "updatedAt": "2026-09-20T13:40:47.747Z",
+  "updatedAt": "2026-09-20T13:47:10.416Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -14,8 +14,8 @@
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 306",
-          "campus": "Ульянка",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "13726-70",
           "weekParity": "down",
           "teacher": {
@@ -24,14 +24,30 @@
           }
         },
         {
-          "id": "7906-1-10:10-2",
+          "id": "7906-1-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "13726-70",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чиркунова Инна Васильевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/22/small/p139474.jpg?token_static=315c6a429c9e300f67925e649ba738b5"
+          }
+        },
+        {
+          "id": "7906-1-10:10-3",
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Математика",
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 420",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "13726-70",
           "weekParity": "both",
           "teacher": {
@@ -40,14 +56,14 @@
           }
         },
         {
-          "id": "7906-1-11:50-3",
+          "id": "7906-1-11:50-4",
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Математика",
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 420",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "13726-70",
           "weekParity": "both",
           "teacher": {
@@ -56,14 +72,14 @@
           }
         },
         {
-          "id": "7906-1-14:00-4",
+          "id": "7906-1-14:00-5",
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "География",
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 417",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "13726-70",
           "weekParity": "both",
           "teacher": {
@@ -85,7 +101,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У Спортзал",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "13726-70",
           "weekParity": "both",
           "teacher": {
@@ -101,7 +117,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 422",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "13726-70",
           "weekParity": "both",
           "teacher": {
@@ -117,7 +133,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 419",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "13726-70",
           "weekParity": "both",
           "teacher": {
@@ -133,7 +149,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 420",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "13726-70",
           "weekParity": "both",
           "teacher": {
@@ -155,7 +171,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 419",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "13726-70",
           "weekParity": "both",
           "teacher": {
@@ -171,7 +187,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 422",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "13726-70",
           "weekParity": "both",
           "teacher": {
@@ -187,7 +203,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 319а(2)",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "13726-70",
           "weekParity": "both",
           "teacher": {
@@ -209,7 +225,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 419",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "13726-70",
           "weekParity": "both",
           "teacher": {
@@ -225,7 +241,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 418",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "13726-70",
           "weekParity": "both",
           "teacher": {
@@ -247,7 +263,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 319а(1)",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "13726-70",
           "weekParity": "up",
           "teacher": {
@@ -263,7 +279,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 419",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "13726-70",
           "weekParity": "up",
           "teacher": {
@@ -279,7 +295,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 319а(1)",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "13726-70",
           "weekParity": "down",
           "teacher": {
@@ -295,7 +311,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 420",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "13726-70",
           "weekParity": "both",
           "teacher": {
@@ -311,7 +327,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 420",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "13726-70",
           "weekParity": "both",
           "teacher": {
@@ -333,7 +349,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 419",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "13726-70",
           "weekParity": "both",
           "teacher": {
@@ -349,7 +365,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 419",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "13726-70",
           "weekParity": "both",
           "teacher": {

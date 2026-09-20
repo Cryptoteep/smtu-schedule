@@ -1,0 +1,399 @@
+{
+  "groupId": "7621",
+  "groupName": "2526",
+  "updatedAt": "2026-09-20T13:47:00.509Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7621-1-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Автоматизация судовых энергетических установок",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Равин Александр Александрович",
+            "id": "100963",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100963/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100963.jpg?token_static=d5943e4bc45704ebe6d3e67f8418c999"
+          }
+        },
+        {
+          "id": "7621-1-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы научных исследований и испытаний двигателей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Андреев Константин Дмитриевич",
+            "id": "123490",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123490/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/29/small/p123490.jpg?token_static=ee7bc2000d2c2747bcec514341568d0e"
+          }
+        },
+        {
+          "id": "7621-1-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы научных исследований и испытаний двигателей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Андреев Константин Дмитриевич",
+            "id": "123490",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123490/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/29/small/p123490.jpg?token_static=ee7bc2000d2c2747bcec514341568d0e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7621-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Топливная аппаратура",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Толмачев Валерий Вячеславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/29/small/p101196.jpg?token_static=949a90b8ef0e17cb3842058b6e8ed802"
+          }
+        },
+        {
+          "id": "7621-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Техническая диагностика судового оборудования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Егорова Александра Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107212.jpg?token_static=c6e0348dd8b066965abee3b45758adf2"
+          }
+        },
+        {
+          "id": "7621-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Колебания и амортизация судового оборудования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ерохин Сергей Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/08/small/p100375.jpg?token_static=887b502b14076d32644427b2522b4f60"
+          }
+        },
+        {
+          "id": "7621-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Колебания и амортизация судового оборудования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ерохин Сергей Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/08/small/p100375.jpg?token_static=887b502b14076d32644427b2522b4f60"
+          }
+        },
+        {
+          "id": "7621-2-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Математическое моделирование в турбомашинах",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ерохин Сергей Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/08/small/p100375.jpg?token_static=887b502b14076d32644427b2522b4f60"
+          }
+        },
+        {
+          "id": "7621-2-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Математическое моделирование в турбомашинах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ерохин Сергей Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/08/small/p100375.jpg?token_static=887b502b14076d32644427b2522b4f60"
+          }
+        },
+        {
+          "id": "7621-2-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Техническая диагностика судового оборудования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мостовой Дмитрий Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100778.jpg?token_static=eef91fe1677f352e2d3041093b8bf3aa"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7621-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Топливная аппаратура",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Толмачев Валерий Вячеславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/29/small/p101196.jpg?token_static=949a90b8ef0e17cb3842058b6e8ed802"
+          }
+        },
+        {
+          "id": "7621-4-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Топливная аппаратура",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Толмачев Валерий Вячеславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/29/small/p101196.jpg?token_static=949a90b8ef0e17cb3842058b6e8ed802"
+          }
+        },
+        {
+          "id": "7621-4-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Автоматическое регулирование главных двигателей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Толмачев Валерий Вячеславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/29/small/p101196.jpg?token_static=949a90b8ef0e17cb3842058b6e8ed802"
+          }
+        },
+        {
+          "id": "7621-4-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Автоматическое регулирование главных двигателей",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Толмачев Валерий Вячеславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/29/small/p101196.jpg?token_static=949a90b8ef0e17cb3842058b6e8ed802"
+          }
+        },
+        {
+          "id": "7621-4-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Колебания и амортизация судового оборудования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ерохин Сергей Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/08/small/p100375.jpg?token_static=887b502b14076d32644427b2522b4f60"
+          }
+        },
+        {
+          "id": "7621-4-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Математическое моделирование в турбомашинах",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ерохин Сергей Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/08/small/p100375.jpg?token_static=887b502b14076d32644427b2522b4f60"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7621-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы научных исследований и испытаний двигателей",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Андреев Константин Дмитриевич",
+            "id": "123490",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123490/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/29/small/p123490.jpg?token_static=ee7bc2000d2c2747bcec514341568d0e"
+          }
+        },
+        {
+          "id": "7621-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Токсичность двигателей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Смирнов Александр Анатольевич",
+            "id": "103256",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/103256/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p103256.jpg?token_static=81c55ffc382380da0f2a6a1c31184028"
+          }
+        },
+        {
+          "id": "7621-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Токсичность двигателей",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Смирнов Александр Анатольевич",
+            "id": "103256",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/103256/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p103256.jpg?token_static=81c55ffc382380da0f2a6a1c31184028"
+          }
+        },
+        {
+          "id": "7621-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2526",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Палкина Елена Сергеевна",
+            "id": "126006",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/126006/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/22/small/p126006.jpg?token_static=ba1b85f51e29f4993384e5312d9bc078"
+          }
+        },
+        {
+          "id": "7621-5-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2526",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Палкина Елена Сергеевна",
+            "id": "126006",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/126006/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/22/small/p126006.jpg?token_static=ba1b85f51e29f4993384e5312d9bc078"
+          }
+        },
+        {
+          "id": "7621-5-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Автоматизация судовых энергетических установок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Буковский Илья Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101918.jpg?token_static=cff0f02ec383b0030b735f40d18a8d00"
+          }
+        }
+      ]
+    }
+  ]
+}

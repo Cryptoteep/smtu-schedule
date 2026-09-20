@@ -1,0 +1,535 @@
+{
+  "groupId": "7614",
+  "groupName": "2450",
+  "updatedAt": "2026-09-20T13:47:00.221Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7614-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Модели и методы решения задач информационной безопасности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Пшеничная Клавдия Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100961.jpg?token_static=49d56cd7720590082750027f58ad4fd0"
+          }
+        },
+        {
+          "id": "7614-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Модели и методы решения задач информационной безопасности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пшеничная Клавдия Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100961.jpg?token_static=49d56cd7720590082750027f58ad4fd0"
+          }
+        },
+        {
+          "id": "7614-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Безопасность систем баз данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 414",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Полтавцева Мария Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/29/small/p123681.jpg?token_static=b257076f1210c4acea7d24e6455e34fa"
+          }
+        },
+        {
+          "id": "7614-1-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность систем баз данных",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Полтавцева Мария Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/29/small/p123681.jpg?token_static=b257076f1210c4acea7d24e6455e34fa"
+          }
+        },
+        {
+          "id": "7614-1-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность систем баз данных",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 414",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Полтавцева Мария Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/29/small/p123681.jpg?token_static=b257076f1210c4acea7d24e6455e34fa"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7614-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бокатов Антон Юрьевич",
+            "id": "100134",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
+          }
+        },
+        {
+          "id": "7614-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Экономика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 107",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Алешина Елена Владимировна",
+            "id": "123129",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123129/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123129.jpg?token_static=c57301c6fc89bb528160cb158c513074"
+          }
+        },
+        {
+          "id": "7614-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Экономика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 107",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Алешина Елена Владимировна",
+            "id": "123129",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123129/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123129.jpg?token_static=c57301c6fc89bb528160cb158c513074"
+          }
+        },
+        {
+          "id": "7614-2-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Марченко Сергей Сергеевич",
+            "id": "100733",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100733/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100733.jpg?token_static=ad8ce444af017c0dcbefaf3f17969b58"
+          }
+        },
+        {
+          "id": "7614-2-20:40-5",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 6,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Марченко Сергей Сергеевич",
+            "id": "100733",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100733/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100733.jpg?token_static=ad8ce444af017c0dcbefaf3f17969b58"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7614-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Техническая диагностика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Буковский Илья Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101918.jpg?token_static=cff0f02ec383b0030b735f40d18a8d00"
+          }
+        },
+        {
+          "id": "7614-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Имитационное моделирование систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        },
+        {
+          "id": "7614-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Имитационное моделирование систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        },
+        {
+          "id": "7614-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Имитационное моделирование систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        },
+        {
+          "id": "7614-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Системы защиты информации в ведущих зарубежных странах",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пирогов Александр Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100903.jpg?token_static=8de28e9051db17d8804695fac06f8142"
+          }
+        },
+        {
+          "id": "7614-3-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы и устройства автоматики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Агунов Михаил Викторович",
+            "id": "100006",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100006/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100006.jpg?token_static=c4ea067373c8a23ee19bdf496dad22e1"
+          }
+        },
+        {
+          "id": "7614-3-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы защиты информации в ведущих зарубежных странах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пирогов Александр Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100903.jpg?token_static=8de28e9051db17d8804695fac06f8142"
+          }
+        },
+        {
+          "id": "7614-3-17:20-8",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Системы и устройства автоматики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Агунов Михаил Викторович",
+            "id": "100006",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100006/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100006.jpg?token_static=c4ea067373c8a23ee19bdf496dad22e1"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7614-4-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Экономика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 503",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Еремеева Дарья Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p127344.jpg?token_static=fb97232ff487c8a37f6a93eb8fededeb"
+          }
+        },
+        {
+          "id": "7614-4-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Организационное и правовое обеспечение информационной безопасности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 414",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Примак Анна Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p128880.jpg?token_static=9935d1e3bef26d0b2da4e8f5e318c703"
+          }
+        },
+        {
+          "id": "7614-4-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Системы и устройства автоматики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Агунов Михаил Викторович",
+            "id": "100006",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100006/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100006.jpg?token_static=c4ea067373c8a23ee19bdf496dad22e1"
+          }
+        },
+        {
+          "id": "7614-4-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Организационное и правовое обеспечение информационной безопасности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 414",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Михальчук Андрей Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123157.jpg?token_static=63488b3f2309f0745026e917d4fd1367"
+          }
+        },
+        {
+          "id": "7614-4-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Комплексная защита объектов информатизации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 414",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Михальчук Андрей Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123157.jpg?token_static=63488b3f2309f0745026e917d4fd1367"
+          }
+        },
+        {
+          "id": "7614-4-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Комплексная защита объектов информатизации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 414",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Михальчук Андрей Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123157.jpg?token_static=63488b3f2309f0745026e917d4fd1367"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7614-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "both"
+        },
+        {
+          "id": "7614-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7614-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Техническая диагностика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Буковский Илья Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101918.jpg?token_static=cff0f02ec383b0030b735f40d18a8d00"
+          }
+        },
+        {
+          "id": "7614-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Техническая диагностика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Буковский Илья Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101918.jpg?token_static=cff0f02ec383b0030b735f40d18a8d00"
+          }
+        },
+        {
+          "id": "7614-6-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 534",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бокатов Антон Юрьевич",
+            "id": "100134",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
+          }
+        },
+        {
+          "id": "7614-6-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 534",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бокатов Антон Юрьевич",
+            "id": "100134",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
+          }
+        }
+      ]
+    }
+  ]
+}

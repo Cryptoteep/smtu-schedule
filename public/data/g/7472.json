@@ -1,0 +1,443 @@
+{
+  "groupId": "7472",
+  "groupName": "2370",
+  "updatedAt": "2026-09-20T13:46:59.855Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7472-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "both"
+        },
+        {
+          "id": "7472-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "both"
+        },
+        {
+          "id": "7472-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7472-2-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Психология профессиональной деятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бабаева Наталья Михайловна",
+            "id": "100060",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100060/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100060.jpg?token_static=6983cf54ef4c5f9ccf1992c4ec056dd0"
+          }
+        },
+        {
+          "id": "7472-2-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Психология профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бабаева Наталья Михайловна",
+            "id": "100060",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100060/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100060.jpg?token_static=6983cf54ef4c5f9ccf1992c4ec056dd0"
+          }
+        },
+        {
+          "id": "7472-2-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ведерников Юрий Вадимович",
+            "id": "123303",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
+          }
+        },
+        {
+          "id": "7472-2-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ведерников Юрий Вадимович",
+            "id": "123303",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
+          }
+        },
+        {
+          "id": "7472-2-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ведерников Юрий Вадимович",
+            "id": "123303",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
+          }
+        },
+        {
+          "id": "7472-2-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Правоведение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Радько Анастасия Сергеевна",
+            "id": "100966",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100966/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/11/09/small/p100966.jpg?token_static=6b12ac50507a5e51f661a3dcf45fc8c0"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7472-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы технологии машиностроения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Махалов Максим Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/04/small/p139682.jpg?token_static=bf878e8d3433c45b5fdb3d82467c5229"
+          }
+        },
+        {
+          "id": "7472-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы технологии машиностроения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Махалов Максим Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/04/small/p139682.jpg?token_static=bf878e8d3433c45b5fdb3d82467c5229"
+          }
+        },
+        {
+          "id": "7472-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Режущий инструмент",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ковалев Василий Данилович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128996.jpg?token_static=c71ad6887b486c6af220d394cbf16d21"
+          }
+        },
+        {
+          "id": "7472-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Режущий инструмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ковалев Василий Данилович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128996.jpg?token_static=c71ad6887b486c6af220d394cbf16d21"
+          }
+        },
+        {
+          "id": "7472-3-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Режущий инструмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ковалев Василий Данилович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128996.jpg?token_static=c71ad6887b486c6af220d394cbf16d21"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7472-4-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Документооборот и делопроизводство на машиностроительном предприятии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 537б",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Карпенко Виктория Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/05/small/p106531.jpg?token_static=0c946b260b0b73c6085306b8ac602203"
+          }
+        },
+        {
+          "id": "7472-4-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Документооборот и делопроизводство на машиностроительном предприятии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 537б",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Карпенко Виктория Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/05/small/p106531.jpg?token_static=0c946b260b0b73c6085306b8ac602203"
+          }
+        },
+        {
+          "id": "7472-4-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Правоведение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Радько Анастасия Сергеевна",
+            "id": "100966",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100966/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/11/09/small/p100966.jpg?token_static=6b12ac50507a5e51f661a3dcf45fc8c0"
+          }
+        },
+        {
+          "id": "7472-4-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Цифровые системы управления техническими объектами и технологическими процессами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 537б",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Васильев Алексей Евгеньевич",
+            "id": "122685",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122685/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/18/small/p122685.jpg?token_static=23c1208200a142c486d2f04d9376f1f1"
+          }
+        },
+        {
+          "id": "7472-4-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Цифровые системы управления техническими объектами и технологическими процессами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 537б",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Васильев Алексей Евгеньевич",
+            "id": "122685",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122685/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/18/small/p122685.jpg?token_static=23c1208200a142c486d2f04d9376f1f1"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7472-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Технология машиностроения",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Махалов Максим Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/04/small/p139682.jpg?token_static=bf878e8d3433c45b5fdb3d82467c5229"
+          }
+        },
+        {
+          "id": "7472-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Технология машиностроения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Махалов Максим Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/04/small/p139682.jpg?token_static=bf878e8d3433c45b5fdb3d82467c5229"
+          }
+        },
+        {
+          "id": "7472-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технология машиностроения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Махалов Максим Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/04/small/p139682.jpg?token_static=bf878e8d3433c45b5fdb3d82467c5229"
+          }
+        },
+        {
+          "id": "7472-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технология машиностроения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Махалов Максим Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/04/small/p139682.jpg?token_static=bf878e8d3433c45b5fdb3d82467c5229"
+          }
+        },
+        {
+          "id": "7472-5-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Процессы и операции формообразования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Токаренко София Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128936.jpg?token_static=7dce80773d7ed41ade2f5219bda626bb"
+          }
+        },
+        {
+          "id": "7472-5-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Процессы и операции формообразования",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Токаренко София Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128936.jpg?token_static=7dce80773d7ed41ade2f5219bda626bb"
+          }
+        }
+      ]
+    }
+  ]
+}

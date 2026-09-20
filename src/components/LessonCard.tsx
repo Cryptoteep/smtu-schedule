@@ -123,6 +123,14 @@ export const LessonCard: React.FC<LessonCardProps> = ({
               📅 {lesson.dateSpecific}
             </span>
           )}
+          {lesson.dateRange && (
+            <span
+              className="px-2 py-0.5 rounded-md text-xs font-medium bg-slate-100 dark:bg-navy-800 text-slate-600 dark:text-slate-300"
+              title={lesson.exactDates?.length ? `Даты занятий: ${lesson.exactDates.join(', ')}` : undefined}
+            >
+              🗓️ {lesson.dateRange}
+            </span>
+          )}
         </div>
       </div>
 

@@ -1,7 +1,7 @@
 {
   "groupId": "7692",
   "groupName": "5200",
-  "updatedAt": "2026-09-20T13:40:39.981Z",
+  "updatedAt": "2026-09-20T13:47:08.652Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -15,7 +15,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 407",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "5200",
           "weekParity": "both",
           "dateSpecific": "20.10 по 07.12",
@@ -32,7 +32,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 407",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "5200",
           "weekParity": "both",
           "dateSpecific": "01.09 по 19.10",
@@ -49,7 +49,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 407",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "5200",
           "weekParity": "both",
           "dateSpecific": "20.10 по 07.12",
@@ -66,7 +66,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 407",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "5200",
           "weekParity": "both",
           "dateSpecific": "01.09 по 19.10",
@@ -89,12 +89,14 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 02ю",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "5200",
           "weekParity": "both",
           "dateSpecific": "01.09 по 16.11",
           "teacher": {
             "name": "Шеншин Виктор Михайлович",
+            "id": "122519",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122519/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/15/small/p122519.jpg?token_static=0f5d1a7c72d10f6a5b00fc0a33f86b03"
           }
         },
@@ -106,12 +108,14 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 02ю",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "5200",
           "weekParity": "both",
           "dateSpecific": "01.09 по 16.11",
           "teacher": {
             "name": "Шеншин Виктор Михайлович",
+            "id": "122519",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122519/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/15/small/p122519.jpg?token_static=0f5d1a7c72d10f6a5b00fc0a33f86b03"
           }
         }
@@ -129,12 +133,14 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 407",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "5200",
           "weekParity": "both",
           "dateSpecific": "01.09 по 19.10",
           "teacher": {
-            "name": "Солдатов Андрей Александрович"
+            "name": "Солдатов Андрей Александрович",
+            "id": "101131",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101131/"
           }
         },
         {
@@ -145,12 +151,14 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 421",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "5200",
           "weekParity": "both",
           "dateSpecific": "20.10 по 07.12",
           "teacher": {
             "name": "Шмырева Ольга Валерьевна",
+            "id": "101372",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
           }
         },
@@ -162,12 +170,14 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 421",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "5200",
           "weekParity": "both",
           "dateSpecific": "20.10 по 07.12",
           "teacher": {
             "name": "Шмырева Ольга Валерьевна",
+            "id": "101372",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
           }
         },
@@ -179,12 +189,14 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 407",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "5200",
           "weekParity": "both",
           "dateSpecific": "01.09 по 19.10",
           "teacher": {
-            "name": "Солдатов Андрей Александрович"
+            "name": "Солдатов Андрей Александрович",
+            "id": "101131",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101131/"
           }
         }
       ]
@@ -201,7 +213,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 01Ю",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "5200",
           "weekParity": "both",
           "teacher": {
@@ -216,7 +228,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 01Ю",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "5200",
           "weekParity": "both",
           "teacher": {

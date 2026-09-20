@@ -1,0 +1,451 @@
+{
+  "groupId": "7881",
+  "groupName": "12829-01",
+  "updatedAt": "2026-09-20T13:47:10.193Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7881-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 504",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ионченкова Яна Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100473.jpg?token_static=e89f84e655182b88a6d0700458b6bf1a"
+          }
+        },
+        {
+          "id": "7881-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Химия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 535(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Танцура Надежда Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p103333.jpg?token_static=5834ffedb94f167cc84286c6296094bd"
+          }
+        },
+        {
+          "id": "7881-1-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Химия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 535(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Танцура Надежда Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p103333.jpg?token_static=5834ffedb94f167cc84286c6296094bd"
+          }
+        },
+        {
+          "id": "7881-1-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Химия",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 535(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Танцура Надежда Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p103333.jpg?token_static=5834ffedb94f167cc84286c6296094bd"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7881-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Композиция",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 228",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лиленкова Елена Павловна",
+            "id": "100675",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100675/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100675.jpg?token_static=54d24543704f6047cf30c52af97b6536"
+          }
+        },
+        {
+          "id": "7881-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Композиция",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 228",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Лиленкова Елена Павловна",
+            "id": "100675",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100675/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100675.jpg?token_static=54d24543704f6047cf30c52af97b6536"
+          }
+        },
+        {
+          "id": "7881-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Елисеев Андрей Игоревич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/07/small/p131436.jpg?token_static=a314a9da8a7232342dc16d3e99ac8a86"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7881-3-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Живопись и цветоведение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 225",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мунтиев Павел Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100782.jpg?token_static=301c6e0d2a3bfc4afbc7d925f9508dbf"
+          }
+        },
+        {
+          "id": "7881-3-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Живопись и цветоведение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 225",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мунтиев Павел Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100782.jpg?token_static=301c6e0d2a3bfc4afbc7d925f9508dbf"
+          }
+        },
+        {
+          "id": "7881-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У 532",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Романов Александр Иванович",
+            "id": "122500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
+          }
+        },
+        {
+          "id": "7881-3-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У 532",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Романов Александр Иванович",
+            "id": "122500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
+          }
+        },
+        {
+          "id": "7881-3-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "История России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 506",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бояринцев Дмитрий Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/03/small/p122101.jpg?token_static=ca1f3d42e109e9966d982de5240130be"
+          }
+        },
+        {
+          "id": "7881-3-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Математический анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кузнецов Константин Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/142856.jpg?token_static=8e0d7bf0502437cbabfcb32e5aee4cb3"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7881-4-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Рисунок",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 225",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Вьюношева Юлия Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100246.jpg?token_static=f9b83518c98b66920a4bb11e9005c606"
+          }
+        },
+        {
+          "id": "7881-4-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория теней и перспективы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 228",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Вьюношева Юлия Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100246.jpg?token_static=f9b83518c98b66920a4bb11e9005c606"
+          }
+        },
+        {
+          "id": "7881-4-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория теней и перспективы",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 228",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Вьюношева Юлия Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100246.jpg?token_static=f9b83518c98b66920a4bb11e9005c606"
+          }
+        },
+        {
+          "id": "7881-4-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бугашев Сергей Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7881-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "both",
+          "dateSpecific": "09.10"
+        },
+        {
+          "id": "7881-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическая культура и спорт",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 101",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "both",
+          "dateSpecific": "01.09",
+          "teacher": {
+            "name": "Лапин Валерий Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/12/small/p128180.jpg?token_static=77107b9386e89abe57027f4eace5d5ff"
+          }
+        },
+        {
+          "id": "7881-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Бугашев Сергей Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"
+          }
+        },
+        {
+          "id": "7881-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы военной подготовки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Романов Александр Иванович",
+            "id": "122500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
+          }
+        },
+        {
+          "id": "7881-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Елисеев Андрей Игоревич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/07/small/p131436.jpg?token_static=a314a9da8a7232342dc16d3e99ac8a86"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7881-6-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информатика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Андреев Кирилл Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128239.jpg?token_static=181cfcb6185f86a45a92e70dac84e40c"
+          }
+        },
+        {
+          "id": "7881-6-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Андреев Кирилл Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128239.jpg?token_static=181cfcb6185f86a45a92e70dac84e40c"
+          }
+        },
+        {
+          "id": "7881-6-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Андреев Кирилл Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128239.jpg?token_static=181cfcb6185f86a45a92e70dac84e40c"
+          }
+        }
+      ]
+    }
+  ]
+}

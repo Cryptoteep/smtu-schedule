@@ -1,0 +1,523 @@
+{
+  "groupId": "7563",
+  "groupName": "1384",
+  "updatedAt": "2026-09-20T13:46:56.822Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7563-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Программные системы инженерного анализа",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 218",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1384",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пономарев Дмитрий Александрович",
+            "id": "100929",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100929/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100929.jpg?token_static=4f169654a1b4d86c82da676ba5108714"
+          }
+        },
+        {
+          "id": "7563-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Программные системы инженерного анализа",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 218",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1384",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пономарев Дмитрий Александрович",
+            "id": "100929",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100929/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100929.jpg?token_static=4f169654a1b4d86c82da676ba5108714"
+          }
+        },
+        {
+          "id": "7563-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Расчётный практикум по строительной механике машин и конструкций",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 215",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1384",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Миронов Михаил Юрьевич",
+            "id": "100756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
+          }
+        },
+        {
+          "id": "7563-1-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Расчётный практикум по строительной механике машин и конструкций",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 215",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1384",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Миронов Михаил Юрьевич",
+            "id": "100756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
+          }
+        },
+        {
+          "id": "7563-1-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Гидромеханика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1384",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ермолаева Елена Валерьевна",
+            "id": "102673",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102673/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/07/small/p102673.jpg?token_static=7def5afa9dacd45cc6996d73a8dca9a9"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7563-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1384",
+          "weekParity": "both"
+        },
+        {
+          "id": "7563-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1384",
+          "weekParity": "both"
+        },
+        {
+          "id": "7563-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1384",
+          "weekParity": "both"
+        },
+        {
+          "id": "7563-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1384",
+          "weekParity": "down"
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7563-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1384",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бронникова Лилия Васильевна",
+            "id": "100159",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
+          }
+        },
+        {
+          "id": "7563-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1384",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бронникова Лилия Васильевна",
+            "id": "100159",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
+          }
+        },
+        {
+          "id": "7563-3-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 534",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1384",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бронникова Лилия Васильевна",
+            "id": "100159",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
+          }
+        },
+        {
+          "id": "7563-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физические основы прочности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 143",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1384",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Терентьев Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101178.jpg?token_static=7e8740ce1225542f012a6f8109bd827e"
+          }
+        },
+        {
+          "id": "7563-3-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физические основы прочности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 143",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1384",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Терентьев Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101178.jpg?token_static=7e8740ce1225542f012a6f8109bd827e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7563-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Строительная механика машин и конструкций",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 218",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1384",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Пономарев Дмитрий Александрович",
+            "id": "100929",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100929/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100929.jpg?token_static=4f169654a1b4d86c82da676ba5108714"
+          }
+        },
+        {
+          "id": "7563-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Строительная механика машин и конструкций",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 218",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1384",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Пономарев Дмитрий Александрович",
+            "id": "100929",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100929/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100929.jpg?token_static=4f169654a1b4d86c82da676ba5108714"
+          }
+        },
+        {
+          "id": "7563-4-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория упругости и пластичности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 218",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1384",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мудрик Роман Сергеевич",
+            "id": "104150",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104150/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/28/small/p104150.jpg?token_static=7a079f505170c279e9d157b81a36cdf3"
+          }
+        },
+        {
+          "id": "7563-4-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория упругости и пластичности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 218",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1384",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мудрик Роман Сергеевич",
+            "id": "104150",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104150/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/28/small/p104150.jpg?token_static=7a079f505170c279e9d157b81a36cdf3"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7563-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы вариационного исчисления",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 215",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1384",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Родионов Александр Александрович",
+            "id": "100985",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100985/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100985.jpg?token_static=7f602212e660f550b5ae82435bfa35da"
+          }
+        },
+        {
+          "id": "7563-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1384",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ведерников Юрий Вадимович",
+            "id": "123303",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
+          }
+        },
+        {
+          "id": "7563-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы вариационного исчисления",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 218",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1384",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Родионов Александр Александрович",
+            "id": "100985",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100985/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100985.jpg?token_static=7f602212e660f550b5ae82435bfa35da"
+          }
+        },
+        {
+          "id": "7563-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1384",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ведерников Юрий Вадимович",
+            "id": "123303",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
+          }
+        },
+        {
+          "id": "7563-5-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1384",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Стеткар Мария Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/10/14/small/p128639.jpg?token_static=413803e12024ddf9f03be17dfacfd473"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7563-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Электротехника и электроника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1384",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Саввин Вячеслав Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101018.jpg?token_static=20bdc243afbac3268ee6687f9cc8f358"
+          }
+        },
+        {
+          "id": "7563-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Электротехника и электроника",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1384",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Саввин Вячеслав Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101018.jpg?token_static=20bdc243afbac3268ee6687f9cc8f358"
+          }
+        },
+        {
+          "id": "7563-6-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Электротехника и электроника",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1384",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Саввин Вячеслав Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101018.jpg?token_static=20bdc243afbac3268ee6687f9cc8f358"
+          }
+        },
+        {
+          "id": "7563-6-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 511",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1384",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        },
+        {
+          "id": "7563-6-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 511",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1384",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        },
+        {
+          "id": "7563-6-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Гидромеханика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1384",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Чепурко Сергей Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101303.jpg?token_static=13452f5950258ad17bc45eb8063970d1"
+          }
+        }
+      ]
+    }
+  ]
+}

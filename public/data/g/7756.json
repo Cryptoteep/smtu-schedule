@@ -1,0 +1,333 @@
+{
+  "groupId": "7756",
+  "groupName": "20272",
+  "updatedAt": "2026-09-20T13:47:05.098Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7756-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Конструктивно-технологическое проектирование сварных конструкций",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20272",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Зернин Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/05/15/small/p124399.jpg?token_static=acd22df3c9ee08d5b13fa2491c00ae5c"
+          }
+        },
+        {
+          "id": "7756-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Конструктивно-технологическое проектирование сварных конструкций",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Воропаев Артем Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/29/small/p107556.jpg?token_static=1ab1eda115a89fdfeb2445001cc9d0be"
+          }
+        },
+        {
+          "id": "7756-1-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Экономика и управление машиностроительным предприятием",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 530",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Марченко Сергей Сергеевич",
+            "id": "100733",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100733/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100733.jpg?token_static=ad8ce444af017c0dcbefaf3f17969b58"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7756-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Управление проектами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тихоньких Ярослав Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p124980.jpg?token_static=a506e5548c6f1adbff3f92d280ea750e"
+          }
+        },
+        {
+          "id": "7756-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление проектами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 530a",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тихоньких Ярослав Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p124980.jpg?token_static=a506e5548c6f1adbff3f92d280ea750e"
+          }
+        },
+        {
+          "id": "7756-3-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Материалы для сварки и родственных процессов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сапожков Сергей Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/13/small/p128165.jpg?token_static=5b3dbce8975e2ba98e595723e5886668"
+          }
+        },
+        {
+          "id": "7756-3-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Комплексный инжиниринг сварочного производства",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Воропаев Артем Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/29/small/p107556.jpg?token_static=1ab1eda115a89fdfeb2445001cc9d0be"
+          }
+        },
+        {
+          "id": "7756-3-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Материалы для сварки и родственных процессов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Блинов Егор Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/30/small/p128716.jpg?token_static=fe7c2530286b1b1fe505c801384abce5"
+          }
+        },
+        {
+          "id": "7756-3-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Комплексный инжиниринг сварочного производства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Зернин Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/05/15/small/p124399.jpg?token_static=acd22df3c9ee08d5b13fa2491c00ae5c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7756-4-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Экономика и управление машиностроительным предприятием",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Марченко Сергей Сергеевич",
+            "id": "100733",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100733/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100733.jpg?token_static=ad8ce444af017c0dcbefaf3f17969b58"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7756-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Цифровые технологии в жизненном цикле изделий",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "7756-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Моделирование технологических процессов сварки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сапожков Сергей Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/13/small/p128165.jpg?token_static=5b3dbce8975e2ba98e595723e5886668"
+          }
+        },
+        {
+          "id": "7756-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Цифровые технологии в жизненном цикле изделий",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "7756-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Моделирование технологических процессов сварки",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Воропаев Артем Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/29/small/p107556.jpg?token_static=1ab1eda115a89fdfeb2445001cc9d0be"
+          }
+        },
+        {
+          "id": "7756-5-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Цифровые технологии в жизненном цикле изделий",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "7756-5-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Моделирование технологических процессов сварки",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Воропаев Артем Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/29/small/p107556.jpg?token_static=1ab1eda115a89fdfeb2445001cc9d0be"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7756-6-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Сварка и ремонт конструкций корпуса судна и плавучих инженерных сооружений",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 521",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20272",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Щербаков Александр Павлович",
+            "id": "124780",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/124780/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/16/small/p124780.jpg?token_static=70e4aa8bf03f93670379ec4bc9134f26"
+          }
+        },
+        {
+          "id": "7756-6-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Сварка и ремонт конструкций корпуса судна и плавучих инженерных сооружений",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 521",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20272",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Щербаков Александр Павлович",
+            "id": "124780",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/124780/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/16/small/p124780.jpg?token_static=70e4aa8bf03f93670379ec4bc9134f26"
+          }
+        }
+      ]
+    }
+  ]
+}

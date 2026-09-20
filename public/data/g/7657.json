@@ -1,0 +1,527 @@
+{
+  "groupId": "7657",
+  "groupName": "3430",
+  "updatedAt": "2026-09-20T13:47:03.138Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7657-1-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы теории движения объектов морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Анистратова Валерия Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/09/small/p124521.jpg?token_static=c658f01e1f4418830d68d2f457688ca3"
+          }
+        },
+        {
+          "id": "7657-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы теории движения объектов морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Анистратова Валерия Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/09/small/p124521.jpg?token_static=c658f01e1f4418830d68d2f457688ca3"
+          }
+        },
+        {
+          "id": "7657-1-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы теории движения объектов морской техники",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Анистратова Валерия Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/09/small/p124521.jpg?token_static=c658f01e1f4418830d68d2f457688ca3"
+          }
+        },
+        {
+          "id": "7657-1-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы теории движения объектов морской техники",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Анистратова Валерия Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/09/small/p124521.jpg?token_static=c658f01e1f4418830d68d2f457688ca3"
+          }
+        },
+        {
+          "id": "7657-1-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы технического зрения морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 408",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сакович Сергей Юрьевич",
+            "id": "101024",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+          }
+        },
+        {
+          "id": "7657-1-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Системы технического зрения морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 408",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сакович Сергей Юрьевич",
+            "id": "101024",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7657-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "both"
+        },
+        {
+          "id": "7657-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "both"
+        },
+        {
+          "id": "7657-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7657-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Оптимальное управление в технических системах",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 306",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Скобов Евгений Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101082.jpg?token_static=56779e20c686aee5a68e96e63f03e1f9"
+          }
+        },
+        {
+          "id": "7657-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Оптимальное управление в технических системах",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 306",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Скобов Евгений Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101082.jpg?token_static=56779e20c686aee5a68e96e63f03e1f9"
+          }
+        },
+        {
+          "id": "7657-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Навигационно-управляющие системы морских объектов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 408",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сакович Сергей Юрьевич",
+            "id": "101024",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+          }
+        },
+        {
+          "id": "7657-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Оптимальное управление в технических системах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 306",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Скобов Евгений Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101082.jpg?token_static=56779e20c686aee5a68e96e63f03e1f9"
+          }
+        },
+        {
+          "id": "7657-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Навигационно-управляющие системы морских объектов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 408",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сакович Сергей Юрьевич",
+            "id": "101024",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+          }
+        },
+        {
+          "id": "7657-3-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Навигационно-управляющие системы морских объектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 408",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сакович Сергей Юрьевич",
+            "id": "101024",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+          }
+        },
+        {
+          "id": "7657-3-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Навигационно-управляющие системы морских объектов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 408",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сакович Сергей Юрьевич",
+            "id": "101024",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7657-4-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Навигационно-управляющие системы морских объектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 408",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сакович Сергей Юрьевич",
+            "id": "101024",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+          }
+        },
+        {
+          "id": "7657-4-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Моделирование систем управления объектов морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Хуторная Екатерина Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/15/small/p101289.jpg?token_static=b298df76246bd357fb280ace88551b1a"
+          }
+        },
+        {
+          "id": "7657-4-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Навигационно-управляющие системы морских объектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 408",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сакович Сергей Юрьевич",
+            "id": "101024",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+          }
+        },
+        {
+          "id": "7657-4-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Моделирование систем управления объектов морской техники",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Хуторная Екатерина Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/15/small/p101289.jpg?token_static=b298df76246bd357fb280ace88551b1a"
+          }
+        },
+        {
+          "id": "7657-4-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Моделирование систем управления объектов морской техники",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Хуторная Екатерина Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/15/small/p101289.jpg?token_static=b298df76246bd357fb280ace88551b1a"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7657-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Системы телеуправления",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мамонин Николай Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/16/small/p100724.jpg?token_static=6c9f8cdd9d5b76888610242106afd93c"
+          }
+        },
+        {
+          "id": "7657-5-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Системы телеуправления",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мамонин Николай Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/16/small/p100724.jpg?token_static=6c9f8cdd9d5b76888610242106afd93c"
+          }
+        },
+        {
+          "id": "7657-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Системы телеуправления",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мамонин Николай Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/16/small/p100724.jpg?token_static=6c9f8cdd9d5b76888610242106afd93c"
+          }
+        },
+        {
+          "id": "7657-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Интеллектуальные системы морского приборостроения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Яковлева Марина Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101395.jpg?token_static=417da8ff6cf0b62004d32ca4f53a0ecf"
+          }
+        },
+        {
+          "id": "7657-5-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Интеллектуальные системы морского приборостроения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Яковлева Марина Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101395.jpg?token_static=417da8ff6cf0b62004d32ca4f53a0ecf"
+          }
+        },
+        {
+          "id": "7657-5-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Интеллектуальные системы морского приборостроения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Яковлева Марина Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101395.jpg?token_static=417da8ff6cf0b62004d32ca4f53a0ecf"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7657-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3430",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Золотов Алексей Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/127835.jpg?token_static=366477f80a1bc86b4a7ece2949998ad7"
+          }
+        },
+        {
+          "id": "7657-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Метрология и измерительная техника",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3430",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Царева Полина Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
+          }
+        },
+        {
+          "id": "7657-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Метрология и измерительная техника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Царева Полина Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
+          }
+        }
+      ]
+    }
+  ]
+}

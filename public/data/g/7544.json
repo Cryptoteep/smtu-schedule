@@ -1,0 +1,411 @@
+{
+  "groupId": "7544",
+  "groupName": "1216",
+  "updatedAt": "2026-09-20T13:46:55.638Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7544-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1216",
+          "weekParity": "both"
+        },
+        {
+          "id": "7544-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1216",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7544-2-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теоретическая механика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1216",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мелконян Армен Левонович",
+            "id": "100749",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100749/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100749.jpg?token_static=a604f7cb24d29165ccbd7d74ed7372ee"
+          }
+        },
+        {
+          "id": "7544-2-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Сопротивление материалов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 143",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1216",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сиверс Михаил Николаевич",
+            "id": "101071",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101071/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/04/30/small/p101071.jpg?token_static=21316d0236404d4b3c4243cdaef43fb2"
+          }
+        },
+        {
+          "id": "7544-2-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1216",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Монозон Борис Семенович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100771.jpg?token_static=63db404bef7330eb99cef439c74615e4"
+          }
+        },
+        {
+          "id": "7544-2-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 320 -320а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1216",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Абдуллина Яна Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123505.jpg?token_static=f8713fe563017f49f1ebcfd0490b29dc"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7544-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1216",
+          "weekParity": "up"
+        },
+        {
+          "id": "7544-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1216",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Певзнер Виталий Владимирович",
+            "id": "100878",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100878/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100878.jpg?token_static=8c3c7151873f779e8bac558a8614b8e6"
+          }
+        },
+        {
+          "id": "7544-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Сопротивление материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1216",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сиверс Михаил Николаевич",
+            "id": "101071",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101071/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/04/30/small/p101071.jpg?token_static=21316d0236404d4b3c4243cdaef43fb2"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7544-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1216",
+          "weekParity": "up"
+        },
+        {
+          "id": "7544-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1216",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Монозон Борис Семенович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100771.jpg?token_static=63db404bef7330eb99cef439c74615e4"
+          }
+        },
+        {
+          "id": "7544-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1216",
+          "weekParity": "both"
+        },
+        {
+          "id": "7544-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теоретическая механика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 154",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1216",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мелконян Армен Левонович",
+            "id": "100749",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100749/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100749.jpg?token_static=a604f7cb24d29165ccbd7d74ed7372ee"
+          }
+        },
+        {
+          "id": "7544-4-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Сопротивление материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 143",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1216",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сиверс Михаил Николаевич",
+            "id": "101071",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101071/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/04/30/small/p101071.jpg?token_static=21316d0236404d4b3c4243cdaef43fb2"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7544-5-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория обработки и синтеза конструкционных материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1216",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Щигорцов Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/04/small/p100238.jpg?token_static=b891e7541bc20d6c00787110764b1dd1"
+          }
+        },
+        {
+          "id": "7544-5-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Философия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1216",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
+          }
+        },
+        {
+          "id": "7544-5-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 301а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1216",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Калиничев Алексей Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/02/20/small/p123306.jpg?token_static=5b0eb7c3742b97ead972275042c9ae44"
+          }
+        },
+        {
+          "id": "7544-5-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1216",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
+          }
+        },
+        {
+          "id": "7544-5-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 301а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1216",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Калиничев Алексей Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/02/20/small/p123306.jpg?token_static=5b0eb7c3742b97ead972275042c9ae44"
+          }
+        },
+        {
+          "id": "7544-5-19:00-6",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 301а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1216",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Калиничев Алексей Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/02/20/small/p123306.jpg?token_static=5b0eb7c3742b97ead972275042c9ae44"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7544-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Теория обработки и синтеза конструкционных материалов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1216",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Щигорцов Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/04/small/p100238.jpg?token_static=b891e7541bc20d6c00787110764b1dd1"
+          }
+        },
+        {
+          "id": "7544-6-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Гребная база Спортзал",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "1216",
+          "weekParity": "down"
+        },
+        {
+          "id": "7544-6-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория обработки и синтеза конструкционных материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1216",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Щигорцов Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/04/small/p100238.jpg?token_static=b891e7541bc20d6c00787110764b1dd1"
+          }
+        },
+        {
+          "id": "7544-6-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Гребная база Спортзал",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "1216",
+          "weekParity": "down"
+        }
+      ]
+    }
+  ]
+}

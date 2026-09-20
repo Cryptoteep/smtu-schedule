@@ -1,0 +1,673 @@
+{
+  "groupId": "7650",
+  "groupName": "3380",
+  "updatedAt": "2026-09-20T13:47:02.738Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7650-1-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы технического зрения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Игнатьева Наталья Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/10/small/p100461.jpg?token_static=286667f29c4de10c4ccd7797377b7f9a"
+          }
+        },
+        {
+          "id": "7650-1-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы технического зрения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кузьменко Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/04/small/p100615.jpg?token_static=722e25e2dda2989add83074fc37a2776"
+          }
+        },
+        {
+          "id": "7650-1-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Системы технического зрения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Игнатьева Наталья Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/10/small/p100461.jpg?token_static=286667f29c4de10c4ccd7797377b7f9a"
+          }
+        },
+        {
+          "id": "7650-1-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Системы технического зрения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кузьменко Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/04/small/p100615.jpg?token_static=722e25e2dda2989add83074fc37a2776"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7650-2-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Первичные преобразователи информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 211",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Махов Владимир Иванович",
+            "id": "100742",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100742/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/15/small/p100742.jpg?token_static=f6a0aa30cbd2fb2460301e9dcc09cf2e"
+          }
+        },
+        {
+          "id": "7650-2-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Акустические измерения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 211",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Махов Владимир Иванович",
+            "id": "100742",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100742/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/15/small/p100742.jpg?token_static=f6a0aa30cbd2fb2460301e9dcc09cf2e"
+          }
+        },
+        {
+          "id": "7650-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Акустические измерения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 201",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Махов Владимир Иванович",
+            "id": "100742",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100742/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/15/small/p100742.jpg?token_static=f6a0aa30cbd2fb2460301e9dcc09cf2e"
+          }
+        },
+        {
+          "id": "7650-2-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Первичные преобразователи информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 201",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Махов Владимир Иванович",
+            "id": "100742",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100742/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/15/small/p100742.jpg?token_static=f6a0aa30cbd2fb2460301e9dcc09cf2e"
+          }
+        },
+        {
+          "id": "7650-2-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Теория информации и сигналов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Костин Максим Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/03/small/p103405.jpg?token_static=5c07857799d2345a4db2f376057f42b7"
+          }
+        },
+        {
+          "id": "7650-2-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Первичные преобразователи информации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 125",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Костин Максим Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/03/small/p103405.jpg?token_static=5c07857799d2345a4db2f376057f42b7"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7650-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Программное обеспечение мехатронных и робототехнических систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кузьменко Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/04/small/p100615.jpg?token_static=722e25e2dda2989add83074fc37a2776"
+          }
+        },
+        {
+          "id": "7650-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Электронные устройства мехатронных и робототехнических систем",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 119",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шилина Екатерина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101361.jpg?token_static=5c4cc058e748d1ac21b1832d804116d2"
+          }
+        },
+        {
+          "id": "7650-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Электронные устройства мехатронных и робототехнических систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 119",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шилина Екатерина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101361.jpg?token_static=5c4cc058e748d1ac21b1832d804116d2"
+          }
+        },
+        {
+          "id": "7650-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Электронные устройства мехатронных и робототехнических систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шилина Екатерина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101361.jpg?token_static=5c4cc058e748d1ac21b1832d804116d2"
+          }
+        },
+        {
+          "id": "7650-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Программное обеспечение мехатронных и робототехнических систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кузьменко Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/04/small/p100615.jpg?token_static=722e25e2dda2989add83074fc37a2776"
+          }
+        },
+        {
+          "id": "7650-3-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Программное обеспечение мехатронных и робототехнических систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кузьменко Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/04/small/p100615.jpg?token_static=722e25e2dda2989add83074fc37a2776"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7650-4-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Электронные устройства мехатронных и робототехнических систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шилина Екатерина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101361.jpg?token_static=5c4cc058e748d1ac21b1832d804116d2"
+          }
+        },
+        {
+          "id": "7650-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Микропроцессорная техника в мехатронике и робототехнике",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Коротицкий Евгений Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100560.jpg?token_static=4ab1935f60b285e985ff015b33dcd5fb"
+          }
+        },
+        {
+          "id": "7650-4-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Микропроцессорная техника в мехатронике и робототехнике",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Коротицкий Евгений Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100560.jpg?token_static=4ab1935f60b285e985ff015b33dcd5fb"
+          }
+        },
+        {
+          "id": "7650-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Микропроцессорная техника в мехатронике и робототехнике",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Коротицкий Евгений Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100560.jpg?token_static=4ab1935f60b285e985ff015b33dcd5fb"
+          }
+        },
+        {
+          "id": "7650-4-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Микропроцессорная техника в мехатронике и робототехнике",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Коротицкий Евгений Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100560.jpg?token_static=4ab1935f60b285e985ff015b33dcd5fb"
+          }
+        },
+        {
+          "id": "7650-4-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Акустические измерения",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 418",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Филимонова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101252.jpg?token_static=328c5b57462d1329ce139479c07e8a35"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7650-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "both"
+        },
+        {
+          "id": "7650-5-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (матросы/солдаты запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "both"
+        },
+        {
+          "id": "7650-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (матросы/солдаты запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "both"
+        },
+        {
+          "id": "7650-5-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "both"
+        },
+        {
+          "id": "7650-5-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (матросы/солдаты запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "both"
+        },
+        {
+          "id": "7650-5-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "both"
+        },
+        {
+          "id": "7650-5-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Романов Александр Иванович",
+            "id": "122500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
+          }
+        },
+        {
+          "id": "7650-5-15:40-8",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
+        },
+        {
+          "id": "7650-5-17:20-9",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Романов Александр Иванович",
+            "id": "122500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
+          }
+        },
+        {
+          "id": "7650-5-17:20-10",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
+        },
+        {
+          "id": "7650-5-19:00-11",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы военной подготовки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
+        },
+        {
+          "id": "7650-5-19:00-12",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы военной подготовки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3380",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
+        },
+        {
+          "id": "7650-5-19:00-13",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы военной подготовки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У ВУЦ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3380",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Романов Александр Иванович",
+            "id": "122500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7650-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Теория информации и сигналов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        },
+        {
+          "id": "7650-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория информации и сигналов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 119",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        },
+        {
+          "id": "7650-6-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория информации и сигналов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        },
+        {
+          "id": "7650-6-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Деловые коммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 107",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ильина Екатерина Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100466.jpg?token_static=a0d59a7049958518a8966b4eb0c215f2"
+          }
+        },
+        {
+          "id": "7650-6-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 107",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ильина Екатерина Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100466.jpg?token_static=a0d59a7049958518a8966b4eb0c215f2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "groupId": "7860",
+  "groupName": "5500",
+  "updatedAt": "2026-09-20T13:47:08.889Z",
+  "days": [
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7860-3-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Семейное право",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5500",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 23.11",
+          "teacher": {
+            "name": "Абаканова Вероника Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/20/small/p127021.jpg?token_static=f18bcb97f646da4af2c8af149b1a7f39"
+          }
+        },
+        {
+          "id": "7860-3-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Семейное право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5500",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 23.11",
+          "teacher": {
+            "name": "Абаканова Вероника Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/20/small/p127021.jpg?token_static=f18bcb97f646da4af2c8af149b1a7f39"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7860-4-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Морское право Российской Федерации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 440",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5500",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 23.11",
+          "teacher": {
+            "name": "Ладыка Сергей Иванович",
+            "id": "100652",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100652/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100652.jpg?token_static=72ffcb9a21f07a0af5ce8f938f7cfe8f"
+          }
+        },
+        {
+          "id": "7860-4-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Морское право Российской Федерации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 440",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5500",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 23.11",
+          "teacher": {
+            "name": "Ладыка Сергей Иванович",
+            "id": "100652",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100652/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100652.jpg?token_static=72ffcb9a21f07a0af5ce8f938f7cfe8f"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7860-5-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Административное судопроизводство",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 209ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5500",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 26.10",
+          "teacher": {
+            "name": "Жулёв Сергей Константинович",
+            "id": "102976",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102976/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p102976.jpg?token_static=0fd13e0993ffb1725d0e99bea4af5b43"
+          }
+        },
+        {
+          "id": "7860-5-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Административное судопроизводство",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 209ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5500",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 26.10",
+          "teacher": {
+            "name": "Жулёв Сергей Константинович",
+            "id": "102976",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102976/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p102976.jpg?token_static=0fd13e0993ffb1725d0e99bea4af5b43"
+          }
+        }
+      ]
+    }
+  ]
+}

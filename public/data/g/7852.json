@@ -1,0 +1,303 @@
+{
+  "groupId": "7852",
+  "groupName": "5310",
+  "updatedAt": "2026-09-20T13:46:57.636Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7852-1-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Корабельное электрооборудование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Низкий Роман Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/26/small/p123121.jpg?token_static=02b95aefe6f5b45818205c7ded96e7c8"
+          }
+        },
+        {
+          "id": "7852-1-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 522",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванчик Станислав Вадимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/24/small/p102920.jpg?token_static=20d55a7ac470b7104c533937c3baaa1a"
+          }
+        },
+        {
+          "id": "7852-1-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Корабельное электрооборудование",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Низкий Роман Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/26/small/p123121.jpg?token_static=02b95aefe6f5b45818205c7ded96e7c8"
+          }
+        },
+        {
+          "id": "7852-1-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 522",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванчик Станислав Вадимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/24/small/p102920.jpg?token_static=20d55a7ac470b7104c533937c3baaa1a"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7852-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Коррозия и защита судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 536(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Трусов Валерий Иванович",
+            "id": "101208",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101208/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101208.jpg?token_static=48d2d4be94fc7a8e58a329b1b449f7db"
+          }
+        },
+        {
+          "id": "7852-2-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Правоведение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ладыка Сергей Иванович",
+            "id": "100652",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100652/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100652.jpg?token_static=72ffcb9a21f07a0af5ce8f938f7cfe8f"
+          }
+        },
+        {
+          "id": "7852-2-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Коррозия и защита судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 536(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Трусов Валерий Иванович",
+            "id": "101208",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101208/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101208.jpg?token_static=48d2d4be94fc7a8e58a329b1b449f7db"
+          }
+        },
+        {
+          "id": "7852-2-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Правоведение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ладыка Сергей Иванович",
+            "id": "100652",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100652/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100652.jpg?token_static=72ffcb9a21f07a0af5ce8f938f7cfe8f"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7852-3-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Строительная механика корабля",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 218",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рябушкин Сергей Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p104937.jpg?token_static=7e47f923815df9b2bf9c40b3a60069c6"
+          }
+        },
+        {
+          "id": "7852-3-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Строительная механика корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 215",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тумашик Глеб Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101214.jpg?token_static=b5c463b0b0ae8e7e1a9beb2c7eabe73e"
+          }
+        },
+        {
+          "id": "7852-3-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Теория корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Четвертаков Алексей Михайлович",
+            "id": "101319",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101319/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101319.jpg?token_static=aa2b3c9de4161fcf6ecbf61349a620de"
+          }
+        },
+        {
+          "id": "7852-3-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория корабля",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Четвертаков Алексей Михайлович",
+            "id": "101319",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101319/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101319.jpg?token_static=aa2b3c9de4161fcf6ecbf61349a620de"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7852-5-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Гидромеханика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 318",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мостовский Николай Петрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/21/small/p102872.jpg?token_static=3a614e571e90cb11f1fe778c3e269c02"
+          }
+        },
+        {
+          "id": "7852-5-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        },
+        {
+          "id": "7852-5-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Гидромеханика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 318",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мостовский Николай Петрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/21/small/p102872.jpg?token_static=3a614e571e90cb11f1fe778c3e269c02"
+          }
+        },
+        {
+          "id": "7852-5-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        }
+      ]
+    }
+  ]
+}

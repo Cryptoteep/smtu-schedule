@@ -1,0 +1,203 @@
+{
+  "groupId": "7879",
+  "groupName": "20375",
+  "updatedAt": "2026-09-20T13:47:05.732Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7879-1-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Метрология, стандартизация и сертификация",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20375",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Быстров Владимир Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100178.jpg?token_static=51e043686e6c1a11447949ef3036dc52"
+          }
+        },
+        {
+          "id": "7879-1-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Метрология, стандартизация и сертификация",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20375",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Быстров Владимир Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100178.jpg?token_static=51e043686e6c1a11447949ef3036dc52"
+          }
+        },
+        {
+          "id": "7879-1-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Метрология, стандартизация и сертификация",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20375",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Быстров Владимир Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100178.jpg?token_static=51e043686e6c1a11447949ef3036dc52"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7879-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Электротехника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-03",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20375",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гриценко Кристина Вадимовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3"
+          }
+        },
+        {
+          "id": "7879-2-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Электротехника",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-03",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20375",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гриценко Кристина Вадимовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7879-4-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Тепловые основы сварки",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20375",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Коняшов Максим Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p131930.jpg?token_static=9a7fdb94ec19278da526efa15346f57a"
+          }
+        },
+        {
+          "id": "7879-4-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Тепловые основы сварки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20375",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Зернин Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/05/15/small/p124399.jpg?token_static=acd22df3c9ee08d5b13fa2491c00ae5c"
+          }
+        },
+        {
+          "id": "7879-4-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Тепловые основы сварки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20375",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Зернин Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/05/15/small/p124399.jpg?token_static=acd22df3c9ee08d5b13fa2491c00ae5c"
+          }
+        },
+        {
+          "id": "7879-4-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Тепловые основы сварки",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20375",
+          "weekParity": "down"
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7879-5-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Конструкция корпуса корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 207",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20375",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Дудкин Никита Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/17/small/p102578.jpg?token_static=8277d0802db36c4d410005e85df72809"
+          }
+        },
+        {
+          "id": "7879-5-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Конструкция корпуса корабля",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 207",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20375",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Дудкин Никита Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/17/small/p102578.jpg?token_static=8277d0802db36c4d410005e85df72809"
+          }
+        }
+      ]
+    }
+  ]
+}

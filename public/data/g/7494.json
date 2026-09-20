@@ -1,0 +1,351 @@
+{
+  "groupId": "7494",
+  "groupName": "5470",
+  "updatedAt": "2026-09-20T13:47:00.624Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7494-1-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы научных исследований и испытаний двигателей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Минасян Минас Арменакович",
+            "id": "100754",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100754/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100754.jpg?token_static=21b37c2485db0b01e0e177d729420dc8"
+          }
+        },
+        {
+          "id": "7494-1-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Конструирование двигателей внутреннего сгорания",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Галиев Ильдар Ринатович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/11/04/small/p122761.jpg?token_static=03336ce54982660dd02d71cb5b67d189"
+          }
+        },
+        {
+          "id": "7494-1-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Конструирование двигателей внутреннего сгорания",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Галиев Ильдар Ринатович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/11/04/small/p122761.jpg?token_static=03336ce54982660dd02d71cb5b67d189"
+          }
+        },
+        {
+          "id": "7494-1-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Конструирование двигателей внутреннего сгорания",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Галиев Ильдар Ринатович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/11/04/small/p122761.jpg?token_static=03336ce54982660dd02d71cb5b67d189"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7494-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Химмотология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        },
+        {
+          "id": "7494-2-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Тяговые расчеты",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 412",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        },
+        {
+          "id": "7494-2-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Химмотология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        },
+        {
+          "id": "7494-2-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Тяговые расчеты",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 412",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7494-3-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Теория рабочих процессов двигателей внутреннего сгорания",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Юрин Василий Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101387.jpg?token_static=63b961ea011953e599e23b153e77a44f"
+          }
+        },
+        {
+          "id": "7494-3-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Экология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 340а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чихонадских Елена Александровна",
+            "id": "101326",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+          }
+        },
+        {
+          "id": "7494-3-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Теория рабочих процессов двигателей внутреннего сгорания",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Юрин Василий Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101387.jpg?token_static=63b961ea011953e599e23b153e77a44f"
+          }
+        },
+        {
+          "id": "7494-3-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Экология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 340а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чихонадских Елена Александровна",
+            "id": "101326",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7494-4-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Теория рабочих процессов двигателей внутреннего сгорания",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5470",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Юрин Василий Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101387.jpg?token_static=63b961ea011953e599e23b153e77a44f"
+          }
+        },
+        {
+          "id": "7494-4-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Системы двигателей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Юрин Василий Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101387.jpg?token_static=63b961ea011953e599e23b153e77a44f"
+          }
+        },
+        {
+          "id": "7494-4-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Системы двигателей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Юрин Василий Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101387.jpg?token_static=63b961ea011953e599e23b153e77a44f"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7494-5-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шальнова Светлана Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/08/small/p104340.jpg?token_static=9f781f55e7228447ae56566dfcd92ec3"
+          }
+        },
+        {
+          "id": "7494-5-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Управление техническими системами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мащенко Владимир Юрьевич",
+            "id": "100746",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100746/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100746.jpg?token_static=7b1b0198b26b91e39f3a2e9dd3ec1b84"
+          }
+        },
+        {
+          "id": "7494-5-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шальнова Светлана Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/08/small/p104340.jpg?token_static=9f781f55e7228447ae56566dfcd92ec3"
+          }
+        },
+        {
+          "id": "7494-5-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Технология двигателестроения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мащенко Владимир Юрьевич",
+            "id": "100746",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100746/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100746.jpg?token_static=7b1b0198b26b91e39f3a2e9dd3ec1b84"
+          }
+        }
+      ]
+    }
+  ]
+}

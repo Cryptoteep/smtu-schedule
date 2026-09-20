@@ -1,0 +1,457 @@
+{
+  "groupId": "7577",
+  "groupName": "1516",
+  "updatedAt": "2026-09-20T13:46:57.467Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7577-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Автоматизированное проектирование судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 169",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1516",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Овчинников Кирилл Дмитриевич",
+            "id": "100836",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100836/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100836.jpg?token_static=2aa4c777fa8676fc89ba0c631c82ef57"
+          }
+        },
+        {
+          "id": "7577-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Автоматизированное проектирование судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 169",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1516",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Овчинников Кирилл Дмитриевич",
+            "id": "100836",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100836/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100836.jpg?token_static=2aa4c777fa8676fc89ba0c631c82ef57"
+          }
+        },
+        {
+          "id": "7577-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Акустика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1516",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Попов Юрий Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p125599.jpg?token_static=0051eab7ac9f2afd2c5e792f2c551cb4"
+          }
+        },
+        {
+          "id": "7577-1-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Акустика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1516",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Попов Юрий Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p125599.jpg?token_static=0051eab7ac9f2afd2c5e792f2c551cb4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7577-2-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Автоматизированные системы технической подготовки производства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Лазарев Дмитрий Романович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/01/small/p130363.jpg?token_static=f5485446078c8a0fbbc3112cc3e8aad4"
+          }
+        },
+        {
+          "id": "7577-2-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Палкина Елена Сергеевна",
+            "id": "126006",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/126006/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/22/small/p126006.jpg?token_static=ba1b85f51e29f4993384e5312d9bc078"
+          }
+        },
+        {
+          "id": "7577-2-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Автоматизированные системы технической подготовки производства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 410",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Фирсова Анна Валентиновна",
+            "id": "101258",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101258/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/05/22/small/p101258.jpg?token_static=8dab6470258b3163cbed9293ba1029e5"
+          }
+        },
+        {
+          "id": "7577-2-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технология постройки подводных лодок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413Б",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кветень Алексей Игоревич"
+          }
+        },
+        {
+          "id": "7577-2-19:00-5",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Технология постройки подводных лодок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413Б",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кветень Алексей Игоревич"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7577-3-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Системы и устройства подводных лодок",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лушина Ирина Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p127998.jpg?token_static=816387000e7494045ba4d4075e7b008e"
+          }
+        },
+        {
+          "id": "7577-3-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технология постройки подводных лодок",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мышков Яков Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p129941.jpg?token_static=e94eca74b905f502bc6f782cabcad493"
+          }
+        },
+        {
+          "id": "7577-3-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Системы и устройства подводных лодок",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лушина Ирина Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p127998.jpg?token_static=816387000e7494045ba4d4075e7b008e"
+          }
+        },
+        {
+          "id": "7577-3-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Технология постройки подводных лодок",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мышков Яков Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p129941.jpg?token_static=e94eca74b905f502bc6f782cabcad493"
+          }
+        },
+        {
+          "id": "7577-3-20:40-5",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 6,
+          "subject": "Системы и устройства подводных лодок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лушина Ирина Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p127998.jpg?token_static=816387000e7494045ba4d4075e7b008e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7577-4-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Системы автоматизированного проектирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Лазарев Дмитрий Романович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/01/small/p130363.jpg?token_static=f5485446078c8a0fbbc3112cc3e8aad4"
+          }
+        },
+        {
+          "id": "7577-4-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы автоматизированного проектирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лазарев Дмитрий Романович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/01/small/p130363.jpg?token_static=f5485446078c8a0fbbc3112cc3e8aad4"
+          }
+        },
+        {
+          "id": "7577-4-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы автоматизированного проектирования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 413А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Щигорцов Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/04/small/p100238.jpg?token_static=b891e7541bc20d6c00787110764b1dd1"
+          }
+        },
+        {
+          "id": "7577-4-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Метод конечных элементов в инженерных расчетах",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Родионов Александр Александрович",
+            "id": "100985",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100985/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100985.jpg?token_static=7f602212e660f550b5ae82435bfa35da"
+          }
+        },
+        {
+          "id": "7577-4-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Метод конечных элементов в инженерных расчетах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 218",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Родионов Александр Александрович",
+            "id": "100985",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100985/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100985.jpg?token_static=7f602212e660f550b5ae82435bfa35da"
+          }
+        },
+        {
+          "id": "7577-4-19:00-6",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Метод конечных элементов в инженерных расчетах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 215",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Родионов Александр Александрович",
+            "id": "100985",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100985/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100985.jpg?token_static=7f602212e660f550b5ae82435bfa35da"
+          }
+        },
+        {
+          "id": "7577-4-19:00-7",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Метод конечных элементов в инженерных расчетах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 218",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Родионов Александр Александрович",
+            "id": "100985",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100985/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100985.jpg?token_static=7f602212e660f550b5ae82435bfa35da"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7577-5-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Конструкция корпуса подводных лодок и подводных аппаратов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Жестков Кирилл Геннадьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100386.jpg?token_static=edd03bb29e56b503ecf98342251dd7b2"
+          }
+        },
+        {
+          "id": "7577-5-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Конструкция корпуса подводных лодок и подводных аппаратов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Жестков Кирилл Геннадьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100386.jpg?token_static=edd03bb29e56b503ecf98342251dd7b2"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7577-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Защита и живучесть подводных лодок",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 609",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Калиничев Алексей Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/02/20/small/p123306.jpg?token_static=5b0eb7c3742b97ead972275042c9ae44"
+          }
+        },
+        {
+          "id": "7577-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Защита и живучесть подводных лодок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 609",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Калиничев Алексей Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/02/20/small/p123306.jpg?token_static=5b0eb7c3742b97ead972275042c9ae44"
+          }
+        }
+      ]
+    }
+  ]
+}

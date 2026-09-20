@@ -1,0 +1,365 @@
+{
+  "groupId": "7769",
+  "groupName": "20370",
+  "updatedAt": "2026-09-20T13:47:05.570Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7769-1-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Вычислительные методы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мальцев Даниил Денисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/30/small/p103898.jpg?token_static=74fe8fd35896245d1bb8a8133ec0e75c"
+          }
+        },
+        {
+          "id": "7769-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Вычислительные методы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мальцев Даниил Денисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/30/small/p103898.jpg?token_static=74fe8fd35896245d1bb8a8133ec0e75c"
+          }
+        },
+        {
+          "id": "7769-1-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Оборудование для сварки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 520",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Карпов Вячеслав Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/11/small/p100502.jpg?token_static=8f53807a0d4ea9e0d53563fe481e95e1"
+          }
+        },
+        {
+          "id": "7769-1-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Оборудование для сварки",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 521",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Карпов Вячеслав Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/11/small/p100502.jpg?token_static=8f53807a0d4ea9e0d53563fe481e95e1"
+          }
+        },
+        {
+          "id": "7769-1-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Оборудование для сварки",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 521",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Карпов Вячеслав Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/11/small/p100502.jpg?token_static=8f53807a0d4ea9e0d53563fe481e95e1"
+          }
+        },
+        {
+          "id": "7769-1-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Вычислительные методы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Хазанов Владимир Борисович",
+            "id": "101267",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101267/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101267.jpg?token_static=4a3bdd427715af036e24b523a83f0270"
+          }
+        },
+        {
+          "id": "7769-1-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Вычислительные методы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Хазанов Владимир Борисович",
+            "id": "101267",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101267/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101267.jpg?token_static=4a3bdd427715af036e24b523a83f0270"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7769-2-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы теплофизики и механики сплошных сред",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 322-322а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ларионов Николай Владимирович",
+            "id": "104846",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104846/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104846.jpg?token_static=de6c8f5c086b0306d8efda8ce9e3cd94"
+          }
+        },
+        {
+          "id": "7769-2-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы теплофизики и механики сплошных сред",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 322-322а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ларионов Николай Владимирович",
+            "id": "104846",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104846/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104846.jpg?token_static=de6c8f5c086b0306d8efda8ce9e3cd94"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7769-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Электроника",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-03",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гриценко Кристина Вадимовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3"
+          }
+        },
+        {
+          "id": "7769-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Электроника",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ветров Борис Георгиевич",
+            "id": "100209",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100209/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/26/small/p100209.jpg?token_static=009872370c283ae287618e9ec0a5c72d"
+          }
+        },
+        {
+          "id": "7769-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Электроника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ветров Борис Георгиевич",
+            "id": "100209",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100209/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/26/small/p100209.jpg?token_static=009872370c283ae287618e9ec0a5c72d"
+          }
+        },
+        {
+          "id": "7769-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Электроника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ветров Борис Георгиевич",
+            "id": "100209",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100209/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/26/small/p100209.jpg?token_static=009872370c283ae287618e9ec0a5c72d"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7769-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Конструкция и устройство корабля",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 207А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дудкин Никита Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/17/small/p102578.jpg?token_static=8277d0802db36c4d410005e85df72809"
+          }
+        },
+        {
+          "id": "7769-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Конструкция и устройство корабля",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 207А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дудкин Никита Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/17/small/p102578.jpg?token_static=8277d0802db36c4d410005e85df72809"
+          }
+        },
+        {
+          "id": "7769-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы проектирования машин",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 313",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Стукач Александр Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/02/small/p122495.jpg?token_static=a8a1e3f8a8f151b4c46b6ea60c07c438"
+          }
+        },
+        {
+          "id": "7769-6-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Конструкция и устройство корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 207А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дудкин Никита Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/17/small/p102578.jpg?token_static=8277d0802db36c4d410005e85df72809"
+          }
+        },
+        {
+          "id": "7769-6-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы проектирования машин",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 313",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Стукач Александр Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/02/small/p122495.jpg?token_static=a8a1e3f8a8f151b4c46b6ea60c07c438"
+          }
+        },
+        {
+          "id": "7769-6-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Конструкция и устройство корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 207А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дудкин Никита Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/17/small/p102578.jpg?token_static=8277d0802db36c4d410005e85df72809"
+          }
+        },
+        {
+          "id": "7769-6-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы проектирования машин",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 313",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Стукач Александр Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/02/small/p122495.jpg?token_static=a8a1e3f8a8f151b4c46b6ea60c07c438"
+          }
+        }
+      ]
+    }
+  ]
+}

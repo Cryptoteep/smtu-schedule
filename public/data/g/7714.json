@@ -1,0 +1,417 @@
+{
+  "groupId": "7714",
+  "groupName": "7362",
+  "updatedAt": "2026-09-20T13:47:09.362Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7714-1-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Уголовный процесс",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Марченко Александр Васильевич",
+            "id": "100732",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100732/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/01/small/p100732.jpg?token_static=bf0b17a95997404c46e70733c016c2a0"
+          }
+        },
+        {
+          "id": "7714-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Уголовный процесс",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Марченко Александр Васильевич",
+            "id": "100732",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100732/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/01/small/p100732.jpg?token_static=bf0b17a95997404c46e70733c016c2a0"
+          }
+        },
+        {
+          "id": "7714-1-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Международное право",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 115",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чимаров Николай Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/07/small/p124520.jpg?token_static=d175d54ad482d06d02af13d586a77905"
+          }
+        },
+        {
+          "id": "7714-1-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Трудовое право",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ельчанинова Ольга Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/09/small/p139976.jpg?token_static=557769433bdf5b34760b0d1eef542284"
+          }
+        },
+        {
+          "id": "7714-1-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Трудовое право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 02ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ельчанинова Ольга Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/09/small/p139976.jpg?token_static=557769433bdf5b34760b0d1eef542284"
+          }
+        },
+        {
+          "id": "7714-1-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Международное право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 407",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чимаров Николай Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/07/small/p124520.jpg?token_static=d175d54ad482d06d02af13d586a77905"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7714-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "7362",
+          "weekParity": "both"
+        },
+        {
+          "id": "7714-2-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (матросы/солдаты запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "7362",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7714-3-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Профессиональная этика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Жулёв Сергей Константинович",
+            "id": "102976",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102976/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p102976.jpg?token_static=0fd13e0993ffb1725d0e99bea4af5b43"
+          }
+        },
+        {
+          "id": "7714-3-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Прокурорский надзор",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Травин Александр Владимирович",
+            "id": "101199",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101199/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/19/small/p101199.jpg?token_static=504304678269328cd4da06cdcf4f7d85"
+          }
+        },
+        {
+          "id": "7714-3-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Профессиональная этика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 209ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Жулёв Сергей Константинович",
+            "id": "102976",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102976/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p102976.jpg?token_static=0fd13e0993ffb1725d0e99bea4af5b43"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7714-4-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Международное право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 02ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Чимаров Николай Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/07/small/p124520.jpg?token_static=d175d54ad482d06d02af13d586a77905"
+          }
+        },
+        {
+          "id": "7714-4-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Уголовный процесс",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 209ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Марченко Александр Васильевич",
+            "id": "100732",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100732/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/01/small/p100732.jpg?token_static=bf0b17a95997404c46e70733c016c2a0"
+          }
+        },
+        {
+          "id": "7714-4-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Прокурорский надзор",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 02ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Травин Александр Владимирович",
+            "id": "101199",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101199/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/19/small/p101199.jpg?token_static=504304678269328cd4da06cdcf4f7d85"
+          }
+        },
+        {
+          "id": "7714-4-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Гражданское право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 304ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Юр Игорь Петрович"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7714-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 403",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Евграфова Ирина Владимировна",
+            "id": "100356",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100356/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
+          }
+        },
+        {
+          "id": "7714-5-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Гражданское право",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Юр Игорь Петрович"
+          }
+        },
+        {
+          "id": "7714-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Гражданское право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 410",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Юр Игорь Петрович"
+          }
+        },
+        {
+          "id": "7714-5-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Деловые коммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Евграфова Ирина Владимировна",
+            "id": "100356",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100356/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
+          }
+        },
+        {
+          "id": "7714-5-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Гражданское право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 02ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Юр Игорь Петрович"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7714-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Трудовое право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 02ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ельчанинова Ольга Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/09/small/p139976.jpg?token_static=557769433bdf5b34760b0d1eef542284"
+          }
+        },
+        {
+          "id": "7714-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Муниципальное право России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 01Ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Абаканова Вероника Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/20/small/p127021.jpg?token_static=f18bcb97f646da4af2c8af149b1a7f39"
+          }
+        },
+        {
+          "id": "7714-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Муниципальное право России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Абаканова Вероника Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/20/small/p127021.jpg?token_static=f18bcb97f646da4af2c8af149b1a7f39"
+          }
+        }
+      ]
+    }
+  ]
+}

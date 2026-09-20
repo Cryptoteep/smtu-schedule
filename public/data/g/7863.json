@@ -1,0 +1,161 @@
+{
+  "groupId": "7863",
+  "groupName": "5580",
+  "updatedAt": "2026-09-20T13:47:03.405Z",
+  "days": [
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7863-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Проектирование информационных систем подводной робототехники",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 418",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5580",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кузьменко Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/04/small/p100615.jpg?token_static=722e25e2dda2989add83074fc37a2776"
+          }
+        },
+        {
+          "id": "7863-2-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование информационных систем подводной робототехники",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 418",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5580",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кузьменко Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/04/small/p100615.jpg?token_static=722e25e2dda2989add83074fc37a2776"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7863-3-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Цифровая обработка информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5580",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7863-3-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Цифровая обработка информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5580",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7863-3-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Цифровая обработка информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5580",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7863-3-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Цифровая обработка информации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5580",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7863-5-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Проектирование информационных систем подводной робототехники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5580",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Егоров Станислав Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/10/small/p100361.jpg?token_static=0c9a247cebbb7013fea1dd8a95d804a9"
+          }
+        },
+        {
+          "id": "7863-5-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование информационных систем подводной робототехники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 520",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5580",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Егоров Станислав Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/10/small/p100361.jpg?token_static=0c9a247cebbb7013fea1dd8a95d804a9"
+          }
+        }
+      ]
+    }
+  ]
+}

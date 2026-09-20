@@ -1,0 +1,343 @@
+{
+  "groupId": "7818",
+  "groupName": "12515-50",
+  "updatedAt": "2026-09-20T13:47:04.305Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7818-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Дуговые и плазменные технологии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-50",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Воропаев Артем Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/29/small/p107556.jpg?token_static=1ab1eda115a89fdfeb2445001cc9d0be"
+          }
+        },
+        {
+          "id": "7818-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Аддитивные технологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-50",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Земляков Евгений Вячеславович",
+            "id": "104606",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104606/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/11/09/small/p104606.jpg?token_static=6b9dfef4423b646ff4c9cfe8478b4a3a"
+          }
+        },
+        {
+          "id": "7818-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Планирование эксперимента и анализ научных данных",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сапожков Сергей Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/13/small/p128165.jpg?token_static=5b3dbce8975e2ba98e595723e5886668"
+          }
+        },
+        {
+          "id": "7818-1-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Аддитивные технологии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ НПК207",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-50",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Вильданов Артур Маратович",
+            "id": "123773",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123773/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123773.jpg?token_static=57e3a70d14ed0cea1b46b54a7d7675d6"
+          }
+        },
+        {
+          "id": "7818-1-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Дуговые и плазменные технологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Зернин Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/05/15/small/p124399.jpg?token_static=acd22df3c9ee08d5b13fa2491c00ae5c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7818-3-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технологии обработки материалов концентрированными потоками энергии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-50",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цибульский Игорь Александрович",
+            "id": "106209",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106209/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/20/small/p106209.jpg?token_static=7d487ccde86fd44abebba10875917b5b"
+          }
+        },
+        {
+          "id": "7818-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Современные конструкционные материалы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Климова-Корсмик Ольга Геннадьевна",
+            "id": "104812",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104812/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p104812.jpg?token_static=092df29f49e97b5b15491fc20119e2fd"
+          }
+        },
+        {
+          "id": "7818-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Современные конструкционные материалы",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ УИК208",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-50",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мендагалиев Руслан Валисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/11/small/p104013.jpg?token_static=e1803f56f754322bba4f5b5b66678acd"
+          }
+        },
+        {
+          "id": "7818-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Современные конструкционные материалы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мендагалиев Руслан Валисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/11/small/p104013.jpg?token_static=e1803f56f754322bba4f5b5b66678acd"
+          }
+        },
+        {
+          "id": "7818-3-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Управление проектами и инновациями",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 530а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-50",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Талеров Павел Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101162.jpg?token_static=ba663936f2579f7af2e8549078d9dfd3"
+          }
+        },
+        {
+          "id": "7818-3-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Планирование эксперимента и анализ научных данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сапожков Сергей Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/13/small/p128165.jpg?token_static=5b3dbce8975e2ba98e595723e5886668"
+          }
+        },
+        {
+          "id": "7818-3-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Управление проектами и инновациями",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 519",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-50",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Талеров Павел Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101162.jpg?token_static=ba663936f2579f7af2e8549078d9dfd3"
+          }
+        },
+        {
+          "id": "7818-3-17:20-8",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Управление проектами и инновациями",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-50",
+          "weekParity": "both",
+          "dateSpecific": "11.11 по 18.11",
+          "teacher": {
+            "name": "Гоголюхина Мария Евгеньевна",
+            "id": "100274",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100274/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/27/small/p100274.jpg?token_static=39a45e1b3ba5272bac18b5ce3a124af9"
+          }
+        },
+        {
+          "id": "7818-3-19:00-9",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Управление проектами и инновациями",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-50",
+          "weekParity": "both",
+          "dateSpecific": "11.11 по 18.11",
+          "teacher": {
+            "name": "Гоголюхина Мария Евгеньевна",
+            "id": "100274",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100274/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/27/small/p100274.jpg?token_static=39a45e1b3ba5272bac18b5ce3a124af9"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7818-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Проектирование спецоборудования лазерной обработки",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-50",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Певзнер Яков Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p106219.jpg?token_static=cacb9c7f62085d0cdeefe08d65aa12fe"
+          }
+        },
+        {
+          "id": "7818-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Проектирование спецоборудования лазерной обработки",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Певзнер Яков Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p106219.jpg?token_static=cacb9c7f62085d0cdeefe08d65aa12fe"
+          }
+        },
+        {
+          "id": "7818-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технологии обработки материалов концентрированными потоками энергии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ УИК104",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ахметов Александр Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106212.jpg?token_static=77830dd30282be9b35bbd7c0d7b645f3"
+          }
+        },
+        {
+          "id": "7818-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технологии обработки материалов концентрированными потоками энергии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ УИК104",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-50",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ахметов Александр Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106212.jpg?token_static=77830dd30282be9b35bbd7c0d7b645f3"
+          }
+        },
+        {
+          "id": "7818-5-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Иностранный язык в профессиональной и академической коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-50",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Гаранина Евгения Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
+          }
+        }
+      ]
+    }
+  ]
+}

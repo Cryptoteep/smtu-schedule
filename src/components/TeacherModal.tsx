@@ -1,5 +1,5 @@
 import React from 'react';
-import { X, User, BookOpen, Clock, MapPin } from 'lucide-react';
+import { X, User, BookOpen, Clock, MapPin, ExternalLink } from 'lucide-react';
 import { Lesson } from '../types/schedule';
 
 interface TeacherModalProps {
@@ -22,6 +22,9 @@ export const TeacherModal: React.FC<TeacherModalProps> = ({
   const teacherLessons = allLessons.filter(
     (l) => l.teacher?.name.toLowerCase() === teacherName.toLowerCase()
   );
+
+  const teacherLesson = teacherLessons.find((l) => l.teacher?.profileUrl || l.teacher?.id);
+  const profileUrl = teacherLesson?.teacher?.profileUrl || (teacherLesson?.teacher?.id ? `https://www.smtu.ru/ru/viewperson/${teacherLesson.teacher.id}/` : undefined);
 
   return (
     <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center p-0 sm:p-4 bg-navy-950/60 backdrop-blur-sm animate-in fade-in duration-200">
@@ -55,6 +58,19 @@ export const TeacherModal: React.FC<TeacherModalProps> = ({
             <X className="w-5 h-5" />
           </button>
         </div>
+
+        {/* External Link to Official SMTU Person Page */}
+        {profileUrl && (
+          <a
+            href={profileUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center justify-center gap-1.5 w-full py-2 px-3 rounded-xl bg-navy-50 hover:bg-navy-100 dark:bg-navy-800/80 dark:hover:bg-navy-700 border border-slate-200 dark:border-navy-700 text-xs font-bold text-navy-800 dark:text-ship-gold transition"
+          >
+            <ExternalLink className="w-3.5 h-3.5" />
+            <span>Страница преподавателя на smtu.ru</span>
+          </a>
+        )}
 
         {/* Subjects taught by this teacher in this group */}
         <div className="space-y-2 pt-2 border-t border-slate-100 dark:border-navy-800">

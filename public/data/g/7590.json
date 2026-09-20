@@ -1,0 +1,405 @@
+{
+  "groupId": "7590",
+  "groupName": "2267",
+  "updatedAt": "2026-09-20T13:46:59.266Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7590-1-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория инженерного эксперимента",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2267",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мханна Ааед Исмаил Назир",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/16/small/p128126.jpg?token_static=e8f00aeafbb18ce6efb5f4f5e81d5183"
+          }
+        },
+        {
+          "id": "7590-1-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Экологическая безопасность энергетического оборудования морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2267",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Любимов Ярослав Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/12/small/p127485.jpg?token_static=7b0150e50ca96057774ed4a15dbc34b7"
+          }
+        },
+        {
+          "id": "7590-1-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Экологическая безопасность энергетического оборудования морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2267",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Любимов Ярослав Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/12/small/p127485.jpg?token_static=7b0150e50ca96057774ed4a15dbc34b7"
+          }
+        },
+        {
+          "id": "7590-1-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Водоподготовка на судах",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 326",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2267",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+          }
+        },
+        {
+          "id": "7590-1-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Водоподготовка на судах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 326",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2267",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+          }
+        },
+        {
+          "id": "7590-1-19:00-6",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Водоподготовка на судах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 326",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2267",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7590-2-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Теория инженерного эксперимента",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 326",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2267",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сидельникова Екатерина Олеговна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/02/05/small/p140366.jpg?token_static=3774fc20e0e1215ae3bfbc4e1f10d721"
+          }
+        },
+        {
+          "id": "7590-2-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Проектирование судовых аппаратов защиты атмосферы и гидросферы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 326",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2267",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сидельникова Екатерина Олеговна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/02/05/small/p140366.jpg?token_static=3774fc20e0e1215ae3bfbc4e1f10d721"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7590-3-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Способы снижения вредных выбросов при эксплуатации судового энергетического оборудования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2267",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Долгомирова Валерия Романовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/04/small/p124469.jpg?token_static=8d25ec24849d65241a36e445baa5adb9"
+          }
+        },
+        {
+          "id": "7590-3-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Способы снижения вредных выбросов при эксплуатации судового энергетического оборудования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2267",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Долгомирова Валерия Романовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/04/small/p124469.jpg?token_static=8d25ec24849d65241a36e445baa5adb9"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7590-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Предотвращение загрязнения акваторий твердыми отходами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2267",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Вахрушина Нина Сергеевна",
+            "id": "100200",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100200/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100200.jpg?token_static=a058987491b8f9ef01d08c795a9c9011"
+          }
+        },
+        {
+          "id": "7590-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Предотвращение загрязнения акваторий твердыми отходами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2267",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Вахрушина Нина Сергеевна",
+            "id": "100200",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100200/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100200.jpg?token_static=a058987491b8f9ef01d08c795a9c9011"
+          }
+        },
+        {
+          "id": "7590-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Предотвращение загрязнения акваторий твердыми отходами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2267",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Вахрушина Нина Сергеевна",
+            "id": "100200",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100200/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100200.jpg?token_static=a058987491b8f9ef01d08c795a9c9011"
+          }
+        },
+        {
+          "id": "7590-4-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Способы снижения вредных выбросов при эксплуатации судового энергетического оборудования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2267",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Черкаев Георгий Владимирович",
+            "id": "101309",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101309/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/25/small/p101309.jpg?token_static=ee2cf7db26238bc7ed44737b082e9642"
+          }
+        },
+        {
+          "id": "7590-4-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Способы снижения вредных выбросов при эксплуатации судового энергетического оборудования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2267",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Черкаев Георгий Владимирович",
+            "id": "101309",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101309/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/25/small/p101309.jpg?token_static=ee2cf7db26238bc7ed44737b082e9642"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7590-5-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Проектирование судовых аппаратов защиты атмосферы и гидросферы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2267",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+          }
+        },
+        {
+          "id": "7590-5-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Методы и приборы контроля вредных выбросов от судового оборудования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2267",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+          }
+        },
+        {
+          "id": "7590-5-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Методы и приборы контроля вредных выбросов от судового оборудования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2267",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7590-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2267",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Богомолов Владимир Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/11/11/small/p107994.jpg?token_static=8102e9db97a0c475b36a35bf051e77cd"
+          }
+        },
+        {
+          "id": "7590-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2267",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Богомолов Владимир Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/11/11/small/p107994.jpg?token_static=8102e9db97a0c475b36a35bf051e77cd"
+          }
+        },
+        {
+          "id": "7590-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2267",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Богомолов Владимир Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/11/11/small/p107994.jpg?token_static=8102e9db97a0c475b36a35bf051e77cd"
+          }
+        },
+        {
+          "id": "7590-6-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2267",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Богомолов Владимир Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/11/11/small/p107994.jpg?token_static=8102e9db97a0c475b36a35bf051e77cd"
+          }
+        }
+      ]
+    }
+  ]
+}

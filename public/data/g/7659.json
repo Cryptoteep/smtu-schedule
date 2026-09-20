@@ -1,0 +1,533 @@
+{
+  "groupId": "7659",
+  "groupName": "3470",
+  "updatedAt": "2026-09-20T13:47:03.170Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7659-1-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Системы искусственного интеллекта",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Борисов Александр Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+          }
+        },
+        {
+          "id": "7659-1-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Системы искусственного интеллекта",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Борисов Александр Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+          }
+        },
+        {
+          "id": "7659-1-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Компьютерное моделирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Гневашев Ярослав Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/03/small/p102250.jpg?token_static=eccc1b2658ee825b289ef7a11b4cc546"
+          }
+        },
+        {
+          "id": "7659-1-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Компьютерное моделирование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Гневашев Ярослав Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/03/small/p102250.jpg?token_static=eccc1b2658ee825b289ef7a11b4cc546"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7659-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "both"
+        },
+        {
+          "id": "7659-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "both"
+        },
+        {
+          "id": "7659-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7659-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Защита информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        },
+        {
+          "id": "7659-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Защита информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        },
+        {
+          "id": "7659-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория и проектирование морских компьютерных систем",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Хуторная Екатерина Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/15/small/p101289.jpg?token_static=b298df76246bd357fb280ace88551b1a"
+          }
+        },
+        {
+          "id": "7659-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Защита информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        },
+        {
+          "id": "7659-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория и проектирование морских компьютерных систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Хуторная Екатерина Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/15/small/p101289.jpg?token_static=b298df76246bd357fb280ace88551b1a"
+          }
+        },
+        {
+          "id": "7659-3-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Компьютерное моделирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гневашев Ярослав Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/03/small/p102250.jpg?token_static=eccc1b2658ee825b289ef7a11b4cc546"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7659-4-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление качеством, стандартизация, сертификация",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "3470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ромадин Дмитрий Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/08/small/p124281.jpg?token_static=35c0aed366ab63318d2455cf21c381bb"
+          }
+        },
+        {
+          "id": "7659-4-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Автоматизация проектирования сложных технических систем",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
+          }
+        },
+        {
+          "id": "7659-4-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Управление качеством, стандартизация, сертификация",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "3470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мальцева Юлия Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100720.jpg?token_static=f8e418990bfc22189eb5747b7ad16701"
+          }
+        },
+        {
+          "id": "7659-4-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Автоматизация проектирования сложных технических систем",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
+          }
+        },
+        {
+          "id": "7659-4-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Управление качеством, стандартизация, сертификация",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "3470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мальцева Юлия Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100720.jpg?token_static=f8e418990bfc22189eb5747b7ad16701"
+          }
+        },
+        {
+          "id": "7659-4-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Автоматизация проектирования сложных технических систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7659-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Системы искусственного интеллекта",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Борисов Александр Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+          }
+        },
+        {
+          "id": "7659-5-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Сети и телекоммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Одоевский Сергей Михайлович",
+            "id": "100841",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100841/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100841.jpg?token_static=2ab4723f71cf0be3b7f24f0d66dff49b"
+          }
+        },
+        {
+          "id": "7659-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Системы искусственного интеллекта",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Борисов Александр Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+          }
+        },
+        {
+          "id": "7659-5-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Сети и телекоммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Одоевский Сергей Михайлович",
+            "id": "100841",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100841/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100841.jpg?token_static=2ab4723f71cf0be3b7f24f0d66dff49b"
+          }
+        },
+        {
+          "id": "7659-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Сети и телекоммуникации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Одоевский Сергей Михайлович",
+            "id": "100841",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100841/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100841.jpg?token_static=2ab4723f71cf0be3b7f24f0d66dff49b"
+          }
+        },
+        {
+          "id": "7659-5-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Сети и телекоммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Одоевский Сергей Михайлович",
+            "id": "100841",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100841/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100841.jpg?token_static=2ab4723f71cf0be3b7f24f0d66dff49b"
+          }
+        },
+        {
+          "id": "7659-5-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Сети и телекоммуникации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Одоевский Сергей Михайлович",
+            "id": "100841",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100841/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100841.jpg?token_static=2ab4723f71cf0be3b7f24f0d66dff49b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7659-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Инженерная психология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 438",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сидоренко Светлана Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
+          }
+        },
+        {
+          "id": "7659-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3470",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Золотов Алексей Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/127835.jpg?token_static=366477f80a1bc86b4a7ece2949998ad7"
+          }
+        },
+        {
+          "id": "7659-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Инженерная психология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 438",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сидоренко Светлана Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
+          }
+        },
+        {
+          "id": "7659-6-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Инженерная психология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 438",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сидоренко Светлана Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "groupId": "7912",
+  "groupName": "1236",
+  "updatedAt": "2026-09-20T13:46:55.722Z",
+  "days": [
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7912-3-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Русский язык как иностранный: язык для академических целей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 403",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1236",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Григорьева-Голубева Виктория Аркадьевна",
+            "id": "100302",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100302/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/08/28/small/p100302.jpg?token_static=3c400786fd351508022ddc8929baa59e"
+          }
+        },
+        {
+          "id": "7912-3-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Современные методы решения задач гидродинамики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Тряскин Никита Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101210.jpg?token_static=1cee014c4169a8fcb3b605dd9051ba69"
+          }
+        },
+        {
+          "id": "7912-3-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Гидродинамика судов с динамическим поддержанием",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Вишневский Леонид Иосифович",
+            "id": "123867",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123867/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/06/small/p123867.jpg?token_static=cecbbd44160bd5a0c80440f28da4a900"
+          }
+        },
+        {
+          "id": "7912-3-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Математические модели внешних гидрометеорологических возмущений",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Альбаев Данил Айдарович",
+            "id": "101505",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101505/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p101505.jpg?token_static=e0f44ca0ab3df528b3d17443537a0733"
+          }
+        },
+        {
+          "id": "7912-3-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Математические модели внешних гидрометеорологических возмущений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Альбаев Данил Айдарович",
+            "id": "101505",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101505/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p101505.jpg?token_static=e0f44ca0ab3df528b3d17443537a0733"
+          }
+        },
+        {
+          "id": "7912-3-19:00-6",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Дополнительные разделы динамики объектов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Живица Сергей Григорьевич",
+            "id": "122141",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122141/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/24/small/p122141.jpg?token_static=1b6f38179a9474015009576eaad53646"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7912-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Динамика плавания в типовых и особых условиях",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 422",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Карулин Евгений Борисович",
+            "id": "100505",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100505/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100505.jpg?token_static=52d842b1c67df1d85c863d992d850394"
+          }
+        },
+        {
+          "id": "7912-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Динамика плавания в типовых и особых условиях",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 422",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Карулин Евгений Борисович",
+            "id": "100505",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100505/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100505.jpg?token_static=52d842b1c67df1d85c863d992d850394"
+          }
+        },
+        {
+          "id": "7912-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Решение внутренних задач гидродинамики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Али Рами Мамдух",
+            "id": "106092",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106092/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p106092.jpg?token_static=026f7cff3e3628d0d8e56d6f1697dd48"
+          }
+        },
+        {
+          "id": "7912-4-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Решение внутренних задач гидродинамики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Али Рами Мамдух",
+            "id": "106092",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106092/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p106092.jpg?token_static=026f7cff3e3628d0d8e56d6f1697dd48"
+          }
+        },
+        {
+          "id": "7912-4-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Современные методы решения задач гидродинамики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Тряскин Никита Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101210.jpg?token_static=1cee014c4169a8fcb3b605dd9051ba69"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7912-5-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Гидродинамика судов с динамическим поддержанием",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 422",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чепурко Сергей Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101303.jpg?token_static=13452f5950258ad17bc45eb8063970d1"
+          }
+        },
+        {
+          "id": "7912-5-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Гидродинамика движителей и средств активного управления",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 318",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кадомцева Алена Борисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/24/small/p101729.jpg?token_static=42f1ea8a8c9f9b344c7d98703b289299"
+          }
+        },
+        {
+          "id": "7912-5-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Гидродинамика движителей и средств активного управления",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Яковлев Алексей Юрьевич",
+            "id": "101392",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
+          }
+        },
+        {
+          "id": "7912-5-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Дополнительные разделы динамики объектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 422",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Живица Сергей Григорьевич",
+            "id": "122141",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122141/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/24/small/p122141.jpg?token_static=1b6f38179a9474015009576eaad53646"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7912-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1236",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Богомолов Владимир Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/11/11/small/p107994.jpg?token_static=8102e9db97a0c475b36a35bf051e77cd"
+          }
+        },
+        {
+          "id": "7912-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1236",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Богомолов Владимир Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/11/11/small/p107994.jpg?token_static=8102e9db97a0c475b36a35bf051e77cd"
+          }
+        },
+        {
+          "id": "7912-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1236",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Богомолов Владимир Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/11/11/small/p107994.jpg?token_static=8102e9db97a0c475b36a35bf051e77cd"
+          }
+        },
+        {
+          "id": "7912-6-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1236",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Богомолов Владимир Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/11/11/small/p107994.jpg?token_static=8102e9db97a0c475b36a35bf051e77cd"
+          }
+        }
+      ]
+    }
+  ]
+}

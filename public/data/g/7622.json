@@ -1,0 +1,525 @@
+{
+  "groupId": "7622",
+  "groupName": "2594",
+  "updatedAt": "2026-09-20T13:47:00.697Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7622-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Автоматизация систем управления движением",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кичигина Ольга Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100522.jpg?token_static=1aa780db3038d5b4eaa9897d08b3fe12"
+          }
+        },
+        {
+          "id": "7622-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Автоматизация систем управления движением",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кичигина Ольга Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100522.jpg?token_static=1aa780db3038d5b4eaa9897d08b3fe12"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7622-2-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Техническая диагностика судового оборудования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Егорова Александра Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107212.jpg?token_static=c6e0348dd8b066965abee3b45758adf2"
+          }
+        },
+        {
+          "id": "7622-2-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Мониторинг технического состояния корабельного энергооборудования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Хруцкий Олег Валентинович",
+            "id": "101286",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101286/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p101286.jpg?token_static=9805cc3d8f7b92e289b4baf4702087b0"
+          }
+        },
+        {
+          "id": "7622-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Техническая диагностика судового оборудования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Егорова Александра Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107212.jpg?token_static=c6e0348dd8b066965abee3b45758adf2"
+          }
+        },
+        {
+          "id": "7622-2-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Мониторинг технического состояния корабельного энергооборудования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Хруцкий Олег Валентинович",
+            "id": "101286",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101286/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p101286.jpg?token_static=9805cc3d8f7b92e289b4baf4702087b0"
+          }
+        },
+        {
+          "id": "7622-2-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Современные технологии автоматизации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Баглюк Юрий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/13/small/p122974.jpg?token_static=dce14fc82306cb531f010abd0e1bd962"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7622-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Автоматизация систем управления электроэнергетикой",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Губанов Юрий Александрович",
+            "id": "106201",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106201/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p106201.jpg?token_static=54b826df9cfb69bd35b67eb10ab3b66a"
+          }
+        },
+        {
+          "id": "7622-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Автоматизация систем управления электроэнергетикой",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 318-А",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Губанов Юрий Александрович",
+            "id": "106201",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106201/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p106201.jpg?token_static=54b826df9cfb69bd35b67eb10ab3b66a"
+          }
+        },
+        {
+          "id": "7622-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Автоматизация систем управления движением",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 414",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        },
+        {
+          "id": "7622-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Автоматизация систем управления движением",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        },
+        {
+          "id": "7622-3-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Современные технологии автоматизации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Баглюк Юрий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/13/small/p122974.jpg?token_static=dce14fc82306cb531f010abd0e1bd962"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7622-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Эксплуатация корабельных атомных энергетических установок (С)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "both"
+        },
+        {
+          "id": "7622-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Эксплуатация корабельных атомных энергетических установок (С)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "up"
+        },
+        {
+          "id": "7622-4-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Комплексные системы управления техническими средствами корабля (С)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "down"
+        },
+        {
+          "id": "7622-4-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Комплексные системы управления техническими средствами корабля (С)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "both"
+        },
+        {
+          "id": "7622-4-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Военная подготовка (кадровые офицеры)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "up"
+        },
+        {
+          "id": "7622-4-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Военная подготовка (кадровые офицеры)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "down"
+        },
+        {
+          "id": "7622-4-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Военная подготовка (кадровые офицеры)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "down"
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7622-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Судовые ядерные энергетические установки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Глазырина Диана Олеговна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
+          }
+        },
+        {
+          "id": "7622-5-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2594",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Палкина Елена Сергеевна",
+            "id": "126006",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/126006/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/22/small/p126006.jpg?token_static=ba1b85f51e29f4993384e5312d9bc078"
+          }
+        },
+        {
+          "id": "7622-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2594",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Палкина Елена Сергеевна",
+            "id": "126006",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/126006/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/22/small/p126006.jpg?token_static=ba1b85f51e29f4993384e5312d9bc078"
+          }
+        },
+        {
+          "id": "7622-5-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы электроэнергетики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Белянцева Наталья Валентиновна",
+            "id": "123509",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123509/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/25/small/p123509.jpg?token_static=2c729e25deedcc315017f10b23f63b11"
+          }
+        },
+        {
+          "id": "7622-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы электроэнергетики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Белянцева Наталья Валентиновна",
+            "id": "123509",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123509/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/25/small/p123509.jpg?token_static=2c729e25deedcc315017f10b23f63b11"
+          }
+        },
+        {
+          "id": "7622-5-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы электроэнергетики",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Белянцева Наталья Валентиновна",
+            "id": "123509",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123509/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/25/small/p123509.jpg?token_static=2c729e25deedcc315017f10b23f63b11"
+          }
+        },
+        {
+          "id": "7622-5-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Судовые ядерные энергетические установки",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-3",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Попов Никита Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/10/12/small/p130637.jpg?token_static=28aacd88887d666cee30f01b736034de"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7622-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Системы электроэнергетики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2594",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Белянцева Наталья Валентиновна",
+            "id": "123509",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123509/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/25/small/p123509.jpg?token_static=2c729e25deedcc315017f10b23f63b11"
+          }
+        },
+        {
+          "id": "7622-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Системы электроэнергетики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2594",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Белянцева Наталья Валентиновна",
+            "id": "123509",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123509/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/25/small/p123509.jpg?token_static=2c729e25deedcc315017f10b23f63b11"
+          }
+        },
+        {
+          "id": "7622-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Системы электроэнергетики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Белянцева Наталья Валентиновна",
+            "id": "123509",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123509/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/25/small/p123509.jpg?token_static=2c729e25deedcc315017f10b23f63b11"
+          }
+        },
+        {
+          "id": "7622-6-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы электроэнергетики",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Белянцева Наталья Валентиновна",
+            "id": "123509",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123509/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/25/small/p123509.jpg?token_static=2c729e25deedcc315017f10b23f63b11"
+          }
+        }
+      ]
+    }
+  ]
+}

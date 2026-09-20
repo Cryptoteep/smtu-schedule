@@ -1,0 +1,482 @@
+{
+  "groupId": "7576",
+  "groupName": "1514",
+  "updatedAt": "2026-09-20T13:46:57.498Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7576-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Системы и устройства корабля (С)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1514",
+          "weekParity": "both"
+        },
+        {
+          "id": "7576-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Системы и устройства корабля (С)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1514",
+          "weekParity": "both"
+        },
+        {
+          "id": "7576-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (кадровые офицеры)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1514",
+          "weekParity": "up"
+        },
+        {
+          "id": "7576-1-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (кадровые офицеры)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1514",
+          "weekParity": "down"
+        },
+        {
+          "id": "7576-1-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Военная подготовка (кадровые офицеры)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1514",
+          "weekParity": "down"
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7576-2-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование скоростных судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 610",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1514",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рюмин Сергей Николаевич",
+            "id": "101017",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
+          }
+        },
+        {
+          "id": "7576-2-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Проектирование скоростных судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 610",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1514",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Рюмин Сергей Николаевич",
+            "id": "101017",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
+          }
+        },
+        {
+          "id": "7576-2-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Автоматизированные системы технологической подготовки производства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1514",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Лазарев Дмитрий Романович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/01/small/p130363.jpg?token_static=f5485446078c8a0fbbc3112cc3e8aad4"
+          }
+        },
+        {
+          "id": "7576-2-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Автоматизированные системы технологической подготовки производства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 410",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1514",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Фирсова Анна Валентиновна",
+            "id": "101258",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101258/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/05/22/small/p101258.jpg?token_static=8dab6470258b3163cbed9293ba1029e5"
+          }
+        },
+        {
+          "id": "7576-2-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Цифровизация технологических и производственных процессов верфей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 410",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1514",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Фирсова Анна Валентиновна",
+            "id": "101258",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101258/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/05/22/small/p101258.jpg?token_static=8dab6470258b3163cbed9293ba1029e5"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7576-3-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Организация проектно-конструкторских работ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1514",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Фирсова Анна Валентиновна",
+            "id": "101258",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101258/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/05/22/small/p101258.jpg?token_static=8dab6470258b3163cbed9293ba1029e5"
+          }
+        },
+        {
+          "id": "7576-3-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Цифровизация технологических и производственных процессов верфей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1514",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Лазарев Дмитрий Романович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/01/small/p130363.jpg?token_static=f5485446078c8a0fbbc3112cc3e8aad4"
+          }
+        },
+        {
+          "id": "7576-3-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Организация проектно-конструкторских работ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1514",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Барановский Борис Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/03/small/p101672.jpg?token_static=ce49fc9c28667077276aa9eeb165972e"
+          }
+        },
+        {
+          "id": "7576-3-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Цифровизация технологических и производственных процессов верфей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1514",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лазарев Дмитрий Романович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/01/small/p130363.jpg?token_static=f5485446078c8a0fbbc3112cc3e8aad4"
+          }
+        },
+        {
+          "id": "7576-3-20:40-5",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 6,
+          "subject": "Организация проектно-конструкторских работ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1514",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Барановский Борис Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/03/small/p101672.jpg?token_static=ce49fc9c28667077276aa9eeb165972e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7576-4-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Метод конечных элементов в инженерных расчетах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 215",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1514",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Родионов Александр Александрович",
+            "id": "100985",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100985/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100985.jpg?token_static=7f602212e660f550b5ae82435bfa35da"
+          }
+        },
+        {
+          "id": "7576-4-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Метод конечных элементов в инженерных расчетах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 215",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1514",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Родионов Александр Александрович",
+            "id": "100985",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100985/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100985.jpg?token_static=7f602212e660f550b5ae82435bfa35da"
+          }
+        },
+        {
+          "id": "7576-4-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Метод конечных элементов в инженерных расчетах",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1514",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Родионов Александр Александрович",
+            "id": "100985",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100985/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100985.jpg?token_static=7f602212e660f550b5ae82435bfa35da"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7576-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Судовые системы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 207",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1514",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Плотников Кирилл Вадимович",
+            "id": "100908",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100908/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/30/small/p100908.jpg?token_static=9f103fc36bbc867019d251818d76f5ad"
+          }
+        },
+        {
+          "id": "7576-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Судовые системы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1514",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Плотников Кирилл Вадимович",
+            "id": "100908",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100908/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/30/small/p100908.jpg?token_static=9f103fc36bbc867019d251818d76f5ad"
+          }
+        },
+        {
+          "id": "7576-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Судовые системы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1514",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Плотников Кирилл Вадимович",
+            "id": "100908",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100908/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/30/small/p100908.jpg?token_static=9f103fc36bbc867019d251818d76f5ad"
+          }
+        },
+        {
+          "id": "7576-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Судовые системы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 410",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1514",
+          "weekParity": "both",
+          "dateSpecific": "18.09",
+          "teacher": {
+            "name": "Плотников Кирилл Вадимович",
+            "id": "100908",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100908/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/30/small/p100908.jpg?token_static=9f103fc36bbc867019d251818d76f5ad"
+          }
+        },
+        {
+          "id": "7576-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1514",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Палкина Елена Сергеевна",
+            "id": "126006",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/126006/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/22/small/p126006.jpg?token_static=ba1b85f51e29f4993384e5312d9bc078"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7576-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Комплексы оружия и вооружения боевых кораблей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 207",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "1514",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сидоренко Дмитрий Петрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/13/small/p124109.jpg?token_static=ffdab09946ad429a02521046bbdb2f08"
+          }
+        },
+        {
+          "id": "7576-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Комплексы оружия и вооружения боевых кораблей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 207",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "1514",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сидоренко Дмитрий Петрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/13/small/p124109.jpg?token_static=ffdab09946ad429a02521046bbdb2f08"
+          }
+        },
+        {
+          "id": "7576-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Комплексы оружия и вооружения боевых кораблей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "1514",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Красильников Антон Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/05/small/p100583.jpg?token_static=a34eef499874510abc3fd419a5f40533"
+          }
+        },
+        {
+          "id": "7576-6-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Комплексы оружия и вооружения боевых кораблей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "1514",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Красильников Антон Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/05/small/p100583.jpg?token_static=a34eef499874510abc3fd419a5f40533"
+          }
+        }
+      ]
+    }
+  ]
+}

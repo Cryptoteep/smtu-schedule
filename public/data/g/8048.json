@@ -1,0 +1,321 @@
+{
+  "groupId": "8048",
+  "groupName": "20277",
+  "updatedAt": "2026-09-20T13:47:05.148Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "8048-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Аддитивные технологии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ НПК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20277",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Вильданов Артур Маратович",
+            "id": "123773",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123773/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123773.jpg?token_static=57e3a70d14ed0cea1b46b54a7d7675d6"
+          }
+        },
+        {
+          "id": "8048-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Аддитивные технологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20277",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Земляков Евгений Вячеславович",
+            "id": "104606",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104606/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/11/09/small/p104606.jpg?token_static=6b9dfef4423b646ff4c9cfe8478b4a3a"
+          }
+        },
+        {
+          "id": "8048-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Конструктивно-технологическое проектирование изделий аддитивного производства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ НПК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20277",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бабкин Константин Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p104989.jpg?token_static=b3add6990af4d4d439ba4e0d4ef14362"
+          }
+        },
+        {
+          "id": "8048-1-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Материалы для аддитивного производства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК208",
+          "campus": "СПбГМТУ",
+          "groupName": "20277",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Климова-Корсмик Ольга Геннадьевна",
+            "id": "104812",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104812/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p104812.jpg?token_static=092df29f49e97b5b15491fc20119e2fd"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "8048-2-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технологии обработки материалов концентрированными потоками энергии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20277",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цибульский Игорь Александрович",
+            "id": "106209",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106209/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/20/small/p106209.jpg?token_static=7d487ccde86fd44abebba10875917b5b"
+          }
+        },
+        {
+          "id": "8048-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Промышленная робототехника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ НПК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20277",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бабкин Константин Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p104989.jpg?token_static=b3add6990af4d4d439ba4e0d4ef14362"
+          }
+        },
+        {
+          "id": "8048-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технологии ремонта и восстановления изделий",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20277",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Корсмик Рудольф Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/02/01/small/p104768.jpg?token_static=8bdbb4f30ad9d65335d41f10b76869f5"
+          }
+        },
+        {
+          "id": "8048-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Промышленная робототехника",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ НПК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20277",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бабкин Константин Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p104989.jpg?token_static=b3add6990af4d4d439ba4e0d4ef14362"
+          }
+        },
+        {
+          "id": "8048-2-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технологии ремонта и восстановления изделий",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-15",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20277",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Задыкян Григорий Григорович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/04/06/small/p103481.jpg?token_static=b4d483a1b916a89ccc7aa3325d9e1fb5"
+          }
+        },
+        {
+          "id": "8048-2-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Промышленная робототехника",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ НПК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20277",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бабкин Константин Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p104989.jpg?token_static=b3add6990af4d4d439ba4e0d4ef14362"
+          }
+        },
+        {
+          "id": "8048-2-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технологии ремонта и восстановления изделий",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-15",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20277",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Задыкян Григорий Григорович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/04/06/small/p103481.jpg?token_static=b4d483a1b916a89ccc7aa3325d9e1fb5"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "8048-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Конструктивно-технологическое проектирование изделий аддитивного производства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ НПК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20277",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бабкин Константин Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p104989.jpg?token_static=b3add6990af4d4d439ba4e0d4ef14362"
+          }
+        },
+        {
+          "id": "8048-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Цифровые технологии в жизненном цикле изделий",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20277",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "8048-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Конструктивно-технологическое проектирование изделий аддитивного производства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ НПК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20277",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бабкин Константин Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p104989.jpg?token_static=b3add6990af4d4d439ba4e0d4ef14362"
+          }
+        },
+        {
+          "id": "8048-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Цифровые технологии в жизненном цикле изделий",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20277",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "8048-5-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технологии обработки материалов концентрированными потоками энергии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ УИК104",
+          "campus": "СПбГМТУ",
+          "groupName": "20277",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ахметов Александр Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106212.jpg?token_static=77830dd30282be9b35bbd7c0d7b645f3"
+          }
+        },
+        {
+          "id": "8048-5-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Цифровые технологии в жизненном цикле изделий",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20277",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "8048-5-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технологии обработки материалов концентрированными потоками энергии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ УИК104",
+          "campus": "СПбГМТУ",
+          "groupName": "20277",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ахметов Александр Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106212.jpg?token_static=77830dd30282be9b35bbd7c0d7b645f3"
+          }
+        }
+      ]
+    }
+  ]
+}

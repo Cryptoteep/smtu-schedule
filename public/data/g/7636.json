@@ -1,0 +1,491 @@
+{
+  "groupId": "7636",
+  "groupName": "3262",
+  "updatedAt": "2026-09-20T13:47:02.120Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7636-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Сигнальные процессоры в информационных системах мобильных роботов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Семенов Николай Николаевич",
+            "id": "101053",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101053/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101053.jpg?token_static=9c0dc0ec5472b832efe1126c7cec1b44"
+          }
+        },
+        {
+          "id": "7636-1-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Методы искусственного интеллекта в мехатронике и робототехнике",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Семенов Николай Николаевич",
+            "id": "101053",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101053/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101053.jpg?token_static=9c0dc0ec5472b832efe1126c7cec1b44"
+          }
+        },
+        {
+          "id": "7636-1-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Сигнальные процессоры в информационных системах мобильных роботов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Семенов Николай Николаевич",
+            "id": "101053",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101053/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101053.jpg?token_static=9c0dc0ec5472b832efe1126c7cec1b44"
+          }
+        },
+        {
+          "id": "7636-1-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Методы искусственного интеллекта в мехатронике и робототехнике",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Семенов Николай Николаевич",
+            "id": "101053",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101053/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101053.jpg?token_static=9c0dc0ec5472b832efe1126c7cec1b44"
+          }
+        },
+        {
+          "id": "7636-1-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Сигнальные процессоры в информационных системах мобильных роботов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Семенов Николай Николаевич",
+            "id": "101053",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101053/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101053.jpg?token_static=9c0dc0ec5472b832efe1126c7cec1b44"
+          }
+        },
+        {
+          "id": "7636-1-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Системы технического зрения мобильных роботов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кузьменко Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/04/small/p100615.jpg?token_static=722e25e2dda2989add83074fc37a2776"
+          }
+        },
+        {
+          "id": "7636-1-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Системы технического зрения мобильных роботов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Игнатьева Наталья Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/10/small/p100461.jpg?token_static=286667f29c4de10c4ccd7797377b7f9a"
+          }
+        },
+        {
+          "id": "7636-1-14:00-8",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Системы технического зрения мобильных роботов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кузьменко Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/04/small/p100615.jpg?token_static=722e25e2dda2989add83074fc37a2776"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7636-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "both"
+        },
+        {
+          "id": "7636-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "both"
+        },
+        {
+          "id": "7636-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7636-3-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Датчики кинематических параметров навигационных систем мобильных роботов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Коротицкий Евгений Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100560.jpg?token_static=4ab1935f60b285e985ff015b33dcd5fb"
+          }
+        },
+        {
+          "id": "7636-3-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Датчики кинематических параметров навигационных систем мобильных роботов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Коротицкий Евгений Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100560.jpg?token_static=4ab1935f60b285e985ff015b33dcd5fb"
+          }
+        },
+        {
+          "id": "7636-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Алгоритмы телеуправления мобильными роботами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        },
+        {
+          "id": "7636-3-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Датчики кинематических параметров навигационных систем мобильных роботов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Коротицкий Евгений Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100560.jpg?token_static=4ab1935f60b285e985ff015b33dcd5fb"
+          }
+        },
+        {
+          "id": "7636-3-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Алгоритмы телеуправления мобильными роботами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 119",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        },
+        {
+          "id": "7636-3-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Алгоритмы телеуправления мобильными роботами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 119",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7636-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Гидродинамическая компоновка самоходных роботов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Барашкова Елена Евгеньевна",
+            "id": "100076",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100076/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100076.jpg?token_static=20a0a14ebc1387574af9f2e877ce8e83"
+          }
+        },
+        {
+          "id": "7636-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Гидродинамическая компоновка самоходных роботов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Барашкова Елена Евгеньевна",
+            "id": "100076",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100076/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100076.jpg?token_static=20a0a14ebc1387574af9f2e877ce8e83"
+          }
+        },
+        {
+          "id": "7636-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Гидродинамическая компоновка самоходных роботов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Барашкова Елена Евгеньевна",
+            "id": "100076",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100076/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100076.jpg?token_static=20a0a14ebc1387574af9f2e877ce8e83"
+          }
+        },
+        {
+          "id": "7636-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Проектирование мехатронных и робототехнических систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 119",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Филатов Василий Анатольевич",
+            "id": "111356",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/111356/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/17/small/p111356.jpg?token_static=3530a973dd2a4e8007f96d719039f77e"
+          }
+        },
+        {
+          "id": "7636-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Проектирование мехатронных и робототехнических систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 119",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Филатов Василий Анатольевич",
+            "id": "111356",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/111356/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/17/small/p111356.jpg?token_static=3530a973dd2a4e8007f96d719039f77e"
+          }
+        },
+        {
+          "id": "7636-5-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Проектирование мехатронных и робототехнических систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 119",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Филатов Василий Анатольевич",
+            "id": "111356",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/111356/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/17/small/p111356.jpg?token_static=3530a973dd2a4e8007f96d719039f77e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7636-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "3262",
+          "weekParity": "both",
+          "dateSpecific": "17.10 и 24.10",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7636-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "3262",
+          "weekParity": "both",
+          "dateSpecific": "17.10 и 24.10",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7636-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "3262",
+          "weekParity": "both",
+          "dateSpecific": "17.10 и 24.10",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7636-6-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "3262",
+          "weekParity": "both",
+          "dateSpecific": "17.10 и 24.10",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        }
+      ]
+    }
+  ]
+}

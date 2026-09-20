@@ -1,0 +1,265 @@
+{
+  "groupId": "7857",
+  "groupName": "5410",
+  "updatedAt": "2026-09-20T13:46:57.799Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7857-1-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Конструкция корпуса судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 207",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5410",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Чижевский Виталий Владимирович",
+            "id": "122497",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122497/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/13/small/p122497.jpg?token_static=499cb431d216782196b3269b50471ef5"
+          }
+        },
+        {
+          "id": "7857-1-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Конструкция корпуса судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 207",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5410",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Чижевский Виталий Владимирович",
+            "id": "122497",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122497/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/13/small/p122497.jpg?token_static=499cb431d216782196b3269b50471ef5"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7857-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы систем автоматизированного проектирования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 609",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5410",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кутенев Андрей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100634.jpg?token_static=1f6c3c15c37fea152e348ee928c0aeae"
+          }
+        },
+        {
+          "id": "7857-2-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы систем автоматизированного проектирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 609",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5410",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кутенев Андрей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100634.jpg?token_static=1f6c3c15c37fea152e348ee928c0aeae"
+          }
+        },
+        {
+          "id": "7857-2-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Основы проектирования судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 609",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5410",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кутенев Андрей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100634.jpg?token_static=1f6c3c15c37fea152e348ee928c0aeae"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7857-3-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Теория корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 422",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5410",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Четвертаков Алексей Михайлович",
+            "id": "101319",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101319/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101319.jpg?token_static=aa2b3c9de4161fcf6ecbf61349a620de"
+          }
+        },
+        {
+          "id": "7857-3-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Теория корабля",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 422",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5410",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Четвертаков Алексей Михайлович",
+            "id": "101319",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101319/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101319.jpg?token_static=aa2b3c9de4161fcf6ecbf61349a620de"
+          }
+        },
+        {
+          "id": "7857-3-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Судовые системы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5410",
+          "weekParity": "up"
+        },
+        {
+          "id": "7857-3-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Судовые системы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5410",
+          "weekParity": "down"
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7857-4-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Судовые системы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 530а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5410",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Алешина Елена Владимировна",
+            "id": "123129",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123129/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123129.jpg?token_static=c57301c6fc89bb528160cb158c513074"
+          }
+        },
+        {
+          "id": "7857-4-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Судовые системы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 530а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5410",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Алешина Елена Владимировна",
+            "id": "123129",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123129/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123129.jpg?token_static=c57301c6fc89bb528160cb158c513074"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7857-5-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Сварка судовых конструкций",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 520",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5410",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Карпов Вячеслав Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/11/small/p100502.jpg?token_static=8f53807a0d4ea9e0d53563fe481e95e1"
+          }
+        },
+        {
+          "id": "7857-5-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Сварка судовых конструкций",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 520",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5410",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Карпов Вячеслав Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/11/small/p100502.jpg?token_static=8f53807a0d4ea9e0d53563fe481e95e1"
+          }
+        },
+        {
+          "id": "7857-5-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Сварка судовых конструкций",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 520",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5410",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Карпов Вячеслав Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/11/small/p100502.jpg?token_static=8f53807a0d4ea9e0d53563fe481e95e1"
+          }
+        }
+      ]
+    }
+  ]
+}

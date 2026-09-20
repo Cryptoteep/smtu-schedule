@@ -4,7 +4,7 @@ const KEYS = {
   CURRENT_GROUP: 'smtu_current_group',
   FAVORITES: 'smtu_favorite_groups',
   RECENT_GROUPS: 'smtu_recent_groups',
-  SCHEDULE_CACHE_PREFIX: 'smtu_sched_cache_',
+  SCHEDULE_CACHE_PREFIX: 'smtu_sched_cache_v2_',
   NOTES: 'smtu_lesson_notes',
   THEME: 'smtu_theme_mode',
   WEEK_FILTER: 'smtu_week_filter',

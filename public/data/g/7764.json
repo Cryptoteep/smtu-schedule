@@ -1,0 +1,485 @@
+{
+  "groupId": "7764",
+  "groupName": "20302",
+  "updatedAt": "2026-09-20T13:47:05.495Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7764-1-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория случайных процессов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 503",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        },
+        {
+          "id": "7764-1-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Уравнения математической физики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рыжов Владимир Александрович",
+            "id": "101012",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101012/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/03/small/p101012.jpg?token_static=ef90d7ca1f2951ec306da663eb55fa22"
+          }
+        },
+        {
+          "id": "7764-1-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Уравнения математической физики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рыжов Владимир Александрович",
+            "id": "101012",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101012/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/03/small/p101012.jpg?token_static=ef90d7ca1f2951ec306da663eb55fa22"
+          }
+        },
+        {
+          "id": "7764-1-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Уравнения математической физики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рыжов Владимир Александрович",
+            "id": "101012",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101012/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/03/small/p101012.jpg?token_static=ef90d7ca1f2951ec306da663eb55fa22"
+          }
+        },
+        {
+          "id": "7764-1-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Уравнения математической физики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рыжов Владимир Александрович",
+            "id": "101012",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101012/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/03/small/p101012.jpg?token_static=ef90d7ca1f2951ec306da663eb55fa22"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7764-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "ЭВМ и периферийные устройства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Галушин Сергей Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100258.jpg?token_static=b4b019e33609ed6e45b81ee239b86c66"
+          }
+        },
+        {
+          "id": "7764-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "ЭВМ и периферийные устройства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Галушин Сергей Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100258.jpg?token_static=b4b019e33609ed6e45b81ee239b86c66"
+          }
+        },
+        {
+          "id": "7764-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "ЭВМ и периферийные устройства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Галушин Сергей Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100258.jpg?token_static=b4b019e33609ed6e45b81ee239b86c66"
+          }
+        },
+        {
+          "id": "7764-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 438",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Евграфова Ирина Владимировна",
+            "id": "100356",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100356/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
+          }
+        },
+        {
+          "id": "7764-2-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Электротехника, электроника и схемотехника",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-03",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Попов Антон Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/06/small/p123307.jpg?token_static=a3ebfcfee2becebef74fa12444a8a3e8"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7764-4-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Вычислительные методы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Хазанов Владимир Борисович",
+            "id": "101267",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101267/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101267.jpg?token_static=4a3bdd427715af036e24b523a83f0270"
+          }
+        },
+        {
+          "id": "7764-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Вычислительные методы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Хазанов Владимир Борисович",
+            "id": "101267",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101267/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101267.jpg?token_static=4a3bdd427715af036e24b523a83f0270"
+          }
+        },
+        {
+          "id": "7764-4-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Вычислительные методы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Хазанов Владимир Борисович",
+            "id": "101267",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101267/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101267.jpg?token_static=4a3bdd427715af036e24b523a83f0270"
+          }
+        },
+        {
+          "id": "7764-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Вычислительные методы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Хазанов Владимир Борисович",
+            "id": "101267",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101267/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101267.jpg?token_static=4a3bdd427715af036e24b523a83f0270"
+          }
+        },
+        {
+          "id": "7764-4-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы компьютерной алгебры",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        },
+        {
+          "id": "7764-4-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы компьютерной алгебры",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        },
+        {
+          "id": "7764-4-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "ЭВМ и периферийные устройства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20302",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Куприянов Дмитрий Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p128882.jpg?token_static=5e44748c4db63195b0147d0621dba7a0"
+          }
+        },
+        {
+          "id": "7764-4-17:20-8",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Системы компьютерной алгебры",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7764-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Электротехника, электроника и схемотехника",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20302",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Попов Антон Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/06/small/p123307.jpg?token_static=a3ebfcfee2becebef74fa12444a8a3e8"
+          }
+        },
+        {
+          "id": "7764-5-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы оптимизации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 530а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20302",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Федорова Татьяна Александровна",
+            "id": "101243",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101243/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101243.jpg?token_static=34cc10c7f2dec8f3d2d541dd9e316dfd"
+          }
+        },
+        {
+          "id": "7764-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы оптимизации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 511",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Федорова Татьяна Александровна",
+            "id": "101243",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101243/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101243.jpg?token_static=34cc10c7f2dec8f3d2d541dd9e316dfd"
+          }
+        },
+        {
+          "id": "7764-5-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Методы оптимизации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20302",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Федорова Татьяна Александровна",
+            "id": "101243",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101243/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101243.jpg?token_static=34cc10c7f2dec8f3d2d541dd9e316dfd"
+          }
+        },
+        {
+          "id": "7764-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Методы оптимизации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 511",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Федорова Татьяна Александровна",
+            "id": "101243",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101243/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101243.jpg?token_static=34cc10c7f2dec8f3d2d541dd9e316dfd"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7764-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Электротехника, электроника и схемотехника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лупкин Иван Дмитриевич",
+            "id": "100695",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100695/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/26/small/p100695.jpg?token_static=36cf35300c477e3cc074ed597c5d1379"
+          }
+        },
+        {
+          "id": "7764-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Электротехника, электроника и схемотехника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лупкин Иван Дмитриевич",
+            "id": "100695",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100695/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/26/small/p100695.jpg?token_static=36cf35300c477e3cc074ed597c5d1379"
+          }
+        },
+        {
+          "id": "7764-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Электротехника, электроника и схемотехника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лупкин Иван Дмитриевич",
+            "id": "100695",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100695/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/26/small/p100695.jpg?token_static=36cf35300c477e3cc074ed597c5d1379"
+          }
+        }
+      ]
+    }
+  ]
+}

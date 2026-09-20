@@ -64,4 +64,33 @@ describe('SPbGMTU HTML Parser', () => {
     expect(lesson2.type).toBe('practice');
     expect(lesson2.teacher?.name).toBe('Сакович Сергей Юрьевич');
   });
+
+  it('extracts teacherId, profileUrl, and exact dates list accurately', () => {
+    const mockHtml = `
+      <h4>Среда</h4>
+      <table>
+        <tbody>
+          <tr id="week-up-container" title="16.09.2026, 30.09.2026, 14.10.2026">
+            <th>10:10-11:40</th>
+            <td>верхняя</td>
+            <td>У 165</td>
+            <td>3280</td>
+            <td><span>Физика</span><br><small>Лекция</small></td>
+            <td><a href="/ru/viewperson/101234/">Клюбина Ксения Александровна</a></td>
+          </tr>
+        </tbody>
+      </table>
+    `;
+    const parsed = parseSmtuScheduleHtml(mockHtml, '7640', '3280');
+    const wednesday = parsed.days.find(d => d.dayName === 'Среда');
+    expect(wednesday).toBeDefined();
+    expect(wednesday?.lessons.length).toBe(1);
+
+    const lesson = wednesday!.lessons[0];
+    expect(lesson.subject).toBe('Физика');
+    expect(lesson.teacher?.name).toBe('Клюбина Ксения Александровна');
+    expect(lesson.teacher?.id).toBe('101234');
+    expect(lesson.teacher?.profileUrl).toBe('https://www.smtu.ru/ru/viewperson/101234/');
+    expect(lesson.exactDates).toEqual(['16.09.2026', '30.09.2026', '14.10.2026']);
+  });
 });

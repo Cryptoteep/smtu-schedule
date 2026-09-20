@@ -1,7 +1,7 @@
 {
   "groupId": "7739",
   "groupName": "10277",
-  "updatedAt": "2026-09-20T13:40:46.751Z",
+  "updatedAt": "2026-09-20T13:47:09.810Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -15,7 +15,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "А ВУЦ",
-          "campus": "Лоцманская (А)",
+          "campus": "Лоцманская (Корпус А)",
           "groupName": "10277",
           "weekParity": "both"
         },
@@ -27,7 +27,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "А ВУЦ",
-          "campus": "Лоцманская (А)",
+          "campus": "Лоцманская (Корпус А)",
           "groupName": "10277",
           "weekParity": "both"
         }
@@ -45,7 +45,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Конгресс-Центр 316",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "up",
           "teacher": {
@@ -61,11 +61,13 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 228",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "both",
           "teacher": {
             "name": "Лиленкова Елена Павловна",
+            "id": "100675",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100675/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100675.jpg?token_static=54d24543704f6047cf30c52af97b6536"
           }
         },
@@ -77,11 +79,13 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 228",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "up",
           "teacher": {
             "name": "Лиленкова Елена Павловна",
+            "id": "100675",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100675/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100675.jpg?token_static=54d24543704f6047cf30c52af97b6536"
           }
         },
@@ -93,11 +97,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 161",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "down",
           "teacher": {
             "name": "Чихонадских Елена Александровна",
+            "id": "101326",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
           }
         },
@@ -109,7 +115,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 245",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "up",
           "teacher": {
@@ -125,11 +131,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 340(2)",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "down",
           "teacher": {
             "name": "Чихонадских Елена Александровна",
+            "id": "101326",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
           }
         }
@@ -147,7 +155,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 198",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "up",
           "teacher": {
@@ -163,7 +171,7 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 198",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "up",
           "teacher": {
@@ -179,7 +187,7 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 225",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "down",
           "teacher": {
@@ -195,7 +203,7 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 225",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "down",
           "teacher": {
@@ -211,7 +219,7 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 225",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "down",
           "teacher": {
@@ -233,7 +241,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У Спортзал",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "up"
         },
@@ -245,7 +253,7 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У лаб. керамики",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "up",
           "teacher": {
@@ -261,7 +269,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 414",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "down",
           "teacher": {
@@ -277,7 +285,7 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У лаб. керамики",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "up",
           "teacher": {
@@ -293,7 +301,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У Спортзал",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "down"
         },
@@ -305,7 +313,7 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 228",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "down",
           "teacher": {
@@ -321,7 +329,7 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 228",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "down",
           "teacher": {
@@ -343,11 +351,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 301",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "up",
           "teacher": {
             "name": "Олейник Мария Михайловна",
+            "id": "100842",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100842/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p100842.jpg?token_static=1bdb942e994fdfea306c4750bfd38d50"
           }
         },
@@ -359,11 +369,13 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 301",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "up",
           "teacher": {
             "name": "Олейник Мария Михайловна",
+            "id": "100842",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100842/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p100842.jpg?token_static=1bdb942e994fdfea306c4750bfd38d50"
           }
         },
@@ -375,7 +387,7 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 225",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "down",
           "teacher": {
@@ -391,7 +403,7 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 225",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "both",
           "teacher": {
@@ -407,7 +419,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 507",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "up",
           "teacher": {
@@ -423,7 +435,7 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 507",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "down",
           "teacher": {
@@ -439,7 +451,7 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 507",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "down",
           "teacher": {
@@ -461,7 +473,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 314",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "up"
         },
@@ -473,7 +485,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 314",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "down"
         },
@@ -485,7 +497,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У Спортзал",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
           "weekParity": "both"
         }

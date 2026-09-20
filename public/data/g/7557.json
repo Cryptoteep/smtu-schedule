@@ -1,0 +1,555 @@
+{
+  "groupId": "7557",
+  "groupName": "1310",
+  "updatedAt": "2026-09-20T13:46:56.421Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7557-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Корабельное электрооборудование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1310",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Гришаков Евгений Сергеевич",
+            "id": "100304",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100304/"
+          }
+        },
+        {
+          "id": "7557-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Строительная механика корабля",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1310",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Рябушкин Сергей Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p104937.jpg?token_static=7e47f923815df9b2bf9c40b3a60069c6"
+          }
+        },
+        {
+          "id": "7557-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Строительная механика корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1310",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Пономарев Дмитрий Александрович",
+            "id": "100929",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100929/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100929.jpg?token_static=4f169654a1b4d86c82da676ba5108714"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7557-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1310",
+          "weekParity": "both"
+        },
+        {
+          "id": "7557-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1310",
+          "weekParity": "both"
+        },
+        {
+          "id": "7557-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1310",
+          "weekParity": "both"
+        },
+        {
+          "id": "7557-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1310",
+          "weekParity": "down"
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7557-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бронникова Лилия Васильевна",
+            "id": "100159",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
+          }
+        },
+        {
+          "id": "7557-3-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 534",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бронникова Лилия Васильевна",
+            "id": "100159",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
+          }
+        },
+        {
+          "id": "7557-3-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1310",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ведерников Юрий Вадимович",
+            "id": "123303",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
+          }
+        },
+        {
+          "id": "7557-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материаловедение современных и перспективных материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 155",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цуканов Виктор Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/07/small/p101293.jpg?token_static=3ce7cdfd11f2e81d2409f1d8eac38778"
+          }
+        },
+        {
+          "id": "7557-3-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материаловедение современных и перспективных материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лебедева Светлана Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100663.jpg?token_static=4fbfd08a4db0f4d5cd3eda7a94c74abb"
+          }
+        },
+        {
+          "id": "7557-3-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материаловедение современных и перспективных материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Фирсов Анатолий Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p101257.jpg?token_static=37b9468440e1158d7392a8440ec7b01d"
+          }
+        },
+        {
+          "id": "7557-3-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 534",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бронникова Лилия Васильевна",
+            "id": "100159",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7557-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Гидромеханика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Али Рами Мамдух",
+            "id": "106092",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106092/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p106092.jpg?token_static=026f7cff3e3628d0d8e56d6f1697dd48"
+          }
+        },
+        {
+          "id": "7557-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Конструкция корпуса судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Смирнов Юрий Александрович",
+            "id": "101106",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101106/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p101106.jpg?token_static=63646b1f6f133af3ca7abe58107f4e93"
+          }
+        },
+        {
+          "id": "7557-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Конструкция корпуса судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Смирнов Юрий Александрович",
+            "id": "101106",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101106/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p101106.jpg?token_static=63646b1f6f133af3ca7abe58107f4e93"
+          }
+        },
+        {
+          "id": "7557-4-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы проектирования судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 609",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дедкова Ольга Валентиновна",
+            "id": "100327",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100327/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100327.jpg?token_static=10c4cbb583bca3c607344d621ccc84f7"
+          }
+        },
+        {
+          "id": "7557-4-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Гидромеханика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 318",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ефимова Мария Андреевна"
+          }
+        },
+        {
+          "id": "7557-4-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория корабля",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 330",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Маслов Сергей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/28/small/p126098.jpg?token_static=3c5a28e37c01a84863962101b3593cf7"
+          }
+        },
+        {
+          "id": "7557-4-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы проектирования судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 610",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рюмин Сергей Николаевич",
+            "id": "101017",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7557-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Альбаев Данил Айдарович",
+            "id": "101505",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101505/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p101505.jpg?token_static=e0f44ca0ab3df528b3d17443537a0733"
+          }
+        },
+        {
+          "id": "7557-5-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Альбаев Данил Айдарович",
+            "id": "101505",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101505/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p101505.jpg?token_static=e0f44ca0ab3df528b3d17443537a0733"
+          }
+        },
+        {
+          "id": "7557-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бронникова Лилия Васильевна",
+            "id": "100159",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
+          }
+        },
+        {
+          "id": "7557-5-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Корабельное электрооборудование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 318-А",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гришаков Евгений Сергеевич",
+            "id": "100304",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100304/"
+          }
+        },
+        {
+          "id": "7557-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Стеткар Мария Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/10/14/small/p128639.jpg?token_static=413803e12024ddf9f03be17dfacfd473"
+          }
+        },
+        {
+          "id": "7557-5-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Корабельное электрооборудование",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гришаков Евгений Сергеевич",
+            "id": "100304",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100304/"
+          }
+        },
+        {
+          "id": "7557-5-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Корабельное электрооборудование",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 320",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Белянцева Наталья Валентиновна",
+            "id": "123509",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123509/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/25/small/p123509.jpg?token_static=2c729e25deedcc315017f10b23f63b11"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7557-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Конструкция корпуса судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 207",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1310",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Смирнов Юрий Александрович",
+            "id": "101106",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101106/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p101106.jpg?token_static=63646b1f6f133af3ca7abe58107f4e93"
+          }
+        },
+        {
+          "id": "7557-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1310",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Боровикова Ирина Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100148.jpg?token_static=63782fca6d4dab716dd33008728e5cb0"
+          }
+        },
+        {
+          "id": "7557-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1310",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Боровикова Ирина Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100148.jpg?token_static=63782fca6d4dab716dd33008728e5cb0"
+          }
+        }
+      ]
+    }
+  ]
+}

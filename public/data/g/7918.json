@@ -1,0 +1,475 @@
+{
+  "groupId": "7918",
+  "groupName": "1431",
+  "updatedAt": "2026-09-20T13:46:57.257Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7918-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Сварка судовых конструкций",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ НПК207",
+          "campus": "СПбГМТУ",
+          "groupName": "1431",
+          "weekParity": "up"
+        },
+        {
+          "id": "7918-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Сварка судовых конструкций",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ НПК207",
+          "campus": "СПбГМТУ",
+          "groupName": "1431",
+          "weekParity": "down"
+        },
+        {
+          "id": "7918-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Сварка судовых конструкций",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ НПК207",
+          "campus": "СПбГМТУ",
+          "groupName": "1431",
+          "weekParity": "both"
+        },
+        {
+          "id": "7918-1-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1431",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7918-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Проектирование судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Овчинников Кирилл Дмитриевич",
+            "id": "100836",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100836/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100836.jpg?token_static=2aa4c777fa8676fc89ba0c631c82ef57"
+          }
+        },
+        {
+          "id": "7918-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Овчинников Кирилл Дмитриевич",
+            "id": "100836",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100836/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100836.jpg?token_static=2aa4c777fa8676fc89ba0c631c82ef57"
+          }
+        },
+        {
+          "id": "7918-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Экология и охрана окружающей среды при изготовлении и эксплуатации морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 601",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Власьев Максим Валерьевич",
+            "id": "106265",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106265/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/03/08/small/p106265.jpg?token_static=39de2e155a4decf65a2fd5bbc32b9f90"
+          }
+        },
+        {
+          "id": "7918-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Конструкция морских инженерных сооружений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванова Дианна Тимофеевна",
+            "id": "102967",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102967/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/02/02/small/p102967.jpg?token_static=0adda52417415a197cbd43ad7d4f1d71"
+          }
+        },
+        {
+          "id": "7918-2-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Конструкция морских инженерных сооружений",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванова Дианна Тимофеевна",
+            "id": "102967",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102967/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/02/02/small/p102967.jpg?token_static=0adda52417415a197cbd43ad7d4f1d71"
+          }
+        },
+        {
+          "id": "7918-2-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Конструкция морских инженерных сооружений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванова Дианна Тимофеевна",
+            "id": "102967",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102967/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/02/02/small/p102967.jpg?token_static=0adda52417415a197cbd43ad7d4f1d71"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7918-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Качка корабля. Введение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Семенова Виктория Юрьевна",
+            "id": "101054",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101054/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p101054.jpg?token_static=ebe8f210ab0cb93306e96a8f447a378c"
+          }
+        },
+        {
+          "id": "7918-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Качка корабля. Введение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Семенова Виктория Юрьевна",
+            "id": "101054",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101054/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p101054.jpg?token_static=ebe8f210ab0cb93306e96a8f447a378c"
+          }
+        },
+        {
+          "id": "7918-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технология обслуживания и ремонта морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Петров Алексей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/03/small/p105649.jpg?token_static=eac6ea9aba73a7a9694d6e71fa1a1448"
+          }
+        },
+        {
+          "id": "7918-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технология обслуживания и ремонта морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Петров Алексей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/03/small/p105649.jpg?token_static=eac6ea9aba73a7a9694d6e71fa1a1448"
+          }
+        },
+        {
+          "id": "7918-3-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технология обслуживания и ремонта морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Петров Алексей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/03/small/p105649.jpg?token_static=eac6ea9aba73a7a9694d6e71fa1a1448"
+          }
+        },
+        {
+          "id": "7918-3-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Экология и охрана окружающей среды при изготовлении и эксплуатации морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Власьев Максим Валерьевич",
+            "id": "106265",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106265/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/03/08/small/p106265.jpg?token_static=39de2e155a4decf65a2fd5bbc32b9f90"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7918-4-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "ДООП Русский язык как иностранный: теория и практика научной речи",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 403",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1431",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Григорьева-Голубева Виктория Аркадьевна",
+            "id": "100302",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100302/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/08/28/small/p100302.jpg?token_static=3c400786fd351508022ddc8929baa59e"
+          }
+        },
+        {
+          "id": "7918-4-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "ДООП Русский язык как иностранный: теория и практика научной речи",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 403",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1431",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Григорьева-Голубева Виктория Аркадьевна",
+            "id": "100302",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100302/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/08/28/small/p100302.jpg?token_static=3c400786fd351508022ddc8929baa59e"
+          }
+        },
+        {
+          "id": "7918-4-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Экономика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 412",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1431",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Алешина Елена Владимировна",
+            "id": "123129",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123129/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123129.jpg?token_static=c57301c6fc89bb528160cb158c513074"
+          }
+        },
+        {
+          "id": "7918-4-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Экономика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 412",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1431",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Алешина Елена Владимировна",
+            "id": "123129",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123129/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123129.jpg?token_static=c57301c6fc89bb528160cb158c513074"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7918-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Сварка судовых конструкций",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 521",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Щербаков Александр Павлович",
+            "id": "124780",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/124780/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/16/small/p124780.jpg?token_static=70e4aa8bf03f93670379ec4bc9134f26"
+          }
+        },
+        {
+          "id": "7918-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Конструкция корпуса судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 601",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Иванова Дианна Тимофеевна",
+            "id": "102967",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102967/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/02/02/small/p102967.jpg?token_static=0adda52417415a197cbd43ad7d4f1d71"
+          }
+        },
+        {
+          "id": "7918-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Конструкция корпуса судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 601",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Иванова Дианна Тимофеевна",
+            "id": "102967",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102967/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/02/02/small/p102967.jpg?token_static=0adda52417415a197cbd43ad7d4f1d71"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7918-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Судовые системы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дудкин Никита Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/17/small/p102578.jpg?token_static=8277d0802db36c4d410005e85df72809"
+          }
+        },
+        {
+          "id": "7918-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Судовые системы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дудкин Никита Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/17/small/p102578.jpg?token_static=8277d0802db36c4d410005e85df72809"
+          }
+        },
+        {
+          "id": "7918-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Судовые системы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дудкин Никита Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/17/small/p102578.jpg?token_static=8277d0802db36c4d410005e85df72809"
+          }
+        }
+      ]
+    }
+  ]
+}

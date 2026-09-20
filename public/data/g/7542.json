@@ -1,7 +1,7 @@
 {
   "groupId": "7542",
   "groupName": "1210",
-  "updatedAt": "2026-09-20T13:40:41.127Z",
+  "updatedAt": "2026-09-20T13:46:54.612Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -15,7 +15,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "А ВУЦ",
-          "campus": "Лоцманская (А)",
+          "campus": "Лоцманская (Корпус А)",
           "groupName": "1210",
           "weekParity": "both"
         },
@@ -27,7 +27,7 @@
           "type": "military",
           "rawType": "Практическое занятие",
           "room": "А ВУЦ",
-          "campus": "Лоцманская (А)",
+          "campus": "Лоцманская (Корпус А)",
           "groupName": "1210",
           "weekParity": "both"
         }
@@ -45,11 +45,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Б 101",
-          "campus": "Лоцманская (Б)",
+          "campus": "Лоцманская (Корпус Б)",
           "groupName": "1210",
           "weekParity": "up",
           "teacher": {
             "name": "Алексеева Татьяна Николаевна",
+            "id": "100021",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100021/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/11/small/p100021.jpg?token_static=9017b4f3bd8aac37c737479a47be7768"
           }
         },
@@ -61,7 +63,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Б 505(1)",
-          "campus": "Лоцманская (Б)",
+          "campus": "Лоцманская (Корпус Б)",
           "groupName": "1210",
           "weekParity": "down",
           "teacher": {
@@ -77,11 +79,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Б 326",
-          "campus": "Лоцманская (Б)",
+          "campus": "Лоцманская (Корпус Б)",
           "groupName": "1210",
           "weekParity": "up",
           "teacher": {
             "name": "Алексеева Татьяна Николаевна",
+            "id": "100021",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100021/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/11/small/p100021.jpg?token_static=9017b4f3bd8aac37c737479a47be7768"
           }
         },
@@ -93,7 +97,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Б 401",
-          "campus": "Лоцманская (Б)",
+          "campus": "Лоцманская (Корпус Б)",
           "groupName": "1210",
           "weekParity": "down",
           "teacher": {
@@ -115,11 +119,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 167",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "both",
           "teacher": {
             "name": "Певзнер Виталий Владимирович",
+            "id": "100878",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100878/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100878.jpg?token_static=8c3c7151873f779e8bac558a8614b8e6"
           }
         },
@@ -131,11 +137,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 154",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "both",
           "teacher": {
             "name": "Певзнер Виталий Владимирович",
+            "id": "100878",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100878/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100878.jpg?token_static=8c3c7151873f779e8bac558a8614b8e6"
           }
         },
@@ -147,11 +155,13 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 167",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "both",
           "teacher": {
             "name": "Колесников Юрий Леонидович",
+            "id": "122535",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122535/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p122535.jpg?token_static=463a6f73b30879b419c62a9fc5283b73"
           }
         },
@@ -163,11 +173,13 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 326",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "down",
           "teacher": {
             "name": "Колесников Юрий Леонидович",
+            "id": "122535",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122535/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p122535.jpg?token_static=463a6f73b30879b419c62a9fc5283b73"
           }
         }
@@ -185,7 +197,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 161",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "up",
           "teacher": {
@@ -201,7 +213,7 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 191",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "up",
           "teacher": {
@@ -217,11 +229,13 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 191а",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "up",
           "teacher": {
             "name": "Бабынькина Анна Николаевна",
+            "id": "100061",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100061/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100061.jpg?token_static=ee68ca04b80e7fb2894d1e1918a55f63"
           }
         },
@@ -233,7 +247,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 144",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "both",
           "teacher": {
@@ -249,7 +263,7 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 245а",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "both",
           "teacher": {
@@ -265,7 +279,7 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 245",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "both",
           "teacher": {
@@ -281,7 +295,7 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 301",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "down",
           "teacher": {
@@ -303,7 +317,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У Спортзал",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "both"
         },
@@ -315,7 +329,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Конгресс-Центр 427",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "up",
           "teacher": {
@@ -331,7 +345,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 314",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "down",
           "teacher": {
@@ -347,7 +361,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 161",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "both",
           "teacher": {
@@ -363,7 +377,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 506",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "both",
           "teacher": {
@@ -385,7 +399,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У Спортзал",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "both"
         },
@@ -397,7 +411,7 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 311",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "up",
           "teacher": {
@@ -413,7 +427,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 167",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "down",
           "teacher": {
@@ -429,7 +443,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 514",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "up",
           "teacher": {
@@ -445,7 +459,7 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 191",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "down",
           "teacher": {
@@ -461,11 +475,13 @@
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 191а",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "down",
           "teacher": {
             "name": "Бабынькина Анна Николаевна",
+            "id": "100061",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100061/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100061.jpg?token_static=ee68ca04b80e7fb2894d1e1918a55f63"
           }
         },
@@ -477,7 +493,7 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 167",
-          "campus": "Ульянка",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "both",
           "teacher": {

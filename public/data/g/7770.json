@@ -1,0 +1,175 @@
+{
+  "groupId": "7770",
+  "groupName": "20380",
+  "updatedAt": "2026-09-20T13:47:05.734Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7770-1-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы военной подготовки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У ВУЦ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Опарин Александр Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100843.jpg?token_static=97843249d42587ca996716e10bc5f564"
+          }
+        },
+        {
+          "id": "7770-1-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы военной подготовки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У ВУЦ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цаплин Виталий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/05/small/p137667.jpg?token_static=a9d73937a075b4e4c1586e3dfc598567"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7770-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Анализ и синтез логических устройств",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        },
+        {
+          "id": "7770-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Анализ и синтез логических устройств",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        },
+        {
+          "id": "7770-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Методы и средства криптографической защиты информации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шавинская Сания Караматовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101335.jpg?token_static=1593f2353c0e41c592e022752bdedac3"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7770-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Анализ и синтез логических устройств",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7770-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Методы и средства криптографической защиты информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шавинская Сания Караматовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101335.jpg?token_static=1593f2353c0e41c592e022752bdedac3"
+          }
+        },
+        {
+          "id": "7770-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Методы и средства криптографической защиты информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шавинская Сания Караматовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101335.jpg?token_static=1593f2353c0e41c592e022752bdedac3"
+          }
+        },
+        {
+          "id": "7770-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы и средства криптографической защиты информации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гусева Евгения Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/04/small/132124.jpg?token_static=9c98c86e25f30d8cd0429184cd5e31b1"
+          }
+        }
+      ]
+    }
+  ]
+}

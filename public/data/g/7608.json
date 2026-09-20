@@ -1,0 +1,407 @@
+{
+  "groupId": "7608",
+  "groupName": "2405",
+  "updatedAt": "2026-09-20T13:46:59.961Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7608-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Экономика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 514",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2405",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мамаджарова Татьяна Александровна",
+            "id": "107057",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107057/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/04/small/p107057.jpg?token_static=c4ed18c5ad4e5db127a9ed29e207b919"
+          }
+        },
+        {
+          "id": "7608-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Экономика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 514",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2405",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мамаджарова Татьяна Александровна",
+            "id": "107057",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107057/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/04/small/p107057.jpg?token_static=c4ed18c5ad4e5db127a9ed29e207b919"
+          }
+        },
+        {
+          "id": "7608-1-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2405",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бокатов Антон Юрьевич",
+            "id": "100134",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
+          }
+        },
+        {
+          "id": "7608-1-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 532",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2405",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бокатов Антон Юрьевич",
+            "id": "100134",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
+          }
+        },
+        {
+          "id": "7608-1-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 534",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2405",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бокатов Антон Юрьевич",
+            "id": "100134",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7608-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Проектирование парогенераторов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 417-3",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кожемякин Владимир Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100530.jpg?token_static=0d8190b965983556e02d990cf315156b"
+          }
+        },
+        {
+          "id": "7608-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Радиационная безопасность и биологическая защита",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сутеева Аделина Жанатовна",
+            "id": "123169",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123169/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/10/11/small/p123169.jpg?token_static=dbc337a18d502b3ecb62f9995edee8d1"
+          }
+        },
+        {
+          "id": "7608-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование парогенераторов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 417-3",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кожемякин Владимир Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100530.jpg?token_static=0d8190b965983556e02d990cf315156b"
+          }
+        },
+        {
+          "id": "7608-2-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Радиационная безопасность и биологическая защита",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сутеева Аделина Жанатовна",
+            "id": "123169",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123169/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/10/11/small/p123169.jpg?token_static=dbc337a18d502b3ecb62f9995edee8d1"
+          }
+        },
+        {
+          "id": "7608-2-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Радиационная безопасность и биологическая защита",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сутеева Аделина Жанатовна",
+            "id": "123169",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123169/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/10/11/small/p123169.jpg?token_static=dbc337a18d502b3ecb62f9995edee8d1"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7608-3-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Электропривод",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Михлин Валерий Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123810.jpg?token_static=88e7d44eaf1270f460f13dfb1373b73e"
+          }
+        },
+        {
+          "id": "7608-3-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Электропривод",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Михлин Валерий Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123810.jpg?token_static=88e7d44eaf1270f460f13dfb1373b73e"
+          }
+        },
+        {
+          "id": "7608-3-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Электропривод",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Михлин Валерий Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123810.jpg?token_static=88e7d44eaf1270f460f13dfb1373b73e"
+          }
+        },
+        {
+          "id": "7608-3-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Судовые ядерные энергетические установки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 417-3",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Глазырина Диана Олеговна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
+          }
+        },
+        {
+          "id": "7608-3-19:00-5",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Судовые ядерные энергетические установки",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-3",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Попов Никита Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/10/12/small/p130637.jpg?token_static=28aacd88887d666cee30f01b736034de"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7608-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Судовое вспомогательное энергетическое оборудование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 522",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Степанова Анна Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101146.jpg?token_static=94f6288b705cb14c7632ac585c8e129b"
+          }
+        },
+        {
+          "id": "7608-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Судовое вспомогательное энергетическое оборудование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 522",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Степанова Анна Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101146.jpg?token_static=94f6288b705cb14c7632ac585c8e129b"
+          }
+        },
+        {
+          "id": "7608-4-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Проектирование парогенераторов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-2",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кожемякин Владимир Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100530.jpg?token_static=0d8190b965983556e02d990cf315156b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7608-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405",
+          "weekParity": "both"
+        },
+        {
+          "id": "7608-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7608-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Судовые дизельные установки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Минасян Минас Арменакович",
+            "id": "100754",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100754/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100754.jpg?token_static=21b37c2485db0b01e0e177d729420dc8"
+          }
+        },
+        {
+          "id": "7608-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Судовые дизельные установки",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Минасян Минас Арменакович",
+            "id": "100754",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100754/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100754.jpg?token_static=21b37c2485db0b01e0e177d729420dc8"
+          }
+        }
+      ]
+    }
+  ]
+}

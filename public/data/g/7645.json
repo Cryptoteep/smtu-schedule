@@ -1,0 +1,705 @@
+{
+  "groupId": "7645",
+  "groupName": "3330",
+  "updatedAt": "2026-09-20T13:47:02.609Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7645-1-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Контроллинг в технических системах",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Муханова Наталья Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/05/small/p124018.jpg?token_static=2ccb983bde682659fe2dbcba18eb3b34"
+          }
+        },
+        {
+          "id": "7645-1-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        },
+        {
+          "id": "7645-1-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Контроллинг в технических системах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Муханова Наталья Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/05/small/p124018.jpg?token_static=2ccb983bde682659fe2dbcba18eb3b34"
+          }
+        },
+        {
+          "id": "7645-1-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        },
+        {
+          "id": "7645-1-19:00-5",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 403",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7645-2-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информационное обеспечение систем управления",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Анистратова Валерия Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/09/small/p124521.jpg?token_static=c658f01e1f4418830d68d2f457688ca3"
+          }
+        },
+        {
+          "id": "7645-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информационное обеспечение систем управления",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Анистратова Валерия Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/09/small/p124521.jpg?token_static=c658f01e1f4418830d68d2f457688ca3"
+          }
+        },
+        {
+          "id": "7645-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информационное обеспечение систем управления",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Анистратова Валерия Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/09/small/p124521.jpg?token_static=c658f01e1f4418830d68d2f457688ca3"
+          }
+        },
+        {
+          "id": "7645-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информационное обеспечение систем управления",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Анистратова Валерия Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/09/small/p124521.jpg?token_static=c658f01e1f4418830d68d2f457688ca3"
+          }
+        },
+        {
+          "id": "7645-2-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Контроллинг в технических системах",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Муханова Наталья Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/05/small/p124018.jpg?token_static=2ccb983bde682659fe2dbcba18eb3b34"
+          }
+        },
+        {
+          "id": "7645-2-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Контроллинг в технических системах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Муханова Наталья Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/05/small/p124018.jpg?token_static=2ccb983bde682659fe2dbcba18eb3b34"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7645-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Основы автоматизированного проектирования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Барашкова Елена Евгеньевна",
+            "id": "100076",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100076/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100076.jpg?token_static=20a0a14ebc1387574af9f2e877ce8e83"
+          }
+        },
+        {
+          "id": "7645-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы автоматизированного проектирования",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Барашкова Елена Евгеньевна",
+            "id": "100076",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100076/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100076.jpg?token_static=20a0a14ebc1387574af9f2e877ce8e83"
+          }
+        },
+        {
+          "id": "7645-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы автоматизированного проектирования",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Барашкова Елена Евгеньевна",
+            "id": "100076",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100076/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100076.jpg?token_static=20a0a14ebc1387574af9f2e877ce8e83"
+          }
+        },
+        {
+          "id": "7645-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория управляющих автоматов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сиек Юрий Леонардович",
+            "id": "101074",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101074/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101074.jpg?token_static=3902692d5a461e131a3dac1bb7d80834"
+          }
+        },
+        {
+          "id": "7645-3-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория управляющих автоматов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сиек Юрий Леонардович",
+            "id": "101074",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101074/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101074.jpg?token_static=3902692d5a461e131a3dac1bb7d80834"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7645-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Вычислительные машины, системы и сети",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Одоевский Сергей Михайлович",
+            "id": "100841",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100841/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100841.jpg?token_static=2ab4723f71cf0be3b7f24f0d66dff49b"
+          }
+        },
+        {
+          "id": "7645-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Компьютерные системы управления морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гневашев Ярослав Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/03/small/p102250.jpg?token_static=eccc1b2658ee825b289ef7a11b4cc546"
+          }
+        },
+        {
+          "id": "7645-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Вычислительные машины, системы и сети",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Одоевский Сергей Михайлович",
+            "id": "100841",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100841/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100841.jpg?token_static=2ab4723f71cf0be3b7f24f0d66dff49b"
+          }
+        },
+        {
+          "id": "7645-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Компьютерные системы управления морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гневашев Ярослав Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/03/small/p102250.jpg?token_static=eccc1b2658ee825b289ef7a11b4cc546"
+          }
+        },
+        {
+          "id": "7645-4-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы автоматизированного проектирования",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Барашкова Елена Евгеньевна",
+            "id": "100076",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100076/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100076.jpg?token_static=20a0a14ebc1387574af9f2e877ce8e83"
+          }
+        },
+        {
+          "id": "7645-4-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы автоматизированного проектирования",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Барашкова Елена Евгеньевна",
+            "id": "100076",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100076/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100076.jpg?token_static=20a0a14ebc1387574af9f2e877ce8e83"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7645-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "both"
+        },
+        {
+          "id": "7645-5-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (матросы/солдаты запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "both"
+        },
+        {
+          "id": "7645-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "both"
+        },
+        {
+          "id": "7645-5-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (матросы/солдаты запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "both"
+        },
+        {
+          "id": "7645-5-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (матросы/солдаты запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "both"
+        },
+        {
+          "id": "7645-5-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "both"
+        },
+        {
+          "id": "7645-5-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Романов Александр Иванович",
+            "id": "122500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
+          }
+        },
+        {
+          "id": "7645-5-15:40-8",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
+        },
+        {
+          "id": "7645-5-17:20-9",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Романов Александр Иванович",
+            "id": "122500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
+          }
+        },
+        {
+          "id": "7645-5-17:20-10",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
+        },
+        {
+          "id": "7645-5-19:00-11",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы военной подготовки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
+        },
+        {
+          "id": "7645-5-19:00-12",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы военной подготовки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У ВУЦ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3330",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Романов Александр Иванович",
+            "id": "122500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
+          }
+        },
+        {
+          "id": "7645-5-19:00-13",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы военной подготовки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3330",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7645-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Компьютерные системы управления морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гневашев Ярослав Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/03/small/p102250.jpg?token_static=eccc1b2658ee825b289ef7a11b4cc546"
+          }
+        },
+        {
+          "id": "7645-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Компьютерные системы управления морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гневашев Ярослав Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/03/small/p102250.jpg?token_static=eccc1b2658ee825b289ef7a11b4cc546"
+          }
+        },
+        {
+          "id": "7645-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Деловые коммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 107",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ильина Екатерина Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100466.jpg?token_static=a0d59a7049958518a8966b4eb0c215f2"
+          }
+        },
+        {
+          "id": "7645-6-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Компьютерные системы управления морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гневашев Ярослав Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/03/small/p102250.jpg?token_static=eccc1b2658ee825b289ef7a11b4cc546"
+          }
+        },
+        {
+          "id": "7645-6-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 107",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ильина Екатерина Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100466.jpg?token_static=a0d59a7049958518a8966b4eb0c215f2"
+          }
+        },
+        {
+          "id": "7645-6-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Компьютерные системы управления морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гневашев Ярослав Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/03/small/p102250.jpg?token_static=eccc1b2658ee825b289ef7a11b4cc546"
+          }
+        }
+      ]
+    }
+  ]
+}
