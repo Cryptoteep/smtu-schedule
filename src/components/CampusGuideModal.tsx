@@ -1,0 +1,105 @@
+import React from 'react';
+import { X, MapPin, Navigation, ExternalLink } from 'lucide-react';
+import { CAMPUSES } from '../data/campuses';
+
+interface CampusGuideModalProps {
+  isOpen: boolean;
+  onClose: () => void;
+  selectedLetter?: string;
+}
+
+export const CampusGuideModal: React.FC<CampusGuideModalProps> = ({
+  isOpen,
+  onClose,
+  selectedLetter,
+}) => {
+  if (!isOpen) return null;
+
+  return (
+    <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center p-0 sm:p-4 bg-navy-950/60 backdrop-blur-sm animate-in fade-in duration-200">
+      <div className="w-full sm:max-w-xl bg-white dark:bg-navy-900 rounded-t-3xl sm:rounded-3xl shadow-2xl border border-slate-200 dark:border-navy-800 p-5 space-y-4 max-h-[85vh] overflow-y-auto">
+        <div className="flex items-center justify-between">
+          <div className="flex items-center gap-2">
+            <div className="p-2 rounded-xl bg-navy-100 dark:bg-navy-800 text-navy-700 dark:text-navy-300">
+              <MapPin className="w-5 h-5" />
+            </div>
+            <div>
+              <h3 className="font-extrabold text-base sm:text-lg text-slate-900 dark:text-white">
+                Корпуса СПбГМТУ (Корабелки)
+              </h3>
+              <p className="text-xs text-slate-400">
+                Справочник учебных кампусов и расшифровка литер аудиторий
+              </p>
+            </div>
+          </div>
+          <button
+            onClick={onClose}
+            className="p-1.5 rounded-xl text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-navy-800 transition"
+          >
+            <X className="w-5 h-5" />
+          </button>
+        </div>
+
+        <div className="space-y-3">
+          {Object.values(CAMPUSES).map((campus) => {
+            const isHighlighted = selectedLetter && selectedLetter.toUpperCase() === campus.letter;
+            return (
+              <div
+                key={campus.letter}
+                className={`p-4 rounded-2xl border transition ${
+                  isHighlighted
+                    ? 'bg-navy-50/80 dark:bg-navy-800/80 border-navy-500 ring-2 ring-navy-500/20 shadow-md'
+                    : 'bg-slate-50/80 dark:bg-navy-950/50 border-slate-200 dark:border-navy-800'
+                }`}
+              >
+                <div className="flex items-start justify-between gap-2 mb-1.5">
+                  <div className="flex items-center gap-2">
+                    <span className="w-8 h-8 rounded-xl bg-navy-700 text-white font-extrabold flex items-center justify-center text-sm shadow-sm">
+                      {campus.letter}
+                    </span>
+                    <div>
+                      <h4 className="font-bold text-sm text-slate-900 dark:text-white">
+                        {campus.fullName}
+                      </h4>
+                      <span className="text-xs font-semibold text-emerald-600 dark:text-emerald-400">
+                        {campus.metro}
+                      </span>
+                    </div>
+                  </div>
+
+                  <a
+                    href={campus.mapsUrl}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="flex items-center gap-1 px-2.5 py-1 rounded-lg text-xs font-semibold bg-white dark:bg-navy-800 border border-slate-200 dark:border-navy-700 text-navy-700 dark:text-navy-300 hover:bg-navy-50 transition"
+                  >
+                    <Navigation className="w-3 h-3 text-navy-500" />
+                    <span>Карта</span>
+                    <ExternalLink className="w-2.5 h-2.5 opacity-60" />
+                  </a>
+                </div>
+
+                <div className="text-xs text-slate-600 dark:text-slate-300 space-y-1 pl-10">
+                  <p className="font-medium flex items-center gap-1">
+                    <MapPin className="w-3 h-3 text-slate-400" />
+                    <span>{campus.address}</span>
+                  </p>
+                  <p className="text-slate-500 dark:text-slate-400 text-[11px] pt-1">
+                    {campus.description}
+                  </p>
+                </div>
+              </div>
+            );
+          })}
+        </div>
+
+        <button
+          onClick={onClose}
+          className="w-full py-2.5 rounded-xl bg-navy-700 hover:bg-navy-800 text-white font-semibold text-xs transition"
+        >
+          Понятно
+        </button>
+      </div>
+    </div>
+  );
+};
