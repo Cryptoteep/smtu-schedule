@@ -1,5 +1,5 @@
 import React from 'react';
-import { Anchor, RefreshCw, Sun, Moon, Search, Calendar, MapPin, Bookmark, Download, GraduationCap } from 'lucide-react';
+import { RefreshCw, Sun, Moon, Search, Calendar, MapPin, Bookmark, Download, GraduationCap } from 'lucide-react';
 import { GroupItem, TeacherItem, ScheduleMode } from '../types/schedule';
 import { AcademicWeekInfo } from '../services/weekCalculator';
 
@@ -39,16 +39,16 @@ export const Header: React.FC<HeaderProps> = ({
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between gap-3">
         {/* Left: Brand Logo & Title */}
         <div className="flex items-center gap-3">
-          <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-navy-700 to-navy-900 border border-ship-gold/40 flex items-center justify-center shadow-md shadow-navy-900/20 text-ship-gold shrink-0">
-            <Anchor className="w-5 h-5 stroke-[2.2]" />
+          <div className="w-10 h-10 rounded-xl bg-slate-100 dark:bg-navy-900 border border-slate-200 dark:border-navy-800 flex items-center justify-center shadow-sm shrink-0 overflow-hidden p-1.5">
+            <img src="/smtu_logo.svg" alt="СПбГМТУ" className="w-full h-full object-contain filter dark:brightness-125" />
           </div>
           <div>
             <div className="flex items-center gap-2">
-              <span className="font-bold text-base tracking-tight text-navy-900 dark:text-white">
-                Корабелка
-              </span>
-              <span className="hidden sm:inline-block px-1.5 py-0.5 rounded text-[10px] font-semibold bg-navy-100 dark:bg-navy-800 text-navy-700 dark:text-navy-300">
+              <span className="font-extrabold text-base tracking-tight text-navy-950 dark:text-white">
                 СПбГМТУ
+              </span>
+              <span className="px-1.5 py-0.5 rounded text-[10px] font-semibold bg-navy-100 dark:bg-navy-800 text-navy-700 dark:text-navy-300">
+                Корабелка
               </span>
             </div>
             <p className="text-xs text-slate-500 dark:text-slate-400 font-medium">
@@ -85,7 +85,7 @@ export const Header: React.FC<HeaderProps> = ({
             <span
               className={`w-2 h-2 rounded-full ${
                 academicWeek.parity === 'up' ? 'bg-emerald-500' : 'bg-amber-500'
-              } animate-pulse`}
+              }`}
             />
             <span>{academicWeek.label}</span>
           </div>

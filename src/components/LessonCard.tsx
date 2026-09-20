@@ -87,7 +87,7 @@ export const LessonCard: React.FC<LessonCardProps> = ({
         <div className="flex items-center gap-1.5">
           {/* Active now / upcoming status indicator */}
           {isActive && (
-            <span className="flex items-center gap-1 px-2 py-0.5 rounded-full text-[11px] font-bold bg-emerald-500 text-white shadow-sm animate-pulse">
+            <span className="flex items-center gap-1 px-2 py-0.5 rounded-full text-[11px] font-bold bg-emerald-500 text-white shadow-sm">
               <span className="w-1.5 h-1.5 rounded-full bg-white" />
               <span>Идёт пара ({currentStatus.minutesRemaining} мин)</span>
             </span>
@@ -102,12 +102,12 @@ export const LessonCard: React.FC<LessonCardProps> = ({
           {/* Week parity badge */}
           {lesson.weekParity === 'up' && (
             <span className="px-1.5 py-0.5 rounded text-[10px] font-bold bg-emerald-100 dark:bg-emerald-950/60 text-emerald-700 dark:text-emerald-300 border border-emerald-200 dark:border-emerald-800">
-              ▲ Числитель
+              ↑ Верхняя
             </span>
           )}
           {lesson.weekParity === 'down' && (
             <span className="px-1.5 py-0.5 rounded text-[10px] font-bold bg-amber-100 dark:bg-amber-950/60 text-amber-700 dark:text-amber-300 border border-amber-200 dark:border-amber-800">
-              ▼ Знаменатель
+              ↓ Нижняя
             </span>
           )}
         </div>

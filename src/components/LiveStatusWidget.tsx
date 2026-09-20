@@ -81,26 +81,23 @@ export const LiveStatusWidget: React.FC<LiveStatusWidgetProps> = ({
     const floor = getFloorByRoom(ongoing.lesson.room);
 
     return (
-      <div className="rounded-2xl p-4 bg-gradient-to-r from-emerald-500/10 via-emerald-500/5 to-teal-500/10 dark:from-emerald-950/40 dark:via-emerald-900/20 dark:to-teal-950/30 border border-emerald-300 dark:border-emerald-700/60 shadow-sm space-y-3 animate-in fade-in duration-300">
+      <div className="rounded-2xl p-4 bg-emerald-500/[0.06] dark:bg-emerald-950/30 border border-emerald-300/80 dark:border-emerald-800/80 shadow-sm space-y-3 transition-colors">
         <div className="flex items-center justify-between gap-2">
           <div className="flex items-center gap-2">
-            <span className="relative flex h-3 w-3">
-              <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75" />
-              <span className="relative inline-flex rounded-full h-3 w-3 bg-emerald-500" />
-            </span>
-            <span className="text-xs font-black uppercase tracking-wider text-emerald-800 dark:text-emerald-300">
-              Сейчас идёт пара ({ongoing.lesson.timeSlotIndex} пара)
+            <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 shrink-0" />
+            <span className="text-xs font-bold uppercase tracking-wider text-emerald-900 dark:text-emerald-300">
+              Сейчас идёт {ongoing.lesson.timeSlotIndex}-я пара
             </span>
           </div>
 
-          <div className="flex items-center gap-1.5 font-mono text-xs font-bold px-2.5 py-0.5 rounded-full bg-emerald-100 dark:bg-emerald-950/80 text-emerald-800 dark:text-emerald-200 border border-emerald-300 dark:border-emerald-800">
-            <Clock className="w-3 h-3" />
+          <div className="flex items-center gap-1.5 font-mono text-xs font-semibold px-2.5 py-0.5 rounded-md bg-emerald-100 dark:bg-emerald-900/60 text-emerald-900 dark:text-emerald-200 border border-emerald-300/60 dark:border-emerald-800">
+            <Clock className="w-3 h-3 text-emerald-600 dark:text-emerald-400" />
             <span>Осталось {formatCountdown(remainSec)}</span>
           </div>
         </div>
 
         {/* Progress Bar */}
-        <div className="w-full bg-emerald-200/60 dark:bg-emerald-950/80 h-1.5 rounded-full overflow-hidden">
+        <div className="w-full bg-emerald-100 dark:bg-navy-950 h-1.5 rounded-full overflow-hidden">
           <div
             className="bg-emerald-500 h-full rounded-full transition-all duration-1000 ease-linear"
             style={{ width: `${progressPercent}%` }}
@@ -125,7 +122,7 @@ export const LiveStatusWidget: React.FC<LiveStatusWidgetProps> = ({
                 <MapPin className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" />
                 <span>{ongoing.lesson.room}</span>
                 {floor && (
-                  <span className="px-1.5 py-0.2 rounded text-[10px] bg-emerald-200 dark:bg-emerald-900 text-emerald-900 dark:text-emerald-200 font-bold">
+                  <span className="px-1.5 py-0.2 rounded text-[10px] bg-emerald-200/80 dark:bg-emerald-900 text-emerald-900 dark:text-emerald-200 font-bold">
                     {floor} эт.
                   </span>
                 )}
@@ -136,7 +133,7 @@ export const LiveStatusWidget: React.FC<LiveStatusWidgetProps> = ({
           {ongoing.lesson.teacher && (
             <button
               onClick={() => onOpenTeacher(ongoing.lesson.teacher!.name, ongoing.lesson.teacher?.photoUrl)}
-              className="px-2.5 py-1 rounded-lg text-xs font-semibold bg-white/80 dark:bg-navy-900/80 hover:bg-white dark:hover:bg-navy-800 border border-slate-200 dark:border-navy-700 transition"
+              className="px-2.5 py-1 rounded-lg text-xs font-semibold bg-white dark:bg-navy-900 hover:bg-slate-50 dark:hover:bg-navy-800 border border-slate-200 dark:border-navy-700 transition"
             >
               {ongoing.lesson.teacher.name}
             </button>
@@ -156,17 +153,17 @@ export const LiveStatusWidget: React.FC<LiveStatusWidgetProps> = ({
     const nextFloor = getFloorByRoom(nextSlot.lesson.room);
 
     return (
-      <div className="rounded-2xl p-4 bg-gradient-to-r from-amber-500/10 via-amber-500/5 to-orange-500/10 dark:from-amber-950/40 dark:via-amber-900/20 dark:to-orange-950/30 border border-amber-300 dark:border-amber-700/60 shadow-sm space-y-2.5 animate-in fade-in duration-300">
+      <div className="rounded-2xl p-4 bg-amber-500/[0.06] dark:bg-amber-950/30 border border-amber-300/80 dark:border-amber-800/80 shadow-sm space-y-2.5 transition-colors">
         <div className="flex items-center justify-between gap-2">
           <div className="flex items-center gap-2">
             <AlertCircle className="w-4 h-4 text-amber-600 dark:text-amber-400" />
-            <span className="text-xs font-black uppercase tracking-wider text-amber-800 dark:text-amber-300">
+            <span className="text-xs font-bold uppercase tracking-wider text-amber-900 dark:text-amber-300">
               Перерыв между парами
             </span>
           </div>
 
-          <div className="flex items-center gap-1.5 font-mono text-xs font-bold px-2.5 py-0.5 rounded-full bg-amber-100 dark:bg-amber-950/80 text-amber-800 dark:text-amber-200 border border-amber-300 dark:border-amber-800">
-            <Clock className="w-3 h-3" />
+          <div className="flex items-center gap-1.5 font-mono text-xs font-semibold px-2.5 py-0.5 rounded-md bg-amber-100 dark:bg-amber-900/60 text-amber-900 dark:text-amber-200 border border-amber-300/60 dark:border-amber-800">
+            <Clock className="w-3 h-3 text-amber-600 dark:text-amber-400" />
             <span>До звонка {formatCountdown(breakRemainSec)}</span>
           </div>
         </div>
@@ -184,7 +181,7 @@ export const LiveStatusWidget: React.FC<LiveStatusWidgetProps> = ({
             <MapPin className="w-3 h-3 text-amber-600 dark:text-amber-400" />
             <span>{nextSlot.lesson.room}</span>
             {nextFloor && (
-              <span className="px-1.5 py-0.2 rounded text-[10px] bg-amber-200 dark:bg-amber-900 text-amber-900 dark:text-amber-200 font-bold">
+              <span className="px-1.5 py-0.2 rounded text-[10px] bg-amber-200/80 dark:bg-amber-900 text-amber-900 dark:text-amber-200 font-bold">
                 {nextFloor} эт.
               </span>
             )}
@@ -201,16 +198,16 @@ export const LiveStatusWidget: React.FC<LiveStatusWidgetProps> = ({
     if (untilFirstSec <= 14400) {
       const firstCampus = getCampusByRoom(firstSlot.lesson.room);
       return (
-        <div className="rounded-2xl p-4 bg-gradient-to-r from-blue-500/10 via-blue-500/5 to-indigo-500/10 dark:from-blue-950/40 dark:via-blue-900/20 dark:to-indigo-950/30 border border-blue-300 dark:border-blue-700/60 shadow-sm space-y-2 animate-in fade-in duration-300">
+        <div className="rounded-2xl p-4 bg-navy-500/[0.06] dark:bg-navy-900/40 border border-navy-200 dark:border-navy-800 shadow-sm space-y-2 transition-colors">
           <div className="flex items-center justify-between gap-2">
             <div className="flex items-center gap-2">
-              <Clock className="w-4 h-4 text-blue-600 dark:text-blue-400" />
-              <span className="text-xs font-black uppercase tracking-wider text-blue-800 dark:text-blue-300">
+              <Clock className="w-4 h-4 text-navy-600 dark:text-navy-400" />
+              <span className="text-xs font-bold uppercase tracking-wider text-navy-900 dark:text-navy-200">
                 До начала 1-й пары
               </span>
             </div>
 
-            <div className="flex items-center gap-1.5 font-mono text-xs font-bold px-2.5 py-0.5 rounded-full bg-blue-100 dark:bg-blue-950/80 text-blue-800 dark:text-blue-200 border border-blue-300 dark:border-blue-800">
+            <div className="flex items-center gap-1.5 font-mono text-xs font-semibold px-2.5 py-0.5 rounded-md bg-navy-100 dark:bg-navy-800 text-navy-900 dark:text-navy-200 border border-navy-200 dark:border-navy-700">
               <span>{formatCountdown(untilFirstSec)}</span>
             </div>
           </div>
@@ -221,7 +218,7 @@ export const LiveStatusWidget: React.FC<LiveStatusWidgetProps> = ({
             </span>
             <button
               onClick={() => onOpenCampus(firstCampus?.letter || 'У')}
-              className="flex items-center gap-1 font-bold text-blue-600 dark:text-blue-400 hover:underline shrink-0"
+              className="flex items-center gap-1 font-bold text-navy-600 dark:text-navy-400 hover:underline shrink-0"
             >
               <MapPin className="w-3 h-3" />
               <span>{firstSlot.lesson.room}</span>

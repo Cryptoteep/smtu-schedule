@@ -3,6 +3,7 @@ import { CampusInfo } from '../types/schedule';
 export interface DetailedCampusInfo extends CampusInfo {
   floors?: number;
   pdfPlanUrl?: string;
+  imageUrl?: string;
 }
 
 export const CAMPUSES: Record<string, DetailedCampusInfo> = {
@@ -15,7 +16,8 @@ export const CAMPUSES: Record<string, DetailedCampusInfo> = {
     description: 'Главный научно-образовательный кампус СПбГМТУ, Передовая инженерная школа «Судостроение 4.0», спорткомплекс, бассейн и учебные лаборатории.',
     mapsUrl: 'https://yandex.ru/maps/?text=' + encodeURIComponent('СПбГМТУ, Санкт-Петербург, Ленинский проспект, 101'),
     floors: 5,
-    pdfPlanUrl: 'https://isu.smtu.ru/doc_tree_file/50c1eeb37e952c41b6737c1acccdc1c1b39cea4a604e750df94649707029de15/'
+    pdfPlanUrl: 'https://isu.smtu.ru/doc_tree_file/50c1eeb37e952c41b6737c1acccdc1c1b39cea4a604e750df94649707029de15/',
+    imageUrl: '/images/campuses/campus_u.jpg'
   },
   'А': {
     letter: 'А',
@@ -26,7 +28,8 @@ export const CAMPUSES: Record<string, DetailedCampusInfo> = {
     description: 'Историческое сердце Корабелки: ректорат, Актовый зал, музей истории кораблестроения, библиотека и кафедры.',
     mapsUrl: 'https://yandex.ru/maps/?text=' + encodeURIComponent('СПбГМТУ, Санкт-Петербург, Лоцманская улица, 3'),
     floors: 5,
-    pdfPlanUrl: 'https://isu.smtu.ru/doc_tree_file/9340022def0eb135cfe16946c8e678a262a93545ddb0ddbfa3cfcabeec27ce4a/'
+    pdfPlanUrl: 'https://isu.smtu.ru/doc_tree_file/9340022def0eb135cfe16946c8e678a262a93545ddb0ddbfa3cfcabeec27ce4a/',
+    imageUrl: '/images/campuses/campus_a.jpg'
   },
   'Б': {
     letter: 'Б',
@@ -37,7 +40,8 @@ export const CAMPUSES: Record<string, DetailedCampusInfo> = {
     description: 'Учебный корпус кораблестроительных и инженерных факультетов.',
     mapsUrl: 'https://yandex.ru/maps/?text=' + encodeURIComponent('СПбГМТУ, Санкт-Петербург, Лоцманская улица, 10-14'),
     floors: 6,
-    pdfPlanUrl: 'https://isu.smtu.ru/doc_tree_file/e556fc798afbfcab2900f2966edc78ad69a1d7660e1f00c381cdd8d7a73b4551/'
+    pdfPlanUrl: 'https://isu.smtu.ru/doc_tree_file/e556fc798afbfcab2900f2966edc78ad69a1d7660e1f00c381cdd8d7a73b4551/',
+    imageUrl: '/images/campuses/campus_b.jpg'
   },
   'Г': {
     letter: 'Г',
@@ -47,7 +51,8 @@ export const CAMPUSES: Record<string, DetailedCampusInfo> = {
     metro: 'м. Горьковская',
     description: 'Учебный корпус в историческом центре Петроградской стороны рядом с Петропавловской крепостью.',
     mapsUrl: 'https://yandex.ru/maps/?text=' + encodeURIComponent('СПбГМТУ, Санкт-Петербург, Кронверкский проспект, 5'),
-    floors: 5
+    floors: 5,
+    imageUrl: '/images/campuses/campus_g.jpg'
   },
   'М': {
     letter: 'М',
@@ -65,7 +70,8 @@ export const CAMPUSES: Record<string, DetailedCampusInfo> = {
     address: 'пр. Стачек, д. 111, Санкт-Петербург',
     metro: 'м. Автово',
     description: 'Колледж морского приборостроения и среднетехнический факультет СПбГМТУ.',
-    mapsUrl: 'https://yandex.ru/maps/?text=' + encodeURIComponent('СПбГМТУ, Санкт-Петербург, проспект Стачек, 111')
+    mapsUrl: 'https://yandex.ru/maps/?text=' + encodeURIComponent('СПбГМТУ, Санкт-Петербург, проспект Стачек, 111'),
+    imageUrl: '/images/campuses/campus_s.jpg'
   }
 };
 

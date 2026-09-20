@@ -13,24 +13,19 @@ export const WeekSelector: React.FC<WeekSelectorProps> = ({
   onChange,
   academicWeek,
 }) => {
-  const options: { id: ViewWeekFilter; label: string; badge?: string; badgeColor?: string }[] = [
+  const options: { id: ViewWeekFilter; label: string; dotColor?: string }[] = [
     {
       id: 'current',
-      label: 'Текущая неделя',
-      badge: academicWeek.parity === 'up' ? 'Числитель' : 'Знаменатель',
-      badgeColor: academicWeek.parity === 'up' ? 'bg-emerald-500/20 text-emerald-600 dark:text-emerald-400' : 'bg-amber-500/20 text-amber-600 dark:text-amber-400',
+      label: `Текущая (${academicWeek.parityName})`,
+      dotColor: academicWeek.parity === 'up' ? 'bg-emerald-500' : 'bg-amber-500',
     },
     {
       id: 'up',
-      label: '▲ Верхняя',
-      badge: 'Числитель',
-      badgeColor: 'bg-emerald-500/10 text-emerald-600 dark:text-emerald-400',
+      label: '↑ Верхняя',
     },
     {
       id: 'down',
-      label: '▼ Нижняя',
-      badge: 'Знаменатель',
-      badgeColor: 'bg-amber-500/10 text-amber-600 dark:text-amber-400',
+      label: '↓ Нижняя',
     },
     {
       id: 'all',
@@ -49,20 +44,14 @@ export const WeekSelector: React.FC<WeekSelectorProps> = ({
               onClick={() => onChange(opt.id)}
               className={`flex-1 sm:flex-initial flex items-center justify-center gap-1.5 px-3.5 py-1.5 rounded-lg text-xs sm:text-sm font-medium transition-all whitespace-nowrap ${
                 active
-                  ? 'bg-white dark:bg-navy-800 text-navy-900 dark:text-white shadow-sm font-semibold'
+                  ? 'bg-white dark:bg-navy-800 text-navy-950 dark:text-white shadow-sm font-semibold'
                   : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-200'
               }`}
             >
-              <span>{opt.label}</span>
-              {opt.badge && (
-                <span
-                  className={`hidden xs:inline-block px-1.5 py-0.2 rounded text-[10px] font-semibold ${
-                    opt.badgeColor || 'bg-slate-200 dark:bg-navy-700'
-                  }`}
-                >
-                  {opt.badge}
-                </span>
+              {opt.dotColor && (
+                <span className={`w-2 h-2 rounded-full ${opt.dotColor}`} />
               )}
+              <span>{opt.label}</span>
             </button>
           );
         })}

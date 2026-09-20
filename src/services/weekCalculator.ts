@@ -3,7 +3,7 @@ import { Lesson } from '../types/schedule';
 export interface AcademicWeekInfo {
   weekNumber: number;
   parity: 'up' | 'down';
-  parityName: 'Числитель' | 'Знаменатель';
+  parityName: 'Верхняя' | 'Нижняя';
   label: string;
 }
 
@@ -48,16 +48,16 @@ export function getAcademicWeek(currentDate = new Date()): AcademicWeekInfo {
   const diffWeeks = Math.floor(diffMs / (7 * 24 * 60 * 60 * 1000));
   const weekNumber = Math.max(1, diffWeeks + 1);
 
-  // Odd week = Upper (up / Числитель), Even week = Lower (down / Знаменатель)
+  // Odd week = Upper (up / Верхняя), Even week = Lower (down / Нижняя)
   const isUp = weekNumber % 2 !== 0;
   const parity: 'up' | 'down' = isUp ? 'up' : 'down';
-  const parityName = isUp ? 'Числитель' : 'Знаменатель';
+  const parityName = isUp ? 'Верхняя' : 'Нижняя';
 
   return {
     weekNumber,
     parity,
     parityName,
-    label: `${weekNumber}-я неделя (${parityName})`
+    label: `${weekNumber}-я неделя (${parityName} неделя)`
   };
 }
 

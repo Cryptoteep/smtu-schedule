@@ -16,7 +16,7 @@ import { storage } from './services/storage';
 import { api } from './services/api';
 import { Lesson } from './types/schedule';
 import { filterLessonsByParity } from './services/weekCalculator';
-import { Sparkles, AlertTriangle } from 'lucide-react';
+import { Calendar, AlertTriangle } from 'lucide-react';
 
 export const App: React.FC = () => {
   // Theme state
@@ -183,35 +183,35 @@ export const App: React.FC = () => {
 
       {/* Main Content Area */}
       <main className="flex-1 max-w-4xl w-full mx-auto px-3 sm:px-6 py-4 sm:py-6 space-y-4 pb-20 sm:pb-8">
-        {/* Banner with Group/Teacher & Academic Week Status */}
-        <div className="rounded-2xl bg-gradient-to-r from-navy-800 to-navy-900 text-white p-4 sm:p-5 shadow-lg border border-navy-700/60 relative overflow-hidden">
-          <div className="absolute -right-8 -bottom-8 w-32 h-32 bg-ship-gold/10 rounded-full blur-2xl pointer-events-none" />
+        {/* University Header Card */}
+        <div className="rounded-2xl bg-navy-900 text-white p-4 sm:p-5 border border-navy-800 shadow-sm relative overflow-hidden">
           <div className="flex flex-wrap items-center justify-between gap-3 relative z-10">
             <div>
-              <div className="flex items-center gap-2 mb-1">
-                <span className="px-2 py-0.5 rounded-full text-[11px] font-extrabold bg-ship-gold text-navy-950 uppercase tracking-wider">
-                  {mode === 'teacher' ? 'Преподаватель' : 'Корабелка'}
+              <div className="flex items-center gap-2 mb-1.5">
+                <span className="px-2 py-0.5 rounded-md text-[11px] font-bold bg-ship-gold text-navy-950 uppercase tracking-wider">
+                  {mode === 'teacher' ? 'Преподаватель' : 'СПбГМТУ'}
                 </span>
                 <span className="text-xs text-navy-200 font-medium">
-                  {schedule?.facultyName || 'СПбГМТУ'}
+                  {schedule?.facultyName || 'Корабелка'}
                 </span>
               </div>
-              <h1 className="text-xl sm:text-2xl font-black tracking-tight">
+              <h1 className="text-xl sm:text-2xl font-extrabold tracking-tight">
                 {mode === 'teacher'
                   ? currentTeacher?.name || 'Преподаватель СПбГМТУ'
                   : `Группа ${currentGroup.name}`}
               </h1>
-              <p className="text-xs text-navy-300 mt-0.5">
+              <p className="text-xs text-navy-300 mt-1">
                 {academicWeek.label} • Осенний семестр 2026/2027
               </p>
             </div>
 
             <button
               onClick={() => setIsCalendarExportOpen(true)}
-              className="px-3.5 py-2 rounded-xl bg-white/10 hover:bg-white/20 border border-white/20 backdrop-blur-sm text-xs font-bold transition flex items-center gap-1.5"
+              className="px-3.5 py-2 rounded-xl bg-white/10 hover:bg-white/15 border border-white/10 text-xs font-semibold transition flex items-center gap-1.5 text-white"
+              title="Экспорт в календарь (.ics)"
             >
-              <Sparkles className="w-3.5 h-3.5 text-ship-gold" />
-              <span>Синхронизировать</span>
+              <Calendar className="w-3.5 h-3.5 text-ship-gold" />
+              <span>Экспорт в календарь</span>
             </button>
           </div>
         </div>

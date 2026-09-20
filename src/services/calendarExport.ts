@@ -130,9 +130,9 @@ export function generateIcsCalendar(schedule: GroupSchedule): string {
       descParts.push(
         `Неделя: ${
           lesson.weekParity === 'up'
-            ? 'Верхняя (числитель)'
+            ? 'Верхняя неделя'
             : lesson.weekParity === 'down'
-            ? 'Нижняя (знаменатель)'
+            ? 'Нижняя неделя'
             : 'Каждую неделю'
         }`
       );

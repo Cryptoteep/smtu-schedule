@@ -3,22 +3,22 @@ import { getAcademicWeek, filterLessonsByParity, parseTimeRange, getLessonStatus
 import { Lesson } from '../src/types/schedule';
 
 describe('Week Calculator (СПбГМТУ)', () => {
-  it('calculates week 1 (Числитель) for September 1st', () => {
+  it('calculates week 1 (Верхняя) for September 1st', () => {
     const sept1 = new Date(2026, 8, 1); // 1 Sept 2026
     const info = getAcademicWeek(sept1);
 
     expect(info.weekNumber).toBe(1);
     expect(info.parity).toBe('up');
-    expect(info.parityName).toBe('Числитель');
+    expect(info.parityName).toBe('Верхняя');
   });
 
-  it('calculates week 2 (Знаменатель) for September 8th', () => {
+  it('calculates week 2 (Нижняя) for September 8th', () => {
     const sept8 = new Date(2026, 8, 8); // 8 Sept 2026
     const info = getAcademicWeek(sept8);
 
     expect(info.weekNumber).toBe(2);
     expect(info.parity).toBe('down');
-    expect(info.parityName).toBe('Знаменатель');
+    expect(info.parityName).toBe('Нижняя');
   });
 
   it('parses time range string into minute offsets accurately', () => {

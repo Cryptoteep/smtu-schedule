@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { Sparkles, BookOpen, Coffee } from 'lucide-react';
+import { BookOpen, Coffee } from 'lucide-react';
 import { GroupSchedule, Lesson, LessonNote, ScheduleMode } from '../types/schedule';
 import { filterLessonsByParity } from '../services/weekCalculator';
 import { LessonCard } from './LessonCard';
@@ -151,8 +151,8 @@ export const ScheduleView: React.FC<ScheduleViewProps> = ({
                 {activeDay?.dayName}
               </h2>
               {isSelectedDayToday && (
-                <span className="px-2 py-0.5 rounded-full text-xs font-bold bg-emerald-100 dark:bg-emerald-950/80 text-emerald-800 dark:text-emerald-300 border border-emerald-300 dark:border-emerald-800 flex items-center gap-1">
-                  <Sparkles className="w-3 h-3" />
+                <span className="px-2 py-0.5 rounded-full text-xs font-bold bg-emerald-100 dark:bg-emerald-950/80 text-emerald-800 dark:text-emerald-300 border border-emerald-300 dark:border-emerald-800 flex items-center gap-1.5">
+                  <span className="w-1.5 h-1.5 rounded-full bg-emerald-500" />
                   <span>Сегодня</span>
                 </span>
               )}
@@ -208,7 +208,7 @@ export const ScheduleView: React.FC<ScheduleViewProps> = ({
               </h3>
               <p className="text-xs text-slate-500 dark:text-slate-400 max-w-sm mx-auto">
                 {effectiveParity !== 'all'
-                  ? 'Возможно, пары запланированы на другую неделю (числитель / знаменатель) или в этот день выходной.'
+                  ? 'Возможно, пары запланированы на другую неделю (верхнюю / нижнюю) или в этот день выходной.'
                   : 'Учебных занятий в расписании на этот день не найдено.'}
               </p>
             </div>
@@ -242,8 +242,8 @@ export const ScheduleView: React.FC<ScheduleViewProps> = ({
                       {day.dayName}
                     </h3>
                     {isDayToday && (
-                      <span className="px-2 py-0.5 rounded-full text-[11px] font-bold bg-emerald-100 dark:bg-emerald-950/80 text-emerald-800 dark:text-emerald-300 border border-emerald-300 dark:border-emerald-800 flex items-center gap-1">
-                        <Sparkles className="w-3 h-3" />
+                      <span className="px-2 py-0.5 rounded-full text-[11px] font-bold bg-emerald-100 dark:bg-emerald-950/80 text-emerald-800 dark:text-emerald-300 border border-emerald-300 dark:border-emerald-800 flex items-center gap-1.5">
+                        <span className="w-1.5 h-1.5 rounded-full bg-emerald-500" />
                         <span>Сегодня</span>
                       </span>
                     )}
