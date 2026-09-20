@@ -68,16 +68,21 @@ export const api = {
       });
       if (res.ok) {
         const schedule: GroupSchedule = await res.json();
-        storage.setCachedSchedule(schedule);
-        return schedule;
+        if (schedule && schedule.days) {
+          storage.setCachedSchedule(schedule);
+          return schedule;
+        }
       }
     } catch {
-      // Backend not running or offline, proceed to fallback
+      // Backend not running or offline, proceed to next source
     }
 
-    // 3. Try direct smtu.ru fetch (if browser supports CORS / or in Capacitor native)
+    // 3. Try direct smtu.ru fetch (works in Capacitor Android / mobile or if CORS allowed)
     try {
       const directRes = await fetch(`https://www.smtu.ru/ru/viewschedule_new/${groupId}/`, {
+        headers: {
+          'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8',
+        },
         signal: AbortSignal.timeout(5000),
       });
       if (directRes.ok) {
@@ -89,10 +94,44 @@ export const api = {
         }
       }
     } catch {
-      // Direct fetch restricted by CORS or network, proceed to pre-cached data
+      // Direct fetch restricted by CORS or network, proceed to pre-scraped mirrors
     }
 
-    // 4. Pre-cached sample schedule
+    // 4. Try static bundle relative URL (e.g. on GitHub Pages: <baseUrl>data/g/<groupId>.json)
+    try {
+      const baseUrl = import.meta.env.BASE_URL || '/';
+      const staticRes = await fetch(`${baseUrl}data/g/${groupId}.json`, {
+        signal: AbortSignal.timeout(3000),
+      });
+      if (staticRes.ok) {
+        const schedule: GroupSchedule = await staticRes.json();
+        if (schedule && schedule.days) {
+          storage.setCachedSchedule(schedule);
+          return schedule;
+        }
+      }
+    } catch {
+      // Static file not reachable or 404
+    }
+
+    // 5. Try GitHub raw/pages mirror fallback
+    try {
+      const mirrorUrl = `https://cryptoteep.github.io/smtu-schedule/data/g/${groupId}.json`;
+      const mirrorRes = await fetch(mirrorUrl, {
+        signal: AbortSignal.timeout(4000),
+      });
+      if (mirrorRes.ok) {
+        const schedule: GroupSchedule = await mirrorRes.json();
+        if (schedule && schedule.days) {
+          storage.setCachedSchedule(schedule);
+          return schedule;
+        }
+      }
+    } catch {
+      // Mirror unavailable
+    }
+
+    // 6. Pre-cached sample schedule (built into JS bundle)
     if (sampleSchedules[groupId]) {
       const sched = sampleSchedules[groupId];
       storage.setCachedSchedule(sched);
@@ -104,10 +143,25 @@ export const api = {
       return sched;
     }
 
-    // 5. Generate template schedule for other groups based on real СПбГМТУ curriculum
-    const fallback = generateGroupFallbackSchedule(groupId, groupName);
-    storage.setCachedSchedule(fallback);
-    return fallback;
+    // 7. Authentic empty schedule placeholder - NEVER generate fake/dummy classes!
+    const gName = groupName || api.findGroup(groupId)?.group.name || groupId;
+    const faculty = api.findGroup(groupId)?.faculty.faculty || 'СПбГМТУ';
+    const emptySchedule: GroupSchedule = {
+      groupId,
+      groupName: gName,
+      facultyName: faculty,
+      updatedAt: new Date().toISOString(),
+      days: [
+        { dayName: 'Понедельник', dayIndex: 1, lessons: [] },
+        { dayName: 'Вторник', dayIndex: 2, lessons: [] },
+        { dayName: 'Среда', dayIndex: 3, lessons: [] },
+        { dayName: 'Четверг', dayIndex: 4, lessons: [] },
+        { dayName: 'Пятница', dayIndex: 5, lessons: [] },
+        { dayName: 'Суббота', dayIndex: 6, lessons: [] },
+      ],
+    };
+    storage.setCachedSchedule(emptySchedule);
+    return emptySchedule;
   },
 
   /**
@@ -139,77 +193,3 @@ export const api = {
     }));
   },
 };
-
-/**
- * Generates an authentic СПбГМТУ schedule template for any group when offline or external site is down
- */
-function generateGroupFallbackSchedule(groupId: string, groupName: string): GroupSchedule {
-  const gName = groupName || groupId;
-  const isEngineering = gName.startsWith('1') || gName.startsWith('2') || gName.startsWith('3');
-  const faculty = api.findGroup(groupId)?.faculty.faculty || 'СПбГМТУ';
-
-  const daysNames = ['Понедельник', 'Вторник', 'Среда', 'Четверг', 'Пятница', 'Суббота'];
-  const subjects = isEngineering
-    ? [
-        { name: 'Высшая математика', type: 'lecture' as const, room: 'У 407', campus: 'Ульянка', teacher: 'Смирнов В. А.' },
-        { name: 'Инженерная графика и САПР', type: 'lab' as const, room: 'У 312', campus: 'Ульянка', teacher: 'Кузнецов Д. И.' },
-        { name: 'Общая физика', type: 'practice' as const, room: 'У 408', campus: 'Ульянка', teacher: 'Иванова Е. С.' },
-        { name: 'Теория корабля и гидродинамика', type: 'lecture' as const, room: 'Л 204', campus: 'Лоцманская', teacher: 'Борисов А. Н.' },
-        { name: 'Информационные технологии в судостроении', type: 'practice' as const, room: 'У 425', campus: 'Ульянка', teacher: 'Сакович С. Ю.' },
-        { name: 'Иностранный язык (профессиональный)', type: 'practice' as const, room: 'У 216', campus: 'Ульянка', teacher: 'Николаева М. В.' },
-      ]
-    : [
-        { name: 'Экономика судостроительной отрасли', type: 'lecture' as const, room: 'У 401', campus: 'Ульянка', teacher: 'Попова Т. В.' },
-        { name: 'Менеджмент и маркетинг', type: 'practice' as const, room: 'У 312', campus: 'Ульянка', teacher: 'Волков П. С.' },
-        { name: 'Правоведение и морское право', type: 'lecture' as const, room: 'Л 105', campus: 'Лоцманская', teacher: 'Ковалев А. В.' },
-        { name: 'Финансовый анализ проектов', type: 'practice' as const, room: 'У 426', campus: 'Ульянка', teacher: 'Федорова Н. И.' },
-      ];
-
-  const timeSlots = [
-    { time: '08:30-10:00', slot: 1 },
-    { time: '10:10-11:40', slot: 2 },
-    { time: '11:50-13:20', slot: 3 },
-    { time: '14:00-15:30', slot: 4 },
-  ];
-
-  const days = daysNames.map((dname, dIdx) => {
-    const lessons: Lesson[] = [];
-    if (dIdx < 5) {
-      // 2-3 lessons per day
-      const count = (dIdx % 2 === 0) ? 3 : 2;
-      for (let i = 0; i < count; i++) {
-        const subj = subjects[(dIdx * 2 + i) % subjects.length];
-        const slot = timeSlots[i];
-        const parity = (i === 1) ? (dIdx % 2 === 0 ? 'up' : 'down') : 'both';
-        lessons.push({
-          id: `${groupId}-${dIdx + 1}-${slot.time}-${i}`,
-          time: slot.time,
-          timeSlotIndex: slot.slot,
-          subject: subj.name,
-          type: subj.type,
-          rawType: subj.type === 'lecture' ? 'Лекция' : (subj.type === 'lab' ? 'Лабораторная работа' : 'Практическое занятие'),
-          room: subj.room,
-          campus: subj.campus,
-          groupName: gName,
-          weekParity: parity,
-          teacher: {
-            name: subj.teacher,
-          },
-        });
-      }
-    }
-    return {
-      dayName: dname,
-      dayIndex: dIdx + 1,
-      lessons,
-    };
-  });
-
-  return {
-    groupId,
-    groupName: gName,
-    facultyName: faculty,
-    updatedAt: new Date().toISOString(),
-    days,
-  };
-}

@@ -67,16 +67,30 @@ export const CampusGuideModal: React.FC<CampusGuideModalProps> = ({
                     </div>
                   </div>
 
-                  <a
-                    href={campus.mapsUrl}
-                    target="_blank"
-                    rel="noreferrer"
-                    className="flex items-center gap-1 px-2.5 py-1 rounded-lg text-xs font-semibold bg-white dark:bg-navy-800 border border-slate-200 dark:border-navy-700 text-navy-700 dark:text-navy-300 hover:bg-navy-50 transition"
-                  >
-                    <Navigation className="w-3 h-3 text-navy-500" />
-                    <span>Карта</span>
-                    <ExternalLink className="w-2.5 h-2.5 opacity-60" />
-                  </a>
+                  <div className="flex items-center gap-1.5 shrink-0">
+                    {campus.pdfPlanUrl && (
+                      <a
+                        href={campus.pdfPlanUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="hidden sm:flex items-center gap-1 px-2.5 py-1 rounded-lg text-xs font-semibold bg-navy-50 hover:bg-navy-100 dark:bg-navy-800/80 dark:hover:bg-navy-700 border border-slate-200 dark:border-navy-700 text-navy-700 dark:text-navy-300 transition"
+                        title="Поэтажный план корпуса в PDF"
+                      >
+                        <span>План {campus.floors} эт.</span>
+                        <ExternalLink className="w-2.5 h-2.5 opacity-60" />
+                      </a>
+                    )}
+                    <a
+                      href={campus.mapsUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex items-center gap-1 px-2.5 py-1 rounded-lg text-xs font-semibold bg-white dark:bg-navy-800 border border-slate-200 dark:border-navy-700 text-navy-700 dark:text-navy-300 hover:bg-navy-50 transition"
+                    >
+                      <Navigation className="w-3 h-3 text-navy-500" />
+                      <span>Карта</span>
+                      <ExternalLink className="w-2.5 h-2.5 opacity-60" />
+                    </a>
+                  </div>
                 </div>
 
                 <div className="text-xs text-slate-600 dark:text-slate-300 space-y-1 pl-10">

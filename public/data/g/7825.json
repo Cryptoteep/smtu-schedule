@@ -1,0 +1,377 @@
+{
+  "groupId": "7825",
+  "groupName": "12317-50",
+  "updatedAt": "2026-09-20T13:40:43.706Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7825-1-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление проектами и инновациями",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 405",
+          "campus": "Горьковская (Г)",
+          "groupName": "12317-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Хуторная Екатерина Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/15/small/p101289.jpg?token_static=b298df76246bd357fb280ace88551b1a"
+          }
+        },
+        {
+          "id": "7825-1-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление проектами и инновациями",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 405",
+          "campus": "Горьковская (Г)",
+          "groupName": "12317-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Хуторная Екатерина Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/15/small/p101289.jpg?token_static=b298df76246bd357fb280ace88551b1a"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7825-2-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория эксперимента в исследованиях систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 426",
+          "campus": "Горьковская (Г)",
+          "groupName": "12317-50",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Хуторная Екатерина Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/15/small/p101289.jpg?token_static=b298df76246bd357fb280ace88551b1a"
+          }
+        },
+        {
+          "id": "7825-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория эксперимента в исследованиях систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 306",
+          "campus": "Горьковская (Г)",
+          "groupName": "12317-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Хуторная Екатерина Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/15/small/p101289.jpg?token_static=b298df76246bd357fb280ace88551b1a"
+          }
+        },
+        {
+          "id": "7825-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория эксперимента в исследованиях систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 306",
+          "campus": "Горьковская (Г)",
+          "groupName": "12317-50",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Хуторная Екатерина Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/15/small/p101289.jpg?token_static=b298df76246bd357fb280ace88551b1a"
+          }
+        },
+        {
+          "id": "7825-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Конструкции морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 408",
+          "campus": "Горьковская (Г)",
+          "groupName": "12317-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сакович Сергей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+          }
+        },
+        {
+          "id": "7825-2-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Конструкции морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 408",
+          "campus": "Горьковская (Г)",
+          "groupName": "12317-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сакович Сергей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+          }
+        },
+        {
+          "id": "7825-2-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Конструкции морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 408",
+          "campus": "Горьковская (Г)",
+          "groupName": "12317-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сакович Сергей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7825-3-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Методы принятия решений в профессиональной деятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 425",
+          "campus": "Горьковская (Г)",
+          "groupName": "12317-50",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        },
+        {
+          "id": "7825-3-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы принятия решений в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 425",
+          "campus": "Горьковская (Г)",
+          "groupName": "12317-50",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        },
+        {
+          "id": "7825-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Программирование встраиваемых систем реального времени",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 426",
+          "campus": "Горьковская (Г)",
+          "groupName": "12317-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гневашев Ярослав Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/03/small/p102250.jpg?token_static=eccc1b2658ee825b289ef7a11b4cc546"
+          }
+        },
+        {
+          "id": "7825-3-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Программирование встраиваемых систем реального времени",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 426",
+          "campus": "Горьковская (Г)",
+          "groupName": "12317-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гневашев Ярослав Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/03/small/p102250.jpg?token_static=eccc1b2658ee825b289ef7a11b4cc546"
+          }
+        },
+        {
+          "id": "7825-3-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Программирование встраиваемых систем реального времени",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 426",
+          "campus": "Горьковская (Г)",
+          "groupName": "12317-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гневашев Ярослав Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/03/small/p102250.jpg?token_static=eccc1b2658ee825b289ef7a11b4cc546"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7825-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 216",
+          "campus": "Горьковская (Г)",
+          "groupName": "12317-50",
+          "weekParity": "both"
+        },
+        {
+          "id": "7825-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Г)",
+          "groupName": "12317-50",
+          "weekParity": "both"
+        },
+        {
+          "id": "7825-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Г)",
+          "groupName": "12317-50",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7825-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Научно-технический семинар",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-04",
+          "campus": "Ульянка",
+          "groupName": "12317-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сакович Сергей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+          }
+        },
+        {
+          "id": "7825-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Научно-технический семинар",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-04",
+          "campus": "Ульянка",
+          "groupName": "12317-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сакович Сергей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+          }
+        },
+        {
+          "id": "7825-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Иностранный язык в профессиональной и академической коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка",
+          "groupName": "12317-50",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Суринова Елена Аркадьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101156.jpg?token_static=52fd6bee87ec2f49ca409f2f940502c8"
+          }
+        },
+        {
+          "id": "7825-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Научно-технический семинар",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-04",
+          "campus": "Ульянка",
+          "groupName": "12317-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сакович Сергей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+          }
+        },
+        {
+          "id": "7825-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Иностранный язык в профессиональной и академической коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка",
+          "groupName": "12317-50",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Суринова Елена Аркадьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101156.jpg?token_static=52fd6bee87ec2f49ca409f2f940502c8"
+          }
+        },
+        {
+          "id": "7825-5-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Научно-технический семинар",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-05",
+          "campus": "Ульянка",
+          "groupName": "12317-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сакович Сергей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+          }
+        }
+      ]
+    }
+  ]
+}

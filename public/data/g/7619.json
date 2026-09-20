@@ -1,0 +1,271 @@
+{
+  "groupId": "7619",
+  "groupName": "2505",
+  "updatedAt": "2026-09-20T13:40:39.321Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7619-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы вычислительной гидродинамики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А Акаф",
+          "campus": "Лоцманская (А)",
+          "groupName": "2505",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сыралёва Мария Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p104696.jpg?token_static=d131b346af18d58252b233a3865916ec"
+          }
+        },
+        {
+          "id": "7619-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы вычислительной гидродинамики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (А)",
+          "groupName": "2505",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сыралёва Мария Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p104696.jpg?token_static=d131b346af18d58252b233a3865916ec"
+          }
+        },
+        {
+          "id": "7619-1-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Расчет ядерных реакторов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А Акаф",
+          "campus": "Лоцманская (А)",
+          "groupName": "2505",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кудинович Игорь Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/02/19/small/p104452.jpg?token_static=c542c241d14bf634ec113f673af875a5"
+          }
+        },
+        {
+          "id": "7619-1-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Расчет ядерных реакторов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (А)",
+          "groupName": "2505",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кудинович Игорь Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/02/19/small/p104452.jpg?token_static=c542c241d14bf634ec113f673af875a5"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7619-2-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 510",
+          "campus": "Лоцманская (Б)",
+          "groupName": "2505",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Палкина Елена Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/22/small/p126006.jpg?token_static=ba1b85f51e29f4993384e5312d9bc078"
+          }
+        },
+        {
+          "id": "7619-2-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Аддитивные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-3",
+          "campus": "Лоцманская (А)",
+          "groupName": "2505",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Попов Никита Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/10/12/small/p130637.jpg?token_static=28aacd88887d666cee30f01b736034de"
+          }
+        },
+        {
+          "id": "7619-2-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Электрохимические энергоустановки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 404",
+          "campus": "Лоцманская (А)",
+          "groupName": "2505",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ландграф Игорь Казимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/10/14/small/p121988.jpg?token_static=71644453efcbdb772600c78b19af411c"
+          }
+        },
+        {
+          "id": "7619-2-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Электрохимические энергоустановки",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 404",
+          "campus": "Лоцманская (А)",
+          "groupName": "2505",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ландграф Игорь Казимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/10/14/small/p121988.jpg?token_static=71644453efcbdb772600c78b19af411c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7619-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Аддитивные технологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 417-3",
+          "campus": "Лоцманская (А)",
+          "groupName": "2505",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Глазырина Диана Олеговна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
+          }
+        },
+        {
+          "id": "7619-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Аддитивные технологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 417-3",
+          "campus": "Лоцманская (А)",
+          "groupName": "2505",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Глазырина Диана Олеговна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7619-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Системы расхолаживания ядерных реакторов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 417-2",
+          "campus": "Лоцманская (А)",
+          "groupName": "2505",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кожемякин Владимир Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100530.jpg?token_static=0d8190b965983556e02d990cf315156b"
+          }
+        },
+        {
+          "id": "7619-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Системы расхолаживания ядерных реакторов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-2",
+          "campus": "Лоцманская (А)",
+          "groupName": "2505",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кожемякин Владимир Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100530.jpg?token_static=0d8190b965983556e02d990cf315156b"
+          }
+        },
+        {
+          "id": "7619-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Судовые паровые и газовые турбины",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 215",
+          "campus": "Лоцманская (А)",
+          "groupName": "2505",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Андреев Константин Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/29/small/p123490.jpg?token_static=ee7bc2000d2c2747bcec514341568d0e"
+          }
+        },
+        {
+          "id": "7619-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Судовые паровые и газовые турбины",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 215",
+          "campus": "Лоцманская (А)",
+          "groupName": "2505",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Андреев Константин Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/29/small/p123490.jpg?token_static=ee7bc2000d2c2747bcec514341568d0e"
+          }
+        },
+        {
+          "id": "7619-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Судовые паровые и газовые турбины",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 215",
+          "campus": "Лоцманская (А)",
+          "groupName": "2505",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Андреев Константин Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/29/small/p123490.jpg?token_static=ee7bc2000d2c2747bcec514341568d0e"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,591 @@
+{
+  "groupId": "7652",
+  "groupName": "3400",
+  "updatedAt": "2026-09-20T13:40:39.699Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7652-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Техника цифровой обработки сигналов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7652-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Технология настройки и испытания морских информационно-измерительных систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шилина Екатерина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101361.jpg?token_static=5c4cc058e748d1ac21b1832d804116d2"
+          }
+        },
+        {
+          "id": "7652-1-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы проектирования каналов морских информационных систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7652-1-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технология настройки и испытания морских информационно-измерительных систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 119",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шилина Екатерина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101361.jpg?token_static=5c4cc058e748d1ac21b1832d804116d2"
+          }
+        },
+        {
+          "id": "7652-1-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Техника цифровой обработки сигналов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7652-1-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы проектирования каналов морских информационных систем",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7652-1-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы проектирования каналов морских информационных систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7652-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 216",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "both"
+        },
+        {
+          "id": "7652-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "both"
+        },
+        {
+          "id": "7652-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7652-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Метрология и стандартизация",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кузнецова Александра Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/02/small/p100611.jpg?token_static=0cf2f585c7b9808f1d627b6b25691e1a"
+          }
+        },
+        {
+          "id": "7652-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 340а",
+          "campus": "Ульянка",
+          "groupName": "3400",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Марченко Сергей Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100733.jpg?token_static=ad8ce444af017c0dcbefaf3f17969b58"
+          }
+        },
+        {
+          "id": "7652-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Метрология и стандартизация",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кузнецова Александра Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/02/small/p100611.jpg?token_static=0cf2f585c7b9808f1d627b6b25691e1a"
+          }
+        },
+        {
+          "id": "7652-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 340а",
+          "campus": "Ульянка",
+          "groupName": "3400",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Марченко Сергей Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100733.jpg?token_static=ad8ce444af017c0dcbefaf3f17969b58"
+          }
+        },
+        {
+          "id": "7652-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Техника цифровой обработки сигналов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7652-3-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Подводные носители морских информационно-измерительных систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 508",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рычков Василий Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/06/small/p122751.jpg?token_static=3486a6b2d1b0a55dd4a010530e9e8e56"
+          }
+        },
+        {
+          "id": "7652-3-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Подводные носители морских информационно-измерительных систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 508",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рычков Василий Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/06/small/p122751.jpg?token_static=3486a6b2d1b0a55dd4a010530e9e8e56"
+          }
+        },
+        {
+          "id": "7652-3-17:20-8",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Проектирование средств акустической защиты",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 215",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пименов Игорь Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/13/small/p100902.jpg?token_static=930e20a1f1510ce105773e34853c26fc"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7652-4-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информационные системы подводной морской техники (С)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 418",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кузьменко Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/04/small/p100615.jpg?token_static=722e25e2dda2989add83074fc37a2776"
+          }
+        },
+        {
+          "id": "7652-4-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Техника цифровой обработки сигналов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7652-4-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Проектирование средств акустической защиты",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 215",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пименов Игорь Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/13/small/p100902.jpg?token_static=930e20a1f1510ce105773e34853c26fc"
+          }
+        },
+        {
+          "id": "7652-4-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информационные системы подводной морской техники (С)",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 418",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кузьменко Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/04/small/p100615.jpg?token_static=722e25e2dda2989add83074fc37a2776"
+          }
+        },
+        {
+          "id": "7652-4-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Микропроцессоры",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ясинская Юлия Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p101397.jpg?token_static=3839799f2ef02840b0ec1759f988b92d"
+          }
+        },
+        {
+          "id": "7652-4-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Микропроцессоры",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ясинская Юлия Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p101397.jpg?token_static=3839799f2ef02840b0ec1759f988b92d"
+          }
+        },
+        {
+          "id": "7652-4-19:00-7",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Микропроцессоры",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ясинская Юлия Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p101397.jpg?token_static=3839799f2ef02840b0ec1759f988b92d"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7652-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Информационные системы подводной морской техники (С)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 512",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        },
+        {
+          "id": "7652-5-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Прикладное программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Филимонова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101252.jpg?token_static=328c5b57462d1329ce139479c07e8a35"
+          }
+        },
+        {
+          "id": "7652-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информационные системы подводной морской техники (С)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 512",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        },
+        {
+          "id": "7652-5-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Алгоритмы обработки гидроакустических сигналов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Горбачёв Роман Игоревич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/12/25/small/p102298.jpg?token_static=edddc84c9f61e181c327c59c1e44c6a4"
+          }
+        },
+        {
+          "id": "7652-5-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Алгоритмы обработки гидроакустических сигналов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Горбачёв Роман Игоревич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/12/25/small/p102298.jpg?token_static=edddc84c9f61e181c327c59c1e44c6a4"
+          }
+        },
+        {
+          "id": "7652-5-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Алгоритмы обработки гидроакустических сигналов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Горбачёв Роман Игоревич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/12/25/small/p102298.jpg?token_static=edddc84c9f61e181c327c59c1e44c6a4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7652-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Автоматика морских информационных систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 420",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Филимонова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101252.jpg?token_static=328c5b57462d1329ce139479c07e8a35"
+          }
+        },
+        {
+          "id": "7652-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Автоматика морских информационных систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Филимонова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101252.jpg?token_static=328c5b57462d1329ce139479c07e8a35"
+          }
+        },
+        {
+          "id": "7652-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Автоматика морских информационных систем",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Филимонова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101252.jpg?token_static=328c5b57462d1329ce139479c07e8a35"
+          }
+        },
+        {
+          "id": "7652-6-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Прикладное программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Филимонова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101252.jpg?token_static=328c5b57462d1329ce139479c07e8a35"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "groupId": "7542",
+  "groupName": "1210",
+  "updatedAt": "2026-09-20T13:40:41.127Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7542-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (А)",
+          "groupName": "1210",
+          "weekParity": "both"
+        },
+        {
+          "id": "7542-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (А)",
+          "groupName": "1210",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7542-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Экология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Алексеева Татьяна Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/11/small/p100021.jpg?token_static=9017b4f3bd8aac37c737479a47be7768"
+          }
+        },
+        {
+          "id": "7542-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сидоренко Светлана Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
+          }
+        },
+        {
+          "id": "7542-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Экология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 326",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Алексеева Татьяна Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/11/small/p100021.jpg?token_static=9017b4f3bd8aac37c737479a47be7768"
+          }
+        },
+        {
+          "id": "7542-2-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Деловые коммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сидоренко Светлана Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7542-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Певзнер Виталий Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100878.jpg?token_static=8c3c7151873f779e8bac558a8614b8e6"
+          }
+        },
+        {
+          "id": "7542-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 154",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Певзнер Виталий Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100878.jpg?token_static=8c3c7151873f779e8bac558a8614b8e6"
+          }
+        },
+        {
+          "id": "7542-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Колесников Юрий Леонидович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p122535.jpg?token_static=463a6f73b30879b419c62a9fc5283b73"
+          }
+        },
+        {
+          "id": "7542-3-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 326",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Колесников Юрий Леонидович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p122535.jpg?token_static=463a6f73b30879b419c62a9fc5283b73"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7542-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Сопротивление материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Крахмалёва Ольга Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100588.jpg?token_static=aa8f6d868ec833022acb7d44d183c778"
+          }
+        },
+        {
+          "id": "7542-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Филиппов Сергей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/27/small/p123170.jpg?token_static=f4a42d2549f24ad1f85d125beac38227"
+          }
+        },
+        {
+          "id": "7542-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191а",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бабынькина Анна Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100061.jpg?token_static=ee68ca04b80e7fb2894d1e1918a55f63"
+          }
+        },
+        {
+          "id": "7542-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Сопротивление материалов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 144",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Крахмалёва Ольга Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100588.jpg?token_static=aa8f6d868ec833022acb7d44d183c778"
+          }
+        },
+        {
+          "id": "7542-4-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технология конструкционных материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 245а",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Юнусов Фируз Абдукадимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123521.jpg?token_static=0ad0f3727125e27b503247a5b407397f"
+          }
+        },
+        {
+          "id": "7542-4-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технология конструкционных материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 245",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Греков Андрей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/19/small/p100295.jpg?token_static=f5a5ab14ddce308e6acfffc82c1721e3"
+          }
+        },
+        {
+          "id": "7542-4-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 301",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Абдуллина Яна Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123505.jpg?token_static=f8713fe563017f49f1ebcfd0490b29dc"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7542-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "both"
+        },
+        {
+          "id": "7542-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Философия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шляпников Виктор Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142861.jpg?token_static=be8563b0fe6111fae0e12cdd9e550aef"
+          }
+        },
+        {
+          "id": "7542-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шляпников Виктор Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142861.jpg?token_static=be8563b0fe6111fae0e12cdd9e550aef"
+          }
+        },
+        {
+          "id": "7542-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технология конструкционных материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Филиппов Сергей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/27/small/p123170.jpg?token_static=f4a42d2549f24ad1f85d125beac38227"
+          }
+        },
+        {
+          "id": "7542-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теоретическая механика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 506",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Бабанин Николай Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p102816.jpg?token_static=e11a96b09e76656b823aeb4d27fc5b2b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7542-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "both"
+        },
+        {
+          "id": "7542-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Детали машин",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 311",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Соловьев Александр Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/09/small/p122763.jpg?token_static=24d0f5096a80155825347cab98c50fc1"
+          }
+        },
+        {
+          "id": "7542-6-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теоретическая механика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бабанин Николай Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p102816.jpg?token_static=e11a96b09e76656b823aeb4d27fc5b2b"
+          }
+        },
+        {
+          "id": "7542-6-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Детали машин",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 514",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Соловьев Александр Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/09/small/p122763.jpg?token_static=24d0f5096a80155825347cab98c50fc1"
+          }
+        },
+        {
+          "id": "7542-6-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Филиппов Сергей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/27/small/p123170.jpg?token_static=f4a42d2549f24ad1f85d125beac38227"
+          }
+        },
+        {
+          "id": "7542-6-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191а",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бабынькина Анна Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100061.jpg?token_static=ee68ca04b80e7fb2894d1e1918a55f63"
+          }
+        },
+        {
+          "id": "7542-6-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Материаловедение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка",
+          "groupName": "1210",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Филиппов Сергей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/27/small/p123170.jpg?token_static=f4a42d2549f24ad1f85d125beac38227"
+          }
+        }
+      ]
+    }
+  ]
+}

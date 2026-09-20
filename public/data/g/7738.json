@@ -1,0 +1,469 @@
+{
+  "groupId": "7738",
+  "groupName": "10274",
+  "updatedAt": "2026-09-20T13:40:40.768Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7738-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (А)",
+          "groupName": "10274",
+          "weekParity": "both"
+        },
+        {
+          "id": "7738-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (А)",
+          "groupName": "10274",
+          "weekParity": "both"
+        },
+        {
+          "id": "7738-1-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Попов Юрий Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p125599.jpg?token_static=0051eab7ac9f2afd2c5e792f2c551cb4"
+          }
+        },
+        {
+          "id": "7738-1-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 326",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Абдуллина Яна Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123505.jpg?token_static=f8713fe563017f49f1ebcfd0490b29dc"
+          }
+        },
+        {
+          "id": "7738-1-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 301",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Абдуллина Яна Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123505.jpg?token_static=f8713fe563017f49f1ebcfd0490b29dc"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7738-2-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физическая химия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 536(2)",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ходжаев Рустам Саломович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/16/small/p105760.jpg?token_static=3d0d9f5f122ca15298918ba28e486a68"
+          }
+        },
+        {
+          "id": "7738-2-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физическая химия",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 536(2)",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ходжаев Рустам Саломович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/16/small/p105760.jpg?token_static=3d0d9f5f122ca15298918ba28e486a68"
+          }
+        },
+        {
+          "id": "7738-2-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Экология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чихонадских Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+          }
+        },
+        {
+          "id": "7738-2-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Экология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 340(2)",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чихонадских Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+          }
+        },
+        {
+          "id": "7738-2-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Экология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 340(1)",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чихонадских Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+          }
+        },
+        {
+          "id": "7738-2-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы научной деятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 245",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тихонова Марина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/11/small/p124275.jpg?token_static=4c8e10fdb65c96672e498dce8d6bed82"
+          }
+        },
+        {
+          "id": "7738-2-19:00-7",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы научной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 245",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Тихонова Марина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/11/small/p124275.jpg?token_static=4c8e10fdb65c96672e498dce8d6bed82"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7738-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Коррозия металлов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 536(2)",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Трусов Валерий Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101208.jpg?token_static=48d2d4be94fc7a8e58a329b1b449f7db"
+          }
+        },
+        {
+          "id": "7738-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Кристаллография",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 245а",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Юрченко Никита Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/08/small/p123250.jpg?token_static=66f2d0841d22f9c7ef22a250ffc6c19e"
+          }
+        },
+        {
+          "id": "7738-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Кристаллография",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 245а",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Климова Маргарита Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/25/small/p123764.jpg?token_static=21d80f0c7a90cda7db9cd0938910ac70"
+          }
+        },
+        {
+          "id": "7738-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Кристаллография",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 245",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Юрченко Никита Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/08/small/p123250.jpg?token_static=66f2d0841d22f9c7ef22a250ffc6c19e"
+          }
+        },
+        {
+          "id": "7738-3-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кузнецов Константин Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/142856.jpg?token_static=8e0d7bf0502437cbabfcb32e5aee4cb3"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7738-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Самаров Евгений Кимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/12/small/p124661.jpg?token_static=1394673c94085bca12ad694c36f3e618"
+          }
+        },
+        {
+          "id": "7738-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Сопротивление материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 438",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Андреев Александр Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123117.jpg?token_static=fd886bd31e90cac74ae3d7295cb89183"
+          }
+        },
+        {
+          "id": "7738-4-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Сопротивление материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 438",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Андреев Александр Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123117.jpg?token_static=fd886bd31e90cac74ae3d7295cb89183"
+          }
+        },
+        {
+          "id": "7738-4-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Сопротивление материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 438",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Андреев Александр Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123117.jpg?token_static=fd886bd31e90cac74ae3d7295cb89183"
+          }
+        },
+        {
+          "id": "7738-4-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Сопротивление материалов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 438",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Андреев Александр Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123117.jpg?token_static=fd886bd31e90cac74ae3d7295cb89183"
+          }
+        },
+        {
+          "id": "7738-4-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7738-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая химия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 438",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Грибанькова Анжела Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/16/small/p106390.jpg?token_static=b36010da9c11264f10037dd15f87a7b5"
+          }
+        },
+        {
+          "id": "7738-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая химия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 437",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Грибанькова Анжела Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/16/small/p106390.jpg?token_static=b36010da9c11264f10037dd15f87a7b5"
+          }
+        },
+        {
+          "id": "7738-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "both"
+        },
+        {
+          "id": "7738-5-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Коррозия металлов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 536(2)",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ходжаев Рустам Саломович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/16/small/p105760.jpg?token_static=3d0d9f5f122ca15298918ba28e486a68"
+          }
+        },
+        {
+          "id": "7738-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Коррозия металлов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 536(2)",
+          "campus": "Ульянка",
+          "groupName": "10274",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ходжаев Рустам Саломович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/16/small/p105760.jpg?token_static=3d0d9f5f122ca15298918ba28e486a68"
+          }
+        }
+      ]
+    }
+  ]
+}

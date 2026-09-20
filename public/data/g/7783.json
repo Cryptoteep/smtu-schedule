@@ -1,0 +1,491 @@
+{
+  "groupId": "7783",
+  "groupName": "12113-03",
+  "updatedAt": "2026-09-20T13:40:41.129Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7783-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка",
+          "groupName": "12113-03",
+          "weekParity": "up"
+        },
+        {
+          "id": "7783-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка",
+          "groupName": "12113-03",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Прудникова Татьяна Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100952.jpg?token_static=247ccf183881448ad446f44fe6ce2653"
+          }
+        },
+        {
+          "id": "7783-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Математический анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 155",
+          "campus": "Ульянка",
+          "groupName": "12113-03",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сорокин Вадим Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101137.jpg?token_static=3c5ba78392bc54806ff547d5a75d1b11"
+          }
+        },
+        {
+          "id": "7783-1-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "История России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 531",
+          "campus": "Ульянка",
+          "groupName": "12113-03",
+          "weekParity": "up"
+        },
+        {
+          "id": "7783-1-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 531",
+          "campus": "Ульянка",
+          "groupName": "12113-03",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пантелеева Екатерина Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100873.jpg?token_static=0581704817a1db2ba4e2795028e98174"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7783-2-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Начертательная геометрия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка",
+          "groupName": "12113-03",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Свойкин Федор Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/21/small/p137669.jpg?token_static=4e96f3b114dd186bbc8a475dbacc5da7"
+          }
+        },
+        {
+          "id": "7783-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Общая и неорганическая химия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка",
+          "groupName": "12113-03",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Трусов Валерий Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101208.jpg?token_static=48d2d4be94fc7a8e58a329b1b449f7db"
+          }
+        },
+        {
+          "id": "7783-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 443",
+          "campus": "Ульянка",
+          "groupName": "12113-03",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Белова Татьяна Мухорамовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/25/small/p140005.jpg?token_static=f9d1f5b38e4ec2903422d510fb6ef693"
+          }
+        },
+        {
+          "id": "7783-2-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка",
+          "groupName": "12113-03",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Белова Татьяна Мухорамовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/25/small/p140005.jpg?token_static=f9d1f5b38e4ec2903422d510fb6ef693"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7783-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А Актовый зал",
+          "campus": "Лоцманская (А)",
+          "groupName": "12113-03",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Прудникова Татьяна Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100952.jpg?token_static=247ccf183881448ad446f44fe6ce2653"
+          }
+        },
+        {
+          "id": "7783-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Линейная алгебра, Аналитическая геометрия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Б)",
+          "groupName": "12113-03",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Самаров Евгений Кимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/12/small/p124661.jpg?token_static=1394673c94085bca12ad694c36f3e618"
+          }
+        },
+        {
+          "id": "7783-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (А)",
+          "groupName": "12113-03",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Едуш Наталья Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+          }
+        },
+        {
+          "id": "7783-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (А)",
+          "groupName": "12113-03",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Безухов Андрей Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p100085.jpg?token_static=5913fe8def86339b0d57222cd9de9dae"
+          }
+        },
+        {
+          "id": "7783-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (А)",
+          "groupName": "12113-03",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Павлов Павел Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
+          }
+        },
+        {
+          "id": "7783-3-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (А)",
+          "groupName": "12113-03",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Скоморовский Станислав Альбинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/27/small/p101084.jpg?token_static=7839ff5ef6b2266b532942f6153ed56d"
+          }
+        },
+        {
+          "id": "7783-3-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Введение в специальность",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 450",
+          "campus": "Лоцманская (А)",
+          "groupName": "12113-03",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Едуш Наталья Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+          }
+        },
+        {
+          "id": "7783-3-15:40-8",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Введение в специальность",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 450",
+          "campus": "Лоцманская (А)",
+          "groupName": "12113-03",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Безухов Андрей Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p100085.jpg?token_static=5913fe8def86339b0d57222cd9de9dae"
+          }
+        },
+        {
+          "id": "7783-3-15:40-9",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Введение в специальность",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 450",
+          "campus": "Лоцманская (А)",
+          "groupName": "12113-03",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Скоморовский Станислав Альбинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/27/small/p101084.jpg?token_static=7839ff5ef6b2266b532942f6153ed56d"
+          }
+        },
+        {
+          "id": "7783-3-15:40-10",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Введение в специальность",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 450",
+          "campus": "Лоцманская (А)",
+          "groupName": "12113-03",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Павлов Павел Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7783-4-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Начертательная геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 414",
+          "campus": "Ульянка",
+          "groupName": "12113-03",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Свойкин Федор Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/21/small/p137669.jpg?token_static=4e96f3b114dd186bbc8a475dbacc5da7"
+          }
+        },
+        {
+          "id": "7783-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Начертательная геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 211",
+          "campus": "Ульянка",
+          "groupName": "12113-03",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Свойкин Федор Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/21/small/p137669.jpg?token_static=4e96f3b114dd186bbc8a475dbacc5da7"
+          }
+        },
+        {
+          "id": "7783-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Лабораторные работы по общей и неорганической химии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 535(1)",
+          "campus": "Ульянка",
+          "groupName": "12113-03",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гайдым Марина Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/14/small/p122706.jpg?token_static=31d4b9a4cc6765a4a7b120a15c9428c0"
+          }
+        },
+        {
+          "id": "7783-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 415",
+          "campus": "Ульянка",
+          "groupName": "12113-03",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Борщова Дарья Денисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/09/small/p129944.jpg?token_static=c74c30f26f03b56e454d09d2c5edc60c"
+          }
+        },
+        {
+          "id": "7783-4-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 415",
+          "campus": "Ульянка",
+          "groupName": "12113-03",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Борщова Дарья Денисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/09/small/p129944.jpg?token_static=c74c30f26f03b56e454d09d2c5edc60c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7783-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка",
+          "groupName": "12113-03",
+          "weekParity": "both",
+          "dateSpecific": "30.10 по 18.12"
+        },
+        {
+          "id": "7783-5-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Физическая культура и спорт",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 101",
+          "campus": "Ульянка",
+          "groupName": "12113-03",
+          "weekParity": "both",
+          "dateSpecific": "04.09 по 23.10",
+          "teacher": {
+            "name": "Лапин Валерий Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/12/small/p128180.jpg?token_static=77107b9386e89abe57027f4eace5d5ff"
+          }
+        },
+        {
+          "id": "7783-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка",
+          "groupName": "12113-03",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сорокин Вадим Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101137.jpg?token_static=3c5ba78392bc54806ff547d5a75d1b11"
+          }
+        },
+        {
+          "id": "7783-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Линейная алгебра, Аналитическая геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 155",
+          "campus": "Ульянка",
+          "groupName": "12113-03",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Дмитриев Владимир Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100338.jpg?token_static=ced2258da27de7132353a0b67385dfc0"
+          }
+        },
+        {
+          "id": "7783-5-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы российской государственности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 115",
+          "campus": "Ульянка",
+          "groupName": "12113-03",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Чепель Александр Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/12/small/p101302.jpg?token_static=20716da5f90c378db74b2d7a00889d11"
+          }
+        }
+      ]
+    }
+  ]
+}

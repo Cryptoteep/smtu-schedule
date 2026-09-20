@@ -1,0 +1,363 @@
+{
+  "groupId": "7906",
+  "groupName": "13726-70",
+  "updatedAt": "2026-09-20T13:40:47.747Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7906-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка",
+          "groupName": "13726-70",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чиркунова Инна Васильевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/22/small/p139474.jpg?token_static=315c6a429c9e300f67925e649ba738b5"
+          }
+        },
+        {
+          "id": "7906-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 420",
+          "campus": "Ульянка",
+          "groupName": "13726-70",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Пугач Тамара Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/19/small/p124722.jpg?token_static=0efefc9f7331fc540183a88f63620efc"
+          }
+        },
+        {
+          "id": "7906-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 420",
+          "campus": "Ульянка",
+          "groupName": "13726-70",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Пугач Тамара Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/19/small/p124722.jpg?token_static=0efefc9f7331fc540183a88f63620efc"
+          }
+        },
+        {
+          "id": "7906-1-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "География",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 417",
+          "campus": "Ульянка",
+          "groupName": "13726-70",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ефимова Ирина Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/25/small/p124770.jpg?token_static=9b8f7fb7d1a90121294d9756c9a7cc09"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7906-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Физическая культура",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка",
+          "groupName": "13726-70",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Маркова Анна Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/23/small/p103366.jpg?token_static=61c35dff587f391455311381da94fc99"
+          }
+        },
+        {
+          "id": "7906-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Химия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 422",
+          "campus": "Ульянка",
+          "groupName": "13726-70",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Белобородова Ольга Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100088.jpg?token_static=6c6c0ccbf086376d0f162cc18ee652eb"
+          }
+        },
+        {
+          "id": "7906-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 419",
+          "campus": "Ульянка",
+          "groupName": "13726-70",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Самодуров Алексей Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123538.jpg?token_static=92f249a587127aa5c480290651841ba9"
+          }
+        },
+        {
+          "id": "7906-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Обществознание",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 420",
+          "campus": "Ульянка",
+          "groupName": "13726-70",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ильина Екатерина Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100466.jpg?token_static=a0d59a7049958518a8966b4eb0c215f2"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7906-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Литература",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 419",
+          "campus": "Ульянка",
+          "groupName": "13726-70",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Чистобаев Александр Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p102891.jpg?token_static=37417a3431cba4d88fe15501471c1288"
+          }
+        },
+        {
+          "id": "7906-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Биология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 422",
+          "campus": "Ульянка",
+          "groupName": "13726-70",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Белобородова Ольга Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100088.jpg?token_static=6c6c0ccbf086376d0f162cc18ee652eb"
+          }
+        },
+        {
+          "id": "7906-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319а(2)",
+          "campus": "Ульянка",
+          "groupName": "13726-70",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Чиркунова Инна Васильевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/22/small/p139474.jpg?token_static=315c6a429c9e300f67925e649ba738b5"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7906-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 419",
+          "campus": "Ульянка",
+          "groupName": "13726-70",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Изотова Надежда Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/02/20/small/p102942.jpg?token_static=18c82c6b03857293e22afc24c6205acd"
+          }
+        },
+        {
+          "id": "7906-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Русский язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 418",
+          "campus": "Ульянка",
+          "groupName": "13726-70",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Рогова Татьяна Ивановна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123540.jpg?token_static=174e1a05be60ab0784c919ee7469d13f"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7906-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319а(1)",
+          "campus": "Ульянка",
+          "groupName": "13726-70",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Изотова Надежда Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/02/20/small/p102942.jpg?token_static=18c82c6b03857293e22afc24c6205acd"
+          }
+        },
+        {
+          "id": "7906-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Литература",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 419",
+          "campus": "Ульянка",
+          "groupName": "13726-70",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чистобаев Александр Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p102891.jpg?token_static=37417a3431cba4d88fe15501471c1288"
+          }
+        },
+        {
+          "id": "7906-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319а(1)",
+          "campus": "Ульянка",
+          "groupName": "13726-70",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Изотова Надежда Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/02/20/small/p102942.jpg?token_static=18c82c6b03857293e22afc24c6205acd"
+          }
+        },
+        {
+          "id": "7906-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 420",
+          "campus": "Ульянка",
+          "groupName": "13726-70",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Пугач Тамара Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/19/small/p124722.jpg?token_static=0efefc9f7331fc540183a88f63620efc"
+          }
+        },
+        {
+          "id": "7906-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 420",
+          "campus": "Ульянка",
+          "groupName": "13726-70",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Пугач Тамара Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/19/small/p124722.jpg?token_static=0efefc9f7331fc540183a88f63620efc"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7906-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "История",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 419",
+          "campus": "Ульянка",
+          "groupName": "13726-70",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Бушуева Ангелина Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/29/small/p139722.jpg?token_static=f2c119d5d7358ac1f2591a0a031ae483"
+          }
+        },
+        {
+          "id": "7906-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "История",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 419",
+          "campus": "Ульянка",
+          "groupName": "13726-70",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Бушуева Ангелина Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/29/small/p139722.jpg?token_static=f2c119d5d7358ac1f2591a0a031ae483"
+          }
+        }
+      ]
+    }
+  ]
+}

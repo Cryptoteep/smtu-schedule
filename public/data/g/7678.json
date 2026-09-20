@@ -1,0 +1,437 @@
+{
+  "groupId": "7678",
+  "groupName": "4300",
+  "updatedAt": "2026-09-20T13:40:39.803Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7678-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Маркетинг",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Б)",
+          "groupName": "4300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гельфонд Даниил Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/11/28/small/p131274.jpg?token_static=89f8f72682526eae07b78f61501850a3"
+          }
+        },
+        {
+          "id": "7678-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Анализ и диагностика хозяйственной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б ЛУИТ",
+          "campus": "Лоцманская (Б)",
+          "groupName": "4300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гельфонд Даниил Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/11/28/small/p131274.jpg?token_static=89f8f72682526eae07b78f61501850a3"
+          }
+        },
+        {
+          "id": "7678-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Анализ и диагностика хозяйственной деятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б ЛУИТ",
+          "campus": "Лоцманская (Б)",
+          "groupName": "4300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гельфонд Даниил Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/11/28/small/p131274.jpg?token_static=89f8f72682526eae07b78f61501850a3"
+          }
+        },
+        {
+          "id": "7678-1-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Анализ и диагностика хозяйственной деятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б ЛУИТ",
+          "campus": "Лоцманская (Б)",
+          "groupName": "4300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гельфонд Даниил Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/11/28/small/p131274.jpg?token_static=89f8f72682526eae07b78f61501850a3"
+          }
+        },
+        {
+          "id": "7678-1-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Финансовый менеджмент",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Б)",
+          "groupName": "4300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ткачук Наталья Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/08/small/p122749.jpg?token_static=f00ba7dba205e5cb1bdfddf9ef8c4bc3"
+          }
+        },
+        {
+          "id": "7678-1-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Финансовый менеджмент",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 508",
+          "campus": "Лоцманская (Б)",
+          "groupName": "4300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ткачук Наталья Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/08/small/p122749.jpg?token_static=f00ba7dba205e5cb1bdfddf9ef8c4bc3"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7678-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Математические методы в экономике",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 530а",
+          "campus": "Ульянка",
+          "groupName": "4300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пустынникова Татьяна Ивановна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/01/small/p100958.jpg?token_static=f636bfc4d7befb37daff2724315d0588"
+          }
+        },
+        {
+          "id": "7678-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Налогообложение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 519",
+          "campus": "Ульянка",
+          "groupName": "4300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Наумова Елена Аркадьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/26/small/p100798.jpg?token_static=5f055a6e8bddf813f31d7676c161cfe9"
+          }
+        },
+        {
+          "id": "7678-2-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Деньги, кредит, банки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 519",
+          "campus": "Ульянка",
+          "groupName": "4300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кох Юрий Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/24/small/p126005.jpg?token_static=9923f8c7a7a965edcc330a7c7e2d76e5"
+          }
+        },
+        {
+          "id": "7678-2-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Математические методы в экономике",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 530а",
+          "campus": "Ульянка",
+          "groupName": "4300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пустынникова Татьяна Ивановна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/01/small/p100958.jpg?token_static=f636bfc4d7befb37daff2724315d0588"
+          }
+        },
+        {
+          "id": "7678-2-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Математические методы в экономике",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 530а",
+          "campus": "Ульянка",
+          "groupName": "4300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пустынникова Татьяна Ивановна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/01/small/p100958.jpg?token_static=f636bfc4d7befb37daff2724315d0588"
+          }
+        },
+        {
+          "id": "7678-2-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Налогообложение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 504",
+          "campus": "Ульянка",
+          "groupName": "4300",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Хрупало Елена Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/09/small/p126538.jpg?token_static=2b1300a446b199c18090cb391ece59dd"
+          }
+        },
+        {
+          "id": "7678-2-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Деловые коммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 101",
+          "campus": "Ульянка",
+          "groupName": "4300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Евграфова Ирина Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7678-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Лидерство и управление командой",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "М 11",
+          "campus": "Псковская (М)",
+          "groupName": "4300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Богомолов Андрей Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/28/small/p100125.jpg?token_static=716a89720a1e78caad1b44b5b19cf1bd"
+          }
+        },
+        {
+          "id": "7678-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Лидерство и управление командой",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 11",
+          "campus": "Псковская (М)",
+          "groupName": "4300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Богомолов Андрей Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/28/small/p100125.jpg?token_static=716a89720a1e78caad1b44b5b19cf1bd"
+          }
+        },
+        {
+          "id": "7678-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Лидерство и управление командой",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 11",
+          "campus": "Псковская (М)",
+          "groupName": "4300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Богомолов Андрей Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/28/small/p100125.jpg?token_static=716a89720a1e78caad1b44b5b19cf1bd"
+          }
+        },
+        {
+          "id": "7678-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Маркетинг",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б ЛУИТ",
+          "campus": "Лоцманская (Б)",
+          "groupName": "4300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тимошилова Полина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/06/small/p131796.jpg?token_static=519dd7d63f42cdfea438d2d05dd77c6a"
+          }
+        },
+        {
+          "id": "7678-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Маркетинг",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б ЛУИТ",
+          "campus": "Лоцманская (Б)",
+          "groupName": "4300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Тимошилова Полина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/06/small/p131796.jpg?token_static=519dd7d63f42cdfea438d2d05dd77c6a"
+          }
+        },
+        {
+          "id": "7678-3-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Финансовый менеджмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б ЛУИТ",
+          "campus": "Лоцманская (Б)",
+          "groupName": "4300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тимошилова Полина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/06/small/p131796.jpg?token_static=519dd7d63f42cdfea438d2d05dd77c6a"
+          }
+        },
+        {
+          "id": "7678-3-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Финансовый менеджмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 610",
+          "campus": "Лоцманская (Б)",
+          "groupName": "4300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Тимошилова Полина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/06/small/p131796.jpg?token_static=519dd7d63f42cdfea438d2d05dd77c6a"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7678-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Математические методы в экономике",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 105",
+          "campus": "Ульянка",
+          "groupName": "4300",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мамедова Лейла Эльдар гызы",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100723.jpg?token_static=172590e5abfce4dcc775a2886095ae05"
+          }
+        },
+        {
+          "id": "7678-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 502",
+          "campus": "Ульянка",
+          "groupName": "4300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Евграфова Ирина Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
+          }
+        },
+        {
+          "id": "7678-4-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Деньги, кредит, банки",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 507",
+          "campus": "Ульянка",
+          "groupName": "4300",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кох Юрий Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/24/small/p126005.jpg?token_static=9923f8c7a7a965edcc330a7c7e2d76e5"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7678-6-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Профессионально ориентированный перевод",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка",
+          "groupName": "4300",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Петренко Валентина Ивановна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/02/06/small/p107963.jpg?token_static=280ce4f4f87a77bf30f1390342f9a02f"
+          }
+        },
+        {
+          "id": "7678-6-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Профессионально ориентированный перевод",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка",
+          "groupName": "4300",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Петренко Валентина Ивановна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/02/06/small/p107963.jpg?token_static=280ce4f4f87a77bf30f1390342f9a02f"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "groupId": "7599",
+  "groupName": "2301",
+  "updatedAt": "2026-09-20T13:40:39.282Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7599-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "both"
+        },
+        {
+          "id": "7599-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "both"
+        },
+        {
+          "id": "7599-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7599-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Правоведение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 308",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Радько Анастасия Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/11/09/small/p100966.jpg?token_static=6b12ac50507a5e51f661a3dcf45fc8c0"
+          }
+        },
+        {
+          "id": "7599-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        },
+        {
+          "id": "7599-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        },
+        {
+          "id": "7599-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы теплотехнических расчетов ядерных установок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-2",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Столыпина Татьяна Михайловна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/25/small/p106295.jpg?token_static=7f75deb72c1ae5a217654e227cc4d459"
+          }
+        },
+        {
+          "id": "7599-2-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы теплотехнических расчетов ядерных установок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-2",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Столыпина Татьяна Михайловна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/25/small/p106295.jpg?token_static=7f75deb72c1ae5a217654e227cc4d459"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7599-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Производственная практика. Технологическая (проектно-технологическая) практика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "both"
+        },
+        {
+          "id": "7599-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Производственная практика. Технологическая (проектно-технологическая) практика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "both"
+        },
+        {
+          "id": "7599-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Производственная практика. Технологическая (проектно-технологическая) практика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "both"
+        },
+        {
+          "id": "7599-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Производственная практика. Технологическая (проектно-технологическая) практика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "both"
+        },
+        {
+          "id": "7599-3-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Производственная практика. Технологическая (проектно-технологическая) практика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7599-4-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Правоведение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Радько Анастасия Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/11/09/small/p100966.jpg?token_static=6b12ac50507a5e51f661a3dcf45fc8c0"
+          }
+        },
+        {
+          "id": "7599-4-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Судовое вспомогательное энергетическое оборудование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 522",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Степанова Анна Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101146.jpg?token_static=94f6288b705cb14c7632ac585c8e129b"
+          }
+        },
+        {
+          "id": "7599-4-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Судовое вспомогательное энергетическое оборудование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 522",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Степанова Анна Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101146.jpg?token_static=94f6288b705cb14c7632ac585c8e129b"
+          }
+        },
+        {
+          "id": "7599-4-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физика ядерных реакторов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 417-2",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кожемякин Владимир Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100530.jpg?token_static=0d8190b965983556e02d990cf315156b"
+          }
+        },
+        {
+          "id": "7599-4-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физика ядерных реакторов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-2",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кожемякин Владимир Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100530.jpg?token_static=0d8190b965983556e02d990cf315156b"
+          }
+        },
+        {
+          "id": "7599-4-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Физико-химические основы преобразования химической энергии в электрическую",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 417-2",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Белов Алексей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/25/small/p123971.jpg?token_static=087db726c80dfbb72e256d446d214ec9"
+          }
+        },
+        {
+          "id": "7599-4-19:00-7",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Физико-химические основы преобразования химической энергии в электрическую",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-2",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Белов Алексей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/25/small/p123971.jpg?token_static=087db726c80dfbb72e256d446d214ec9"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7599-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Компьютерное конструирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 404А",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Крюков Александр Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/01/15/small/p130306.jpg?token_static=1a814d911e22b81064a1279b885d4822"
+          }
+        },
+        {
+          "id": "7599-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Компьютерное конструирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 404А",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Крюков Александр Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/01/15/small/p130306.jpg?token_static=1a814d911e22b81064a1279b885d4822"
+          }
+        },
+        {
+          "id": "7599-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физико-химические процессы, сопровождающие генерацию пара",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 417-2",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кожемякин Владимир Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100530.jpg?token_static=0d8190b965983556e02d990cf315156b"
+          }
+        },
+        {
+          "id": "7599-5-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физико-химические процессы, сопровождающие генерацию пара",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-2",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кожемякин Владимир Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100530.jpg?token_static=0d8190b965983556e02d990cf315156b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7599-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Проектирование ядерных реакторов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 417-2",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Морозов Никита Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/15/small/p106925.jpg?token_static=d63daf75cdeaf2a5bd4d2f2636c7e178"
+          }
+        },
+        {
+          "id": "7599-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Проектирование ядерных реакторов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-2",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Морозов Никита Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/15/small/p106925.jpg?token_static=d63daf75cdeaf2a5bd4d2f2636c7e178"
+          }
+        },
+        {
+          "id": "7599-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Системы получения и хранения водорода и кислорода",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 404",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Маловик Дмитрий Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p103893.jpg?token_static=56897d2934ea331313bcab8b094d941e"
+          }
+        },
+        {
+          "id": "7599-6-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Системы получения и хранения водорода и кислорода",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 404",
+          "campus": "Лоцманская (А)",
+          "groupName": "2301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Маловик Дмитрий Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p103893.jpg?token_static=56897d2934ea331313bcab8b094d941e"
+          }
+        }
+      ]
+    }
+  ]
+}

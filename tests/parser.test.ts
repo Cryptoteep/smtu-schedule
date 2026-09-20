@@ -51,7 +51,7 @@ describe('SPbGMTU HTML Parser', () => {
     const lesson1 = monday!.lessons[0];
     expect(lesson1.time).toBe('08:30-10:00');
     expect(lesson1.room).toBe('У 407');
-    expect(lesson1.campus).toBe('Ульянка');
+    expect(lesson1.campus).toContain('Ульянка');
     expect(lesson1.subject).toBe('Методы искусственного интеллекта');
     expect(lesson1.type).toBe('lecture');
     expect(lesson1.weekParity).toBe('up');

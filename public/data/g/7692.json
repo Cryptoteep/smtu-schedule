@@ -1,0 +1,229 @@
+{
+  "groupId": "7692",
+  "groupName": "5200",
+  "updatedAt": "2026-09-20T13:40:39.981Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7692-1-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Деловые коммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 407",
+          "campus": "Ульянка",
+          "groupName": "5200",
+          "weekParity": "both",
+          "dateSpecific": "20.10 по 07.12",
+          "teacher": {
+            "name": "Ильина Екатерина Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100466.jpg?token_static=a0d59a7049958518a8966b4eb0c215f2"
+          }
+        },
+        {
+          "id": "7692-1-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Римское право",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 407",
+          "campus": "Ульянка",
+          "groupName": "5200",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 19.10",
+          "teacher": {
+            "name": "Здоровцева Анна Аркадьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/01/small/140524.jpg?token_static=7f3f3129650c52f56f5d59cd0e2fa295"
+          }
+        },
+        {
+          "id": "7692-1-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 407",
+          "campus": "Ульянка",
+          "groupName": "5200",
+          "weekParity": "both",
+          "dateSpecific": "20.10 по 07.12",
+          "teacher": {
+            "name": "Ильина Екатерина Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100466.jpg?token_static=a0d59a7049958518a8966b4eb0c215f2"
+          }
+        },
+        {
+          "id": "7692-1-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Римское право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 407",
+          "campus": "Ульянка",
+          "groupName": "5200",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 19.10",
+          "teacher": {
+            "name": "Здоровцева Анна Аркадьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/01/small/140524.jpg?token_static=7f3f3129650c52f56f5d59cd0e2fa295"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7692-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Уголовное право",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 02ю",
+          "campus": "Ульянка",
+          "groupName": "5200",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 16.11",
+          "teacher": {
+            "name": "Шеншин Виктор Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/15/small/p122519.jpg?token_static=0f5d1a7c72d10f6a5b00fc0a33f86b03"
+          }
+        },
+        {
+          "id": "7692-2-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Уголовное право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 02ю",
+          "campus": "Ульянка",
+          "groupName": "5200",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 16.11",
+          "teacher": {
+            "name": "Шеншин Виктор Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/15/small/p122519.jpg?token_static=0f5d1a7c72d10f6a5b00fc0a33f86b03"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7692-4-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Социология права",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 407",
+          "campus": "Ульянка",
+          "groupName": "5200",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 19.10",
+          "teacher": {
+            "name": "Солдатов Андрей Александрович"
+          }
+        },
+        {
+          "id": "7692-4-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Философия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 421",
+          "campus": "Ульянка",
+          "groupName": "5200",
+          "weekParity": "both",
+          "dateSpecific": "20.10 по 07.12",
+          "teacher": {
+            "name": "Шмырева Ольга Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
+          }
+        },
+        {
+          "id": "7692-4-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 421",
+          "campus": "Ульянка",
+          "groupName": "5200",
+          "weekParity": "both",
+          "dateSpecific": "20.10 по 07.12",
+          "teacher": {
+            "name": "Шмырева Ольга Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
+          }
+        },
+        {
+          "id": "7692-4-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Социология права",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 407",
+          "campus": "Ульянка",
+          "groupName": "5200",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 19.10",
+          "teacher": {
+            "name": "Солдатов Андрей Александрович"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7692-5-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Гражданское право",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 01Ю",
+          "campus": "Ульянка",
+          "groupName": "5200",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Юр Игорь Петрович"
+          }
+        },
+        {
+          "id": "7692-5-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Гражданское право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 01Ю",
+          "campus": "Ульянка",
+          "groupName": "5200",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Юр Игорь Петрович"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "groupId": "7712",
+  "groupName": "7301",
+  "updatedAt": "2026-09-20T13:40:40.342Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7712-1-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы геополитики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 403",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Солдатов Андрей Александрович"
+          }
+        },
+        {
+          "id": "7712-1-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Социальная стратификация",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 403",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шмырева Ольга Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
+          }
+        },
+        {
+          "id": "7712-1-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы геополитики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 403",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Солдатов Андрей Александрович"
+          }
+        },
+        {
+          "id": "7712-1-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Социальная стратификация",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 403",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шмырева Ольга Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
+          }
+        },
+        {
+          "id": "7712-1-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Социология организаций",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 403",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Романова Виктория Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104884.jpg?token_static=a3fc5e849a507d011c794fa4548055fb"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7712-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (матросы/солдаты запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (А)",
+          "groupName": "7301",
+          "weekParity": "both"
+        },
+        {
+          "id": "7712-2-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (А)",
+          "groupName": "7301",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7712-3-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Государственное и муниципальное управление",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 511",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Романова Виктория Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104884.jpg?token_static=a3fc5e849a507d011c794fa4548055fb"
+          }
+        },
+        {
+          "id": "7712-3-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Государственное и муниципальное управление",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Романова Виктория Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104884.jpg?token_static=a3fc5e849a507d011c794fa4548055fb"
+          }
+        },
+        {
+          "id": "7712-3-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Государственное и муниципальное управление",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 511",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Романова Виктория Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104884.jpg?token_static=a3fc5e849a507d011c794fa4548055fb"
+          }
+        },
+        {
+          "id": "7712-3-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Социология организаций",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 02ю",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Баранник Олеся Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101777.jpg?token_static=7a29f7315e90ef2fc59ee35e9b299d9d"
+          }
+        },
+        {
+          "id": "7712-3-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 531",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Евграфова Ирина Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
+          }
+        },
+        {
+          "id": "7712-3-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Социология организаций",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 531",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Баранник Олеся Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101777.jpg?token_static=7a29f7315e90ef2fc59ee35e9b299d9d"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7712-4-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "История и философия науки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 543",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
+          }
+        },
+        {
+          "id": "7712-4-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Социальная стратификация",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 543",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Баранник Олеся Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101777.jpg?token_static=7a29f7315e90ef2fc59ee35e9b299d9d"
+          }
+        },
+        {
+          "id": "7712-4-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "История и философия науки",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
+          }
+        },
+        {
+          "id": "7712-4-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Социальная стратификация",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 440",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Баранник Олеся Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101777.jpg?token_static=7a29f7315e90ef2fc59ee35e9b299d9d"
+          }
+        },
+        {
+          "id": "7712-4-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы геополитики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 410",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Солдатов Андрей Александрович"
+          }
+        },
+        {
+          "id": "7712-4-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы геополитики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 407",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Солдатов Андрей Александрович"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7712-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Методология и методы социологического исследования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 209ю",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Голованова Оксана Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/29/small/p100277.jpg?token_static=82fac71e5bf4707c30a33e1d670dbeec"
+          }
+        },
+        {
+          "id": "7712-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Методология и методы социологического исследования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 209ю",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Голованова Оксана Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/29/small/p100277.jpg?token_static=82fac71e5bf4707c30a33e1d670dbeec"
+          }
+        },
+        {
+          "id": "7712-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методология и методы социологического исследования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Голованова Оксана Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/29/small/p100277.jpg?token_static=82fac71e5bf4707c30a33e1d670dbeec"
+          }
+        },
+        {
+          "id": "7712-5-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Деловые коммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Евграфова Ирина Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7712-6-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Современные социологические теории",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Медведев Владимир Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+          }
+        },
+        {
+          "id": "7712-6-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Современные социологические теории",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка",
+          "groupName": "7301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Медведев Владимир Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+          }
+        }
+      ]
+    }
+  ]
+}

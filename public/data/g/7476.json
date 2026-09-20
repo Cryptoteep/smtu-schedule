@@ -1,0 +1,551 @@
+{
+  "groupId": "7476",
+  "groupName": "12638-06",
+  "updatedAt": "2026-09-20T13:40:45.238Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7476-1-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Управление карьерой",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 530а",
+          "campus": "Ульянка",
+          "groupName": "12638-06",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Золотов Алексей Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/127835.jpg?token_static=366477f80a1bc86b4a7ece2949998ad7"
+          }
+        },
+        {
+          "id": "7476-1-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Управление карьерой",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка",
+          "groupName": "12638-06",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гоголюхина Мария Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/27/small/p100274.jpg?token_static=39a45e1b3ba5272bac18b5ce3a124af9"
+          }
+        },
+        {
+          "id": "7476-1-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 514",
+          "campus": "Ульянка",
+          "groupName": "12638-06",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Синякова Мария Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/11/small/p127502.jpg?token_static=435ceb13bb6ce0b5fc9fa22cd458bad8"
+          }
+        },
+        {
+          "id": "7476-1-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка",
+          "groupName": "12638-06",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пантелеева Екатерина Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100873.jpg?token_static=0581704817a1db2ba4e2795028e98174"
+          }
+        },
+        {
+          "id": "7476-1-19:00-5",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 534",
+          "campus": "Ульянка",
+          "groupName": "12638-06",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Синякова Мария Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/11/small/p127502.jpg?token_static=435ceb13bb6ce0b5fc9fa22cd458bad8"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7476-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А Актовый зал",
+          "campus": "Лоцманская (А)",
+          "groupName": "12638-06",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Григорьев-Голубев Владимир Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p100298.jpg?token_static=f536f601bedf01b379d8d256b2f81ccd"
+          }
+        },
+        {
+          "id": "7476-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информационные технологии в экономике и менеджменте",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 503",
+          "campus": "Лоцманская (Б)",
+          "groupName": "12638-06",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Иванова Любовь Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/14/small/p122492.jpg?token_static=4e37b220545c90cbc0a354a61b8cc406"
+          }
+        },
+        {
+          "id": "7476-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы предпринимательства и бизнеса",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 501(2)",
+          "campus": "Лоцманская (Б)",
+          "groupName": "12638-06",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лебедева Анна Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/17/small/p123213.jpg?token_static=76a08d1477d71b1ca82f73bf16c256e8"
+          }
+        },
+        {
+          "id": "7476-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 31",
+          "campus": "Псковская (М)",
+          "groupName": "12638-06",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гулый Илья Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/02/small/p131311.jpg?token_static=3695b359c3fab75fc5f09dab6e7dbd74"
+          }
+        },
+        {
+          "id": "7476-2-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы предпринимательства и бизнеса",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (А)",
+          "groupName": "12638-06",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лебедева Анна Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/17/small/p123213.jpg?token_static=76a08d1477d71b1ca82f73bf16c256e8"
+          }
+        },
+        {
+          "id": "7476-2-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информатика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 508",
+          "campus": "Лоцманская (Б)",
+          "groupName": "12638-06",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гулый Илья Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/02/small/p131311.jpg?token_static=3695b359c3fab75fc5f09dab6e7dbd74"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7476-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 534",
+          "campus": "Ульянка",
+          "groupName": "12638-06",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Синякова Мария Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/11/small/p127502.jpg?token_static=435ceb13bb6ce0b5fc9fa22cd458bad8"
+          }
+        },
+        {
+          "id": "7476-3-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "История России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 531",
+          "campus": "Ульянка",
+          "groupName": "12638-06",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Смирнова Ирина Павловна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/17/small/p136999.jpg?token_static=8676b2c757bbff9743ce1ccba42fc758"
+          }
+        },
+        {
+          "id": "7476-3-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка",
+          "groupName": "12638-06",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Смольская Наталия Борисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/18/small/p128122.jpg?token_static=0409021b5f3f412cbd77cd16af1f493c"
+          }
+        },
+        {
+          "id": "7476-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка",
+          "groupName": "12638-06",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Смольская Наталия Борисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/18/small/p128122.jpg?token_static=0409021b5f3f412cbd77cd16af1f493c"
+          }
+        },
+        {
+          "id": "7476-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 410",
+          "campus": "Ульянка",
+          "groupName": "12638-06",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Постников Сергей Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/10/small/p102517.jpg?token_static=f95fd3436ea970f5d8bd1c3cfb134b81"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7476-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 31",
+          "campus": "Псковская (М)",
+          "groupName": "12638-06",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гулый Илья Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/02/small/p131311.jpg?token_static=3695b359c3fab75fc5f09dab6e7dbd74"
+          }
+        },
+        {
+          "id": "7476-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 31",
+          "campus": "Псковская (М)",
+          "groupName": "12638-06",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гулый Илья Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/02/small/p131311.jpg?token_static=3695b359c3fab75fc5f09dab6e7dbd74"
+          }
+        },
+        {
+          "id": "7476-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Эффективность информационных систем и технологий",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 33",
+          "campus": "Псковская (М)",
+          "groupName": "12638-06",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванова Любовь Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/14/small/p122492.jpg?token_static=4e37b220545c90cbc0a354a61b8cc406"
+          }
+        },
+        {
+          "id": "7476-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Эффективность информационных систем и технологий",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 508",
+          "campus": "Лоцманская (Б)",
+          "groupName": "12638-06",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванова Любовь Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/14/small/p122492.jpg?token_static=4e37b220545c90cbc0a354a61b8cc406"
+          }
+        },
+        {
+          "id": "7476-4-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Эффективность информационных систем и технологий",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 508",
+          "campus": "Лоцманская (Б)",
+          "groupName": "12638-06",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванова Любовь Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/14/small/p122492.jpg?token_static=4e37b220545c90cbc0a354a61b8cc406"
+          }
+        },
+        {
+          "id": "7476-4-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Продуктовый менеджмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 508",
+          "campus": "Лоцманская (Б)",
+          "groupName": "12638-06",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рогавичене Лариса Ивановна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/21/small/p123212.jpg?token_static=a34c5734fbf34efb4a1f5b20f3d58875"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7476-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Информационные технологии в экономике и менеджменте",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка",
+          "groupName": "12638-06",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванова Любовь Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/14/small/p122492.jpg?token_static=4e37b220545c90cbc0a354a61b8cc406"
+          }
+        },
+        {
+          "id": "7476-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 107",
+          "campus": "Ульянка",
+          "groupName": "12638-06",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Синякова Мария Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/11/small/p127502.jpg?token_static=435ceb13bb6ce0b5fc9fa22cd458bad8"
+          }
+        },
+        {
+          "id": "7476-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Продуктовый менеджмент",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 107",
+          "campus": "Ульянка",
+          "groupName": "12638-06",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рогавичене Лариса Ивановна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/21/small/p123212.jpg?token_static=a34c5734fbf34efb4a1f5b20f3d58875"
+          }
+        },
+        {
+          "id": "7476-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 105",
+          "campus": "Ульянка",
+          "groupName": "12638-06",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пантелеева Екатерина Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100873.jpg?token_static=0581704817a1db2ba4e2795028e98174"
+          }
+        },
+        {
+          "id": "7476-5-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Продуктовый менеджмент",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 514",
+          "campus": "Ульянка",
+          "groupName": "12638-06",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рогавичене Лариса Ивановна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/21/small/p123212.jpg?token_static=a34c5734fbf34efb4a1f5b20f3d58875"
+          }
+        },
+        {
+          "id": "7476-5-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка",
+          "groupName": "12638-06",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пантелеева Екатерина Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100873.jpg?token_static=0581704817a1db2ba4e2795028e98174"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7476-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическая культура и спорт",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 115",
+          "campus": "Ульянка",
+          "groupName": "12638-06",
+          "weekParity": "down",
+          "dateSpecific": "02.09",
+          "teacher": {
+            "name": "Агаев Рауф Азер оглы",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/07/27/small/p122733.jpg?token_static=27d92051d1cfd5ee9dff8d2cd1b2ecd4"
+          }
+        },
+        {
+          "id": "7476-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка",
+          "groupName": "12638-06",
+          "weekParity": "down",
+          "dateSpecific": "26.10"
+        },
+        {
+          "id": "7476-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 115",
+          "campus": "Ульянка",
+          "groupName": "12638-06",
+          "weekParity": "down",
+          "dateSpecific": "02.09",
+          "teacher": {
+            "name": "Агаев Рауф Азер оглы",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/07/27/small/p122733.jpg?token_static=27d92051d1cfd5ee9dff8d2cd1b2ecd4"
+          }
+        },
+        {
+          "id": "7476-6-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка",
+          "groupName": "12638-06",
+          "weekParity": "down",
+          "dateSpecific": "26.10"
+        }
+      ]
+    }
+  ]
+}

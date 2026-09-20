@@ -1,0 +1,469 @@
+{
+  "groupId": "7805",
+  "groupName": "12510-01",
+  "updatedAt": "2026-09-20T13:40:44.844Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7805-1-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информатика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 414",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Акуленок Анатолий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100011.jpg?token_static=d39bd00560048560c5618c7e5ca584ab"
+          }
+        },
+        {
+          "id": "7805-1-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 439",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Акуленок Анатолий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100011.jpg?token_static=d39bd00560048560c5618c7e5ca584ab"
+          }
+        },
+        {
+          "id": "7805-1-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 544",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кадыров Сергей Газимурович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100484.jpg?token_static=9f8523857cbec24081f5b094aa81c983"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7805-2-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы информационной безопасности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-06",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Федорова Анастасия Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
+          }
+        },
+        {
+          "id": "7805-2-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 543",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кадыров Сергей Газимурович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100484.jpg?token_static=9f8523857cbec24081f5b094aa81c983"
+          }
+        },
+        {
+          "id": "7805-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 452",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тельнова Алина Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p127996.jpg?token_static=6cfe9ed639541d3396ea2c9abd56717c"
+          }
+        },
+        {
+          "id": "7805-2-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 452",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Тельнова Алина Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p127996.jpg?token_static=6cfe9ed639541d3396ea2c9abd56717c"
+          }
+        },
+        {
+          "id": "7805-2-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "История и современная система защиты информации в России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 530",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Беляцкая Анастасия Станиславовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
+          }
+        },
+        {
+          "id": "7805-2-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 452",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Тельнова Алина Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p127996.jpg?token_static=6cfe9ed639541d3396ea2c9abd56717c"
+          }
+        },
+        {
+          "id": "7805-2-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 452",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тельнова Алина Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p127996.jpg?token_static=6cfe9ed639541d3396ea2c9abd56717c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7805-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Добряк Инна Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/03/30/small/p100346.jpg?token_static=69d1a348b02698f53acfaba869c29c66"
+          }
+        },
+        {
+          "id": "7805-4-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Добряк Инна Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/03/30/small/p100346.jpg?token_static=69d1a348b02698f53acfaba869c29c66"
+          }
+        },
+        {
+          "id": "7805-4-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Добряк Инна Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/03/30/small/p100346.jpg?token_static=69d1a348b02698f53acfaba869c29c66"
+          }
+        },
+        {
+          "id": "7805-4-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 414",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Акуленок Анатолий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100011.jpg?token_static=d39bd00560048560c5618c7e5ca584ab"
+          }
+        },
+        {
+          "id": "7805-4-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "История и современная система защиты информации в России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 519",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бунас Ирина Леонидовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/17/small/p123207.jpg?token_static=cf17586d91e520ee75406fda4498fa5b"
+          }
+        },
+        {
+          "id": "7805-4-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Языки программирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 316",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Глускер Михаил Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+          }
+        },
+        {
+          "id": "7805-4-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 107",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ефимов Виталий Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/03/24/small/p140415.jpg?token_static=319ace78c868ef14cd26a9014025ed7f"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7805-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "История России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 532",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бояринцев Дмитрий Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/03/small/p122101.jpg?token_static=ca1f3d42e109e9966d982de5240130be"
+          }
+        },
+        {
+          "id": "7805-5-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "История и современная система защиты информации в России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-06",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Беляцкая Анастасия Станиславовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
+          }
+        },
+        {
+          "id": "7805-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "История и современная система защиты информации в России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 530",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Беляцкая Анастасия Станиславовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
+          }
+        },
+        {
+          "id": "7805-5-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Языки программирования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 415",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Глускер Михаил Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+          }
+        },
+        {
+          "id": "7805-5-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы информационной безопасности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бобылев Анатолий Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/04/small/p124711.jpg?token_static=621cbba67deb7c1cd1118bd8a07b8365"
+          }
+        },
+        {
+          "id": "7805-5-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Языки программирования",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 415",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Глускер Михаил Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+          }
+        },
+        {
+          "id": "7805-5-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы информационной безопасности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка",
+          "groupName": "12510-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Федорова Анастасия Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7805-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы криптографии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (А)",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шавинская Сания Караматовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101335.jpg?token_static=1593f2353c0e41c592e022752bdedac3"
+          }
+        },
+        {
+          "id": "7805-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы криптографии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 435",
+          "campus": "Лоцманская (А)",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шавинская Сания Караматовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101335.jpg?token_static=1593f2353c0e41c592e022752bdedac3"
+          }
+        },
+        {
+          "id": "7805-6-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы криптографии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (А)",
+          "groupName": "12510-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шавинская Сания Караматовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101335.jpg?token_static=1593f2353c0e41c592e022752bdedac3"
+          }
+        }
+      ]
+    }
+  ]
+}

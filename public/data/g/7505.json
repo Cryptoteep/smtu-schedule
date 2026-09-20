@@ -1,0 +1,453 @@
+{
+  "groupId": "7505",
+  "groupName": "12509-04",
+  "updatedAt": "2026-09-20T13:40:44.058Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7505-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Высицкий Анатолий Федорович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100242.jpg?token_static=b9428d49bd30bd62760e23d86635f21e"
+          }
+        },
+        {
+          "id": "7505-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Высицкий Анатолий Федорович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100242.jpg?token_static=b9428d49bd30bd62760e23d86635f21e"
+          }
+        },
+        {
+          "id": "7505-1-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Андреев Кирилл Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128239.jpg?token_static=181cfcb6185f86a45a92e70dac84e40c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7505-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Алгебра и геометрия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ловягин Никита Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123528.jpg?token_static=a338c14c65568c9a9172b88fc6062893"
+          }
+        },
+        {
+          "id": "7505-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кротов Алексей Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/30/small/p103479.jpg?token_static=844290e89b35106cb757c00f9dd0968d"
+          }
+        },
+        {
+          "id": "7505-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Математический анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 506",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кротов Алексей Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/30/small/p103479.jpg?token_static=844290e89b35106cb757c00f9dd0968d"
+          }
+        },
+        {
+          "id": "7505-2-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 439",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Андреев Кирилл Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128239.jpg?token_static=181cfcb6185f86a45a92e70dac84e40c"
+          }
+        },
+        {
+          "id": "7505-2-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Дискретная математика для инженера-программиста",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 107",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пономарёв Алексей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/06/19/small/p122756.jpg?token_static=1cbedd5cfab898a1b2f0c78dd2522591"
+          }
+        },
+        {
+          "id": "7505-2-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Дискретная математика для инженера-программиста",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 443",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пономарёв Алексей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/06/19/small/p122756.jpg?token_static=1cbedd5cfab898a1b2f0c78dd2522591"
+          }
+        },
+        {
+          "id": "7505-2-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физическая культура и спорт",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 107",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ефимов Виталий Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/03/24/small/p140415.jpg?token_static=319ace78c868ef14cd26a9014025ed7f"
+          }
+        },
+        {
+          "id": "7505-2-15:40-8",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физическая культура и спорт",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 107",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ефимов Виталий Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/03/24/small/p140415.jpg?token_static=319ace78c868ef14cd26a9014025ed7f"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7505-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Алгебра и геометрия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ловягин Никита Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123528.jpg?token_static=a338c14c65568c9a9172b88fc6062893"
+          }
+        },
+        {
+          "id": "7505-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Алгебра и геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ловягин Никита Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123528.jpg?token_static=a338c14c65568c9a9172b88fc6062893"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7505-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Дискретная математика для инженера-программиста",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пономарёв Алексей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/06/19/small/p122756.jpg?token_static=1cbedd5cfab898a1b2f0c78dd2522591"
+          }
+        },
+        {
+          "id": "7505-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 439",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Андреев Кирилл Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128239.jpg?token_static=181cfcb6185f86a45a92e70dac84e40c"
+          }
+        },
+        {
+          "id": "7505-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 506",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бояринцев Дмитрий Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/03/small/p122101.jpg?token_static=ca1f3d42e109e9966d982de5240130be"
+          }
+        },
+        {
+          "id": "7505-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Силина Екатерина Кузьминична",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/12/small/p101075.jpg?token_static=069007c8e0d264f2a44a67dc923db9ce"
+          }
+        },
+        {
+          "id": "7505-5-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Силина Екатерина Кузьминична",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/12/small/p101075.jpg?token_static=069007c8e0d264f2a44a67dc923db9ce"
+          }
+        },
+        {
+          "id": "7505-5-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Силина Екатерина Кузьминична",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/12/small/p101075.jpg?token_static=069007c8e0d264f2a44a67dc923db9ce"
+          }
+        },
+        {
+          "id": "7505-5-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Силина Екатерина Кузьминична",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/12/small/p101075.jpg?token_static=069007c8e0d264f2a44a67dc923db9ce"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7505-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Дискретная математика для инженера-программиста",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Пономарёв Алексей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/06/19/small/p122756.jpg?token_static=1cbedd5cfab898a1b2f0c78dd2522591"
+          }
+        },
+        {
+          "id": "7505-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Прудникова Татьяна Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100952.jpg?token_static=247ccf183881448ad446f44fe6ce2653"
+          }
+        },
+        {
+          "id": "7505-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Прудникова Татьяна Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100952.jpg?token_static=247ccf183881448ad446f44fe6ce2653"
+          }
+        },
+        {
+          "id": "7505-6-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 438",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бугашев Сергей Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"
+          }
+        },
+        {
+          "id": "7505-6-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы российской государственности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бугашев Сергей Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"
+          }
+        },
+        {
+          "id": "7505-6-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы российской государственности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка",
+          "groupName": "12509-04",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бугашев Сергей Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"
+          }
+        }
+      ]
+    }
+  ]
+}

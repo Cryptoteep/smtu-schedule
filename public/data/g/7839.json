@@ -1,0 +1,520 @@
+{
+  "groupId": "7839",
+  "groupName": "12739-01",
+  "updatedAt": "2026-09-20T13:40:45.897Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7839-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Романов Александр Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
+          }
+        },
+        {
+          "id": "7839-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У ВУЦ",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
+        },
+        {
+          "id": "7839-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 107",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "up",
+          "dateSpecific": "01.09",
+          "teacher": {
+            "name": "Богданова Татьяна Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/05/small/p100122.jpg?token_static=647755b070c41d931bb0b14a2a82dec3"
+          }
+        },
+        {
+          "id": "7839-1-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Логика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Медведев Владимир Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+          }
+        },
+        {
+          "id": "7839-1-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Логика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Медведев Владимир Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+          }
+        },
+        {
+          "id": "7839-1-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Логика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Медведев Владимир Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+          }
+        },
+        {
+          "id": "7839-1-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Современные информационные технологии в социальных науках",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Романова Виктория Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104884.jpg?token_static=a3fc5e849a507d011c794fa4548055fb"
+          }
+        },
+        {
+          "id": "7839-1-15:40-8",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Современные информационные технологии в социальных науках",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Романова Виктория Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104884.jpg?token_static=a3fc5e849a507d011c794fa4548055fb"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7839-2-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 407",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Забавникова Татьяна Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/10/small/p128144.jpg?token_static=0a22e705380705821d98fffef1eee980"
+          }
+        },
+        {
+          "id": "7839-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 101",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Забавникова Татьяна Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/10/small/p128144.jpg?token_static=0a22e705380705821d98fffef1eee980"
+          }
+        },
+        {
+          "id": "7839-2-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У Укаф",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "down"
+        },
+        {
+          "id": "7839-2-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "История России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 01Ю",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Смирнова Ирина Павловна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/17/small/p136999.jpg?token_static=8676b2c757bbff9743ce1ccba42fc758"
+          }
+        },
+        {
+          "id": "7839-2-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Психология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 504",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бабаева Наталья Михайловна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100060.jpg?token_static=6983cf54ef4c5f9ccf1992c4ec056dd0"
+          }
+        },
+        {
+          "id": "7839-2-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы социологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 105",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Романова Виктория Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104884.jpg?token_static=a3fc5e849a507d011c794fa4548055fb"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7839-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "both"
+        },
+        {
+          "id": "7839-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "both"
+        },
+        {
+          "id": "7839-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "История социологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 504",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Медведев Владимир Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+          }
+        },
+        {
+          "id": "7839-3-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "История социологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 02ю",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Медведев Владимир Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+          }
+        },
+        {
+          "id": "7839-3-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Акуленок Ирина Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7839-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Акуленок Ирина Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"
+          }
+        },
+        {
+          "id": "7839-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Социальное взаимодействие в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 407",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сидоренко Светлана Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
+          }
+        },
+        {
+          "id": "7839-4-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Акуленок Ирина Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"
+          }
+        },
+        {
+          "id": "7839-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "История философии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 440",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
+          }
+        },
+        {
+          "id": "7839-4-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 107",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Игнатенко Сергей Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/05/08/small/p105188.jpg?token_static=50c66911f8b5f89eb1536e2b98f846f1"
+          }
+        },
+        {
+          "id": "7839-4-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "История философии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 107",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
+          }
+        },
+        {
+          "id": "7839-4-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "История философии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7839-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы социологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 01Ю",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Баранник Олеся Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101777.jpg?token_static=7a29f7315e90ef2fc59ee35e9b299d9d"
+          }
+        },
+        {
+          "id": "7839-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 115",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "down",
+          "dateSpecific": "01.09",
+          "teacher": {
+            "name": "Богданова Татьяна Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/05/small/p100122.jpg?token_static=647755b070c41d931bb0b14a2a82dec3"
+          }
+        },
+        {
+          "id": "7839-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "down",
+          "dateSpecific": "06.10"
+        },
+        {
+          "id": "7839-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы военной подготовки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Романов Александр Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
+          }
+        },
+        {
+          "id": "7839-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка",
+          "groupName": "12739-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Игнатенко Сергей Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/05/08/small/p105188.jpg?token_static=50c66911f8b5f89eb1536e2b98f846f1"
+          }
+        }
+      ]
+    }
+  ]
+}

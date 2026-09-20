@@ -1,0 +1,415 @@
+{
+  "groupId": "7556",
+  "groupName": "1301",
+  "updatedAt": "2026-09-20T13:40:38.813Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7556-1-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Организация и планирование производства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 410",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Фирсова Анна Валентиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/05/22/small/p101258.jpg?token_static=8dab6470258b3163cbed9293ba1029e5"
+          }
+        },
+        {
+          "id": "7556-1-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Сварка судовых конструкций",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 521",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Карпов Вячеслав Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/11/small/p100502.jpg?token_static=8f53807a0d4ea9e0d53563fe481e95e1"
+          }
+        },
+        {
+          "id": "7556-1-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Организация и планирование производства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 410",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Фирсова Анна Валентиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/05/22/small/p101258.jpg?token_static=8dab6470258b3163cbed9293ba1029e5"
+          }
+        },
+        {
+          "id": "7556-1-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Сварка судовых конструкций",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 521",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Карпов Вячеслав Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/11/small/p100502.jpg?token_static=8f53807a0d4ea9e0d53563fe481e95e1"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7556-2-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы систем автоматизированного проектирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 501(1)",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дедкова Ольга Валентиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100327.jpg?token_static=10c4cbb583bca3c607344d621ccc84f7"
+          }
+        },
+        {
+          "id": "7556-2-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы систем автоматизированного проектирования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 501(1)",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Дедкова Ольга Валентиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100327.jpg?token_static=10c4cbb583bca3c607344d621ccc84f7"
+          }
+        },
+        {
+          "id": "7556-2-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы систем автоматизированного проектирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 501(1)",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дедкова Ольга Валентиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100327.jpg?token_static=10c4cbb583bca3c607344d621ccc84f7"
+          }
+        },
+        {
+          "id": "7556-2-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Экология и охрана окружающей среды при изготовлении и эксплуатации морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 609",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кутенев Андрей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100634.jpg?token_static=1f6c3c15c37fea152e348ee928c0aeae"
+          }
+        },
+        {
+          "id": "7556-2-20:40-5",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 6,
+          "subject": "Экология и охрана окружающей среды при изготовлении и эксплуатации морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 610",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Децик Роман Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/28/small/p102489.jpg?token_static=ecc3994136143859d74145115fdf1e05"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7556-3-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Конструкция корпуса судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 207",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванова Дианна Тимофеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/02/02/small/p102967.jpg?token_static=0adda52417415a197cbd43ad7d4f1d71"
+          }
+        },
+        {
+          "id": "7556-3-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Конструкция корпуса судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 207",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванова Дианна Тимофеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/02/02/small/p102967.jpg?token_static=0adda52417415a197cbd43ad7d4f1d71"
+          }
+        },
+        {
+          "id": "7556-3-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Теория корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 330",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Капонен Валерий Арвиевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p100495.jpg?token_static=1cad03b1b677b2c048933e25e7b44bdf"
+          }
+        },
+        {
+          "id": "7556-3-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория корабля",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 330",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Капонен Валерий Арвиевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p100495.jpg?token_static=1cad03b1b677b2c048933e25e7b44bdf"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7556-4-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Проектирование судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 601",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Демешко Геннадий Федорович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100328.jpg?token_static=83ba06f60fbb9d93121f082cb75db24a"
+          }
+        },
+        {
+          "id": "7556-4-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Проектирование судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 601",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Одегова Ольга Витальевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100839.jpg?token_static=84385e3a9f2a534105dc6c22fbd66084"
+          }
+        },
+        {
+          "id": "7556-4-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Проектирование судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 601",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Демешко Геннадий Федорович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100328.jpg?token_static=83ba06f60fbb9d93121f082cb75db24a"
+          }
+        },
+        {
+          "id": "7556-4-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Проектирование судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 601",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Одегова Ольга Витальевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100839.jpg?token_static=84385e3a9f2a534105dc6c22fbd66084"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7556-5-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Палкина Елена Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/22/small/p126006.jpg?token_static=ba1b85f51e29f4993384e5312d9bc078"
+          }
+        },
+        {
+          "id": "7556-5-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Судовые системы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "both"
+        },
+        {
+          "id": "7556-5-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Судовые системы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "up"
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7556-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Спортзал",
+          "campus": "Лоцманская (А)",
+          "groupName": "1301",
+          "weekParity": "both"
+        },
+        {
+          "id": "7556-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Автоматизированное проектирование судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413А",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Пащенко Ольга Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/21/small/p102705.jpg?token_static=f1f5d1a23f51cb9c55a267d2e703c442"
+          }
+        },
+        {
+          "id": "7556-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Сварка судовых конструкций",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 521",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Щербаков Александр Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/16/small/p124780.jpg?token_static=70e4aa8bf03f93670379ec4bc9134f26"
+          }
+        },
+        {
+          "id": "7556-6-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Сварка судовых конструкций",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 521",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Щербаков Александр Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/16/small/p124780.jpg?token_static=70e4aa8bf03f93670379ec4bc9134f26"
+          }
+        }
+      ]
+    }
+  ]
+}

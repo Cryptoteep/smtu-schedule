@@ -1,0 +1,303 @@
+{
+  "groupId": "7451",
+  "groupName": "12213-03-2",
+  "updatedAt": "2026-09-20T13:40:42.045Z",
+  "days": [
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7451-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 517",
+          "campus": "Лоцманская (А)",
+          "groupName": "12213-03-2",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Павлов Павел Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
+          }
+        },
+        {
+          "id": "7451-2-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Лабораторные работы по общей и неорганической химии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 536(2)",
+          "campus": "Ульянка",
+          "groupName": "12213-03-2",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Агапов Константин Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101436.jpg?token_static=c82ec886d50eb533db6ecd5bbc9a1a5c"
+          }
+        },
+        {
+          "id": "7451-2-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Общая и неорганическая химия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 535(1)",
+          "campus": "Ульянка",
+          "groupName": "12213-03-2",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Грицкевич Анна Игоревна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100303.jpg?token_static=45dff744cb96b9aad81abd1f6ea00e56"
+          }
+        },
+        {
+          "id": "7451-2-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Введение в специальность",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (А)",
+          "groupName": "12213-03-2",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Павлов Павел Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
+          }
+        },
+        {
+          "id": "7451-2-20:40-5",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 6,
+          "subject": "Начертательная геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 414",
+          "campus": "Ульянка",
+          "groupName": "12213-03-2",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Анисимов Антон Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123833.jpg?token_static=b159b064a34029c71367529f81aba0bd"
+          }
+        },
+        {
+          "id": "7451-2-20:40-6",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 7,
+          "subject": "Начертательная геометрия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 414",
+          "campus": "Ульянка",
+          "groupName": "12213-03-2",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Анисимов Антон Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123833.jpg?token_static=b159b064a34029c71367529f81aba0bd"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7451-3-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Линейная алгебра, Аналитическая геометрия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 314",
+          "campus": "Ульянка",
+          "groupName": "12213-03-2",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Саенко Сергей Игоревич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/02/small/p114495.jpg?token_static=23a13160934e09181d9f39e22c5d4f24"
+          }
+        },
+        {
+          "id": "7451-3-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы российской государственности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 314",
+          "campus": "Ульянка",
+          "groupName": "12213-03-2",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бугашев Сергей Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"
+          }
+        },
+        {
+          "id": "7451-3-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Линейная алгебра, Аналитическая геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка",
+          "groupName": "12213-03-2",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Саенко Сергей Игоревич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/02/small/p114495.jpg?token_static=23a13160934e09181d9f39e22c5d4f24"
+          }
+        },
+        {
+          "id": "7451-3-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка",
+          "groupName": "12213-03-2",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бугашев Сергей Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7451-4-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (А)",
+          "groupName": "12213-03-2",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "7451-4-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 531",
+          "campus": "Ульянка",
+          "groupName": "12213-03-2",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пантелеева Екатерина Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100873.jpg?token_static=0581704817a1db2ba4e2795028e98174"
+          }
+        },
+        {
+          "id": "7451-4-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (А)",
+          "groupName": "12213-03-2",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "7451-4-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "История России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 531",
+          "campus": "Ульянка",
+          "groupName": "12213-03-2",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пантелеева Екатерина Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100873.jpg?token_static=0581704817a1db2ba4e2795028e98174"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7451-5-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 314",
+          "campus": "Ульянка",
+          "groupName": "12213-03-2",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Саенко Сергей Игоревич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/02/small/p114495.jpg?token_static=23a13160934e09181d9f39e22c5d4f24"
+          }
+        },
+        {
+          "id": "7451-5-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Математический анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка",
+          "groupName": "12213-03-2",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Саенко Сергей Игоревич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/02/small/p114495.jpg?token_static=23a13160934e09181d9f39e22c5d4f24"
+          }
+        },
+        {
+          "id": "7451-5-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка",
+          "groupName": "12213-03-2",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кулаков Дмитрий Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/16/small/p103609.jpg?token_static=c5d8f6f06a4844906b4ab50208eb3bd7"
+          }
+        }
+      ]
+    }
+  ]
+}

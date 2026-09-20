@@ -1,7 +1,8 @@
 import React from 'react';
-import { Clock, MapPin, User, FileText, CheckCircle2, AlertCircle } from 'lucide-react';
+import { Clock, MapPin, User, FileText, CheckCircle2, AlertCircle, Navigation } from 'lucide-react';
 import { Lesson, LessonNote } from '../types/schedule';
 import { getLessonStatus } from '../services/weekCalculator';
+import { getCampusByRoom } from '../data/campuses';
 
 interface LessonCardProps {
   lesson: Lesson;
@@ -128,17 +129,38 @@ export const LessonCard: React.FC<LessonCardProps> = ({
       {/* Bottom row: Location, Teacher, Notes */}
       <div className="flex flex-wrap items-center justify-between gap-2 pt-2.5 border-t border-slate-100 dark:border-navy-800/80 text-xs">
         {/* Room and Campus */}
-        <button
-          onClick={() => onOpenCampus(lesson.room.charAt(0))}
-          className="flex items-center gap-1.5 font-medium text-slate-700 dark:text-slate-300 hover:text-navy-600 dark:hover:text-ship-accent transition group"
-          title="Посмотреть корпус на карте"
-        >
-          <div className="p-1 rounded bg-slate-100 dark:bg-navy-800 text-navy-600 dark:text-navy-300 group-hover:bg-navy-100">
-            <MapPin className="w-3.5 h-3.5" />
-          </div>
-          <span className="font-bold">{lesson.room}</span>
-          <span className="text-slate-400 dark:text-slate-500">({lesson.campus})</span>
-        </button>
+        {(() => {
+          const campusInfo = getCampusByRoom(lesson.room);
+          const campusLetter = campusInfo?.letter || 'У';
+          return (
+            <div className="flex items-center gap-1">
+              <button
+                onClick={() => onOpenCampus(campusLetter)}
+                className="flex items-center gap-1.5 font-medium text-slate-700 dark:text-slate-300 hover:text-navy-600 dark:hover:text-ship-gold transition group text-left"
+                title={`Посмотреть ${campusInfo?.fullName || 'корпус'} и поэтажные планы`}
+              >
+                <div className="p-1 rounded bg-slate-100 dark:bg-navy-800 text-navy-600 dark:text-navy-300 group-hover:bg-navy-100 dark:group-hover:bg-navy-700 transition">
+                  <MapPin className="w-3.5 h-3.5" />
+                </div>
+                <span className="font-bold">{lesson.room}</span>
+                <span className="text-slate-400 dark:text-slate-500">
+                  ({campusInfo?.name || lesson.campus || 'СПбГМТУ'})
+                </span>
+              </button>
+              {campusInfo?.mapsUrl && (
+                <a
+                  href={campusInfo.mapsUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="p-1 rounded text-slate-400 hover:text-navy-600 dark:hover:text-ship-gold hover:bg-slate-100 dark:hover:bg-navy-800 transition"
+                  title="Открыть корпус на Яндекс Картах"
+                >
+                  <Navigation className="w-3.5 h-3.5" />
+                </a>
+              )}
+            </div>
+          );
+        })()}
 
         {/* Teacher */}
         {lesson.teacher ? (

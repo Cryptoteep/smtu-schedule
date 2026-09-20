@@ -1,0 +1,305 @@
+{
+  "groupId": "7915",
+  "groupName": "12115-53",
+  "updatedAt": "2026-09-20T13:40:41.328Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7915-1-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Управление проектами и инновациями",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка",
+          "groupName": "12115-53",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гоголюхина Мария Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/27/small/p100274.jpg?token_static=39a45e1b3ba5272bac18b5ce3a124af9"
+          }
+        },
+        {
+          "id": "7915-1-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Управление проектами и инновациями",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка",
+          "groupName": "12115-53",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Талеров Павел Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101162.jpg?token_static=ba663936f2579f7af2e8549078d9dfd3"
+          }
+        },
+        {
+          "id": "7915-1-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Иностранный язык в профессиональной и академической коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка",
+          "groupName": "12115-53",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ковалев Андрей Петрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/31/small/p122808.jpg?token_static=5db7b5ad65dcd9ef163454d9132bb0ba"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7915-2-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Научно-технический семинар",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 410",
+          "campus": "Лоцманская (Б)",
+          "groupName": "12115-53",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мудрик Роман Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/28/small/p104150.jpg?token_static=7a079f505170c279e9d157b81a36cdf3"
+          }
+        },
+        {
+          "id": "7915-2-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Научно-технический семинар",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 410",
+          "campus": "Лоцманская (Б)",
+          "groupName": "12115-53",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мудрик Роман Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/28/small/p104150.jpg?token_static=7a079f505170c279e9d157b81a36cdf3"
+          }
+        },
+        {
+          "id": "7915-2-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Вариационное исчисление",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 501(1)",
+          "campus": "Лоцманская (Б)",
+          "groupName": "12115-53",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Родионов Александр Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100985.jpg?token_static=7f602212e660f550b5ae82435bfa35da"
+          }
+        },
+        {
+          "id": "7915-2-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Вариационное исчисление",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 501(1)",
+          "campus": "Лоцманская (Б)",
+          "groupName": "12115-53",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Родионов Александр Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100985.jpg?token_static=7f602212e660f550b5ae82435bfa35da"
+          }
+        },
+        {
+          "id": "7915-2-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Методы принятия решений",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 218",
+          "campus": "Лоцманская (Б)",
+          "groupName": "12115-53",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Родионов Александр Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100985.jpg?token_static=7f602212e660f550b5ae82435bfa35da"
+          }
+        },
+        {
+          "id": "7915-2-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Методы принятия решений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 218",
+          "campus": "Лоцманская (Б)",
+          "groupName": "12115-53",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Родионов Александр Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100985.jpg?token_static=7f602212e660f550b5ae82435bfa35da"
+          }
+        },
+        {
+          "id": "7915-2-19:00-7",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Лабораторный практикум по механике деформируемого твердого тела",
+          "type": "lab",
+          "rawType": "Практическое занятие",
+          "room": "Б 218",
+          "campus": "Лоцманская (Б)",
+          "groupName": "12115-53",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Коршунов Владимир Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100566.jpg?token_static=d6c761e9ea105214cda2121cde1e5712"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7915-3-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Вычислительная механика и компьютерный инжиниринг",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 316",
+          "campus": "Лоцманская (Б)",
+          "groupName": "12115-53",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Коршунов Владимир Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100566.jpg?token_static=d6c761e9ea105214cda2121cde1e5712"
+          }
+        },
+        {
+          "id": "7915-3-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Вычислительная механика и компьютерный инжиниринг",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Б)",
+          "groupName": "12115-53",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Коршунов Владимир Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100566.jpg?token_static=d6c761e9ea105214cda2121cde1e5712"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7915-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (А)",
+          "groupName": "12115-53",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7915-6-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория пластичности и ползучести",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 215",
+          "campus": "Лоцманская (Б)",
+          "groupName": "12115-53",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мудрик Роман Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/28/small/p104150.jpg?token_static=7a079f505170c279e9d157b81a36cdf3"
+          }
+        },
+        {
+          "id": "7915-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория пластичности и ползучести",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 218",
+          "campus": "Лоцманская (Б)",
+          "groupName": "12115-53",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мудрик Роман Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/28/small/p104150.jpg?token_static=7a079f505170c279e9d157b81a36cdf3"
+          }
+        },
+        {
+          "id": "7915-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Динамика упругих систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 215",
+          "campus": "Лоцманская (Б)",
+          "groupName": "12115-53",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мудрик Роман Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/28/small/p104150.jpg?token_static=7a079f505170c279e9d157b81a36cdf3"
+          }
+        },
+        {
+          "id": "7915-6-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Динамика упругих систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 218",
+          "campus": "Лоцманская (Б)",
+          "groupName": "12115-53",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мудрик Роман Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/28/small/p104150.jpg?token_static=7a079f505170c279e9d157b81a36cdf3"
+          }
+        }
+      ]
+    }
+  ]
+}

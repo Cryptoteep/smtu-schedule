@@ -1,0 +1,451 @@
+{
+  "groupId": "7540",
+  "groupName": "1201",
+  "updatedAt": "2026-09-20T13:40:38.948Z",
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7540-1-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Конструкция корпуса судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 316",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Спиридонов Андрей Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/07/small/p130157.jpg?token_static=731a5b1e21b19c49cac7fdb32cac6564"
+          }
+        },
+        {
+          "id": "7540-1-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Конструкция корпуса судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Спиридонов Андрей Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/07/small/p130157.jpg?token_static=731a5b1e21b19c49cac7fdb32cac6564"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7540-2-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Судовые устройства и системы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 316",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шилкина Марина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/01/small/106005.jpg?token_static=1778a33cac832b48033a2e7525beaa5c"
+          }
+        },
+        {
+          "id": "7540-2-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Судовые устройства и системы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шилкина Марина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/01/small/106005.jpg?token_static=1778a33cac832b48033a2e7525beaa5c"
+          }
+        },
+        {
+          "id": "7540-2-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Проектирование судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 610",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Суслов Александр Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101158.jpg?token_static=8a22e381058419c86476d1630b4caf5c"
+          }
+        },
+        {
+          "id": "7540-2-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Судовые устройства и системы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шилкина Марина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/01/small/106005.jpg?token_static=1778a33cac832b48033a2e7525beaa5c"
+          }
+        },
+        {
+          "id": "7540-2-20:40-5",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 6,
+          "subject": "Проектирование судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 610",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Суслов Александр Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101158.jpg?token_static=8a22e381058419c86476d1630b4caf5c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7540-3-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Строительная механика и прочность корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 414",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мудрик Роман Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/28/small/p104150.jpg?token_static=7a079f505170c279e9d157b81a36cdf3"
+          }
+        },
+        {
+          "id": "7540-3-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Строительная механика и прочность корабля",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 301а",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мудрик Полина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p126212.jpg?token_static=0042e2d3bb829fc20c15a82abc9c5de3"
+          }
+        },
+        {
+          "id": "7540-3-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Строительная механика и прочность корабля",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 301б",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мудрик Полина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p126212.jpg?token_static=0042e2d3bb829fc20c15a82abc9c5de3"
+          }
+        },
+        {
+          "id": "7540-3-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Строительная механика и прочность корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 414",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мудрик Роман Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/28/small/p104150.jpg?token_static=7a079f505170c279e9d157b81a36cdf3"
+          }
+        },
+        {
+          "id": "7540-3-19:00-5",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Строительная механика и прочность корабля",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 301а",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мудрик Полина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p126212.jpg?token_static=0042e2d3bb829fc20c15a82abc9c5de3"
+          }
+        },
+        {
+          "id": "7540-3-19:00-6",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Строительная механика и прочность корабля",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 301б",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мудрик Полина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p126212.jpg?token_static=0042e2d3bb829fc20c15a82abc9c5de3"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7540-4-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технология судостроения, судоремонта и организация судостроительного производства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 410",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бокатова Анастасия Антоновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
+          }
+        },
+        {
+          "id": "7540-4-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технология судостроения, судоремонта и организация судостроительного производства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 410",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Щигорцов Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/04/small/p100238.jpg?token_static=b891e7541bc20d6c00787110764b1dd1"
+          }
+        },
+        {
+          "id": "7540-4-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технология судостроения, судоремонта и организация судостроительного производства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 410",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бокатова Анастасия Антоновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
+          }
+        },
+        {
+          "id": "7540-4-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технология судостроения, судоремонта и организация судостроительного производства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 410",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Щигорцов Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/04/small/p100238.jpg?token_static=b891e7541bc20d6c00787110764b1dd1"
+          }
+        },
+        {
+          "id": "7540-4-19:00-5",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 610",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кутенев Андрей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100634.jpg?token_static=1f6c3c15c37fea152e348ee928c0aeae"
+          }
+        },
+        {
+          "id": "7540-4-19:00-6",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Технология судостроения, судоремонта и организация судостроительного производства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 410",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бокатова Анастасия Антоновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
+          }
+        },
+        {
+          "id": "7540-4-19:00-7",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Технология судостроения, судоремонта и организация судостроительного производства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 410",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Щигорцов Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/04/small/p100238.jpg?token_static=b891e7541bc20d6c00787110764b1dd1"
+          }
+        },
+        {
+          "id": "7540-4-20:40-8",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 9,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 610",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кутенев Андрей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100634.jpg?token_static=1f6c3c15c37fea152e348ee928c0aeae"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7540-5-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Конструкция корпуса судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 207",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Спиридонов Андрей Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/07/small/p130157.jpg?token_static=731a5b1e21b19c49cac7fdb32cac6564"
+          }
+        },
+        {
+          "id": "7540-5-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Проектирование судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 610",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Суслов Александр Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101158.jpg?token_static=8a22e381058419c86476d1630b4caf5c"
+          }
+        },
+        {
+          "id": "7540-5-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Проектирование судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 610",
+          "campus": "Лоцманская (Б)",
+          "groupName": "1201",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Суслов Александр Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101158.jpg?token_static=8a22e381058419c86476d1630b4caf5c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7540-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка",
+          "groupName": "1201",
+          "weekParity": "up"
+        },
+        {
+          "id": "7540-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка",
+          "groupName": "1201",
+          "weekParity": "up"
+        }
+      ]
+    }
+  ]
+}
