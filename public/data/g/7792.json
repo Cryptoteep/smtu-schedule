@@ -1,7 +1,7 @@
 {
   "groupId": "7792",
   "groupName": "12327-01",
-  "updatedAt": "2026-09-20T13:53:06.982Z",
+  "updatedAt": "2026-09-20T17:57:53.301Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -26,7 +26,26 @@
           }
         },
         {
-          "id": "7792-1-14:00-2",
+          "id": "7792-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 115",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12327-01",
+          "weekParity": "both",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Русина Лариса Германовна",
+            "id": "123501",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123501/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/17/small/p123501.jpg?token_static=ec8df21930d8598050ff7830e2e2ec38"
+          }
+        },
+        {
+          "id": "7792-1-14:00-3",
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Начертательная геометрия",
@@ -41,22 +60,6 @@
             "id": "101320",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/101320/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101320.jpg?token_static=c1b4269032a4a13d778acc3f4ef7b1a6"
-          }
-        },
-        {
-          "id": "7792-1-14:00-3",
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "История России",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 225",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12327-01",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Смирнова Ирина Павловна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/17/small/p136999.jpg?token_static=8676b2c757bbff9743ce1ccba42fc758"
           }
         },
         {
@@ -76,7 +79,24 @@
           }
         },
         {
-          "id": "7792-1-15:40-5",
+          "id": "7792-1-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "История России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 225",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12327-01",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Смирнова Ирина Павловна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/17/small/p136999.jpg?token_static=8676b2c757bbff9743ce1ccba42fc758"
+          }
+        },
+        {
+          "id": "7792-1-15:40-6",
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Физическая культура и спорт",

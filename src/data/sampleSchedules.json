@@ -2,7 +2,7 @@
   "1101": {
     "groupId": "7970",
     "groupName": "1101",
-    "updatedAt": "2026-09-20T13:52:59.661Z",
+    "updatedAt": "2026-09-20T17:57:43.672Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -455,7 +455,7 @@
   "1201": {
     "groupId": "7540",
     "groupName": "1201",
-    "updatedAt": "2026-09-20T13:52:59.665Z",
+    "updatedAt": "2026-09-20T17:57:43.492Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -910,7 +910,7 @@
   "2201": {
     "groupId": "7470",
     "groupName": "2201",
-    "updatedAt": "2026-09-20T13:53:03.927Z",
+    "updatedAt": "2026-09-20T17:57:49.466Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -1501,7 +1501,7 @@
   "3210": {
     "groupId": "7624",
     "groupName": "3210",
-    "updatedAt": "2026-09-20T13:53:07.104Z",
+    "updatedAt": "2026-09-20T17:57:53.496Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -2022,7 +2022,7 @@
   "3220": {
     "groupId": "7625",
     "groupName": "3220",
-    "updatedAt": "2026-09-20T13:53:07.207Z",
+    "updatedAt": "2026-09-20T17:57:53.689Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -2721,7 +2721,7 @@
   "3280": {
     "groupId": "7640",
     "groupName": "3280",
-    "updatedAt": "2026-09-20T13:53:07.613Z",
+    "updatedAt": "2026-09-20T17:57:54.662Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -3256,7 +3256,7 @@
   "4200": {
     "groupId": "7665",
     "groupName": "4200",
-    "updatedAt": "2026-09-20T13:53:12.425Z",
+    "updatedAt": "2026-09-20T17:58:00.612Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -3694,7 +3694,7 @@
   "7200": {
     "groupId": "7704",
     "groupName": "7200",
-    "updatedAt": "2026-09-20T13:53:14.439Z",
+    "updatedAt": "2026-09-20T17:58:03.576Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -3723,19 +3723,19 @@
             "id": "7704-1-15:40-2",
             "time": "15:40-17:10",
             "timeSlotIndex": 5,
-            "subject": "Бережливое производство в судостроении",
-            "type": "practice",
-            "rawType": "Практическое занятие",
-            "room": "У 174 - 177",
+            "subject": "Новые направления в современной теоретической социологии",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 150",
             "campus": "Ульянка (Корпус У)",
             "groupName": "7200",
             "weekParity": "both",
-            "dateSpecific": "17.11 по 07.12",
+            "dateSpecific": "01.09 по 16.11",
             "teacher": {
-              "name": "Загребельный Кирилл Александрович",
-              "id": "102751",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
+              "name": "Медведев Владимир Иванович",
+              "id": "100748",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
             }
           },
           {
@@ -3758,45 +3758,26 @@
             }
           },
           {
-            "id": "7704-1-17:20-4",
-            "time": "17:20-18:50",
-            "timeSlotIndex": 6,
-            "subject": "Социология труда",
+            "id": "7704-1-15:40-4",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Бережливое производство в судостроении",
             "type": "practice",
             "rawType": "Практическое занятие",
-            "room": "Конгресс-Центр 426",
+            "room": "У 174 - 177",
             "campus": "Ульянка (Корпус У)",
             "groupName": "7200",
             "weekParity": "both",
-            "dateSpecific": "8.12-21.12",
+            "dateSpecific": "17.11 по 07.12",
             "teacher": {
-              "name": "Шмырева Ольга Валерьевна",
-              "id": "101372",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
+              "name": "Загребельный Кирилл Александрович",
+              "id": "102751",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
             }
           },
           {
             "id": "7704-1-17:20-5",
-            "time": "17:20-18:50",
-            "timeSlotIndex": 6,
-            "subject": "Новые направления в современной теоретической социологии",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "Конгресс-Центр 426",
-            "campus": "Ульянка (Корпус У)",
-            "groupName": "7200",
-            "weekParity": "both",
-            "dateSpecific": "01.09 по 16.11",
-            "teacher": {
-              "name": "Медведев Владимир Иванович",
-              "id": "100748",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
-            }
-          },
-          {
-            "id": "7704-1-17:20-6",
             "time": "17:20-18:50",
             "timeSlotIndex": 6,
             "subject": "Бережливое производство в судостроении",
@@ -3815,9 +3796,9 @@
             }
           },
           {
-            "id": "7704-1-19:00-7",
-            "time": "19:00-20:30",
-            "timeSlotIndex": 7,
+            "id": "7704-1-17:20-6",
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
             "subject": "Социология труда",
             "type": "practice",
             "rawType": "Практическое занятие",
@@ -3834,7 +3815,45 @@
             }
           },
           {
-            "id": "7704-1-19:00-8",
+            "id": "7704-1-17:20-7",
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
+            "subject": "Новые направления в современной теоретической социологии",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Конгресс-Центр 426",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "7200",
+            "weekParity": "both",
+            "dateSpecific": "01.09 по 16.11",
+            "teacher": {
+              "name": "Медведев Владимир Иванович",
+              "id": "100748",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+            }
+          },
+          {
+            "id": "7704-1-17:20-8",
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
+            "subject": "Новые направления в современной теоретической социологии",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 308",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "7200",
+            "weekParity": "both",
+            "dateSpecific": "01.09 по 16.11",
+            "teacher": {
+              "name": "Медведев Владимир Иванович",
+              "id": "100748",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+            }
+          },
+          {
+            "id": "7704-1-19:00-9",
             "time": "19:00-20:30",
             "timeSlotIndex": 7,
             "subject": "Новые направления в современной теоретической социологии",
@@ -3853,9 +3872,47 @@
             }
           },
           {
-            "id": "7704-1-20:40-9",
+            "id": "7704-1-19:00-10",
+            "time": "19:00-20:30",
+            "timeSlotIndex": 7,
+            "subject": "Новые направления в современной теоретической социологии",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 150",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "7200",
+            "weekParity": "both",
+            "dateSpecific": "01.09 по 16.11",
+            "teacher": {
+              "name": "Медведев Владимир Иванович",
+              "id": "100748",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+            }
+          },
+          {
+            "id": "7704-1-19:00-11",
+            "time": "19:00-20:30",
+            "timeSlotIndex": 7,
+            "subject": "Социология труда",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Конгресс-Центр 426",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "7200",
+            "weekParity": "both",
+            "dateSpecific": "8.12-21.12",
+            "teacher": {
+              "name": "Шмырева Ольга Валерьевна",
+              "id": "101372",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
+            }
+          },
+          {
+            "id": "7704-1-20:40-12",
             "time": "20:40-22:10",
-            "timeSlotIndex": 10,
+            "timeSlotIndex": 13,
             "subject": "Социология труда",
             "type": "practice",
             "rawType": "Практическое занятие",
@@ -4212,7 +4269,7 @@
   "7470": {
     "groupId": "7470",
     "groupName": "2201",
-    "updatedAt": "2026-09-20T13:53:03.927Z",
+    "updatedAt": "2026-09-20T17:57:49.466Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -4803,7 +4860,7 @@
   "7540": {
     "groupId": "7540",
     "groupName": "1201",
-    "updatedAt": "2026-09-20T13:52:59.665Z",
+    "updatedAt": "2026-09-20T17:57:43.492Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -5258,7 +5315,7 @@
   "7624": {
     "groupId": "7624",
     "groupName": "3210",
-    "updatedAt": "2026-09-20T13:53:07.104Z",
+    "updatedAt": "2026-09-20T17:57:53.496Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -5779,7 +5836,7 @@
   "7625": {
     "groupId": "7625",
     "groupName": "3220",
-    "updatedAt": "2026-09-20T13:53:07.207Z",
+    "updatedAt": "2026-09-20T17:57:53.689Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -6478,7 +6535,7 @@
   "7640": {
     "groupId": "7640",
     "groupName": "3280",
-    "updatedAt": "2026-09-20T13:53:07.613Z",
+    "updatedAt": "2026-09-20T17:57:54.662Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -7013,7 +7070,7 @@
   "7665": {
     "groupId": "7665",
     "groupName": "4200",
-    "updatedAt": "2026-09-20T13:53:12.425Z",
+    "updatedAt": "2026-09-20T17:58:00.612Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -7451,7 +7508,7 @@
   "7704": {
     "groupId": "7704",
     "groupName": "7200",
-    "updatedAt": "2026-09-20T13:53:14.439Z",
+    "updatedAt": "2026-09-20T17:58:03.576Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -7480,19 +7537,19 @@
             "id": "7704-1-15:40-2",
             "time": "15:40-17:10",
             "timeSlotIndex": 5,
-            "subject": "Бережливое производство в судостроении",
-            "type": "practice",
-            "rawType": "Практическое занятие",
-            "room": "У 174 - 177",
+            "subject": "Новые направления в современной теоретической социологии",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 150",
             "campus": "Ульянка (Корпус У)",
             "groupName": "7200",
             "weekParity": "both",
-            "dateSpecific": "17.11 по 07.12",
+            "dateSpecific": "01.09 по 16.11",
             "teacher": {
-              "name": "Загребельный Кирилл Александрович",
-              "id": "102751",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
+              "name": "Медведев Владимир Иванович",
+              "id": "100748",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
             }
           },
           {
@@ -7515,45 +7572,26 @@
             }
           },
           {
-            "id": "7704-1-17:20-4",
-            "time": "17:20-18:50",
-            "timeSlotIndex": 6,
-            "subject": "Социология труда",
+            "id": "7704-1-15:40-4",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Бережливое производство в судостроении",
             "type": "practice",
             "rawType": "Практическое занятие",
-            "room": "Конгресс-Центр 426",
+            "room": "У 174 - 177",
             "campus": "Ульянка (Корпус У)",
             "groupName": "7200",
             "weekParity": "both",
-            "dateSpecific": "8.12-21.12",
+            "dateSpecific": "17.11 по 07.12",
             "teacher": {
-              "name": "Шмырева Ольга Валерьевна",
-              "id": "101372",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
+              "name": "Загребельный Кирилл Александрович",
+              "id": "102751",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
             }
           },
           {
             "id": "7704-1-17:20-5",
-            "time": "17:20-18:50",
-            "timeSlotIndex": 6,
-            "subject": "Новые направления в современной теоретической социологии",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "Конгресс-Центр 426",
-            "campus": "Ульянка (Корпус У)",
-            "groupName": "7200",
-            "weekParity": "both",
-            "dateSpecific": "01.09 по 16.11",
-            "teacher": {
-              "name": "Медведев Владимир Иванович",
-              "id": "100748",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
-            }
-          },
-          {
-            "id": "7704-1-17:20-6",
             "time": "17:20-18:50",
             "timeSlotIndex": 6,
             "subject": "Бережливое производство в судостроении",
@@ -7572,9 +7610,9 @@
             }
           },
           {
-            "id": "7704-1-19:00-7",
-            "time": "19:00-20:30",
-            "timeSlotIndex": 7,
+            "id": "7704-1-17:20-6",
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
             "subject": "Социология труда",
             "type": "practice",
             "rawType": "Практическое занятие",
@@ -7591,7 +7629,45 @@
             }
           },
           {
-            "id": "7704-1-19:00-8",
+            "id": "7704-1-17:20-7",
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
+            "subject": "Новые направления в современной теоретической социологии",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Конгресс-Центр 426",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "7200",
+            "weekParity": "both",
+            "dateSpecific": "01.09 по 16.11",
+            "teacher": {
+              "name": "Медведев Владимир Иванович",
+              "id": "100748",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+            }
+          },
+          {
+            "id": "7704-1-17:20-8",
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
+            "subject": "Новые направления в современной теоретической социологии",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 308",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "7200",
+            "weekParity": "both",
+            "dateSpecific": "01.09 по 16.11",
+            "teacher": {
+              "name": "Медведев Владимир Иванович",
+              "id": "100748",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+            }
+          },
+          {
+            "id": "7704-1-19:00-9",
             "time": "19:00-20:30",
             "timeSlotIndex": 7,
             "subject": "Новые направления в современной теоретической социологии",
@@ -7610,9 +7686,47 @@
             }
           },
           {
-            "id": "7704-1-20:40-9",
+            "id": "7704-1-19:00-10",
+            "time": "19:00-20:30",
+            "timeSlotIndex": 7,
+            "subject": "Новые направления в современной теоретической социологии",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 150",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "7200",
+            "weekParity": "both",
+            "dateSpecific": "01.09 по 16.11",
+            "teacher": {
+              "name": "Медведев Владимир Иванович",
+              "id": "100748",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+            }
+          },
+          {
+            "id": "7704-1-19:00-11",
+            "time": "19:00-20:30",
+            "timeSlotIndex": 7,
+            "subject": "Социология труда",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Конгресс-Центр 426",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "7200",
+            "weekParity": "both",
+            "dateSpecific": "8.12-21.12",
+            "teacher": {
+              "name": "Шмырева Ольга Валерьевна",
+              "id": "101372",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
+            }
+          },
+          {
+            "id": "7704-1-20:40-12",
             "time": "20:40-22:10",
-            "timeSlotIndex": 10,
+            "timeSlotIndex": 13,
             "subject": "Социология труда",
             "type": "practice",
             "rawType": "Практическое занятие",
@@ -7969,7 +8083,7 @@
   "7738": {
     "groupId": "7738",
     "groupName": "10274",
-    "updatedAt": "2026-09-20T13:53:14.949Z",
+    "updatedAt": "2026-09-20T17:58:04.817Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -8466,7 +8580,7 @@
   "7798": {
     "groupId": "7798",
     "groupName": "12226-11",
-    "updatedAt": "2026-09-20T13:53:03.423Z",
+    "updatedAt": "2026-09-20T17:57:48.628Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -9019,7 +9133,7 @@
   "7799": {
     "groupId": "7799",
     "groupName": "12826-12",
-    "updatedAt": "2026-09-20T13:53:15.316Z",
+    "updatedAt": "2026-09-20T17:58:05.115Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -9587,7 +9701,7 @@
   "7843": {
     "groupId": "7843",
     "groupName": "12815-55",
-    "updatedAt": "2026-09-20T13:53:15.217Z",
+    "updatedAt": "2026-09-20T17:58:04.710Z",
     "days": [
       {
         "dayName": "Вторник",
@@ -9876,7 +9990,7 @@
   "7970": {
     "groupId": "7970",
     "groupName": "1101",
-    "updatedAt": "2026-09-20T13:52:59.661Z",
+    "updatedAt": "2026-09-20T17:57:43.672Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -10329,7 +10443,7 @@
   "10274": {
     "groupId": "7738",
     "groupName": "10274",
-    "updatedAt": "2026-09-20T13:53:14.949Z",
+    "updatedAt": "2026-09-20T17:58:04.817Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -10826,7 +10940,7 @@
   "12226-11": {
     "groupId": "7798",
     "groupName": "12226-11",
-    "updatedAt": "2026-09-20T13:53:03.423Z",
+    "updatedAt": "2026-09-20T17:57:48.628Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -11379,7 +11493,7 @@
   "12815-55": {
     "groupId": "7843",
     "groupName": "12815-55",
-    "updatedAt": "2026-09-20T13:53:15.217Z",
+    "updatedAt": "2026-09-20T17:58:04.710Z",
     "days": [
       {
         "dayName": "Вторник",
@@ -11668,7 +11782,7 @@
   "12826-12": {
     "groupId": "7799",
     "groupName": "12826-12",
-    "updatedAt": "2026-09-20T13:53:15.316Z",
+    "updatedAt": "2026-09-20T17:58:05.115Z",
     "days": [
       {
         "dayName": "Понедельник",

@@ -1,7 +1,7 @@
 {
   "groupId": "7715",
   "groupName": "7363",
-  "updatedAt": "2026-09-20T13:53:14.826Z",
+  "updatedAt": "2026-09-20T17:58:04.349Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -76,7 +76,24 @@
           }
         },
         {
-          "id": "7715-1-15:40-5",
+          "id": "7715-1-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Трудовое право",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 115",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7363",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Ельчанинова Ольга Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/09/small/p139976.jpg?token_static=557769433bdf5b34760b0d1eef542284"
+          }
+        },
+        {
+          "id": "7715-1-15:40-6",
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Международное право",
@@ -92,7 +109,7 @@
           }
         },
         {
-          "id": "7715-1-17:20-6",
+          "id": "7715-1-17:20-7",
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Трудовое право",

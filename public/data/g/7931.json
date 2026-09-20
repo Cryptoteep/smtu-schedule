@@ -1,7 +1,7 @@
 {
   "groupId": "7931",
   "groupName": "12317-33",
-  "updatedAt": "2026-09-20T13:53:06.821Z",
+  "updatedAt": "2026-09-20T17:57:52.913Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -59,6 +59,25 @@
         },
         {
           "id": "7931-1-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 115",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-33",
+          "weekParity": "both",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Русина Лариса Германовна",
+            "id": "123501",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123501/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/17/small/p123501.jpg?token_static=ec8df21930d8598050ff7830e2e2ec38"
+          }
+        },
+        {
+          "id": "7931-1-11:50-5",
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Математический анализ",

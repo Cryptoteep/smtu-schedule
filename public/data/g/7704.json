@@ -1,7 +1,7 @@
 {
   "groupId": "7704",
   "groupName": "7200",
-  "updatedAt": "2026-09-20T13:53:14.439Z",
+  "updatedAt": "2026-09-20T17:58:03.576Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -30,19 +30,19 @@
           "id": "7704-1-15:40-2",
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
-          "subject": "Бережливое производство в судостроении",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 174 - 177",
+          "subject": "Новые направления в современной теоретической социологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 150",
           "campus": "Ульянка (Корпус У)",
           "groupName": "7200",
           "weekParity": "both",
-          "dateSpecific": "17.11 по 07.12",
+          "dateSpecific": "01.09 по 16.11",
           "teacher": {
-            "name": "Загребельный Кирилл Александрович",
-            "id": "102751",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
+            "name": "Медведев Владимир Иванович",
+            "id": "100748",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
           }
         },
         {
@@ -65,45 +65,26 @@
           }
         },
         {
-          "id": "7704-1-17:20-4",
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Социология труда",
+          "id": "7704-1-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Бережливое производство в судостроении",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 426",
+          "room": "У 174 - 177",
           "campus": "Ульянка (Корпус У)",
           "groupName": "7200",
           "weekParity": "both",
-          "dateSpecific": "8.12-21.12",
+          "dateSpecific": "17.11 по 07.12",
           "teacher": {
-            "name": "Шмырева Ольга Валерьевна",
-            "id": "101372",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
+            "name": "Загребельный Кирилл Александрович",
+            "id": "102751",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
           }
         },
         {
           "id": "7704-1-17:20-5",
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Новые направления в современной теоретической социологии",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр 426",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "7200",
-          "weekParity": "both",
-          "dateSpecific": "01.09 по 16.11",
-          "teacher": {
-            "name": "Медведев Владимир Иванович",
-            "id": "100748",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
-          }
-        },
-        {
-          "id": "7704-1-17:20-6",
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Бережливое производство в судостроении",
@@ -122,9 +103,9 @@
           }
         },
         {
-          "id": "7704-1-19:00-7",
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
+          "id": "7704-1-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
           "subject": "Социология труда",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -141,7 +122,45 @@
           }
         },
         {
-          "id": "7704-1-19:00-8",
+          "id": "7704-1-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Новые направления в современной теоретической социологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7200",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 16.11",
+          "teacher": {
+            "name": "Медведев Владимир Иванович",
+            "id": "100748",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+          }
+        },
+        {
+          "id": "7704-1-17:20-8",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Новые направления в современной теоретической социологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 308",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7200",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 16.11",
+          "teacher": {
+            "name": "Медведев Владимир Иванович",
+            "id": "100748",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+          }
+        },
+        {
+          "id": "7704-1-19:00-9",
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Новые направления в современной теоретической социологии",
@@ -160,9 +179,47 @@
           }
         },
         {
-          "id": "7704-1-20:40-9",
+          "id": "7704-1-19:00-10",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Новые направления в современной теоретической социологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 150",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7200",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 16.11",
+          "teacher": {
+            "name": "Медведев Владимир Иванович",
+            "id": "100748",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+          }
+        },
+        {
+          "id": "7704-1-19:00-11",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Социология труда",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7200",
+          "weekParity": "both",
+          "dateSpecific": "8.12-21.12",
+          "teacher": {
+            "name": "Шмырева Ольга Валерьевна",
+            "id": "101372",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
+          }
+        },
+        {
+          "id": "7704-1-20:40-12",
           "time": "20:40-22:10",
-          "timeSlotIndex": 10,
+          "timeSlotIndex": 13,
           "subject": "Социология труда",
           "type": "practice",
           "rawType": "Практическое занятие",

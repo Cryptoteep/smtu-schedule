@@ -1,7 +1,7 @@
 {
   "groupId": "7811",
   "groupName": "12739-51",
-  "updatedAt": "2026-09-20T13:53:13.791Z",
+  "updatedAt": "2026-09-20T17:58:02.593Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,25 @@
       "lessons": [
         {
           "id": "7811-1-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Современные концепции социологии управления",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 417",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12739-51",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 07.12",
+          "teacher": {
+            "name": "Козырев Александр Борисович",
+            "id": "100538",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100538/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100538.jpg?token_static=fa9574620f938d52e5638d422b57fb04"
+          }
+        },
+        {
+          "id": "7811-1-17:20-2",
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Современные концепции социологии управления",
@@ -27,13 +46,32 @@
           }
         },
         {
-          "id": "7811-1-19:00-2",
+          "id": "7811-1-19:00-3",
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Современные концепции социологии управления",
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12739-51",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 07.12",
+          "teacher": {
+            "name": "Козырев Александр Борисович",
+            "id": "100538",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100538/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100538.jpg?token_static=fa9574620f938d52e5638d422b57fb04"
+          }
+        },
+        {
+          "id": "7811-1-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Современные концепции социологии управления",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 417",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12739-51",
           "weekParity": "both",
