@@ -24,6 +24,9 @@ export const CalendarExportModal: React.FC<CalendarExportModalProps> = ({
     setTimeout(() => setDownloaded(false), 4000);
   };
 
+  const isTeacher =
+    schedule.groupId.startsWith('teacher_') || schedule.facultyName === 'Преподаватель СПбГМТУ';
+
   return (
     <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center p-0 sm:p-4 bg-navy-950/60 backdrop-blur-sm animate-in fade-in duration-200">
       <div className="w-full sm:max-w-md bg-white dark:bg-navy-900 rounded-t-3xl sm:rounded-3xl shadow-2xl border border-slate-200 dark:border-navy-800 p-5 space-y-4 max-h-[85vh] overflow-y-auto">
@@ -37,7 +40,9 @@ export const CalendarExportModal: React.FC<CalendarExportModalProps> = ({
                 Экспорт в Календарь
               </h3>
               <p className="text-xs text-slate-400">
-                Синхронизация расписания группы {schedule.groupName}
+                {isTeacher
+                  ? `Синхронизация расписания преподавателя ${schedule.groupName}`
+                  : `Синхронизация расписания группы ${schedule.groupName}`}
               </p>
             </div>
           </div>
@@ -85,7 +90,9 @@ export const CalendarExportModal: React.FC<CalendarExportModalProps> = ({
           ) : (
             <>
               <Download className="w-4 h-4" />
-              <span>Скачать календарь группы {schedule.groupName} (.ics)</span>
+              <span>
+                Скачать календарь {isTeacher ? `преподавателя ${schedule.groupName}` : `группы ${schedule.groupName}`} (.ics)
+              </span>
             </>
           )}
         </button>

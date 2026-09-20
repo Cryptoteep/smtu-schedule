@@ -96,9 +96,18 @@ export function getCampusByRoom(room: string): DetailedCampusInfo | undefined {
     if (CAMPUSES[letter]) return CAMPUSES[letter];
   }
 
-  // 3. Check for keywords like "Конгресс", "Спортзал", "Бассейн" (all on campus Ульянка)
+  // 3. Check for keywords
   const lower = str.toLowerCase();
-  if (lower.includes('конгресс') || lower.includes('спортзал') || lower.includes('бассейн')) {
+  if (lower.includes('вуц') || lower.includes('военный')) {
+    return CAMPUSES['А'];
+  }
+  if (lower.includes('псковская')) {
+    return CAMPUSES['М'];
+  }
+  if (lower.includes('стачек') || lower.includes('колледж') || lower.includes('стф')) {
+    return CAMPUSES['С'];
+  }
+  if (lower.includes('конгресс') || lower.includes('спортзал') || lower.includes('бассейн') || lower.includes('ульянк')) {
     return CAMPUSES['У'];
   }
 
@@ -108,5 +117,6 @@ export function getCampusByRoom(room: string): DetailedCampusInfo | undefined {
     return CAMPUSES[firstChar];
   }
 
-  return undefined;
+  // 5. Default to main campus (Ульянка) where 85% of university facilities are located
+  return CAMPUSES['У'];
 }

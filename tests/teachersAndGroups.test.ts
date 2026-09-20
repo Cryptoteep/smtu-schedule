@@ -21,11 +21,19 @@ describe('Teachers and Groups API', () => {
     expect(byId?.group.name).toBe('3280');
   });
 
-  it('searches groups by prefix or fragment', () => {
+  it('searches groups by prefix or fragment and strips common words like группа', () => {
     const results = api.searchGroups('328');
     expect(results.length).toBeGreaterThan(0);
     const found3280 = results.find((r) => r.group.name === '3280');
     expect(found3280).toBeDefined();
+
+    const withPrefix = api.searchGroups('группа 3280');
+    expect(withPrefix.length).toBeGreaterThan(0);
+    expect(withPrefix[0].group.name).toBe('3280');
+
+    const withShortPrefix = api.searchGroups('гр. 3210');
+    expect(withShortPrefix.length).toBeGreaterThan(0);
+    expect(withShortPrefix[0].group.name).toBe('3210');
   });
 
   it('loads all 664 teachers from university database', () => {
@@ -33,12 +41,23 @@ describe('Teachers and Groups API', () => {
     expect(teachers).toHaveLength(664);
   });
 
-  it('searches teachers by name', () => {
+  it('searches teachers by name, initials, and token permutations', () => {
     const results = api.searchTeachers('Чихонадских');
     expect(results.length).toBeGreaterThan(0);
     expect(results[0].name).toContain('Чихонадских');
 
-    const resultsKryzh = api.searchTeachers('Крыжевич');
+    // Initials: "Чихонадских Е.А."
+    const resultsInitials = api.searchTeachers('Чихонадских Е.А.');
+    expect(resultsInitials.length).toBeGreaterThan(0);
+    expect(resultsInitials[0].name).toBe('Чихонадских Елена Александровна');
+
+    // First name then last name: "Геннадий Крыжевич"
+    const resultsReversed = api.searchTeachers('Геннадий Крыжевич');
+    expect(resultsReversed.length).toBeGreaterThan(0);
+    expect(resultsReversed[0].name).toBe('Крыжевич Геннадий Брониславович');
+
+    // Initial with dot: "Крыжевич Г."
+    const resultsKryzh = api.searchTeachers('Крыжевич Г.');
     expect(resultsKryzh.length).toBeGreaterThan(0);
     expect(resultsKryzh[0].name).toContain('Крыжевич');
   });

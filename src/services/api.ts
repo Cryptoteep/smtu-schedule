@@ -23,7 +23,11 @@ export const api = {
    * Search groups by name prefix/match
    */
   searchGroups(query: string): { group: GroupItem; faculty: Faculty }[] {
-    const clean = query.trim().toLowerCase();
+    const raw = query.trim().toLowerCase();
+    if (!raw) return [];
+
+    // Strip common prefixes like "группа", "гр.", "гр", "group"
+    const clean = raw.replace(/^(?:группа|гр\.?|group)\s*/i, '').trim();
     if (!clean) return [];
 
     const results: { group: GroupItem; faculty: Faculty }[] = [];
@@ -202,9 +206,37 @@ export const api = {
     const clean = query.trim().toLowerCase();
     if (!clean) return [];
 
+    // Extract search tokens, e.g. "Чихонадских Е.А." -> ["чихонадских", "е", "а"]
+    const tokens = clean
+      .split(/[\s,.\-_/]+/)
+      .map((t) => t.trim())
+      .filter((t) => t.length > 0);
+
+    if (tokens.length === 0) return [];
+
     const results: TeacherItem[] = [];
     for (const t of teachers) {
-      if (t.name.toLowerCase().includes(clean)) {
+      const nameLower = t.name.toLowerCase();
+
+      // Fast check: direct substring match
+      if (nameLower.includes(clean)) {
+        results.push(t);
+        if (results.length >= 50) break;
+        continue;
+      }
+
+      // Token-based matching: each token matches either a word or an initial
+      const nameWords = nameLower.split(/\s+/);
+      const allTokensMatch = tokens.every((tok) => {
+        return nameWords.some((word) => {
+          if (tok.length === 1) {
+            return word.startsWith(tok);
+          }
+          return word.includes(tok);
+        });
+      });
+
+      if (allTokensMatch) {
         results.push(t);
         if (results.length >= 50) break;
       }

@@ -22,13 +22,16 @@ function formatIcsDateTime(date: Date): string {
 }
 
 export function generateIcsCalendar(schedule: GroupSchedule): string {
+  const isTeacher =
+    schedule.groupId.startsWith('teacher_') || schedule.facultyName === 'Преподаватель СПбГМТУ';
+
   const lines: string[] = [
     'BEGIN:VCALENDAR',
     'VERSION:2.0',
     'PRODID:-//SPbGMTU//Korabelka Schedule App//RU',
     'CALSCALE:GREGORIAN',
     'METHOD:PUBLISH',
-    `X-WR-CALNAME:СПбГМТУ Расписание - ${schedule.groupName}`,
+    `X-WR-CALNAME:СПбГМТУ - ${schedule.groupName}`,
     'X-WR-TIMEZONE:Europe/Moscow',
   ];
 
@@ -63,15 +66,35 @@ export function generateIcsCalendar(schedule: GroupSchedule): string {
         rrule = `RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=${dayCode};COUNT=10`;
       }
 
-      const summary = `${lesson.subject} (${lesson.rawType || lesson.type})`;
+      const summary =
+        isTeacher && lesson.groupName
+          ? `${lesson.subject} [Гр. ${lesson.groupName}]`
+          : `${lesson.subject} (${lesson.rawType || lesson.type})`;
+
       const location = `${lesson.room} (${lesson.campus})`;
-      const descParts = [
-        `Группа: ${schedule.groupName}`,
-        `Тип: ${lesson.rawType || lesson.type}`,
-        `Неделя: ${lesson.weekParity === 'up' ? 'Верхняя (числитель)' : lesson.weekParity === 'down' ? 'Нижняя (знаменатель)' : 'Каждую неделю'}`,
-      ];
-      if (lesson.teacher?.name) {
-        descParts.push(`Преподаватель: ${lesson.teacher.name}`);
+      const descParts: string[] = [];
+
+      if (isTeacher) {
+        descParts.push(`Преподаватель: ${schedule.groupName}`);
+        if (lesson.groupName) descParts.push(`Учебная группа: ${lesson.groupName}`);
+      } else {
+        descParts.push(`Группа: ${schedule.groupName}`);
+        if (lesson.teacher?.name) descParts.push(`Преподаватель: ${lesson.teacher.name}`);
+      }
+
+      descParts.push(`Тип: ${lesson.rawType || lesson.type}`);
+      descParts.push(
+        `Неделя: ${
+          lesson.weekParity === 'up'
+            ? 'Верхняя (числитель)'
+            : lesson.weekParity === 'down'
+            ? 'Нижняя (знаменатель)'
+            : 'Каждую неделю'
+        }`
+      );
+
+      if (lesson.dateRange) {
+        descParts.push(`Период: ${lesson.dateRange}`);
       }
       if (lesson.dateSpecific) {
         descParts.push(`Даты: ${lesson.dateSpecific}`);
@@ -101,7 +124,8 @@ export function downloadIcsFile(schedule: GroupSchedule): void {
   const url = URL.createObjectURL(blob);
   const link = document.createElement('a');
   link.href = url;
-  link.setAttribute('download', `smtu_schedule_${schedule.groupName}.ics`);
+  const safeName = schedule.groupName.replace(/[^a-zA-Z0-9а-яА-ЯёЁ_-]/g, '_');
+  link.setAttribute('download', `smtu_schedule_${safeName}.ics`);
   document.body.appendChild(link);
   link.click();
   document.body.removeChild(link);

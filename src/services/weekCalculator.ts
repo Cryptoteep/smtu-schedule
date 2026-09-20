@@ -76,8 +76,10 @@ export function filterLessonsByParity(lessons: Lesson[], filterParity: 'up' | 'd
  * Parses time string like "08:30-10:00" into start and end minute offsets from midnight
  */
 export function parseTimeRange(timeStr: string): { startMinutes: number; endMinutes: number } | null {
-  if (!timeStr || !timeStr.includes('-')) return null;
-  const [start, end] = timeStr.split('-');
+  if (!timeStr) return null;
+  const normalized = timeStr.replace(/[–—−]/g, '-');
+  if (!normalized.includes('-')) return null;
+  const [start, end] = normalized.split('-');
   const [sh, sm] = start.trim().split(':').map(Number);
   const [eh, em] = end.trim().split(':').map(Number);
 

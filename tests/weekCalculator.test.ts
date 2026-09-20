@@ -28,6 +28,12 @@ describe('Week Calculator (СПбГМТУ)', () => {
     const time2 = parseTimeRange('14:00-15:30');
     expect(time2).toEqual({ startMinutes: 14 * 60, endMinutes: 15 * 60 + 30 });
 
+    const timeWithEnDash = parseTimeRange('08:30 – 10:00');
+    expect(timeWithEnDash).toEqual({ startMinutes: 8 * 60 + 30, endMinutes: 10 * 60 });
+
+    const timeWithEmDash = parseTimeRange('11:50—13:20');
+    expect(timeWithEmDash).toEqual({ startMinutes: 11 * 60 + 50, endMinutes: 13 * 60 + 20 });
+
     const invalid = parseTimeRange('invalid-time');
     expect(invalid).toBeNull();
   });
