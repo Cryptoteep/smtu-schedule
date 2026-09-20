@@ -48,19 +48,22 @@ jobs:
           ./gradlew assembleDebug --no-daemon
 
       - name: Prepare APK Asset
+        env:
+          TAG_NAME: ${{ github.event.release.tag_name || inputs.tag_name || 'v1.1.0' }}
         run: |
           mkdir -p release-assets
-          cp android/app/build/outputs/apk/debug/app-debug.apk release-assets/smtu-schedule-v1.0.0.apk
+          cp android/app/build/outputs/apk/debug/app-debug.apk release-assets/smtu-schedule-${TAG_NAME}.apk
+          cp android/app/build/outputs/apk/debug/app-debug.apk release-assets/smtu-schedule.apk
 
       - name: Upload APK as Workflow Artifact
         uses: actions/upload-artifact@v4
         with:
           name: smtu-schedule-apk
-          path: release-assets/smtu-schedule-v1.0.0.apk
+          path: release-assets/
 
       - name: Attach APK to GitHub Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TAG_NAME: ${{ github.event.release.tag_name || inputs.tag_name || 'v1.0.0' }}
+          TAG_NAME: ${{ github.event.release.tag_name || inputs.tag_name || 'v1.1.0' }}
         run: |
-          gh release upload "$TAG_NAME" release-assets/smtu-schedule-v1.0.0.apk --clobber
+          gh release upload "$TAG_NAME" release-assets/* --clobber
