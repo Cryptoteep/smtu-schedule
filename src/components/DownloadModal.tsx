@@ -93,6 +93,9 @@ export const DownloadModal: React.FC<DownloadModalProps> = ({ isOpen, onClose })
               alt="QR Code"
               className="w-16 h-16 rounded-lg bg-white p-1 shrink-0 shadow-md"
               loading="lazy"
+              onError={(e) => {
+                (e.currentTarget.parentElement as HTMLElement)?.classList.add('hidden');
+              }}
             />
           </div>
         </div>

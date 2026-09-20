@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { Header } from './components/Header';
-import { WeekSelector } from './components/WeekSelector';
 import { ScheduleView } from './components/ScheduleView';
 import { GroupPickerModal } from './components/GroupPickerModal';
 import { TeacherModal } from './components/TeacherModal';
@@ -182,46 +181,30 @@ export const App: React.FC = () => {
       />
 
       {/* Main Content Area */}
-      <main className="flex-1 max-w-4xl w-full mx-auto px-3 sm:px-6 py-4 sm:py-6 space-y-4 pb-20 sm:pb-8">
-        {/* University Header Card */}
-        <div className="rounded-2xl bg-navy-900 text-white p-4 sm:p-5 border border-navy-800 shadow-sm relative overflow-hidden">
-          <div className="flex flex-wrap items-center justify-between gap-3 relative z-10">
-            <div>
-              <div className="flex items-center gap-2 mb-1.5">
-                <span className="px-2 py-0.5 rounded-md text-[11px] font-bold bg-ship-gold text-navy-950 uppercase tracking-wider">
-                  {mode === 'teacher' ? 'Преподаватель' : 'СПбГМТУ'}
-                </span>
-                <span className="text-xs text-navy-200 font-medium">
-                  {schedule?.facultyName || 'Корабелка'}
-                </span>
-              </div>
-              <h1 className="text-xl sm:text-2xl font-extrabold tracking-tight">
-                {mode === 'teacher'
-                  ? currentTeacher?.name || 'Преподаватель СПбГМТУ'
-                  : `Группа ${currentGroup.name}`}
-              </h1>
-              <p className="text-xs text-navy-300 mt-1">
-                {academicWeek.label} • Осенний семестр 2026/2027
-              </p>
-            </div>
-
-            <button
-              onClick={() => setIsCalendarExportOpen(true)}
-              className="px-3.5 py-2 rounded-xl bg-white/10 hover:bg-white/15 border border-white/10 text-xs font-semibold transition flex items-center gap-1.5 text-white"
-              title="Экспорт в календарь (.ics)"
-            >
-              <Calendar className="w-3.5 h-3.5 text-ship-gold" />
-              <span>Экспорт в календарь</span>
-            </button>
+      <main className="flex-1 max-w-4xl w-full mx-auto px-3 sm:px-6 py-4 sm:py-6 space-y-3 pb-20 sm:pb-8">
+        {/* Sleek University Context Sub-bar */}
+        <div className="flex items-center justify-between gap-3 text-xs px-1 text-slate-500 dark:text-slate-400 font-medium">
+          <div className="flex items-center gap-2 truncate">
+            <span className="font-extrabold text-navy-950 dark:text-slate-100 truncate">
+              {mode === 'teacher'
+                ? currentTeacher?.name || 'Преподаватель СПбГМТУ'
+                : `Группа ${currentGroup.name}`}
+            </span>
+            <span>•</span>
+            <span className="truncate">{schedule?.facultyName || 'Корабелка'}</span>
+            <span className="hidden sm:inline">•</span>
+            <span className="hidden sm:inline">Осенний семестр 2026/2027</span>
           </div>
-        </div>
 
-        {/* Parity Filter Tabs */}
-        <WeekSelector
-          currentFilter={weekFilter}
-          onChange={setWeekFilter}
-          academicWeek={academicWeek}
-        />
+          <button
+            onClick={() => setIsCalendarExportOpen(true)}
+            className="hidden sm:flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-slate-600 dark:text-slate-300 hover:text-navy-900 dark:hover:text-white hover:bg-slate-200/60 dark:hover:bg-navy-800 transition text-xs font-semibold shrink-0"
+            title="Экспорт расписания в календарь (.ics)"
+          >
+            <Calendar className="w-3.5 h-3.5 text-ship-gold" />
+            <span>Экспорт .ics</span>
+          </button>
+        </div>
 
         {/* Loading / Error States */}
         {loading && (
@@ -260,12 +243,15 @@ export const App: React.FC = () => {
           />
         )}
 
-        {/* Schedule Cards */}
+        {/* Schedule Calendar & Feed */}
         {!loading && schedule && (
           <ScheduleView
             schedule={schedule}
             mode={mode}
             effectiveParity={effectiveParity}
+            weekFilter={weekFilter}
+            onWeekFilterChange={setWeekFilter}
+            academicWeek={academicWeek}
             notes={notes}
             onOpenTeacher={handleOpenTeacher}
             onOpenCampus={handleOpenCampus}

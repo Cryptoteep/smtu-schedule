@@ -63,13 +63,13 @@ describe('Campuses and Room Matching', () => {
 
   it('provides high quality campus photos and maps', () => {
     const ulyanka = getCampusByRoom('У 101');
-    expect(ulyanka?.imageUrl).toBe('/images/campuses/campus_u.jpg');
+    expect(ulyanka?.imageUrl).toBe('./images/campuses/campus_u.jpg');
 
     const lotsmanskayaA = getCampusByRoom('А 407');
-    expect(lotsmanskayaA?.imageUrl).toBe('/images/campuses/campus_a.jpg');
+    expect(lotsmanskayaA?.imageUrl).toBe('./images/campuses/campus_a.jpg');
 
     const gorkovskaya = getCampusByRoom('Г 502');
-    expect(gorkovskaya?.imageUrl).toBe('/images/campuses/campus_g.jpg');
+    expect(gorkovskaya?.imageUrl).toBe('./images/campuses/campus_g.jpg');
   });
 });
 

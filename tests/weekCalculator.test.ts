@@ -1,5 +1,14 @@
 import { describe, it, expect } from 'vitest';
-import { getAcademicWeek, filterLessonsByParity, parseTimeRange, getLessonStatus, deriveParityFromSchedule } from '../src/services/weekCalculator';
+import {
+  getAcademicWeek,
+  filterLessonsByParity,
+  parseTimeRange,
+  getLessonStatus,
+  deriveParityFromSchedule,
+  getWeekMonday,
+  getWeekDates,
+  formatDayDate,
+} from '../src/services/weekCalculator';
 import { Lesson } from '../src/types/schedule';
 
 describe('Week Calculator (СПбГМТУ)', () => {
@@ -122,5 +131,29 @@ describe('Week Calculator (СПбГМТУ)', () => {
     expect(p2.isDerived).toBe(true);
     expect(p2.parity).toBe('down');
   });
+
+  it('correctly calculates week dates and formats them for calendar ribbon', () => {
+    // 22 Sept 2026 is Tuesday
+    const tues = new Date(2026, 8, 22);
+    const monday = getWeekMonday(tues);
+    expect(monday.getDate()).toBe(21);
+    expect(monday.getMonth()).toBe(8); // September
+
+    const dates = getWeekDates(tues, 0);
+    expect(dates).toHaveLength(6);
+    expect(dates[0].getDate()).toBe(21); // Mon
+    expect(dates[1].getDate()).toBe(22); // Tue
+    expect(dates[5].getDate()).toBe(26); // Sat
+
+    const formatted = formatDayDate(tues);
+    expect(formatted.dayNum).toBe(22);
+    expect(formatted.monthShort).toBe('сен');
+    expect(formatted.fullDateStr).toBe('22 сентября');
+
+    // Next week offset
+    const nextWeekDates = getWeekDates(tues, 1);
+    expect(nextWeekDates[0].getDate()).toBe(28); // Next Mon
+  });
 });
+
 

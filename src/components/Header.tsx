@@ -2,6 +2,7 @@ import React from 'react';
 import { RefreshCw, Sun, Moon, Search, Calendar, MapPin, Bookmark, Download, GraduationCap } from 'lucide-react';
 import { GroupItem, TeacherItem, ScheduleMode } from '../types/schedule';
 import { AcademicWeekInfo } from '../services/weekCalculator';
+import { SmtuLogo } from './SmtuLogo';
 
 interface HeaderProps {
   mode?: ScheduleMode;
@@ -39,8 +40,8 @@ export const Header: React.FC<HeaderProps> = ({
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between gap-3">
         {/* Left: Brand Logo & Title */}
         <div className="flex items-center gap-3">
-          <div className="w-10 h-10 rounded-xl bg-slate-100 dark:bg-navy-900 border border-slate-200 dark:border-navy-800 flex items-center justify-center shadow-sm shrink-0 overflow-hidden p-1.5">
-            <img src="/smtu_logo.svg" alt="СПбГМТУ" className="w-full h-full object-contain filter dark:brightness-125" />
+          <div className="w-10 h-10 rounded-xl bg-navy-900 dark:bg-navy-900 border border-slate-200 dark:border-navy-800 flex items-center justify-center shadow-sm shrink-0 overflow-hidden p-1.5 text-ship-gold">
+            <SmtuLogo className="w-6 h-6 text-ship-gold" />
           </div>
           <div>
             <div className="flex items-center gap-2">

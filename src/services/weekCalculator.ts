@@ -196,3 +196,51 @@ export function deriveParityFromSchedule(
     isDerived: false
   };
 }
+
+/**
+ * Returns the Monday date of the week for given date.
+ */
+export function getWeekMonday(date = new Date()): Date {
+  const d = new Date(date);
+  const day = d.getDay(); // 0 = Sun, 1 = Mon ... 6 = Sat
+  const diffToMonday = day === 0 ? -6 : 1 - day;
+  d.setDate(d.getDate() + diffToMonday);
+  d.setHours(0, 0, 0, 0);
+  return d;
+}
+
+/**
+ * Returns an array of 6 Date objects (Mon through Sat) for a given base date and week offset.
+ */
+export function getWeekDates(baseDate = new Date(), weekOffset = 0): Date[] {
+  const monday = getWeekMonday(baseDate);
+  if (weekOffset !== 0) {
+    monday.setDate(monday.getDate() + weekOffset * 7);
+  }
+
+  const dates: Date[] = [];
+  for (let i = 0; i < 6; i++) {
+    const dayDate = new Date(monday);
+    dayDate.setDate(monday.getDate() + i);
+    dates.push(dayDate);
+  }
+  return dates;
+}
+
+/**
+ * Formats a Date for university calendar ribbon.
+ */
+export function formatDayDate(date: Date): { dayNum: number; monthShort: string; fullDateStr: string } {
+  const dayNum = date.getDate();
+  const monthsShort = ['янв', 'фев', 'мар', 'апр', 'мая', 'июн', 'июл', 'авг', 'сен', 'окт', 'ноя', 'дек'];
+  const monthsFull = [
+    'января', 'февраля', 'марта', 'апреля', 'мая', 'июня',
+    'июля', 'августа', 'сентября', 'октября', 'ноября', 'декабря'
+  ];
+  return {
+    dayNum,
+    monthShort: monthsShort[date.getMonth()],
+    fullDateStr: `${dayNum} ${monthsFull[date.getMonth()]}`,
+  };
+}
+

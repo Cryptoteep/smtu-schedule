@@ -59,6 +59,9 @@ export const CampusGuideModal: React.FC<CampusGuideModalProps> = ({
                       alt={campus.fullName}
                       className="w-full h-full object-cover"
                       loading="lazy"
+                      onError={(e) => {
+                        (e.currentTarget.parentElement as HTMLElement)?.classList.add('hidden');
+                      }}
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-navy-950/80 via-navy-950/20 to-transparent pointer-events-none" />
                     <div className="absolute top-3 left-3">
