@@ -6,7 +6,41 @@ import sampleTeachersData from '../data/sampleTeachers.json';
 import { storage } from './storage';
 import { parseSmtuScheduleHtml } from './parser';
 
-const faculties: Faculty[] = facultiesData as Faculty[];
+/**
+ * Accurately extracts the academic study course (1-6) for an SPbGMTU group.
+ */
+export function getCourseFromGroup(group: { name: string; course?: number }): number | null {
+  if (typeof group.course === 'number' && group.course >= 1 && group.course <= 6) {
+    return group.course;
+  }
+  const clean = group.name.trim();
+  // 5-digit College/СТФ groups: "20200" -> 2, "20300" -> 3, "20100" -> 1, "20400" -> 4
+  const col20 = clean.match(/^20([1-6])\d{2}/);
+  if (col20) return parseInt(col20[1], 10);
+
+  // 5-digit Evening/special: "10274" -> 2, "10374" -> 3, "10449" -> 4
+  const col10 = clean.match(/^10([1-6])\d{2}/);
+  if (col10) return parseInt(col10[1], 10);
+
+  // Standard 4-digit groups (e.g. "1201", "3210", "1301"): 2nd digit is course
+  const std = clean.match(/^[1-9]([1-6])\d{2}/);
+  if (std) return parseInt(std[1], 10);
+
+  // Letter-prefixed groups: "М1201" -> 2
+  const pref = clean.match(/^[A-Za-zА-Яа-я]+[1-9]?([1-6])\d{2}/);
+  if (pref) return parseInt(pref[1], 10);
+
+  return null;
+}
+
+const rawFaculties = facultiesData as Faculty[];
+const faculties: Faculty[] = rawFaculties.map((f) => ({
+  ...f,
+  groups: f.groups.map((g) => ({
+    ...g,
+    course: getCourseFromGroup(g) ?? g.course,
+  })),
+}));
 const sampleSchedules: Record<string, GroupSchedule> = sampleSchedulesData as Record<string, GroupSchedule>;
 const teachers: TeacherItem[] = teachersData as TeacherItem[];
 const sampleTeachers: Record<string, TeacherSchedule> = sampleTeachersData as Record<string, TeacherSchedule>;
