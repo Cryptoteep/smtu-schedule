@@ -76,19 +76,26 @@ export function filterLessonsByParity(lessons: Lesson[], filterParity: 'up' | 'd
  * Parses time string like "08:30-10:00" into start and end minute offsets from midnight
  */
 export function parseTimeRange(timeStr: string): { startMinutes: number; endMinutes: number } | null {
-  if (!timeStr) return null;
+  if (!timeStr || typeof timeStr !== 'string') return null;
   const normalized = timeStr.replace(/[–—−]/g, '-');
-  if (!normalized.includes('-')) return null;
-  const [start, end] = normalized.split('-');
-  const [sh, sm] = start.trim().split(':').map(Number);
-  const [eh, em] = end.trim().split(':').map(Number);
+  const match = normalized.match(/(\d{1,2}):(\d{2})\s*-\s*(\d{1,2}):(\d{2})/);
+  if (!match) return null;
 
-  if (isNaN(sh) || isNaN(sm) || isNaN(eh) || isNaN(em)) return null;
+  const sh = parseInt(match[1], 10);
+  const sm = parseInt(match[2], 10);
+  const eh = parseInt(match[3], 10);
+  const em = parseInt(match[4], 10);
 
-  return {
-    startMinutes: sh * 60 + sm,
-    endMinutes: eh * 60 + em
-  };
+  if (sh < 0 || sh > 23 || sm < 0 || sm > 59 || eh < 0 || eh > 23 || em < 0 || em > 59) {
+    return null;
+  }
+
+  const startMinutes = sh * 60 + sm;
+  const endMinutes = eh * 60 + em;
+
+  if (endMinutes < startMinutes) return null;
+
+  return { startMinutes, endMinutes };
 }
 
 export type LessonCurrentStatus = 'active' | 'upcoming' | 'passed';

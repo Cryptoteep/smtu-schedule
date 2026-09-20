@@ -1,6 +1,7 @@
 import React from 'react';
 import { X, User, BookOpen, Clock, MapPin, ExternalLink, Calendar } from 'lucide-react';
 import { Lesson } from '../types/schedule';
+import { api } from '../services/api';
 
 interface TeacherModalProps {
   isOpen: boolean;
@@ -21,13 +22,17 @@ export const TeacherModal: React.FC<TeacherModalProps> = ({
 }) => {
   if (!isOpen || !teacherName) return null;
 
-  const teacherLessons = allLessons.filter(
-    (l) => l.teacher?.name.toLowerCase() === teacherName.toLowerCase()
+  const teacherLessons = (allLessons || []).filter(
+    (l) => l.teacher?.name && l.teacher.name.toLowerCase() === teacherName.toLowerCase()
   );
+
+  const teacherItem = React.useMemo(() => api.findTeacher(teacherName), [teacherName]);
+  const effectivePhotoUrl = photoUrl || teacherItem?.photoUrl;
 
   const teacherLesson = teacherLessons.find((l) => l.teacher?.profileUrl || l.teacher?.id);
   const profileUrl =
     teacherLesson?.teacher?.profileUrl ||
+    teacherItem?.profileUrl ||
     (teacherLesson?.teacher?.id ? `https://www.smtu.ru/ru/viewperson/${teacherLesson.teacher.id}/` : undefined);
 
   return (
@@ -35,9 +40,9 @@ export const TeacherModal: React.FC<TeacherModalProps> = ({
       <div className="w-full sm:max-w-md bg-white dark:bg-navy-900 rounded-t-3xl sm:rounded-3xl shadow-2xl border border-slate-200 dark:border-navy-800 p-5 space-y-4 max-h-[85vh] overflow-y-auto">
         <div className="flex items-start justify-between gap-3">
           <div className="flex items-center gap-3">
-            {photoUrl ? (
+            {effectivePhotoUrl ? (
               <img
-                src={photoUrl}
+                src={effectivePhotoUrl}
                 alt={teacherName}
                 className="w-14 h-14 rounded-2xl object-cover border-2 border-ship-gold/50 shadow-md"
               />

@@ -19,9 +19,11 @@ export const CalendarExportModal: React.FC<CalendarExportModalProps> = ({
   if (!isOpen || !schedule) return null;
 
   const handleDownload = () => {
-    downloadIcsFile(schedule);
-    setDownloaded(true);
-    setTimeout(() => setDownloaded(false), 4000);
+    const ok = downloadIcsFile(schedule);
+    if (ok) {
+      setDownloaded(true);
+      setTimeout(() => setDownloaded(false), 4000);
+    }
   };
 
   const isTeacher =

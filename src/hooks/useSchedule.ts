@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useRef } from 'react';
 import { GroupItem, GroupSchedule, TeacherItem, ScheduleMode, ViewWeekFilter } from '../types/schedule';
 import { api } from '../services/api';
 import { storage } from '../services/storage';
@@ -26,46 +26,59 @@ export function useSchedule() {
   const [weekFilter, setWeekFilter] = useState<ViewWeekFilter>('current');
   const [refreshing, setRefreshing] = useState<boolean>(false);
 
+  // Monotonic request counter to prevent async race conditions
+  const activeRequestId = useRef<number>(0);
+
   const academicWeek = getAcademicWeek(new Date());
 
   const effectiveParity: 'up' | 'down' | 'all' =
     weekFilter === 'current' ? academicWeek.parity : weekFilter;
 
-  // Load schedule based on current mode
+  // Load schedule based on current mode with race condition prevention
   const loadSchedule = useCallback(
-    async (targetMode: ScheduleMode, force = false) => {
+    async (targetMode: ScheduleMode, group: GroupItem, teacher: TeacherItem | null, force = false) => {
+      const reqId = ++activeRequestId.current;
+
       try {
         if (force) setRefreshing(true);
         else setLoading(true);
         setError(null);
 
         if (targetMode === 'teacher') {
-          const teacher = currentTeacher || api.getTeachers()[0];
-          if (!teacher) {
-            setError('Преподаватель не выбран');
+          const targetTeacher = teacher || api.getTeachers()[0];
+          if (!targetTeacher) {
+            if (reqId === activeRequestId.current) setError('Преподаватель не выбран');
             return;
           }
-          const teacherSched = await api.getTeacherSchedule(teacher.id, teacher.name, force);
-          const adapted = api.teacherScheduleToGroupSchedule(teacherSched);
-          setSchedule(adapted);
+          const teacherSched = await api.getTeacherSchedule(targetTeacher.id, targetTeacher.name, force);
+          if (reqId === activeRequestId.current) {
+            const adapted = api.teacherScheduleToGroupSchedule(teacherSched);
+            setSchedule(adapted);
+          }
         } else {
-          const data = await api.getSchedule(currentGroup.id, currentGroup.name, force);
-          setSchedule(data);
+          const data = await api.getSchedule(group.id, group.name, force);
+          if (reqId === activeRequestId.current) {
+            setSchedule(data);
+          }
         }
       } catch (err: unknown) {
-        console.error('Failed to load schedule:', err);
-        setError(err instanceof Error ? err.message : 'Не удалось загрузить расписание');
+        if (reqId === activeRequestId.current) {
+          console.error('Failed to load schedule:', err);
+          setError(err instanceof Error ? err.message : 'Не удалось загрузить расписание');
+        }
       } finally {
-        setLoading(false);
-        setRefreshing(false);
+        if (reqId === activeRequestId.current) {
+          setLoading(false);
+          setRefreshing(false);
+        }
       }
     },
-    [currentGroup, currentTeacher]
+    []
   );
 
   useEffect(() => {
-    loadSchedule(mode);
-  }, [mode, currentGroup.id, currentTeacher?.id, loadSchedule]);
+    loadSchedule(mode, currentGroup, currentTeacher);
+  }, [mode, mode === 'group' ? currentGroup.id : (currentTeacher?.id || currentTeacher?.name), loadSchedule]);
 
   const selectGroup = useCallback(
     (group: GroupItem) => {
@@ -96,8 +109,8 @@ export function useSchedule() {
   );
 
   const refresh = useCallback(() => {
-    loadSchedule(mode, true);
-  }, [mode, loadSchedule]);
+    loadSchedule(mode, currentGroup, currentTeacher, true);
+  }, [mode, currentGroup, currentTeacher, loadSchedule]);
 
   return {
     mode,

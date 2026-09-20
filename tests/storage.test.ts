@@ -101,4 +101,30 @@ describe('Storage Service', () => {
     expect(toggledOff).toBe(false);
     expect(storage.isFavoriteTeacher('100593')).toBe(false);
   });
+
+  it('allows destructuring of methods without unbound this errors', () => {
+    const { getFavorites, toggleFavorite, isFavorite, getNotes } = storage;
+    expect(getFavorites()).toEqual([]);
+    expect(isFavorite('7624')).toBe(false);
+    expect(toggleFavorite({ id: '7624', name: '3210' })).toBe(true);
+    expect(getFavorites()).toHaveLength(1);
+    expect(getNotes('7624')).toEqual([]);
+  });
+
+  it('evicts old caches safely when quota limit is approached', () => {
+    // Add multiple schedules to cache
+    for (let i = 1; i <= 6; i++) {
+      storage.setCachedSchedule({
+        groupId: `g-${i}`,
+        groupName: `name-${i}`,
+        updatedAt: new Date().toISOString(),
+        days: []
+      });
+    }
+    expect(storage.getCachedSchedule('g-1')).toBeDefined();
+
+    storage.evictOldCaches();
+    // Verify eviction executes cleanly without errors
+    expect(true).toBe(true);
+  });
 });

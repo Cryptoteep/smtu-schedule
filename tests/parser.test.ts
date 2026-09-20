@@ -92,5 +92,20 @@ describe('SPbGMTU HTML Parser', () => {
     expect(lesson.teacher?.id).toBe('101234');
     expect(lesson.teacher?.profileUrl).toBe('https://www.smtu.ru/ru/viewperson/101234/');
     expect(lesson.exactDates).toEqual(['16.09.2026', '30.09.2026', '14.10.2026']);
+    expect(lesson.dayIndex).toBe(3);
+  });
+
+  it('handles empty or malformed inputs without throwing', () => {
+    // @ts-expect-error testing invalid input
+    const empty1 = parseSmtuScheduleHtml(null, '123');
+    expect(empty1.days).toEqual([]);
+
+    // @ts-expect-error testing invalid input
+    const empty2 = parseSmtuScheduleHtml(undefined, '123');
+    expect(empty2.days).toEqual([]);
+
+    expect(determineLessonType(null as unknown as string, null as unknown as string)).toBe('other');
+    expect(determineLessonType(undefined, undefined)).toBe('other');
+    expect(determineLessonType()).toBe('other');
   });
 });

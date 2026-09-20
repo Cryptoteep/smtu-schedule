@@ -133,6 +133,19 @@ export const App: React.FC = () => {
     setActiveLessonForNote(lesson);
   };
 
+  // Date ticker to ensure todayLessons auto-recalculates across midnight without reload
+  const [currentDateKey, setCurrentDateKey] = useState(() => new Date().toDateString());
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      const todayStr = new Date().toDateString();
+      if (todayStr !== currentDateKey) {
+        setCurrentDateKey(todayStr);
+      }
+    }, 30000);
+    return () => clearInterval(timer);
+  }, [currentDateKey]);
+
   // Flatten all lessons from schedule for teacher modal
   const allScheduleLessons = schedule?.days.flatMap((d) => d.lessons) || [];
 
@@ -144,7 +157,7 @@ export const App: React.FC = () => {
     const day = schedule.days.find((d) => d.dayIndex === dayIndex);
     if (!day) return [];
     return filterLessonsByParity(day.lessons, effectiveParity);
-  }, [schedule, effectiveParity]);
+  }, [schedule, effectiveParity, currentDateKey]);
 
   return (
     <div className="min-h-screen bg-slate-50 dark:bg-navy-950 text-slate-900 dark:text-slate-100 flex flex-col transition-colors">
@@ -309,7 +322,8 @@ export const App: React.FC = () => {
             ? notes.filter(
                 (n) =>
                   n.subject === activeLessonForNote.subject &&
-                  n.time === activeLessonForNote.time
+                  n.time === activeLessonForNote.time &&
+                  (!n.dayIndex || !activeLessonForNote.dayIndex || n.dayIndex === activeLessonForNote.dayIndex)
               )
             : []
         }

@@ -31,6 +31,29 @@ function getCampusName(room) {
     if (l === 'М') return 'Псковская (Корпус М)';
     if (l === 'С') return 'Колледж СПбГМТУ (СТФ)';
   }
+  const startLetterMatch = str.match(/^([А-ЯЁA-Z])(?:\s+|$)/i);
+  if (startLetterMatch) {
+    const l = startLetterMatch[1].toUpperCase();
+    if (l === 'У') return 'Ульянка (Корпус У)';
+    if (l === 'А') return 'Лоцманская (Корпус А)';
+    if (l === 'Б') return 'Лоцманская (Корпус Б)';
+    if (l === 'Г') return 'Горьковская (Корпус Г)';
+    if (l === 'М') return 'Псковская (Корпус М)';
+    if (l === 'С') return 'Колледж СПбГМТУ (СТФ)';
+  }
+  const lower = str.toLowerCase();
+  if (lower.includes('вуц') || lower.includes('военный')) {
+    return 'Лоцманская (Корпус А)';
+  }
+  if (lower.includes('псковская')) {
+    return 'Псковская (Корпус М)';
+  }
+  if (lower.includes('стачек') || lower.includes('колледж') || lower.includes('стф')) {
+    return 'Колледж СПбГМТУ (СТФ)';
+  }
+  if (lower.includes('конгресс') || lower.includes('спортзал') || lower.includes('бассейн') || lower.includes('ульянк')) {
+    return 'Ульянка (Корпус У)';
+  }
   const first = str.charAt(0).toUpperCase();
   if (first === 'У') return 'Ульянка (Корпус У)';
   if (first === 'А') return 'Лоцманская (Корпус А)';
@@ -38,9 +61,6 @@ function getCampusName(room) {
   if (first === 'Г') return 'Горьковская (Корпус Г)';
   if (first === 'М') return 'Псковская (Корпус М)';
   if (first === 'С') return 'Колледж СПбГМТУ (СТФ)';
-  if (str.toLowerCase().includes('конгресс') || str.toLowerCase().includes('спортзал') || str.toLowerCase().includes('бассейн')) {
-    return 'Ульянка (Корпус У)';
-  }
   return 'СПбГМТУ';
 }
 
@@ -145,6 +165,7 @@ function parseHtml(html, groupId, groupName) {
 
       lessons.push({
         id: `${groupId}-${dayIndex}-${timeStart}-${rowIndex}`,
+        dayIndex,
         time: timeRaw,
         timeSlotIndex,
         subject,

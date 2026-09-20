@@ -11,6 +11,17 @@ const sampleSchedules: Record<string, GroupSchedule> = sampleSchedulesData as Re
 const teachers: TeacherItem[] = teachersData as TeacherItem[];
 const sampleTeachers: Record<string, TeacherSchedule> = sampleTeachersData as Record<string, TeacherSchedule>;
 
+function safeTimeoutSignal(ms: number): AbortSignal {
+  if (typeof AbortSignal !== 'undefined' && typeof AbortSignal.timeout === 'function') {
+    try {
+      return AbortSignal.timeout(ms);
+    } catch {}
+  }
+  const controller = new AbortController();
+  setTimeout(() => controller.abort(), ms);
+  return controller.signal;
+}
+
 export const api = {
   /**
    * Get all faculties with groups (412 groups)
@@ -23,6 +34,7 @@ export const api = {
    * Search groups by name prefix/match
    */
   searchGroups(query: string): { group: GroupItem; faculty: Faculty }[] {
+    if (!query || typeof query !== 'string') return [];
     const raw = query.trim().toLowerCase();
     if (!raw) return [];
 
@@ -46,10 +58,12 @@ export const api = {
    * Find group by ID or name
    */
   findGroup(query: string): { group: GroupItem; faculty: Faculty } | null {
+    if (!query || typeof query !== 'string') return null;
     const clean = query.trim().toLowerCase();
+    if (!clean) return null;
     for (const fac of faculties) {
       for (const g of fac.groups) {
-        if (g.id === clean || g.name.toLowerCase() === clean) {
+        if (g.id.toLowerCase() === clean || g.name.toLowerCase() === clean) {
           return { group: g, faculty: fac };
         }
       }
@@ -61,14 +75,21 @@ export const api = {
    * Fetch schedule for a group (cache-first + network + sample fallback)
    */
   async getSchedule(groupId: string, groupName = '', forceRefresh = false): Promise<GroupSchedule> {
+    const rawId = String(groupId || '').trim();
+    const rawName = String(groupName || '').trim();
+    const cleanId = rawId || rawName;
+    if (!cleanId) {
+      throw new Error('Идентификатор группы не задан');
+    }
+
     // 1. Check local storage cache if not force refresh
     if (!forceRefresh) {
-      const cached = storage.getCachedSchedule(groupId);
+      const cached = storage.getCachedSchedule(cleanId);
       if (cached) {
         return cached;
       }
-      if (groupName) {
-        const cachedByName = storage.getCachedSchedule(groupName);
+      if (rawName && rawName !== cleanId) {
+        const cachedByName = storage.getCachedSchedule(rawName);
         if (cachedByName) return cachedByName;
       }
     }
@@ -77,8 +98,8 @@ export const api = {
 
     // 2. Try fetching from local Express proxy / server
     try {
-      const res = await fetch(`/api/schedule/${groupId}`, {
-        signal: AbortSignal.timeout(3000),
+      const res = await fetch(`/api/schedule/${encodeURIComponent(cleanId)}`, {
+        signal: safeTimeoutSignal(3000),
       });
       if (res.ok) {
         const schedule: GroupSchedule = await res.json();
@@ -93,15 +114,15 @@ export const api = {
 
     // 3. Try direct smtu.ru fetch (works in Capacitor Android / mobile or if CORS allowed)
     try {
-      const directRes = await fetch(`https://www.smtu.ru/ru/viewschedule_new/${groupId}/`, {
+      const directRes = await fetch(`https://www.smtu.ru/ru/viewschedule_new/${encodeURIComponent(cleanId)}/`, {
         headers: {
           'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8',
         },
-        signal: AbortSignal.timeout(4000),
+        signal: safeTimeoutSignal(4000),
       });
       if (directRes.ok) {
         const html = await directRes.text();
-        const parsed = parseSmtuScheduleHtml(html, groupId, groupName);
+        const parsed = parseSmtuScheduleHtml(html, cleanId, rawName);
         if (parsed.days.some((d) => d.lessons.length > 0)) {
           storage.setCachedSchedule(parsed);
           return parsed;
@@ -113,8 +134,8 @@ export const api = {
 
     // 4. Try static bundle relative URL (e.g. on GitHub Pages: <baseUrl>data/g/<groupId>.json or <groupName>.json)
     try {
-      const staticRes = await fetch(`${baseUrl}data/g/${groupId}.json`, {
-        signal: AbortSignal.timeout(3000),
+      const staticRes = await fetch(`${baseUrl}data/g/${encodeURIComponent(cleanId)}.json`, {
+        signal: safeTimeoutSignal(3000),
       });
       if (staticRes.ok) {
         const schedule: GroupSchedule = await staticRes.json();
@@ -127,10 +148,10 @@ export const api = {
       // Try groupName alias
     }
 
-    if (groupName && groupName !== groupId) {
+    if (rawName && rawName !== cleanId) {
       try {
-        const staticRes = await fetch(`${baseUrl}data/g/${encodeURIComponent(groupName)}.json`, {
-          signal: AbortSignal.timeout(3000),
+        const staticRes = await fetch(`${baseUrl}data/g/${encodeURIComponent(rawName)}.json`, {
+          signal: safeTimeoutSignal(3000),
         });
         if (staticRes.ok) {
           const schedule: GroupSchedule = await staticRes.json();
@@ -144,9 +165,9 @@ export const api = {
 
     // 5. Try GitHub raw/pages mirror fallback
     try {
-      const mirrorUrl = `https://cryptoteep.github.io/smtu-schedule/data/g/${groupId}.json`;
+      const mirrorUrl = `https://cryptoteep.github.io/smtu-schedule/data/g/${encodeURIComponent(cleanId)}.json`;
       const mirrorRes = await fetch(mirrorUrl, {
-        signal: AbortSignal.timeout(3000),
+        signal: safeTimeoutSignal(3000),
       });
       if (mirrorRes.ok) {
         const schedule: GroupSchedule = await mirrorRes.json();
@@ -160,13 +181,13 @@ export const api = {
     }
 
     // 6. Pre-cached sample schedule (built into JS bundle)
-    if (sampleSchedules[groupId]) {
-      const sched = sampleSchedules[groupId];
+    if (sampleSchedules[cleanId]) {
+      const sched = sampleSchedules[cleanId];
       storage.setCachedSchedule(sched);
       return sched;
     }
-    if (groupName && sampleSchedules[groupName]) {
-      const sched = sampleSchedules[groupName];
+    if (rawName && sampleSchedules[rawName]) {
+      const sched = sampleSchedules[rawName];
       storage.setCachedSchedule(sched);
       return sched;
     }
@@ -203,6 +224,7 @@ export const api = {
    * Search teachers by name
    */
   searchTeachers(query: string): TeacherItem[] {
+    if (!query || typeof query !== 'string') return [];
     const clean = query.trim().toLowerCase();
     if (!clean) return [];
 
@@ -248,9 +270,11 @@ export const api = {
    * Find teacher by ID or exact name
    */
   findTeacher(query: string): TeacherItem | null {
+    if (!query || typeof query !== 'string') return null;
     const clean = query.trim().toLowerCase();
+    if (!clean) return null;
     for (const t of teachers) {
-      if (t.id === query || t.name.toLowerCase() === clean) {
+      if (t.id.toLowerCase() === clean || t.name.toLowerCase() === clean) {
         return t;
       }
     }
@@ -265,20 +289,23 @@ export const api = {
     teacherName = '',
     forceRefresh = false
   ): Promise<TeacherSchedule> {
-    const key = teacherIdOrName || teacherName;
-    const resolvedName = teacherName || api.findTeacher(key)?.name || key;
-    const resolvedId = api.findTeacher(key)?.id || teacherIdOrName;
+    const rawKey = String(teacherIdOrName || teacherName || '').trim();
+    if (!rawKey) {
+      throw new Error('Идентификатор преподавателя не задан');
+    }
+    const resolvedName = teacherName || api.findTeacher(rawKey)?.name || rawKey;
+    const resolvedId = api.findTeacher(rawKey)?.id || teacherIdOrName || rawKey;
     const safeName = resolvedName.replace(/\s+/g, '_');
 
     // 1. Check storage cache
     if (!forceRefresh) {
-      const cached = storage.getCachedTeacherSchedule(key);
+      const cached = storage.getCachedTeacherSchedule(rawKey);
       if (cached) return cached;
-      if (resolvedId !== key) {
+      if (resolvedId !== rawKey) {
         const cachedById = storage.getCachedTeacherSchedule(resolvedId);
         if (cachedById) return cachedById;
       }
-      if (resolvedName !== key) {
+      if (resolvedName !== rawKey) {
         const cachedByName = storage.getCachedTeacherSchedule(resolvedName);
         if (cachedByName) return cachedByName;
       }
@@ -290,7 +317,7 @@ export const api = {
     if (resolvedId) {
       try {
         const res = await fetch(`${baseUrl}data/t/${encodeURIComponent(resolvedId)}.json`, {
-          signal: AbortSignal.timeout(3000),
+          signal: safeTimeoutSignal(3000),
         });
         if (res.ok) {
           const sched: TeacherSchedule = await res.json();
@@ -306,7 +333,7 @@ export const api = {
     if (safeName) {
       try {
         const res = await fetch(`${baseUrl}data/t/${encodeURIComponent(safeName)}.json`, {
-          signal: AbortSignal.timeout(3000),
+          signal: safeTimeoutSignal(3000),
         });
         if (res.ok) {
           const sched: TeacherSchedule = await res.json();
@@ -323,7 +350,7 @@ export const api = {
       try {
         const mirrorRes = await fetch(
           `https://cryptoteep.github.io/smtu-schedule/data/t/${encodeURIComponent(resolvedId)}.json`,
-          { signal: AbortSignal.timeout(3000) }
+          { signal: safeTimeoutSignal(3000) }
         );
         if (mirrorRes.ok) {
           const sched: TeacherSchedule = await mirrorRes.json();
@@ -357,7 +384,7 @@ export const api = {
       try {
         const directRes = await fetch(`https://www.smtu.ru/ru/viewschedule_new/teacher/${resolvedId}/`, {
           headers: { 'Accept-Language': 'ru-RU,ru;q=0.9' },
-          signal: AbortSignal.timeout(4000),
+          signal: safeTimeoutSignal(4000),
         });
         if (directRes.ok) {
           const html = await directRes.text();
@@ -404,12 +431,21 @@ export const api = {
    * Converts a TeacherSchedule into a GroupSchedule for unified rendering in views
    */
   teacherScheduleToGroupSchedule(teacherSchedule: TeacherSchedule): GroupSchedule {
+    if (!teacherSchedule) {
+      return {
+        groupId: 'teacher_unknown',
+        groupName: 'Преподаватель',
+        facultyName: 'Преподаватель СПбГМТУ',
+        updatedAt: new Date().toISOString(),
+        days: [],
+      };
+    }
     return {
-      groupId: `teacher_${teacherSchedule.teacherId || teacherSchedule.teacherName}`,
-      groupName: teacherSchedule.teacherName,
+      groupId: `teacher_${teacherSchedule.teacherId || teacherSchedule.teacherName || 'unknown'}`,
+      groupName: teacherSchedule.teacherName || '',
       facultyName: 'Преподаватель СПбГМТУ',
-      updatedAt: teacherSchedule.updatedAt,
-      days: teacherSchedule.days,
+      updatedAt: teacherSchedule.updatedAt || new Date().toISOString(),
+      days: teacherSchedule.days || [],
     };
   },
 };

@@ -36,14 +36,16 @@ export const GroupPickerModal: React.FC<GroupPickerModalProps> = ({
     }
   }, [isOpen, initialMode]);
 
+  const [favVersion, setFavVersion] = useState(0);
+
   const faculties: Faculty[] = useMemo(() => api.getFaculties(), []);
   const allTeachers: TeacherItem[] = useMemo(() => api.getTeachers(), []);
 
-  const favoriteGroups: GroupItem[] = storage.getFavorites();
-  const recentGroups: GroupItem[] = storage.getRecentGroups();
+  const favoriteGroups: GroupItem[] = useMemo(() => storage.getFavorites(), [favVersion]);
+  const recentGroups: GroupItem[] = useMemo(() => storage.getRecentGroups(), [isOpen]);
 
-  const favoriteTeachers: TeacherItem[] = storage.getFavoriteTeachers();
-  const recentTeachers: TeacherItem[] = storage.getRecentTeachers();
+  const favoriteTeachers: TeacherItem[] = useMemo(() => storage.getFavoriteTeachers(), [favVersion]);
+  const recentTeachers: TeacherItem[] = useMemo(() => storage.getRecentTeachers(), [isOpen]);
 
   const groupSearchResults = useMemo(() => {
     return api.searchGroups(groupQuery);
@@ -68,13 +70,13 @@ export const GroupPickerModal: React.FC<GroupPickerModalProps> = ({
   const handleToggleFavGroup = (e: React.MouseEvent, group: GroupItem) => {
     e.stopPropagation();
     storage.toggleFavorite(group);
-    setGroupQuery((q) => q);
+    setFavVersion((v) => v + 1);
   };
 
   const handleToggleFavTeacher = (e: React.MouseEvent, teacher: TeacherItem) => {
     e.stopPropagation();
     storage.toggleFavoriteTeacher(teacher);
-    setTeacherQuery((q) => q);
+    setFavVersion((v) => v + 1);
   };
 
   return (

@@ -21,9 +21,9 @@ const DAY_NAMES = [
   'Воскресенье',
 ];
 
-export function determineLessonType(rawType: string, subject: string): LessonType {
-  const lowerType = (rawType || '').toLowerCase();
-  const lowerSubj = (subject || '').toLowerCase();
+export function determineLessonType(rawType = '', subject = ''): LessonType {
+  const lowerType = String(rawType || '').toLowerCase();
+  const lowerSubj = String(subject || '').toLowerCase();
 
   if (lowerType.includes('лекц') || lowerSubj.includes('лекция')) {
     return 'lecture';
@@ -49,6 +49,15 @@ export function determineLessonType(rawType: string, subject: string): LessonTyp
 }
 
 export function parseSmtuScheduleHtml(html: string, groupId: string, groupName = ''): GroupSchedule {
+  if (!html || typeof html !== 'string') {
+    return {
+      groupId: groupId || '',
+      groupName: groupName || groupId || '',
+      updatedAt: new Date().toISOString(),
+      days: [],
+    };
+  }
+
   const days: DaySchedule[] = [];
 
   // Match day headers or table sections
@@ -71,7 +80,10 @@ export function parseSmtuScheduleHtml(html: string, groupId: string, groupName =
       }
     }
 
-    const dayIndex = DAY_NAMES.indexOf(dayName) + 1; // 1 = Monday
+    let dayIndex = DAY_NAMES.indexOf(dayName) + 1; // 1 = Monday
+    if (dayIndex <= 0) {
+      dayIndex = Math.min(index + 1, 6);
+    }
     const lessons: Lesson[] = [];
 
     const rowRegex = /<tr[\s\S]*?<\/tr>/gi;
@@ -142,7 +154,7 @@ export function parseSmtuScheduleHtml(html: string, groupId: string, groupName =
       if (cells.length >= 6) {
         const teacherCell = cells[5];
         const teacherSpan = teacherCell.match(/<span[^>]*>([\s\S]*?)<\/span>/i);
-        const teacherA = teacherCell.match(/<a[^>]*href=[\"']\/ru\/viewperson\/(\d+)\/?[\"'][^>]*>([\s\S]*?)<\/a>/i);
+        const teacherA = teacherCell.match(/<a[^>]*href=[\"'](?:\/ru\/viewperson\/|https:\/\/www\.smtu\.ru\/ru\/viewperson\/)(\d+)\/?[\"'][^>]*>([\s\S]*?)<\/a>/i);
         if (teacherA) {
           teacherId = teacherA[1];
           teacherName = teacherA[2].replace(/<[^>]+>/g, '').trim();
@@ -178,11 +190,12 @@ export function parseSmtuScheduleHtml(html: string, groupId: string, groupName =
       }
 
       const lessonType = determineLessonType(rawType, subject);
-      const timeStart = timeRaw.split('-')[0].trim();
+      const timeStart = timeRaw.includes('-') ? timeRaw.split('-')[0].trim() : timeRaw.trim();
       const timeSlotIndex = TIME_SLOT_MAP[timeStart] || (rowIndex + 1);
 
       lessons.push({
         id: `${groupId}-${dayIndex}-${timeStart}-${rowIndex}`,
+        dayIndex,
         time: timeRaw,
         timeSlotIndex,
         subject,
@@ -204,7 +217,7 @@ export function parseSmtuScheduleHtml(html: string, groupId: string, groupName =
       });
     });
 
-    if (lessons.length > 0 || dayIndex <= 6) {
+    if (lessons.length > 0 || (dayIndex >= 1 && dayIndex <= 6)) {
       days.push({
         dayName,
         dayIndex: dayIndex > 0 ? dayIndex : index + 1,

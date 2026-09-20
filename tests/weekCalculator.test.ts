@@ -36,6 +36,14 @@ describe('Week Calculator (СПбГМТУ)', () => {
 
     const invalid = parseTimeRange('invalid-time');
     expect(invalid).toBeNull();
+
+    expect(parseTimeRange('25:00-26:00')).toBeNull();
+    expect(parseTimeRange('12:70-13:00')).toBeNull();
+    expect(parseTimeRange('14:00-10:00')).toBeNull(); // inverted range
+    // @ts-expect-error testing invalid input
+    expect(parseTimeRange(null)).toBeNull();
+    // @ts-expect-error testing invalid input
+    expect(parseTimeRange(undefined)).toBeNull();
   });
 
   it('filters lessons based on parity selection', () => {

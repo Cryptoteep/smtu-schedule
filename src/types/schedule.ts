@@ -11,6 +11,7 @@ export interface TeacherInfo {
 
 export interface Lesson {
   id: string;
+  dayIndex?: number;
   time: string;
   timeSlotIndex: number;
   subject: string;

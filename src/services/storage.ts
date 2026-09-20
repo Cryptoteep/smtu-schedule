@@ -49,11 +49,15 @@ export const storage = {
   },
 
   setCurrentTeacher(teacher: TeacherItem): void {
+    if (!teacher) return;
     try {
       localStorage.setItem(KEYS.CURRENT_TEACHER, JSON.stringify(teacher));
-      this.addRecentTeacher(teacher);
+      storage.addRecentTeacher(teacher);
     } catch (e) {
-      console.warn('Storage error saving current teacher:', e);
+      storage.evictOldCaches();
+      try {
+        localStorage.setItem(KEYS.CURRENT_TEACHER, JSON.stringify(teacher));
+      } catch {}
     }
   },
 
@@ -67,14 +71,16 @@ export const storage = {
   },
 
   addRecentTeacher(teacher: TeacherItem): void {
+    if (!teacher) return;
     try {
-      const recents = this.getRecentTeachers().filter((t) => t.id !== teacher.id && t.name !== teacher.name);
+      const recents = storage.getRecentTeachers().filter((t) => t.id !== teacher.id && t.name !== teacher.name);
       const updated = [teacher, ...recents].slice(0, 8);
       localStorage.setItem(KEYS.RECENT_TEACHERS, JSON.stringify(updated));
     } catch {}
   },
 
   getCachedTeacherSchedule(teacherIdOrName: string): TeacherSchedule | null {
+    if (!teacherIdOrName) return null;
     try {
       const data = localStorage.getItem(KEYS.TEACHER_CACHE_PREFIX + teacherIdOrName);
       return data ? JSON.parse(data) : null;
@@ -84,18 +90,50 @@ export const storage = {
   },
 
   setCachedTeacherSchedule(schedule: TeacherSchedule): void {
+    if (!schedule) return;
+    const save = () => {
+      if (schedule.teacherId) {
+        localStorage.setItem(KEYS.TEACHER_CACHE_PREFIX + schedule.teacherId, JSON.stringify(schedule));
+      }
+      if (schedule.teacherName && schedule.teacherName !== schedule.teacherId) {
+        localStorage.setItem(KEYS.TEACHER_CACHE_PREFIX + schedule.teacherName, JSON.stringify(schedule));
+      }
+    };
     try {
-      localStorage.setItem(KEYS.TEACHER_CACHE_PREFIX + (schedule.teacherId || schedule.teacherName), JSON.stringify(schedule));
-    } catch {}
+      save();
+    } catch {
+      storage.evictOldCaches();
+      try { save(); } catch {}
+    }
   },
 
   setCurrentGroup(group: GroupItem): void {
+    if (!group) return;
     try {
       localStorage.setItem(KEYS.CURRENT_GROUP, JSON.stringify(group));
-      this.addRecentGroup(group);
+      storage.addRecentGroup(group);
     } catch (e) {
-      console.warn('Storage error saving current group:', e);
+      storage.evictOldCaches();
+      try {
+        localStorage.setItem(KEYS.CURRENT_GROUP, JSON.stringify(group));
+      } catch {}
     }
+  },
+
+  evictOldCaches(): void {
+    try {
+      const keysToRemove: string[] = [];
+      for (let i = 0; i < localStorage.length; i++) {
+        const k = localStorage.key(i);
+        if (k && (k.startsWith(KEYS.SCHEDULE_CACHE_PREFIX) || k.startsWith(KEYS.TEACHER_CACHE_PREFIX))) {
+          keysToRemove.push(k);
+        }
+      }
+      // Evict oldest cached schedules to release browser storage quota
+      keysToRemove.slice(0, Math.ceil(keysToRemove.length / 2)).forEach((k) => {
+        try { localStorage.removeItem(k); } catch {}
+      });
+    } catch {}
   },
 
   getFavorites(): GroupItem[] {
@@ -108,8 +146,9 @@ export const storage = {
   },
 
   toggleFavorite(group: GroupItem): boolean {
+    if (!group) return false;
     try {
-      const favorites = this.getFavorites();
+      const favorites = storage.getFavorites();
       const exists = favorites.some((g) => g.id === group.id);
       let updated: GroupItem[];
       if (exists) {
@@ -125,7 +164,8 @@ export const storage = {
   },
 
   isFavorite(groupId: string): boolean {
-    return this.getFavorites().some((g) => g.id === groupId);
+    if (!groupId) return false;
+    return storage.getFavorites().some((g) => g.id === groupId);
   },
 
   getFavoriteTeachers(): TeacherItem[] {
@@ -138,8 +178,9 @@ export const storage = {
   },
 
   toggleFavoriteTeacher(teacher: TeacherItem): boolean {
+    if (!teacher) return false;
     try {
-      const favorites = this.getFavoriteTeachers();
+      const favorites = storage.getFavoriteTeachers();
       const exists = favorites.some((t) => t.id === teacher.id || t.name === teacher.name);
       let updated: TeacherItem[];
       if (exists) {
@@ -155,7 +196,8 @@ export const storage = {
   },
 
   isFavoriteTeacher(teacherIdOrName: string): boolean {
-    return this.getFavoriteTeachers().some(
+    if (!teacherIdOrName) return false;
+    return storage.getFavoriteTeachers().some(
       (t) => t.id === teacherIdOrName || t.name === teacherIdOrName
     );
   },
@@ -170,8 +212,9 @@ export const storage = {
   },
 
   addRecentGroup(group: GroupItem): void {
+    if (!group) return;
     try {
-      const recents = this.getRecentGroups().filter((g) => g.id !== group.id);
+      const recents = storage.getRecentGroups().filter((g) => g.id !== group.id);
       const updated = [group, ...recents].slice(0, 8);
       localStorage.setItem(KEYS.RECENT_GROUPS, JSON.stringify(updated));
     } catch (e) {
@@ -180,6 +223,7 @@ export const storage = {
   },
 
   getCachedSchedule(groupId: string): GroupSchedule | null {
+    if (!groupId) return null;
     try {
       const data = localStorage.getItem(KEYS.SCHEDULE_CACHE_PREFIX + groupId);
       return data ? JSON.parse(data) : null;
@@ -189,10 +233,20 @@ export const storage = {
   },
 
   setCachedSchedule(schedule: GroupSchedule): void {
+    if (!schedule) return;
+    const save = () => {
+      if (schedule.groupId) {
+        localStorage.setItem(KEYS.SCHEDULE_CACHE_PREFIX + schedule.groupId, JSON.stringify(schedule));
+      }
+      if (schedule.groupName && schedule.groupName !== schedule.groupId) {
+        localStorage.setItem(KEYS.SCHEDULE_CACHE_PREFIX + schedule.groupName, JSON.stringify(schedule));
+      }
+    };
     try {
-      localStorage.setItem(KEYS.SCHEDULE_CACHE_PREFIX + schedule.groupId, JSON.stringify(schedule));
+      save();
     } catch (e) {
-      console.warn('Storage error caching schedule:', e);
+      storage.evictOldCaches();
+      try { save(); } catch {}
     }
   },
 
@@ -210,18 +264,24 @@ export const storage = {
   },
 
   saveNote(note: LessonNote): void {
+    if (!note) return;
     try {
-      const allNotes = this.getNotes().filter((n) => n.id !== note.id);
+      const allNotes = storage.getNotes().filter((n) => n.id !== note.id);
       const updated = [note, ...allNotes];
       localStorage.setItem(KEYS.NOTES, JSON.stringify(updated));
     } catch (e) {
-      console.warn('Storage error saving note:', e);
+      storage.evictOldCaches();
+      try {
+        const allNotes = storage.getNotes().filter((n) => n.id !== note.id);
+        localStorage.setItem(KEYS.NOTES, JSON.stringify([note, ...allNotes]));
+      } catch {}
     }
   },
 
   deleteNote(noteId: string): void {
+    if (!noteId) return;
     try {
-      const updated = this.getNotes().filter((n) => n.id !== noteId);
+      const updated = storage.getNotes().filter((n) => n.id !== noteId);
       localStorage.setItem(KEYS.NOTES, JSON.stringify(updated));
     } catch (e) {
       console.warn('Storage error deleting note:', e);

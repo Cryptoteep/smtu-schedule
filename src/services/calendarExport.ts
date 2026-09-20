@@ -21,7 +21,20 @@ function formatIcsDateTime(date: Date): string {
   return `${year}${month}${day}T${hours}${mins}${secs}`;
 }
 
+function escapeIcsText(str: string): string {
+  if (!str) return '';
+  return str
+    .replace(/\\/g, '\\\\')
+    .replace(/;/g, '\\;')
+    .replace(/,/g, '\\,')
+    .replace(/\r?\n/g, '\\n');
+}
+
 export function generateIcsCalendar(schedule: GroupSchedule): string {
+  if (!schedule || !schedule.days) {
+    return 'BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//SPbGMTU//Korabelka Schedule App//RU\r\nEND:VCALENDAR';
+  }
+
   const isTeacher =
     schedule.groupId.startsWith('teacher_') || schedule.facultyName === 'Преподаватель СПбГМТУ';
 
@@ -31,7 +44,7 @@ export function generateIcsCalendar(schedule: GroupSchedule): string {
     'PRODID:-//SPbGMTU//Korabelka Schedule App//RU',
     'CALSCALE:GREGORIAN',
     'METHOD:PUBLISH',
-    `X-WR-CALNAME:СПбГМТУ - ${schedule.groupName}`,
+    `X-WR-CALNAME:${escapeIcsText(`СПбГМТУ - ${schedule.groupName}`)}`,
     'X-WR-TIMEZONE:Europe/Moscow',
   ];
 
@@ -42,17 +55,48 @@ export function generateIcsCalendar(schedule: GroupSchedule): string {
   monday.setDate(now.getDate() - (currentDay - 1));
   monday.setHours(0, 0, 0, 0);
 
+  // Determine current academic week parity to properly align bi-weekly (INTERVAL=2) schedules
+  const currentWeekMonth = monday.getMonth();
+  const currentWeekYear = monday.getFullYear();
+  let semesterStartMonday: Date;
+  if (currentWeekMonth >= 8) {
+    semesterStartMonday = new Date(currentWeekYear, 8, 1);
+  } else if (currentWeekMonth === 0) {
+    semesterStartMonday = new Date(currentWeekYear - 1, 8, 1);
+  } else {
+    const febFirst = new Date(currentWeekYear, 1, 1);
+    const dayOfWeek = febFirst.getDay() || 7;
+    const firstMondayOffset = (8 - dayOfWeek) % 7;
+    semesterStartMonday = new Date(currentWeekYear, 1, 1 + firstMondayOffset + 7);
+  }
+  const sDay = semesterStartMonday.getDay() || 7;
+  semesterStartMonday.setDate(semesterStartMonday.getDate() - (sDay - 1));
+  semesterStartMonday.setHours(0, 0, 0, 0);
+
+  const diffWeeks = Math.floor((monday.getTime() - semesterStartMonday.getTime()) / (7 * 86400000));
+  const isCurrentWeekUp = (Math.max(1, diffWeeks + 1) % 2) !== 0;
+
   schedule.days.forEach((day) => {
     const dayCode = DAY_ICS_CODE[day.dayIndex];
     if (!dayCode) return;
 
     // Calculate specific date for this day of week
-    const lessonDate = new Date(monday);
-    lessonDate.setDate(monday.getDate() + (day.dayIndex - 1));
+    const baseLessonDate = new Date(monday);
+    baseLessonDate.setDate(monday.getDate() + (day.dayIndex - 1));
 
     day.lessons.forEach((lesson) => {
       const times = parseTimeRange(lesson.time);
       if (!times) return;
+
+      const lessonDate = new Date(baseLessonDate);
+
+      // Parity alignment: If lesson is bi-weekly and its parity does not match the current week,
+      // shift first occurrence by +7 days so recurrence falls on the true matching weeks!
+      if (lesson.weekParity === 'up' && !isCurrentWeekUp) {
+        lessonDate.setDate(lessonDate.getDate() + 7);
+      } else if (lesson.weekParity === 'down' && isCurrentWeekUp) {
+        lessonDate.setDate(lessonDate.getDate() + 7);
+      }
 
       const startDate = new Date(lessonDate);
       startDate.setHours(Math.floor(times.startMinutes / 60), times.startMinutes % 60, 0);
@@ -71,7 +115,7 @@ export function generateIcsCalendar(schedule: GroupSchedule): string {
           ? `${lesson.subject} [Гр. ${lesson.groupName}]`
           : `${lesson.subject} (${lesson.rawType || lesson.type})`;
 
-      const location = `${lesson.room} (${lesson.campus})`;
+      const location = `${lesson.room} (${lesson.campus || 'СПбГМТУ'})`;
       const descParts: string[] = [];
 
       if (isTeacher) {
@@ -100,15 +144,20 @@ export function generateIcsCalendar(schedule: GroupSchedule): string {
         descParts.push(`Даты: ${lesson.dateSpecific}`);
       }
 
+      // Deterministic RFC 5545 UID based on schedule and lesson id to avoid calendar duplicates upon re-export
+      const cleanGroupId = schedule.groupId.replace(/[^a-zA-Z0-9_-]/g, '');
+      const cleanLessonId = (lesson.id || `${day.dayIndex}-${times.startMinutes}`).replace(/[^a-zA-Z0-9_-]/g, '');
+      const uid = `smtu-${cleanGroupId}-${cleanLessonId}@smtu.ru`;
+
       lines.push('BEGIN:VEVENT');
-      lines.push(`UID:${lesson.id}-${Date.now()}@smtu.ru`);
+      lines.push(`UID:${uid}`);
       lines.push(`DTSTAMP:${formatIcsDateTime(new Date())}Z`);
       lines.push(`DTSTART;TZID=Europe/Moscow:${formatIcsDateTime(startDate)}`);
       lines.push(`DTEND;TZID=Europe/Moscow:${formatIcsDateTime(endDate)}`);
       lines.push(rrule);
-      lines.push(`SUMMARY:${summary}`);
-      lines.push(`LOCATION:${location}`);
-      lines.push(`DESCRIPTION:${descParts.join('\\n')}`);
+      lines.push(`SUMMARY:${escapeIcsText(summary)}`);
+      lines.push(`LOCATION:${escapeIcsText(location)}`);
+      lines.push(`DESCRIPTION:${descParts.map(escapeIcsText).join('\\n')}`);
       lines.push('STATUS:CONFIRMED');
       lines.push('END:VEVENT');
     });
@@ -118,16 +167,28 @@ export function generateIcsCalendar(schedule: GroupSchedule): string {
   return lines.join('\r\n');
 }
 
-export function downloadIcsFile(schedule: GroupSchedule): void {
-  const icsData = generateIcsCalendar(schedule);
-  const blob = new Blob([icsData], { type: 'text/calendar;charset=utf-8' });
-  const url = URL.createObjectURL(blob);
-  const link = document.createElement('a');
-  link.href = url;
-  const safeName = schedule.groupName.replace(/[^a-zA-Z0-9а-яА-ЯёЁ_-]/g, '_');
-  link.setAttribute('download', `smtu_schedule_${safeName}.ics`);
-  document.body.appendChild(link);
-  link.click();
-  document.body.removeChild(link);
-  URL.revokeObjectURL(url);
+export function downloadIcsFile(schedule: GroupSchedule): boolean {
+  try {
+    const icsData = generateIcsCalendar(schedule);
+    const blob = new Blob([icsData], { type: 'text/calendar;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement('a');
+    link.href = url;
+    const safeName = (schedule?.groupName || 'schedule').replace(/[^a-zA-Z0-9а-яА-ЯёЁ_-]/g, '_');
+    link.setAttribute('download', `smtu_schedule_${safeName}.ics`);
+    document.body.appendChild(link);
+    link.click();
+    setTimeout(() => {
+      try {
+        if (link.parentNode) {
+          document.body.removeChild(link);
+        }
+        URL.revokeObjectURL(url);
+      } catch {}
+    }, 200);
+    return true;
+  } catch (err) {
+    console.error('Failed to download .ics file:', err);
+    return false;
+  }
 }

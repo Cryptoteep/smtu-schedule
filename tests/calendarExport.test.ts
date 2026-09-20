@@ -77,7 +77,41 @@ describe('iCalendar Export (RFC 5545)', () => {
 
     const ics = generateIcsCalendar(teacherMockSchedule);
     expect(ics).toContain('X-WR-CALNAME:СПбГМТУ - Чихонадских Елена Александровна');
-    expect(ics).toContain('SUMMARY:Экология [Гр. 3230, 3231, 3280]');
-    expect(ics).toContain('DESCRIPTION:Преподаватель: Чихонадских Елена Александровна\\nУчебная группа: 3230, 3231, 3280');
+    expect(ics).toContain('SUMMARY:Экология [Гр. 3230\\, 3231\\, 3280]');
+    expect(ics).toContain('DESCRIPTION:Преподаватель: Чихонадских Елена Александровна\\nУчебная группа: 3230\\, 3231\\, 3280');
+  });
+
+  it('produces deterministic RFC 5545 UIDs and escapes special characters correctly', () => {
+    const specialSchedule: GroupSchedule = {
+      groupId: '7624',
+      groupName: '3210',
+      updatedAt: new Date().toISOString(),
+      days: [
+        {
+          dayName: 'Вторник',
+          dayIndex: 2,
+          lessons: [
+            {
+              id: '7624-2-10:10-1',
+              time: '10:10-11:40',
+              timeSlotIndex: 2,
+              subject: 'Физика, химия; математика',
+              type: 'lecture',
+              rawType: 'Лекция',
+              room: 'У 407\\A',
+              campus: 'Ульянка',
+              groupName: '3210',
+              weekParity: 'down',
+            },
+          ],
+        },
+      ],
+    };
+
+    const ics = generateIcsCalendar(specialSchedule);
+    expect(ics).toContain('UID:smtu-7624-7624-2-1010-1@smtu.ru');
+    expect(ics).toContain('SUMMARY:Физика\\, химия\\; математика (Лекция)');
+    expect(ics).toContain('LOCATION:У 407\\\\A (Ульянка)');
+    expect(ics).toContain('INTERVAL=2');
   });
 });

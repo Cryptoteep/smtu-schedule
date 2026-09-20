@@ -52,8 +52,9 @@ export const ScheduleView: React.FC<ScheduleViewProps> = ({
 
   // Group lessons by day
   const daysWithFilteredLessons = useMemo(() => {
+    if (!schedule || !Array.isArray(schedule.days)) return [];
     return schedule.days.map((day) => {
-      const filtered = filterLessonsByParity(day.lessons, effectiveParity);
+      const filtered = filterLessonsByParity(day?.lessons || [], effectiveParity);
       return {
         ...day,
         filteredLessons: filtered,
@@ -177,7 +178,10 @@ export const ScheduleView: React.FC<ScheduleViewProps> = ({
             <div className="grid grid-cols-1 gap-3">
               {activeDay.filteredLessons.map((lesson) => {
                 const lessonNotes = notes.filter(
-                  (n) => n.subject === lesson.subject && n.dayIndex === activeDay.dayIndex && n.time === lesson.time
+                  (n) =>
+                    n.subject === lesson.subject &&
+                    (!n.dayIndex || n.dayIndex === activeDay.dayIndex) &&
+                    n.time === lesson.time
                 );
                 return (
                   <LessonCard
@@ -255,7 +259,10 @@ export const ScheduleView: React.FC<ScheduleViewProps> = ({
                   <div className="grid grid-cols-1 gap-3">
                     {day.filteredLessons.map((lesson) => {
                       const lessonNotes = notes.filter(
-                        (n) => n.subject === lesson.subject && n.dayIndex === day.dayIndex && n.time === lesson.time
+                        (n) =>
+                          n.subject === lesson.subject &&
+                          (!n.dayIndex || n.dayIndex === day.dayIndex) &&
+                          n.time === lesson.time
                       );
                       return (
                         <LessonCard

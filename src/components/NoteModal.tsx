@@ -31,10 +31,10 @@ export const NoteModal: React.FC<NoteModalProps> = ({
     if (!newText.trim()) return;
 
     const note: LessonNote = {
-      id: `note-${Date.now()}`,
+      id: `note-${Date.now()}-${Math.random().toString(36).substring(2, 7)}`,
       groupId,
       subject: lesson.subject,
-      dayIndex: 1, // linked to subject & time
+      dayIndex: lesson.dayIndex || 1,
       time: lesson.time,
       text: newText.trim(),
       deadline: deadline ? deadline : undefined,
