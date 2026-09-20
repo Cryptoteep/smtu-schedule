@@ -2,8 +2,9 @@ name: Daily SMTU Schedule Auto-Sync
 
 on:
   schedule:
-    # Run twice a day at 03:00 and 15:00 UTC (06:00 and 18:00 MSK)
-    - cron: '0 3,15 * * *'
+    # Run 4 times a day (05:17, 11:17, 17:17, 23:17 MSK)
+    # Minute 17 avoids peak hourly cron loads on smtu.ru servers
+    - cron: '17 2,8,14,20 * * *'
   workflow_dispatch:
 
 permissions:
@@ -43,11 +44,12 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/data/ src/data/sampleSchedules.json
+          git add public/data/ src/data/teachers.json src/data/sampleTeachers.json src/data/sampleSchedules.json
           if git diff --staged --quiet; then
             echo "No schedule changes detected."
           else
             git commit -m "chore(sync): automated schedule update from smtu.ru [skip ci]"
+            git pull --rebase origin master || true
             git push origin master
           fi
 

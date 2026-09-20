@@ -2,7 +2,7 @@ import React from 'react';
 import { Clock, MapPin, User, FileText, CheckCircle2, AlertCircle, Navigation, Users } from 'lucide-react';
 import { Lesson, LessonNote, ScheduleMode } from '../types/schedule';
 import { getLessonStatus } from '../services/weekCalculator';
-import { getCampusByRoom } from '../data/campuses';
+import { getCampusByRoom, getFloorByRoom } from '../data/campuses';
 
 interface LessonCardProps {
   lesson: Lesson;
@@ -143,9 +143,10 @@ export const LessonCard: React.FC<LessonCardProps> = ({
         {/* Room and Campus */}
         {(() => {
           const campusInfo = getCampusByRoom(lesson.room);
+          const floor = getFloorByRoom(lesson.room);
           const campusLetter = campusInfo?.letter || 'У';
           return (
-            <div className="flex items-center gap-1">
+            <div className="flex items-center gap-1.5">
               <button
                 onClick={() => onOpenCampus(campusLetter)}
                 className="flex items-center gap-1.5 font-medium text-slate-700 dark:text-slate-300 hover:text-navy-600 dark:hover:text-ship-gold transition group text-left"
@@ -155,6 +156,11 @@ export const LessonCard: React.FC<LessonCardProps> = ({
                   <MapPin className="w-3.5 h-3.5" />
                 </div>
                 <span className="font-bold">{lesson.room}</span>
+                {floor && (
+                  <span className="px-1.5 py-0.5 rounded text-[10px] font-bold bg-slate-100 dark:bg-navy-800 text-slate-600 dark:text-slate-300 border border-slate-200 dark:border-navy-700">
+                    {floor} эт.
+                  </span>
+                )}
                 <span className="text-slate-400 dark:text-slate-500">
                   ({campusInfo?.name || lesson.campus || 'СПбГМТУ'})
                 </span>

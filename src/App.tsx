@@ -8,12 +8,14 @@ import { CampusGuideModal } from './components/CampusGuideModal';
 import { NoteModal } from './components/NoteModal';
 import { CalendarExportModal } from './components/CalendarExportModal';
 import { DownloadModal } from './components/DownloadModal';
+import { LiveStatusWidget } from './components/LiveStatusWidget';
 import { BottomNav } from './components/BottomNav';
 import { useSchedule } from './hooks/useSchedule';
 import { useNotes } from './hooks/useNotes';
 import { storage } from './services/storage';
 import { api } from './services/api';
 import { Lesson } from './types/schedule';
+import { filterLessonsByParity } from './services/weekCalculator';
 import { Sparkles, AlertTriangle } from 'lucide-react';
 
 export const App: React.FC = () => {
@@ -134,6 +136,16 @@ export const App: React.FC = () => {
   // Flatten all lessons from schedule for teacher modal
   const allScheduleLessons = schedule?.days.flatMap((d) => d.lessons) || [];
 
+  // Filter lessons taking place today according to academic week parity
+  const todayLessons = React.useMemo(() => {
+    if (!schedule) return [];
+    const todayJs = new Date().getDay();
+    const dayIndex = todayJs === 0 ? 7 : todayJs; // Sunday is 7
+    const day = schedule.days.find((d) => d.dayIndex === dayIndex);
+    if (!day) return [];
+    return filterLessonsByParity(day.lessons, effectiveParity);
+  }, [schedule, effectiveParity]);
+
   return (
     <div className="min-h-screen bg-slate-50 dark:bg-navy-950 text-slate-900 dark:text-slate-100 flex flex-col transition-colors">
       {/* Header Bar */}
@@ -224,6 +236,15 @@ export const App: React.FC = () => {
               Повторить
             </button>
           </div>
+        )}
+
+        {/* Live Status / Countdown Bar */}
+        {!loading && todayLessons.length > 0 && (
+          <LiveStatusWidget
+            todayLessons={todayLessons}
+            onOpenCampus={handleOpenCampus}
+            onOpenTeacher={handleOpenTeacher}
+          />
         )}
 
         {/* Schedule Cards */}

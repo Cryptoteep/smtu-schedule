@@ -120,3 +120,26 @@ export function getCampusByRoom(room: string): DetailedCampusInfo | undefined {
   // 5. Default to main campus (Ульянка) where 85% of university facilities are located
   return CAMPUSES['У'];
 }
+
+/**
+ * Extracts floor number from room string (e.g. "324 Корпус У" -> 3, "У 167" -> 1, "509 Корпус Г" -> 5).
+ * Returns null if room does not indicate a standard numeric floor.
+ */
+export function getFloorByRoom(room?: string): number | null {
+  if (!room) return null;
+  const str = room.trim();
+
+  // 1. Standard 3-digit room (e.g., 101-699), optionally followed by letter: 407, 316, 502а
+  const match = str.match(/\b([1-6])\d{2}[а-яА-Яa-zA-Z]?\b/);
+  if (match) {
+    return parseInt(match[1], 10);
+  }
+
+  // 2. Room after campus letter (e.g., "У 167", "А 407")
+  const letterAfter = str.match(/^[УАБГМС]\s*([1-6])\d{2}\b/i);
+  if (letterAfter) {
+    return parseInt(letterAfter[1], 10);
+  }
+
+  return null;
+}

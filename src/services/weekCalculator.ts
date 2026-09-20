@@ -119,3 +119,73 @@ export function getLessonStatus(timeStr: string, currentDate = new Date()): {
 
   return { status: 'passed' };
 }
+
+/**
+ * Data-driven parity calculation derived directly from schedule occurrences.
+ * Counts parity votes per Monday for lessons with exactDates.
+ * Falls back to calendar calculation if no occurrences data is available.
+ */
+export function deriveParityFromSchedule(
+  lessons: Lesson[],
+  currentDate = new Date()
+): { parity: 'up' | 'down'; isDerived: boolean } {
+  const votes = new Map<number, { up: number; down: number }>();
+
+  for (const lesson of lessons) {
+    if (!lesson.exactDates || lesson.exactDates.length === 0) continue;
+    if (lesson.weekParity !== 'up' && lesson.weekParity !== 'down') continue;
+
+    for (const dStr of lesson.exactDates) {
+      const parts = dStr.split('.');
+      if (parts.length !== 3) continue;
+      const day = parseInt(parts[0], 10);
+      const month = parseInt(parts[1], 10) - 1;
+      const year = parseInt(parts[2], 10);
+      const d = new Date(year, month, day);
+      if (isNaN(d.getTime())) continue;
+
+      // Find Monday of this date
+      const dayOfWeek = (d.getDay() + 6) % 7; // Mon=0 .. Sun=6
+      const mondayEpoch = Math.floor((d.getTime() - dayOfWeek * 86400000) / (7 * 86400000));
+
+      const v = votes.get(mondayEpoch) || { up: 0, down: 0 };
+      if (lesson.weekParity === 'up') v.up++;
+      else v.down++;
+      votes.set(mondayEpoch, v);
+    }
+  }
+
+  if (votes.size > 0) {
+    // Current week Monday epoch
+    const curDayOfWeek = (currentDate.getDay() + 6) % 7;
+    const curMondayEpoch = Math.floor((currentDate.getTime() - curDayOfWeek * 86400000) / (7 * 86400000));
+
+    // Find closest or best voted Monday
+    let bestKey: number | null = null;
+    let maxMargin = -1;
+    let isUp = true;
+
+    for (const [key, v] of votes.entries()) {
+      const margin = Math.abs(v.up - v.down);
+      if (margin > maxMargin) {
+        maxMargin = margin;
+        bestKey = key;
+        isUp = v.up >= v.down;
+      }
+    }
+
+    if (bestKey !== null) {
+      const diffWeeks = curMondayEpoch - bestKey;
+      const curIsUp = diffWeeks % 2 === 0 ? isUp : !isUp;
+      return {
+        parity: curIsUp ? 'up' : 'down',
+        isDerived: true
+      };
+    }
+  }
+
+  return {
+    parity: getAcademicWeek(currentDate).parity,
+    isDerived: false
+  };
+}

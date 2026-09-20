@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { getCampusByRoom } from '../src/data/campuses';
+import { getCampusByRoom, getFloorByRoom } from '../src/data/campuses';
 
 describe('Campuses and Room Matching', () => {
   it('correctly maps standard room numbers to campuses', () => {
@@ -49,4 +49,16 @@ describe('Campuses and Room Matching', () => {
     const unknown = getCampusByRoom('Лаборатория');
     expect(unknown?.letter).toBe('У');
   });
+
+  it('correctly calculates room floor', () => {
+    expect(getFloorByRoom('324 Корпус У')).toBe(3);
+    expect(getFloorByRoom('У 167')).toBe(1);
+    expect(getFloorByRoom('А 407')).toBe(4);
+    expect(getFloorByRoom('Б 201')).toBe(2);
+    expect(getFloorByRoom('509 Корпус Г')).toBe(5);
+    expect(getFloorByRoom('402а Корпус Б')).toBe(4);
+    expect(getFloorByRoom('Актовый зал')).toBeNull();
+    expect(getFloorByRoom('')).toBeNull();
+  });
 });
+

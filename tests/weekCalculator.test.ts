@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { getAcademicWeek, filterLessonsByParity, parseTimeRange, getLessonStatus } from '../src/services/weekCalculator';
+import { getAcademicWeek, filterLessonsByParity, parseTimeRange, getLessonStatus, deriveParityFromSchedule } from '../src/services/weekCalculator';
 import { Lesson } from '../src/types/schedule';
 
 describe('Week Calculator (СПбГМТУ)', () => {
@@ -71,4 +71,48 @@ describe('Week Calculator (СПбГМТУ)', () => {
     const status3 = getLessonStatus('07:00-08:00', now);
     expect(status3.status).toBe('passed');
   });
+
+  it('derives parity directly from schedule exactDates occurrences', () => {
+    const mockLessons: Lesson[] = [
+      {
+        id: '1',
+        time: '08:30-10:00',
+        timeSlotIndex: 1,
+        subject: 'Высшая математика',
+        type: 'lecture',
+        rawType: 'Лекция',
+        room: 'У 407',
+        campus: 'Ульянка',
+        groupName: '3280',
+        weekParity: 'up',
+        exactDates: ['14.09.2026', '28.09.2026']
+      },
+      {
+        id: '2',
+        time: '10:10-11:40',
+        timeSlotIndex: 2,
+        subject: 'Теоретическая механика',
+        type: 'practice',
+        rawType: 'Практика',
+        room: 'У 408',
+        campus: 'Ульянка',
+        groupName: '3280',
+        weekParity: 'down',
+        exactDates: ['21.09.2026', '05.10.2026']
+      }
+    ];
+
+    // On 14 Sept 2026 (Monday of upper week)
+    const d1 = new Date(2026, 8, 14);
+    const p1 = deriveParityFromSchedule(mockLessons, d1);
+    expect(p1.isDerived).toBe(true);
+    expect(p1.parity).toBe('up');
+
+    // On 21 Sept 2026 (Monday of lower week)
+    const d2 = new Date(2026, 8, 21);
+    const p2 = deriveParityFromSchedule(mockLessons, d2);
+    expect(p2.isDerived).toBe(true);
+    expect(p2.parity).toBe('down');
+  });
 });
+
