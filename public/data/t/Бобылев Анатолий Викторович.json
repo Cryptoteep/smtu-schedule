@@ -1,0 +1,90 @@
+{
+  "teacherId": "Бобылев Анатолий Викторович",
+  "teacherName": "Бобылев Анатолий Викторович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/04/small/p124711.jpg?token_static=621cbba67deb7c1cd1118bd8a07b8365",
+  "updatedAt": "2026-09-20T13:53:17.847Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7779-1-14:00-9",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Комплексная защита объектов информатизации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20480",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бобылев Анатолий Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/04/small/p124711.jpg?token_static=621cbba67deb7c1cd1118bd8a07b8365"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7779-4-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Организационное и правовое обеспечение информационной безопасности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20480",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бобылев Анатолий Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/04/small/p124711.jpg?token_static=621cbba67deb7c1cd1118bd8a07b8365"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7805-5-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы информационной безопасности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12510-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бобылев Анатолий Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/04/small/p124711.jpg?token_static=621cbba67deb7c1cd1118bd8a07b8365"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

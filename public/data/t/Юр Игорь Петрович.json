@@ -1,0 +1,190 @@
+{
+  "teacherId": "Юр Игорь Петрович",
+  "teacherName": "Юр Игорь Петрович",
+  "updatedAt": "2026-09-20T13:53:17.992Z",
+  "totalLessons": 10,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7713-4-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Гражданское право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 01Ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7361",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Юр Игорь Петрович"
+          }
+        },
+        {
+          "id": "7714-4-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Гражданское право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 304ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Юр Игорь Петрович"
+          }
+        },
+        {
+          "id": "7715-4-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Гражданское право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 304ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7363",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Юр Игорь Петрович"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7692-5-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Гражданское право",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 01Ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5200",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Юр Игорь Петрович"
+          }
+        },
+        {
+          "id": "7692-5-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Гражданское право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 01Ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5200",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Юр Игорь Петрович"
+          }
+        },
+        {
+          "id": "7713-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Гражданское право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 02ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7361",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Юр Игорь Петрович"
+          }
+        },
+        {
+          "id": "7713-5-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Гражданское право",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7361, 7362, 7363",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Юр Игорь Петрович"
+          }
+        },
+        {
+          "id": "7714-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Гражданское право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 410",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Юр Игорь Петрович"
+          }
+        },
+        {
+          "id": "7714-5-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Гражданское право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 02ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Юр Игорь Петрович"
+          }
+        },
+        {
+          "id": "7715-5-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Гражданское право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 403",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7363",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Юр Игорь Петрович"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

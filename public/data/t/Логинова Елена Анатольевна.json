@@ -1,0 +1,363 @@
+{
+  "teacherId": "Логинова Елена Анатольевна",
+  "teacherName": "Логинова Елена Анатольевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4",
+  "updatedAt": "2026-09-20T13:53:17.702Z",
+  "totalLessons": 20,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7494-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Химмотология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        },
+        {
+          "id": "7494-2-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Тяговые расчеты",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 412",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        },
+        {
+          "id": "7494-2-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Химмотология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        },
+        {
+          "id": "7494-2-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Тяговые расчеты",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 412",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "8054-3-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Чрезвычайные ситуации и методы защиты",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "10449",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        },
+        {
+          "id": "8054-3-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Чрезвычайные ситуации и методы защиты",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "10449",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        },
+        {
+          "id": "8054-3-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Чрезвычайные ситуации и методы защиты",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "10449",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        },
+        {
+          "id": "8054-3-19:00-5",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Чрезвычайные ситуации и методы защиты",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "10449",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        },
+        {
+          "id": "7887-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Научно-технический семинар",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 326",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12826-58",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        },
+        {
+          "id": "7887-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Научно-технический семинар",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12826-58",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        },
+        {
+          "id": "7887-3-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Научно-технический семинар",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 326",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12826-58",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "8054-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Чрезвычайные ситуации и методы защиты",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 326",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "10449",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        },
+        {
+          "id": "8054-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Чрезвычайные ситуации и методы защиты",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 326",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "10449",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        },
+        {
+          "id": "8054-4-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Чрезвычайные ситуации и методы защиты",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "10449",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        },
+        {
+          "id": "8054-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Чрезвычайные ситуации и методы защиты",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 326",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "10449",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        },
+        {
+          "id": "7611-4-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Химмотология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2426",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        },
+        {
+          "id": "7611-4-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Химмотология",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2426",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7786-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информатика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12226-08",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        },
+        {
+          "id": "7786-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12226-08",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        },
+        {
+          "id": "7786-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12226-08",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Логинова Елена Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

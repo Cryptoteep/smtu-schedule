@@ -1,0 +1,56 @@
+{
+  "teacherId": "Корсмик Рудольф Сергеевич",
+  "teacherName": "Корсмик Рудольф Сергеевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/02/01/small/p104768.jpg?token_static=8bdbb4f30ad9d65335d41f10b76869f5",
+  "updatedAt": "2026-09-20T13:53:17.823Z",
+  "totalLessons": 1,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "8048-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технологии ремонта и восстановления изделий",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20277, 20278",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Корсмик Рудольф Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/02/01/small/p104768.jpg?token_static=8bdbb4f30ad9d65335d41f10b76869f5"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

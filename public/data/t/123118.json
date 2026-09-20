@@ -1,0 +1,133 @@
+{
+  "teacherId": "123118",
+  "teacherName": "Лазарева Наталья Алексеевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/29/small/p123118.jpg?token_static=f2f52a3d096552c76273044a533edcbc",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/123118/",
+  "updatedAt": "2026-09-20T13:53:17.963Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7477-1-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Бухгалтерский учет",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4211",
+          "weekParity": "both",
+          "dateSpecific": "07.09 по 26.10",
+          "teacher": {
+            "name": "Лазарева Наталья Алексеевна",
+            "id": "123118",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123118/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/29/small/p123118.jpg?token_static=f2f52a3d096552c76273044a533edcbc"
+          }
+        },
+        {
+          "id": "7477-1-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Бухгалтерский учет",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4211",
+          "weekParity": "both",
+          "dateSpecific": "07.09 по 26.10",
+          "teacher": {
+            "name": "Лазарева Наталья Алексеевна",
+            "id": "123118",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123118/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/29/small/p123118.jpg?token_static=f2f52a3d096552c76273044a533edcbc"
+          }
+        },
+        {
+          "id": "7686-1-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Автоматизация бухгалтерского и управленческого учета",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4402",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Лазарева Наталья Алексеевна",
+            "id": "123118",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123118/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/29/small/p123118.jpg?token_static=f2f52a3d096552c76273044a533edcbc"
+          }
+        },
+        {
+          "id": "7686-1-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Автоматизация бухгалтерского и управленческого учета",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4402, 4403",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Лазарева Наталья Алексеевна",
+            "id": "123118",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123118/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/29/small/p123118.jpg?token_static=f2f52a3d096552c76273044a533edcbc"
+          }
+        },
+        {
+          "id": "7493-1-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Автоматизация бухгалтерского и управленческого учета",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4403",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Лазарева Наталья Алексеевна",
+            "id": "123118",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123118/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/29/small/p123118.jpg?token_static=f2f52a3d096552c76273044a533edcbc"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

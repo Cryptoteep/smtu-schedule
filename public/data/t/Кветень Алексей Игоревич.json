@@ -1,0 +1,69 @@
+{
+  "teacherId": "Кветень Алексей Игоревич",
+  "teacherName": "Кветень Алексей Игоревич",
+  "updatedAt": "2026-09-20T13:53:17.796Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7577-2-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технология постройки подводных лодок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413Б",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кветень Алексей Игоревич"
+          }
+        },
+        {
+          "id": "7577-2-19:00-5",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Технология постройки подводных лодок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413Б",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кветень Алексей Игоревич"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

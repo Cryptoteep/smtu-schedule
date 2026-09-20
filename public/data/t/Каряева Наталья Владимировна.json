@@ -1,0 +1,121 @@
+{
+  "teacherId": "Каряева Наталья Владимировна",
+  "teacherName": "Каряева Наталья Владимировна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/05/small/p124606.jpg?token_static=d801bc0794ee4a4be541db45005ecdf5",
+  "updatedAt": "2026-09-20T13:53:18.056Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7720-5-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Материаловедение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8210, 8220, 8230, 8240, 13715-73",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Каряева Наталья Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/05/small/p124606.jpg?token_static=d801bc0794ee4a4be541db45005ecdf5"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7720-6-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Материаловедение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 245",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Каряева Наталья Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/05/small/p124606.jpg?token_static=d801bc0794ee4a4be541db45005ecdf5"
+          }
+        },
+        {
+          "id": "7721-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Материаловедение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 245",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8220, 13715-73",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Каряева Наталья Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/05/small/p124606.jpg?token_static=d801bc0794ee4a4be541db45005ecdf5"
+          }
+        },
+        {
+          "id": "7722-6-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материаловедение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 245",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8230",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Каряева Наталья Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/05/small/p124606.jpg?token_static=d801bc0794ee4a4be541db45005ecdf5"
+          }
+        },
+        {
+          "id": "7723-6-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Материаловедение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 245",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8240",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Каряева Наталья Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/05/small/p124606.jpg?token_static=d801bc0794ee4a4be541db45005ecdf5"
+          }
+        }
+      ]
+    }
+  ]
+}

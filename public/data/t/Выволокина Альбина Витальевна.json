@@ -1,0 +1,108 @@
+{
+  "teacherId": "Выволокина Альбина Витальевна",
+  "teacherName": "Выволокина Альбина Витальевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/31/small/p126941.jpg?token_static=ac1ee48f55a60d9ac55b35359ccd8a63",
+  "updatedAt": "2026-09-20T13:53:18.023Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7797-2-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информационные системы в юридической деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-02",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Выволокина Альбина Витальевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/31/small/p126941.jpg?token_static=ac1ee48f55a60d9ac55b35359ccd8a63"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7711-3-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Цифровизация юридической деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7282",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 26.10",
+          "teacher": {
+            "name": "Выволокина Альбина Витальевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/31/small/p126941.jpg?token_static=ac1ee48f55a60d9ac55b35359ccd8a63"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7796-4-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информационные системы в юридической деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Выволокина Альбина Витальевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/31/small/p126941.jpg?token_static=ac1ee48f55a60d9ac55b35359ccd8a63"
+          }
+        },
+        {
+          "id": "7796-4-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Информационные системы в юридической деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-01",
+          "weekParity": "down",
+          "dateSpecific": "29.09",
+          "teacher": {
+            "name": "Выволокина Альбина Витальевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/31/small/p126941.jpg?token_static=ac1ee48f55a60d9ac55b35359ccd8a63"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

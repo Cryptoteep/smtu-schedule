@@ -1,0 +1,113 @@
+{
+  "teacherId": "101355",
+  "teacherName": "Шейнерман Сергей Абрамович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101355.jpg?token_static=34602979af2cc61f35f7f3276382e51c",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101355/",
+  "updatedAt": "2026-09-20T13:53:17.722Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7548-3-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1220",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шейнерман Сергей Абрамович",
+            "id": "101355",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101355/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101355.jpg?token_static=34602979af2cc61f35f7f3276382e51c"
+          }
+        },
+        {
+          "id": "7548-3-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 504",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1220, 1250, 1280",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Шейнерман Сергей Абрамович",
+            "id": "101355",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101355/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101355.jpg?token_static=34602979af2cc61f35f7f3276382e51c"
+          }
+        },
+        {
+          "id": "7503-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1250",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шейнерман Сергей Абрамович",
+            "id": "101355",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101355/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101355.jpg?token_static=34602979af2cc61f35f7f3276382e51c"
+          }
+        },
+        {
+          "id": "7553-3-14:00-9",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1280",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шейнерман Сергей Абрамович",
+            "id": "101355",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101355/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101355.jpg?token_static=34602979af2cc61f35f7f3276382e51c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

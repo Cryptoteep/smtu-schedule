@@ -1,0 +1,95 @@
+{
+  "teacherId": "100240",
+  "teacherName": "Воршевский Петр Александрович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100240.jpg?token_static=38175d84930a7e56af72b82a79c8062a",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/100240/",
+  "updatedAt": "2026-09-20T13:53:17.861Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7588-3-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Судовые электроэнергетические комплексы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Воршевский Петр Александрович",
+            "id": "100240",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100240/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100240.jpg?token_static=38175d84930a7e56af72b82a79c8062a"
+          }
+        },
+        {
+          "id": "7588-3-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Судовые электроэнергетические комплексы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ЦДО Дистанционно",
+          "campus": "СПбГМТУ",
+          "groupName": "2262, 2292",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Воршевский Петр Александрович",
+            "id": "100240",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100240/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100240.jpg?token_static=38175d84930a7e56af72b82a79c8062a"
+          }
+        },
+        {
+          "id": "7597-3-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Судовые электроэнергетические комплексы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ЦДО Дистанционно",
+          "campus": "СПбГМТУ",
+          "groupName": "2292",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Воршевский Петр Александрович",
+            "id": "100240",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100240/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100240.jpg?token_static=38175d84930a7e56af72b82a79c8062a"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

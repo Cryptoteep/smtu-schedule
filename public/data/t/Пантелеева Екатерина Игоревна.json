@@ -1,0 +1,113 @@
+{
+  "teacherId": "123122",
+  "teacherName": "Пантелеева Екатерина Игоревна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/22/small/p123122.jpg?token_static=7bd9648d996c310a06098d7a24f060ec",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/123122/",
+  "updatedAt": "2026-09-20T13:53:17.939Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7642-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы технологии приборостроения и машиностроения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324, 3325, 3326",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пантелеева Екатерина Игоревна",
+            "id": "123122",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123122/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/22/small/p123122.jpg?token_static=7bd9648d996c310a06098d7a24f060ec"
+          }
+        },
+        {
+          "id": "7642-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы технологии приборостроения и машиностроения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324, 3325, 3326",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пантелеева Екатерина Игоревна",
+            "id": "123122",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123122/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/22/small/p123122.jpg?token_static=7bd9648d996c310a06098d7a24f060ec"
+          }
+        },
+        {
+          "id": "7642-3-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы технологии приборостроения и машиностроения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324, 3325, 3326",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пантелеева Екатерина Игоревна",
+            "id": "123122",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123122/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/22/small/p123122.jpg?token_static=7bd9648d996c310a06098d7a24f060ec"
+          }
+        },
+        {
+          "id": "7660-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы технологии машиностроения и приборостроения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 323",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3480",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пантелеева Екатерина Игоревна",
+            "id": "123122",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123122/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/22/small/p123122.jpg?token_static=7bd9648d996c310a06098d7a24f060ec"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

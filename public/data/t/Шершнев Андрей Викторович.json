@@ -1,0 +1,132 @@
+{
+  "teacherId": "101357",
+  "teacherName": "Шершнев Андрей Викторович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/05/small/p101357.jpg?token_static=fe392d3d49f87f11d900d06441ba686f",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101357/",
+  "updatedAt": "2026-09-20T13:53:17.953Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7492-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Функциональное программное обеспечение информационно-управляющих систем (ДСП)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 207",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шершнев Андрей Викторович",
+            "id": "101357",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101357/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/05/small/p101357.jpg?token_static=fe392d3d49f87f11d900d06441ba686f"
+          }
+        },
+        {
+          "id": "7662-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информационно-управляющие системы корабельных комплексов вооружения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 207",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3524",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шершнев Андрей Викторович",
+            "id": "101357",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101357/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/05/small/p101357.jpg?token_static=fe392d3d49f87f11d900d06441ba686f"
+          }
+        },
+        {
+          "id": "7663-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информационно-управляющие системы морских робототехнических комплексов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 207",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3525, 3526",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шершнев Андрей Викторович",
+            "id": "101357",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101357/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/05/small/p101357.jpg?token_static=fe392d3d49f87f11d900d06441ba686f"
+          }
+        },
+        {
+          "id": "7663-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информационно-управляющие системы морских робототехнических комплексов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 207",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3525, 3526",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шершнев Андрей Викторович",
+            "id": "101357",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101357/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/05/small/p101357.jpg?token_static=fe392d3d49f87f11d900d06441ba686f"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7662-5-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Информационно-управляющие системы корабельных комплексов вооружения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 206",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3524",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Шершнев Андрей Викторович",
+            "id": "101357",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101357/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/05/small/p101357.jpg?token_static=fe392d3d49f87f11d900d06441ba686f"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

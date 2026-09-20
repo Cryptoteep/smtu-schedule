@@ -1,0 +1,121 @@
+{
+  "teacherId": "Ковалев Василий Данилович",
+  "teacherName": "Ковалев Василий Данилович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128996.jpg?token_static=c71ad6887b486c6af220d394cbf16d21",
+  "updatedAt": "2026-09-20T13:53:17.886Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7472-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Режущий инструмент",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ковалев Василий Данилович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128996.jpg?token_static=c71ad6887b486c6af220d394cbf16d21"
+          }
+        },
+        {
+          "id": "7472-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Режущий инструмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ковалев Василий Данилович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128996.jpg?token_static=c71ad6887b486c6af220d394cbf16d21"
+          }
+        },
+        {
+          "id": "7472-3-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Режущий инструмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ковалев Василий Данилович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128996.jpg?token_static=c71ad6887b486c6af220d394cbf16d21"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7606-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Металлорежущие станки, оснастка и инструмент",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ковалев Василий Данилович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128996.jpg?token_static=c71ad6887b486c6af220d394cbf16d21"
+          }
+        },
+        {
+          "id": "7606-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Металлорежущие станки, оснастка и инструмент",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ковалев Василий Данилович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128996.jpg?token_static=c71ad6887b486c6af220d394cbf16d21"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

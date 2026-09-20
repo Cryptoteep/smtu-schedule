@@ -1,0 +1,89 @@
+{
+  "teacherId": "Коняшов Максим Владимирович",
+  "teacherName": "Коняшов Максим Владимирович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p131930.jpg?token_static=9a7fdb94ec19278da526efa15346f57a",
+  "updatedAt": "2026-09-20T13:53:17.841Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7777-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технология сварки плавлением и давлением",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Коняшов Максим Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p131930.jpg?token_static=9a7fdb94ec19278da526efa15346f57a"
+          }
+        },
+        {
+          "id": "7777-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технология сварки плавлением и давлением",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Коняшов Максим Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p131930.jpg?token_static=9a7fdb94ec19278da526efa15346f57a"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7879-4-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Тепловые основы сварки",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20375",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Коняшов Максим Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p131930.jpg?token_static=9a7fdb94ec19278da526efa15346f57a"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

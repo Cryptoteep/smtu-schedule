@@ -1,0 +1,118 @@
+{
+  "teacherId": "122519",
+  "teacherName": "Шеншин Виктор Михайлович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/15/small/p122519.jpg?token_static=0f5d1a7c72d10f6a5b00fc0a33f86b03",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/122519/",
+  "updatedAt": "2026-09-20T13:53:17.990Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7692-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Уголовное право",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 02ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5200",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 16.11",
+          "teacher": {
+            "name": "Шеншин Виктор Михайлович",
+            "id": "122519",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122519/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/15/small/p122519.jpg?token_static=0f5d1a7c72d10f6a5b00fc0a33f86b03"
+          }
+        },
+        {
+          "id": "7692-2-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Уголовное право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 02ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5200",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 16.11",
+          "teacher": {
+            "name": "Шеншин Виктор Михайлович",
+            "id": "122519",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122519/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/15/small/p122519.jpg?token_static=0f5d1a7c72d10f6a5b00fc0a33f86b03"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7856-4-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Криминалистика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 423",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5400",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 23.11",
+          "teacher": {
+            "name": "Шеншин Виктор Михайлович",
+            "id": "122519",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122519/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/15/small/p122519.jpg?token_static=0f5d1a7c72d10f6a5b00fc0a33f86b03"
+          }
+        },
+        {
+          "id": "7856-4-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Криминалистика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 423",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5400",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 23.11",
+          "teacher": {
+            "name": "Шеншин Виктор Михайлович",
+            "id": "122519",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122519/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/15/small/p122519.jpg?token_static=0f5d1a7c72d10f6a5b00fc0a33f86b03"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

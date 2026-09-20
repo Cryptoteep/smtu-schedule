@@ -1,0 +1,113 @@
+{
+  "teacherId": "100822",
+  "teacherName": "Никущенко Дмитрий Владимирович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100822.jpg?token_static=16b9e7a66cf1ca10bab22bc2adbfea4b",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/100822/",
+  "updatedAt": "2026-09-20T13:53:17.751Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7552-4-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Применение ЭВМ в задачах динамики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 323",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1265",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Никущенко Дмитрий Владимирович",
+            "id": "100822",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100822/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100822.jpg?token_static=16b9e7a66cf1ca10bab22bc2adbfea4b"
+          }
+        },
+        {
+          "id": "7552-4-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Применение ЭВМ в задачах динамики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 323",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1265",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Никущенко Дмитрий Владимирович",
+            "id": "100822",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100822/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100822.jpg?token_static=16b9e7a66cf1ca10bab22bc2adbfea4b"
+          }
+        },
+        {
+          "id": "7552-4-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Динамика судов с динамическими принципами поддержания",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 323",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1265",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Никущенко Дмитрий Владимирович",
+            "id": "100822",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100822/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100822.jpg?token_static=16b9e7a66cf1ca10bab22bc2adbfea4b"
+          }
+        },
+        {
+          "id": "7552-4-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Динамика судов с динамическими принципами поддержания",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 323",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1265",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Никущенко Дмитрий Владимирович",
+            "id": "100822",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100822/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100822.jpg?token_static=16b9e7a66cf1ca10bab22bc2adbfea4b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

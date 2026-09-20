@@ -1,0 +1,95 @@
+{
+  "teacherId": "104364",
+  "teacherName": "Дубинка Владимир Витальевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/21/small/p104364.jpg?token_static=7cdd18b71313b7a65afe2c9f68ad117b",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/104364/",
+  "updatedAt": "2026-09-20T13:53:17.784Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7567-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Цифровой контроль и измерения в судокорпусном производстве",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 410",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1414, 1416, 1417",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Дубинка Владимир Витальевич",
+            "id": "104364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/21/small/p104364.jpg?token_static=7cdd18b71313b7a65afe2c9f68ad117b"
+          }
+        },
+        {
+          "id": "7567-3-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Цифровой контроль и измерения в судокорпусном производстве",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 410",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1414",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Дубинка Владимир Витальевич",
+            "id": "104364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/21/small/p104364.jpg?token_static=7cdd18b71313b7a65afe2c9f68ad117b"
+          }
+        },
+        {
+          "id": "7568-3-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Цифровой контроль и измерения в судокорпусном производстве",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 410",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1416, 1417",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дубинка Владимир Витальевич",
+            "id": "104364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/21/small/p104364.jpg?token_static=7cdd18b71313b7a65afe2c9f68ad117b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

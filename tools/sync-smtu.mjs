@@ -266,6 +266,137 @@ async function main() {
   const workers = Array.from({ length: CONCURRENCY }, (_, i) => worker(i));
   await Promise.all(workers);
 
+  // Also save alias by group name if different from id
+  for (const g of allGroups) {
+    const idFile = path.join(GROUPS_DIR, `${g.id}.json`);
+    const nameFile = path.join(GROUPS_DIR, `${g.name}.json`);
+    if (fs.existsSync(idFile) && !fs.existsSync(nameFile)) {
+      try {
+        fs.copyFileSync(idFile, nameFile);
+      } catch {}
+    }
+  }
+
+  // --- BUILD TEACHER SCHEDULES ACROSS ALL GROUPS ---
+  console.log('[Sync] Building teacher schedules across all groups...');
+  const TEACHERS_DIR = path.join(DATA_DIR, 't');
+  if (!fs.existsSync(TEACHERS_DIR)) {
+    fs.mkdirSync(TEACHERS_DIR, { recursive: true });
+  }
+
+  const teacherMap = new Map();
+  const groupFiles = fs.readdirSync(GROUPS_DIR).filter(f => /^\d+\.json$/.test(f));
+
+  for (const file of groupFiles) {
+    const gData = JSON.parse(fs.readFileSync(path.join(GROUPS_DIR, file), 'utf8'));
+    const gName = gData.groupName || gData.groupId;
+
+    for (const day of gData.days) {
+      for (const lesson of day.lessons) {
+        if (!lesson.teacher?.name) continue;
+        const tName = lesson.teacher.name.trim();
+        const tId = lesson.teacher.id;
+        const tPhoto = lesson.teacher.photoUrl;
+
+        if (!teacherMap.has(tName)) {
+          teacherMap.set(tName, {
+            name: tName,
+            id: tId,
+            photoUrl: tPhoto,
+            profileUrl: tId ? `https://www.smtu.ru/ru/viewperson/${tId}/` : undefined,
+            daysMap: new Map()
+          });
+        }
+
+        const teacher = teacherMap.get(tName);
+        if (!teacher.id && tId) teacher.id = tId;
+        if (!teacher.profileUrl && tId) teacher.profileUrl = `https://www.smtu.ru/ru/viewperson/${tId}/`;
+        if (!teacher.photoUrl && tPhoto) teacher.photoUrl = tPhoto;
+
+        if (!teacher.daysMap.has(day.dayIndex)) {
+          teacher.daysMap.set(day.dayIndex, {
+            dayName: day.dayName,
+            dayIndex: day.dayIndex,
+            lessonsMap: new Map()
+          });
+        }
+
+        const dayObj = teacher.daysMap.get(day.dayIndex);
+        const slotKey = `${lesson.time}|${lesson.weekParity}|${lesson.subject}`;
+
+        if (dayObj.lessonsMap.has(slotKey)) {
+          const existing = dayObj.lessonsMap.get(slotKey);
+          const parts = existing.groupName.split(', ');
+          if (!parts.includes(gName)) {
+            existing.groupName = `${existing.groupName}, ${gName}`;
+          }
+        } else {
+          dayObj.lessonsMap.set(slotKey, {
+            ...lesson,
+            groupName: gName
+          });
+        }
+      }
+    }
+  }
+
+  const teachersList = [];
+  const DAY_NAMES = ['Понедельник', 'Вторник', 'Среда', 'Четверг', 'Пятница', 'Суббота'];
+  const sampleTeachers = {};
+
+  for (const [tName, t] of teacherMap.entries()) {
+    const days = [];
+    let totalLessons = 0;
+
+    for (let dIdx = 1; dIdx <= 6; dIdx++) {
+      const dayName = DAY_NAMES[dIdx - 1];
+      const dayObj = t.daysMap.get(dIdx);
+      const lessons = dayObj ? Array.from(dayObj.lessonsMap.values()) : [];
+      totalLessons += lessons.length;
+      days.push({
+        dayName,
+        dayIndex: dIdx,
+        lessons
+      });
+    }
+
+    const teacherSchedule = {
+      teacherId: t.id || tName,
+      teacherName: tName,
+      photoUrl: t.photoUrl,
+      profileUrl: t.profileUrl,
+      updatedAt: new Date().toISOString(),
+      totalLessons,
+      days
+    };
+
+    const teacherItem = {
+      id: t.id || tName,
+      name: tName,
+      photoUrl: t.photoUrl,
+      profileUrl: t.profileUrl,
+      totalLessons
+    };
+    teachersList.push(teacherItem);
+
+    if (t.id) {
+      fs.writeFileSync(path.join(TEACHERS_DIR, `${t.id}.json`), JSON.stringify(teacherSchedule, null, 2), 'utf8');
+    }
+    const safeName = tName.replace(/[\\/:*?"<>|]/g, '_');
+    fs.writeFileSync(path.join(TEACHERS_DIR, `${safeName}.json`), JSON.stringify(teacherSchedule, null, 2), 'utf8');
+
+    // Keep top core teachers in sampleTeachers
+    if (['Клюбина Ксения Александровна', 'Чихонадских Елена Александровна', 'Борисов Александр Николаевич', 'Крыжевич Геннадий Брониславович', 'Сакович Сергей Юрьевич'].includes(tName)) {
+      if (t.id) sampleTeachers[t.id] = teacherSchedule;
+      sampleTeachers[tName] = teacherSchedule;
+    }
+  }
+
+  teachersList.sort((a, b) => a.name.localeCompare(b.name, 'ru'));
+  fs.writeFileSync(path.join(DATA_DIR, 'teachers.json'), JSON.stringify(teachersList, null, 2), 'utf8');
+  fs.writeFileSync(path.join(ROOT, 'src', 'data', 'teachers.json'), JSON.stringify(teachersList, null, 2), 'utf8');
+  fs.writeFileSync(path.join(ROOT, 'src', 'data', 'sampleTeachers.json'), JSON.stringify(sampleTeachers, null, 2), 'utf8');
+
   // Save updated sampleSchedules.json
   fs.writeFileSync(SAMPLE_FILE, JSON.stringify(sampleSchedules, null, 2), 'utf8');
 
@@ -273,6 +404,7 @@ async function main() {
   const indexData = {
     updatedAt: new Date().toISOString(),
     totalGroups: allGroups.length,
+    totalTeachers: teachersList.length,
     cachedGroups: Object.keys(sampleSchedules).length / 2,
     groups: allGroups.map(g => ({
       id: g.id,
@@ -280,11 +412,16 @@ async function main() {
       faculty: g.faculty,
       course: g.course,
       hasPrecachedSchedule: !!sampleSchedules[g.id] || fs.existsSync(path.join(GROUPS_DIR, `${g.id}.json`))
+    })),
+    teachers: teachersList.map(t => ({
+      id: t.id,
+      name: t.name,
+      totalLessons: t.totalLessons
     }))
   };
   fs.writeFileSync(path.join(DATA_DIR, 'index.json'), JSON.stringify(indexData, null, 2), 'utf8');
 
-  console.log(`[Sync] Finished: Successfully synced ${successCount}/${toSync.length} groups, total ${totalLessonsFound} real lessons saved across all 412 groups.`);
+  console.log(`[Sync] Finished: Synced ${successCount} groups and ${teachersList.length} teachers across the university.`);
 }
 
 main().catch(err => {

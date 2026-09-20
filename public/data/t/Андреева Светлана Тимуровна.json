@@ -1,0 +1,106 @@
+{
+  "teacherId": "Андреева Светлана Тимуровна",
+  "teacherName": "Андреева Светлана Тимуровна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/04/small/p123604.jpg?token_static=58a42b636e87a4157d02a8d165088407",
+  "updatedAt": "2026-09-20T13:53:18.038Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7467-2-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-03",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Андреева Светлана Тимуровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/04/small/p123604.jpg?token_static=58a42b636e87a4157d02a8d165088407"
+          }
+        },
+        {
+          "id": "7467-2-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-03",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Андреева Светлана Тимуровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/04/small/p123604.jpg?token_static=58a42b636e87a4157d02a8d165088407"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7509-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-02",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Андреева Светлана Тимуровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/04/small/p123604.jpg?token_static=58a42b636e87a4157d02a8d165088407"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7509-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-02",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Андреева Светлана Тимуровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/04/small/p123604.jpg?token_static=58a42b636e87a4157d02a8d165088407"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

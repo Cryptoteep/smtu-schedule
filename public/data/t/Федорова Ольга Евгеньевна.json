@@ -1,0 +1,121 @@
+{
+  "teacherId": "Федорова Ольга Евгеньевна",
+  "teacherName": "Федорова Ольга Евгеньевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/26/small/p135122.jpg?token_static=fedc72690980dbc0ca1064def3190adb",
+  "updatedAt": "2026-09-20T13:53:17.747Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7570-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технология изготовления судовых конструкций из композитов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б Бкаф",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1418",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Федорова Ольга Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/26/small/p135122.jpg?token_static=fedc72690980dbc0ca1064def3190adb"
+          }
+        },
+        {
+          "id": "7570-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технология изготовления судовых конструкций из композитов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б Бкаф",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1418",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Федорова Ольга Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/26/small/p135122.jpg?token_static=fedc72690980dbc0ca1064def3190adb"
+          }
+        },
+        {
+          "id": "7570-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технология изготовления судовых конструкций из композитов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б Бкаф",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1418",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Федорова Ольга Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/26/small/p135122.jpg?token_static=fedc72690980dbc0ca1064def3190adb"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7551-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Перспективные технологии соединения конструкций",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б Бкаф",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1264",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Федорова Ольга Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/26/small/p135122.jpg?token_static=fedc72690980dbc0ca1064def3190adb"
+          }
+        },
+        {
+          "id": "7551-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Перспективные технологии соединения конструкций",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б Бкаф",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1264",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Федорова Ольга Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/26/small/p135122.jpg?token_static=fedc72690980dbc0ca1064def3190adb"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

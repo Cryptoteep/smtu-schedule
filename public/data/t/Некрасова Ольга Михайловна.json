@@ -1,0 +1,104 @@
+{
+  "teacherId": "Некрасова Ольга Михайловна",
+  "teacherName": "Некрасова Ольга Михайловна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/30/small/p101153.jpg?token_static=a4346820ad13cd2986b918a6c9ab29aa",
+  "updatedAt": "2026-09-20T13:53:18.052Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7717-3-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Основы адвокатской деятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7461, 7462, 7463",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Некрасова Ольга Михайловна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/30/small/p101153.jpg?token_static=a4346820ad13cd2986b918a6c9ab29aa"
+          }
+        },
+        {
+          "id": "7717-3-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы адвокатской деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 02ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7461",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Некрасова Ольга Михайловна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/30/small/p101153.jpg?token_static=a4346820ad13cd2986b918a6c9ab29aa"
+          }
+        },
+        {
+          "id": "7718-3-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы адвокатской деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 02ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7462",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Некрасова Ольга Михайловна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/30/small/p101153.jpg?token_static=a4346820ad13cd2986b918a6c9ab29aa"
+          }
+        },
+        {
+          "id": "7719-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы адвокатской деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 02ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7463",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Некрасова Ольга Михайловна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/30/small/p101153.jpg?token_static=a4346820ad13cd2986b918a6c9ab29aa"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

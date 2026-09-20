@@ -1,0 +1,105 @@
+{
+  "teacherId": "Тихоньких Ярослав Константинович",
+  "teacherName": "Тихоньких Ярослав Константинович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p124980.jpg?token_static=a506e5548c6f1adbff3f92d280ea750e",
+  "updatedAt": "2026-09-20T13:53:17.817Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7758-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Управление проектами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 530a",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20278",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тихоньких Ярослав Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p124980.jpg?token_static=a506e5548c6f1adbff3f92d280ea750e"
+          }
+        },
+        {
+          "id": "7758-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление проектами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 530a",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20278",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тихоньких Ярослав Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p124980.jpg?token_static=a506e5548c6f1adbff3f92d280ea750e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7756-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Управление проектами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тихоньких Ярослав Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p124980.jpg?token_static=a506e5548c6f1adbff3f92d280ea750e"
+          }
+        },
+        {
+          "id": "7756-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление проектами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 530a",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тихоньких Ярослав Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p124980.jpg?token_static=a506e5548c6f1adbff3f92d280ea750e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

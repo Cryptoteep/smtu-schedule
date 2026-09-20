@@ -1,0 +1,72 @@
+{
+  "teacherId": "Петров Егор Георгиевич",
+  "teacherName": "Петров Егор Георгиевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/06/small/p126089.jpg?token_static=052b7ed2d4c8cc5982745c85784182ae",
+  "updatedAt": "2026-09-20T13:53:17.782Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7566-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Проектирование судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 610",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1413, 1499",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Петров Егор Георгиевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/06/small/p126089.jpg?token_static=052b7ed2d4c8cc5982745c85784182ae"
+          }
+        },
+        {
+          "id": "7570-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Проектирование судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 610",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1418",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Петров Егор Георгиевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/06/small/p126089.jpg?token_static=052b7ed2d4c8cc5982745c85784182ae"
+          }
+        }
+      ]
+    }
+  ]
+}

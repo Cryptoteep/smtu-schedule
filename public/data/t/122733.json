@@ -1,0 +1,99 @@
+{
+  "teacherId": "122733",
+  "teacherName": "Агаев Рауф Азер оглы",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/07/27/small/p122733.jpg?token_static=27d92051d1cfd5ee9dff8d2cd1b2ecd4",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/122733/",
+  "updatedAt": "2026-09-20T13:53:18.044Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7889-4-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 107",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-04, 12638-05, 12638-02, 12638-03, 12638-10",
+          "weekParity": "both",
+          "dateSpecific": "02.09",
+          "teacher": {
+            "name": "Агаев Рауф Азер оглы",
+            "id": "122733",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122733/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/07/27/small/p122733.jpg?token_static=27d92051d1cfd5ee9dff8d2cd1b2ecd4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7476-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическая культура и спорт",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 115",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-06, 12638-11, 12638-01, 12638-09, 12638-07",
+          "weekParity": "down",
+          "dateSpecific": "02.09",
+          "teacher": {
+            "name": "Агаев Рауф Азер оглы",
+            "id": "122733",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122733/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/07/27/small/p122733.jpg?token_static=27d92051d1cfd5ee9dff8d2cd1b2ecd4"
+          }
+        },
+        {
+          "id": "7476-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 115",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-06, 12638-11, 12638-01, 12638-09, 12638-07",
+          "weekParity": "down",
+          "dateSpecific": "02.09",
+          "teacher": {
+            "name": "Агаев Рауф Азер оглы",
+            "id": "122733",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122733/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/07/27/small/p122733.jpg?token_static=27d92051d1cfd5ee9dff8d2cd1b2ecd4"
+          }
+        }
+      ]
+    }
+  ]
+}

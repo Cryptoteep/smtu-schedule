@@ -1,0 +1,88 @@
+{
+  "teacherId": "Белов Иван Алексеевич",
+  "teacherName": "Белов Иван Алексеевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/01/small/139761.jpg?token_static=07c9ec33e49399078a8e85071ad2eb8a",
+  "updatedAt": "2026-09-20T13:53:17.930Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7637-5-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Проектирование морской электроники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 319",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3263",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Белов Иван Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/01/small/139761.jpg?token_static=07c9ec33e49399078a8e85071ad2eb8a"
+          }
+        },
+        {
+          "id": "7637-5-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Проектирование морской электроники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 319",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3263",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Белов Иван Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/01/small/139761.jpg?token_static=07c9ec33e49399078a8e85071ad2eb8a"
+          }
+        },
+        {
+          "id": "7637-5-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Проектирование морской электроники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 319",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3263",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Белов Иван Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/01/small/139761.jpg?token_static=07c9ec33e49399078a8e85071ad2eb8a"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

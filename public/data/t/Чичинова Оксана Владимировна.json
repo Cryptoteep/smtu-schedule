@@ -1,0 +1,77 @@
+{
+  "teacherId": "101327",
+  "teacherName": "Чичинова Оксана Владимировна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/30/small/p101327.jpg?token_static=af3a1147239d13383a820a5d31c584e3",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101327/",
+  "updatedAt": "2026-09-20T13:53:17.965Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7670-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Деловой иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4220",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Чичинова Оксана Владимировна",
+            "id": "101327",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101327/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/30/small/p101327.jpg?token_static=af3a1147239d13383a820a5d31c584e3"
+          }
+        },
+        {
+          "id": "7670-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Деловой иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4220",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Чичинова Оксана Владимировна",
+            "id": "101327",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101327/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/30/small/p101327.jpg?token_static=af3a1147239d13383a820a5d31c584e3"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "teacherId": "Мамонин Николай Павлович",
+  "teacherName": "Мамонин Николай Павлович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/16/small/p100724.jpg?token_static=6c9f8cdd9d5b76888610242106afd93c",
+  "updatedAt": "2026-09-20T13:53:17.950Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7657-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Системы телеуправления",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мамонин Николай Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/16/small/p100724.jpg?token_static=6c9f8cdd9d5b76888610242106afd93c"
+          }
+        },
+        {
+          "id": "7657-5-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Системы телеуправления",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мамонин Николай Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/16/small/p100724.jpg?token_static=6c9f8cdd9d5b76888610242106afd93c"
+          }
+        },
+        {
+          "id": "7657-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Системы телеуправления",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мамонин Николай Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/16/small/p100724.jpg?token_static=6c9f8cdd9d5b76888610242106afd93c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

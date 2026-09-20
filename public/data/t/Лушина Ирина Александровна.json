@@ -1,0 +1,121 @@
+{
+  "teacherId": "Лушина Ирина Александровна",
+  "teacherName": "Лушина Ирина Александровна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p127998.jpg?token_static=816387000e7494045ba4d4075e7b008e",
+  "updatedAt": "2026-09-20T13:53:17.785Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7568-2-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Судовые системы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1416",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Лушина Ирина Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p127998.jpg?token_static=816387000e7494045ba4d4075e7b008e"
+          }
+        },
+        {
+          "id": "7568-2-19:00-5",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Судовые системы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1416",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Лушина Ирина Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p127998.jpg?token_static=816387000e7494045ba4d4075e7b008e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7577-3-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Системы и устройства подводных лодок",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лушина Ирина Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p127998.jpg?token_static=816387000e7494045ba4d4075e7b008e"
+          }
+        },
+        {
+          "id": "7577-3-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Системы и устройства подводных лодок",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лушина Ирина Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p127998.jpg?token_static=816387000e7494045ba4d4075e7b008e"
+          }
+        },
+        {
+          "id": "7577-3-20:40-5",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 6,
+          "subject": "Системы и устройства подводных лодок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лушина Ирина Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p127998.jpg?token_static=816387000e7494045ba4d4075e7b008e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

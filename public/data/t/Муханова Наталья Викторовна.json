@@ -1,0 +1,105 @@
+{
+  "teacherId": "Муханова Наталья Викторовна",
+  "teacherName": "Муханова Наталья Викторовна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/05/small/p124018.jpg?token_static=2ccb983bde682659fe2dbcba18eb3b34",
+  "updatedAt": "2026-09-20T13:53:17.942Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7645-1-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Контроллинг в технических системах",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Муханова Наталья Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/05/small/p124018.jpg?token_static=2ccb983bde682659fe2dbcba18eb3b34"
+          }
+        },
+        {
+          "id": "7645-1-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Контроллинг в технических системах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Муханова Наталья Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/05/small/p124018.jpg?token_static=2ccb983bde682659fe2dbcba18eb3b34"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7645-2-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Контроллинг в технических системах",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Муханова Наталья Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/05/small/p124018.jpg?token_static=2ccb983bde682659fe2dbcba18eb3b34"
+          }
+        },
+        {
+          "id": "7645-2-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Контроллинг в технических системах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Муханова Наталья Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/05/small/p124018.jpg?token_static=2ccb983bde682659fe2dbcba18eb3b34"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

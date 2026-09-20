@@ -1,0 +1,136 @@
+{
+  "teacherId": "Тумашик Глеб Александрович",
+  "teacherName": "Тумашик Глеб Александрович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101214.jpg?token_static=b5c463b0b0ae8e7e1a9beb2c7eabe73e",
+  "updatedAt": "2026-09-20T13:53:17.754Z",
+  "totalLessons": 6,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7555-3-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Прочность глубоководных аппаратов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 215",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1286",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Тумашик Глеб Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101214.jpg?token_static=b5c463b0b0ae8e7e1a9beb2c7eabe73e"
+          }
+        },
+        {
+          "id": "7555-3-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Прочность глубоководных аппаратов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 215",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1286",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Тумашик Глеб Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101214.jpg?token_static=b5c463b0b0ae8e7e1a9beb2c7eabe73e"
+          }
+        },
+        {
+          "id": "7568-3-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Прочность и вибрация подводных лодок и подводных аппаратов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1416",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Тумашик Глеб Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101214.jpg?token_static=b5c463b0b0ae8e7e1a9beb2c7eabe73e"
+          }
+        },
+        {
+          "id": "7568-3-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Прочность и вибрация подводных лодок и подводных аппаратов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1416",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тумашик Глеб Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101214.jpg?token_static=b5c463b0b0ae8e7e1a9beb2c7eabe73e"
+          }
+        },
+        {
+          "id": "7695-3-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Строительная механика и прочность корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 215",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5216",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тумашик Глеб Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101214.jpg?token_static=b5c463b0b0ae8e7e1a9beb2c7eabe73e"
+          }
+        },
+        {
+          "id": "7852-3-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Строительная механика корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 215",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тумашик Глеб Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101214.jpg?token_static=b5c463b0b0ae8e7e1a9beb2c7eabe73e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "teacherId": "Смирнова Ольга Александровна",
+  "teacherName": "Смирнова Ольга Александровна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/18/small/p122081.jpg?token_static=ee7fd0b30c811206d623577d4823de24",
+  "updatedAt": "2026-09-20T13:53:17.972Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7899-2-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Стратегическое планирование логистики и стратегии управления запасами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12638-52, 12638-51",
+          "weekParity": "both",
+          "dateSpecific": "8.09",
+          "teacher": {
+            "name": "Смирнова Ольга Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/18/small/p122081.jpg?token_static=ee7fd0b30c811206d623577d4823de24"
+          }
+        },
+        {
+          "id": "7899-2-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Стратегическое планирование логистики и стратегии управления запасами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12638-52, 12638-51",
+          "weekParity": "both",
+          "dateSpecific": "8.09",
+          "teacher": {
+            "name": "Смирнова Ольга Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/18/small/p122081.jpg?token_static=ee7fd0b30c811206d623577d4823de24"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7675-5-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Страхование в морской логистике",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4260",
+          "weekParity": "both",
+          "dateSpecific": "06.11 по 25.12",
+          "teacher": {
+            "name": "Смирнова Ольга Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/18/small/p122081.jpg?token_static=ee7fd0b30c811206d623577d4823de24"
+          }
+        },
+        {
+          "id": "7675-5-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Страхование в морской логистике",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4260",
+          "weekParity": "both",
+          "dateSpecific": "06.11 по 25.12",
+          "teacher": {
+            "name": "Смирнова Ольга Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/18/small/p122081.jpg?token_static=ee7fd0b30c811206d623577d4823de24"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

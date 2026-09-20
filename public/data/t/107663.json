@@ -1,0 +1,134 @@
+{
+  "teacherId": "107663",
+  "teacherName": "Скрябина Яна Олеговна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/28/small/p107663.jpg?token_static=f246b8d87b2a661bd90ff90381a9a867",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/107663/",
+  "updatedAt": "2026-09-20T13:53:17.980Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7682-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Производственный менеджмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Скрябина Яна Олеговна",
+            "id": "107663",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107663/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/28/small/p107663.jpg?token_static=f246b8d87b2a661bd90ff90381a9a867"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7682-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Производственный менеджмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 519",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Скрябина Яна Олеговна",
+            "id": "107663",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107663/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/28/small/p107663.jpg?token_static=f246b8d87b2a661bd90ff90381a9a867"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7680-4-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Производственный менеджмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 31",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4304",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Скрябина Яна Олеговна",
+            "id": "107663",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107663/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/28/small/p107663.jpg?token_static=f246b8d87b2a661bd90ff90381a9a867"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7888-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Документационное обеспечение деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 514",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-11",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Скрябина Яна Олеговна",
+            "id": "107663",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107663/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/28/small/p107663.jpg?token_static=f246b8d87b2a661bd90ff90381a9a867"
+          }
+        },
+        {
+          "id": "7888-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Документационное обеспечение деятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-11",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Скрябина Яна Олеговна",
+            "id": "107663",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107663/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/28/small/p107663.jpg?token_static=f246b8d87b2a661bd90ff90381a9a867"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

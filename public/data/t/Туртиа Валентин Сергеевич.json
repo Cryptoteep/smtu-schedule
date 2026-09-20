@@ -1,0 +1,74 @@
+{
+  "teacherId": "Туртиа Валентин Сергеевич",
+  "teacherName": "Туртиа Валентин Сергеевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/140528.jpg?token_static=ea54951d1ebeaa6ca1abe79b474bff4f",
+  "updatedAt": "2026-09-20T13:53:17.971Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7675-1-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление логистическими рисками",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "М 32",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4260",
+          "weekParity": "both",
+          "dateSpecific": "02.11 по 21.12",
+          "teacher": {
+            "name": "Туртиа Валентин Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/140528.jpg?token_static=ea54951d1ebeaa6ca1abe79b474bff4f"
+          }
+        },
+        {
+          "id": "7675-1-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Управление логистическими рисками",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "М 11",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4260",
+          "weekParity": "both",
+          "dateSpecific": "02.11по 21.12",
+          "teacher": {
+            "name": "Туртиа Валентин Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/140528.jpg?token_static=ea54951d1ebeaa6ca1abe79b474bff4f"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

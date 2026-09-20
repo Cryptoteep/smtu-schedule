@@ -1,0 +1,56 @@
+{
+  "teacherId": "Рогозин Владимир Алексеевич",
+  "teacherName": "Рогозин Владимир Алексеевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100983.jpg?token_static=87a64a458a6ed397ccf612558f99df57",
+  "updatedAt": "2026-09-20T13:53:17.872Z",
+  "totalLessons": 1,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7591-2-20:40-5",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 6,
+          "subject": "Надежность и резервирование в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2268",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рогозин Владимир Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100983.jpg?token_static=87a64a458a6ed397ccf612558f99df57"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

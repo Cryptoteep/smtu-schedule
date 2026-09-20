@@ -1,0 +1,170 @@
+{
+  "teacherId": "Мостовой Дмитрий Павлович",
+  "teacherName": "Мостовой Дмитрий Павлович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100778.jpg?token_static=eef91fe1677f352e2d3041093b8bf3aa",
+  "updatedAt": "2026-09-20T13:53:17.852Z",
+  "totalLessons": 8,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7489-2-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория и техника эксперимента",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2391",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мостовой Дмитрий Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100778.jpg?token_static=eef91fe1677f352e2d3041093b8bf3aa"
+          }
+        },
+        {
+          "id": "7489-2-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория и техника эксперимента",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2391",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мостовой Дмитрий Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100778.jpg?token_static=eef91fe1677f352e2d3041093b8bf3aa"
+          }
+        },
+        {
+          "id": "7620-2-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Техническая диагностика судового оборудования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2525",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мостовой Дмитрий Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100778.jpg?token_static=eef91fe1677f352e2d3041093b8bf3aa"
+          }
+        },
+        {
+          "id": "7621-2-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Техническая диагностика судового оборудования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2526",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мостовой Дмитрий Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100778.jpg?token_static=eef91fe1677f352e2d3041093b8bf3aa"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7473-3-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Техническая диагностика судового оборудования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2490",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мостовой Дмитрий Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100778.jpg?token_static=eef91fe1677f352e2d3041093b8bf3aa"
+          }
+        },
+        {
+          "id": "7473-3-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Техническая диагностика судового оборудования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2490",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мостовой Дмитрий Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100778.jpg?token_static=eef91fe1677f352e2d3041093b8bf3aa"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7580-5-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2204, 2205",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мостовой Дмитрий Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100778.jpg?token_static=eef91fe1677f352e2d3041093b8bf3aa"
+          }
+        },
+        {
+          "id": "7580-5-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2204, 2205",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мостовой Дмитрий Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100778.jpg?token_static=eef91fe1677f352e2d3041093b8bf3aa"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

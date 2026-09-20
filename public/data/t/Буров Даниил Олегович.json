@@ -1,0 +1,122 @@
+{
+  "teacherId": "Буров Даниил Олегович",
+  "teacherName": "Буров Даниил Олегович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/20/small/p123667.jpg?token_static=beac735d6215e12dbfb988ac68365555",
+  "updatedAt": "2026-09-20T13:53:17.736Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7549-1-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Автоматизированные системы технологической подготовки производства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1260",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Буров Даниил Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/20/small/p123667.jpg?token_static=beac735d6215e12dbfb988ac68365555"
+          }
+        },
+        {
+          "id": "7550-1-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Автоматизированные системы технологической подготовки производства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Буров Даниил Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/20/small/p123667.jpg?token_static=beac735d6215e12dbfb988ac68365555"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7853-4-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Автоматизированные системы технологической подготовки производства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5316",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Буров Даниил Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/20/small/p123667.jpg?token_static=beac735d6215e12dbfb988ac68365555"
+          }
+        },
+        {
+          "id": "7853-4-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Автоматизированные системы технологической подготовки производства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5316",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Буров Даниил Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/20/small/p123667.jpg?token_static=beac735d6215e12dbfb988ac68365555"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7551-5-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Автоматизированные системы технологической подготовки производства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1264",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Буров Даниил Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/20/small/p123667.jpg?token_static=beac735d6215e12dbfb988ac68365555"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

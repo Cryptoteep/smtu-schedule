@@ -1,0 +1,131 @@
+{
+  "teacherId": "123221",
+  "teacherName": "Точильников Григорий Викторович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123221.jpg?token_static=323cc824d934301ba4374d894e982548",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/123221/",
+  "updatedAt": "2026-09-20T13:53:17.931Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7638-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Приборы и методы функциональной диагностики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3264",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Точильников Григорий Викторович",
+            "id": "123221",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123221/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123221.jpg?token_static=323cc824d934301ba4374d894e982548"
+          }
+        },
+        {
+          "id": "7638-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Телемедицина",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3264",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Точильников Григорий Викторович",
+            "id": "123221",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123221/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123221.jpg?token_static=323cc824d934301ba4374d894e982548"
+          }
+        },
+        {
+          "id": "7638-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Приборы и методы функциональной диагностики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3264",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Точильников Григорий Викторович",
+            "id": "123221",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123221/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123221.jpg?token_static=323cc824d934301ba4374d894e982548"
+          }
+        },
+        {
+          "id": "7638-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Телемедицина",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3264",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Точильников Григорий Викторович",
+            "id": "123221",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123221/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123221.jpg?token_static=323cc824d934301ba4374d894e982548"
+          }
+        },
+        {
+          "id": "7638-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Приборы и методы функциональной диагностики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3264",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Точильников Григорий Викторович",
+            "id": "123221",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123221/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123221.jpg?token_static=323cc824d934301ba4374d894e982548"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "teacherId": "Григоров Максим Юрьевич",
+  "teacherName": "Григоров Максим Юрьевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113051.jpg?token_static=229a53a2e515b2be673253677af5b9a2",
+  "updatedAt": "2026-09-20T13:53:17.911Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7658-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Аналитические и численные методы расчета физических полей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Григоров Максим Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113051.jpg?token_static=229a53a2e515b2be673253677af5b9a2"
+          }
+        },
+        {
+          "id": "7658-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Аналитические и численные методы расчета физических полей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Григоров Максим Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113051.jpg?token_static=229a53a2e515b2be673253677af5b9a2"
+          }
+        },
+        {
+          "id": "7658-4-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Аналитические и численные методы расчета физических полей",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Григоров Максим Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113051.jpg?token_static=229a53a2e515b2be673253677af5b9a2"
+          }
+        },
+        {
+          "id": "7658-4-17:20-8",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Аналитические и численные методы расчета физических полей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Григоров Максим Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113051.jpg?token_static=229a53a2e515b2be673253677af5b9a2"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7625-5-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы управленческой деятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3220, 3240, 3250, 3290",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Григоров Максим Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113051.jpg?token_static=229a53a2e515b2be673253677af5b9a2"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

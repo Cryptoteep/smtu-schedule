@@ -1,0 +1,72 @@
+{
+  "teacherId": "Ягло Максим Алексеевич",
+  "teacherName": "Ягло Максим Алексеевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/29/small/p107345.jpg?token_static=46523f3b6a35cce1e59dd9bf36f0f2ea",
+  "updatedAt": "2026-09-20T13:53:17.951Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7658-3-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы натурных измерений физических полей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 214",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ягло Максим Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/29/small/p107345.jpg?token_static=46523f3b6a35cce1e59dd9bf36f0f2ea"
+          }
+        },
+        {
+          "id": "7658-3-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы натурных измерений физических полей",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 214",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ягло Максим Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/29/small/p107345.jpg?token_static=46523f3b6a35cce1e59dd9bf36f0f2ea"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

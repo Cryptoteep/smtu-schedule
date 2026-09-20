@@ -1,0 +1,405 @@
+{
+  "teacherId": "101147",
+  "teacherName": "Столяров Андрей Сергеевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+  "updatedAt": "2026-09-20T13:53:17.897Z",
+  "totalLessons": 20,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7611-2-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Агрегаты наддува двигателей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2426",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "7611-2-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Агрегаты наддува двигателей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2426",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "6317-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Топливная аппаратура",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5570",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "6317-2-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Топливная аппаратура",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5570",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "6317-2-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Топливная аппаратура",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5570",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7788-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Информатика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-09",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "7788-3-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-09",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "7788-3-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-09",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "7788-3-14:00-14",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информатика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-09",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "7788-3-14:00-15",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-09",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "7788-3-15:40-16",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-09",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7451-4-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12213-03-2",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "7451-4-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12213-03-2",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "7787-4-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информатика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12215-05",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "7787-4-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12215-05",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "7787-4-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12215-05",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7855-5-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Механика жидкости и газа (специальные вопросы)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "7855-5-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Механика жидкости и газа (специальные вопросы)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7610-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Учебно-исследовательская работа студентов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2420",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "7610-6-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Учебно-исследовательская работа студентов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2420",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        }
+      ]
+    }
+  ]
+}

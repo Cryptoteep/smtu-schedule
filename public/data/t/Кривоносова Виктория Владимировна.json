@@ -1,0 +1,121 @@
+{
+  "teacherId": "Кривоносова Виктория Владимировна",
+  "teacherName": "Кривоносова Виктория Владимировна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/03/small/140535.jpg?token_static=8595755624a818b0023b68d6ab1fdca9",
+  "updatedAt": "2026-09-20T13:53:17.873Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7592-1-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Современные численные методы в задачах теплового состояния и прочности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кривоносова Виктория Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/03/small/140535.jpg?token_static=8595755624a818b0023b68d6ab1fdca9"
+          }
+        },
+        {
+          "id": "7592-1-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Современные численные методы в задачах теплового состояния и прочности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кривоносова Виктория Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/03/small/140535.jpg?token_static=8595755624a818b0023b68d6ab1fdca9"
+          }
+        },
+        {
+          "id": "7592-1-20:40-5",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 6,
+          "subject": "Современные численные методы в задачах теплового состояния и прочности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 215",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2269",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кривоносова Виктория Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/03/small/140535.jpg?token_static=8595755624a818b0023b68d6ab1fdca9"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7808-2-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Информационные технологии в жизненном цикле турбинных двигателей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-59",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кривоносова Виктория Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/03/small/140535.jpg?token_static=8595755624a818b0023b68d6ab1fdca9"
+          }
+        },
+        {
+          "id": "7808-2-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Информационные технологии в жизненном цикле турбинных двигателей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-59",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кривоносова Виктория Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/03/small/140535.jpg?token_static=8595755624a818b0023b68d6ab1fdca9"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

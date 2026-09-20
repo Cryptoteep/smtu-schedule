@@ -1,0 +1,77 @@
+{
+  "teacherId": "100102",
+  "teacherName": "Бережной Константин Геннадьевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/12/21/small/p100102.jpg?token_static=f69a9d6a1fb1d3917ff5c2b1d48c88b2",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/100102/",
+  "updatedAt": "2026-09-20T13:53:17.790Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7572-6-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование морских нефтегазовых сооружений",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 206",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1420",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Бережной Константин Геннадьевич",
+            "id": "100102",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100102/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/12/21/small/p100102.jpg?token_static=f69a9d6a1fb1d3917ff5c2b1d48c88b2"
+          }
+        },
+        {
+          "id": "7573-6-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Проектирование средств океанотехники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Бережной Константин Геннадьевич",
+            "id": "100102",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100102/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/12/21/small/p100102.jpg?token_static=f69a9d6a1fb1d3917ff5c2b1d48c88b2"
+          }
+        }
+      ]
+    }
+  ]
+}

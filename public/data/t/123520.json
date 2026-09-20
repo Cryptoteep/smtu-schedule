@@ -1,0 +1,95 @@
+{
+  "teacherId": "123520",
+  "teacherName": "Голубев Константин Геннадьевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p123520.jpg?token_static=555b1024320bf59d677d0ebfaafd7ce2",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/123520/",
+  "updatedAt": "2026-09-20T13:53:18.037Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7464-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Научно-технический семинар",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 609",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12126-53, 12126-52",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Голубев Константин Геннадьевич",
+            "id": "123520",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123520/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p123520.jpg?token_static=555b1024320bf59d677d0ebfaafd7ce2"
+          }
+        },
+        {
+          "id": "7884-2-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Научно-технический семинар",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 609",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12126-63",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Голубев Константин Геннадьевич",
+            "id": "123520",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123520/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p123520.jpg?token_static=555b1024320bf59d677d0ebfaafd7ce2"
+          }
+        },
+        {
+          "id": "7884-2-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Научно-технический семинар",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 609",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12126-63",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Голубев Константин Геннадьевич",
+            "id": "123520",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123520/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p123520.jpg?token_static=555b1024320bf59d677d0ebfaafd7ce2"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "teacherId": "106019",
+  "teacherName": "Шишкин Алексей Михайлович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p106019.jpg?token_static=6b04e1ee93c73d96448cba1b934b7dcc",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/106019/",
+  "updatedAt": "2026-09-20T13:53:17.899Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7612-1-19:00-6",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Проектирование систем судовых энергетических установок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 522",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2430",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шишкин Алексей Михайлович",
+            "id": "106019",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106019/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p106019.jpg?token_static=6b04e1ee93c73d96448cba1b934b7dcc"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7612-4-19:00-7",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Проектирование систем судовых энергетических установок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шишкин Алексей Михайлович",
+            "id": "106019",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106019/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p106019.jpg?token_static=6b04e1ee93c73d96448cba1b934b7dcc"
+          }
+        },
+        {
+          "id": "7612-4-20:40-8",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 9,
+          "subject": "Проектирование систем судовых энергетических установок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шишкин Алексей Михайлович",
+            "id": "106019",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106019/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p106019.jpg?token_static=6b04e1ee93c73d96448cba1b934b7dcc"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "teacherId": "Курилов Юрий Александрович",
+  "teacherName": "Курилов Юрий Александрович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p104740.jpg?token_static=32ba6521b2d9833166936b0ac4da1adb",
+  "updatedAt": "2026-09-20T13:53:18.068Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7886-2-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Научно-технический семинар",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 404",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12826-61",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Курилов Юрий Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p104740.jpg?token_static=32ba6521b2d9833166936b0ac4da1adb"
+          }
+        },
+        {
+          "id": "7886-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Научно-технический семинар",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 404",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12826-61",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Курилов Юрий Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p104740.jpg?token_static=32ba6521b2d9833166936b0ac4da1adb"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7886-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Научно-технический семинар",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12826-61",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Курилов Юрий Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p104740.jpg?token_static=32ba6521b2d9833166936b0ac4da1adb"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

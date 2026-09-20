@@ -1,0 +1,120 @@
+{
+  "teacherId": "Иванов Сергей Юрьевич",
+  "teacherName": "Иванов Сергей Юрьевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106214.jpg?token_static=006ee993bc23049b76433617f16a1e36",
+  "updatedAt": "2026-09-20T13:53:17.845Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7777-4-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория сварочных деформаций и напряжений",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20470, 20471",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванов Сергей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106214.jpg?token_static=006ee993bc23049b76433617f16a1e36"
+          }
+        },
+        {
+          "id": "7777-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория сварочных деформаций и напряжений",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20470, 20471",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Иванов Сергей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106214.jpg?token_static=006ee993bc23049b76433617f16a1e36"
+          }
+        },
+        {
+          "id": "7777-4-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория сварочных деформаций и напряжений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20470, 20471",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванов Сергей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106214.jpg?token_static=006ee993bc23049b76433617f16a1e36"
+          }
+        },
+        {
+          "id": "7777-4-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория сварочных деформаций и напряжений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20470",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Иванов Сергей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106214.jpg?token_static=006ee993bc23049b76433617f16a1e36"
+          }
+        },
+        {
+          "id": "7778-4-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория сварочных деформаций и напряжений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20471",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванов Сергей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106214.jpg?token_static=006ee993bc23049b76433617f16a1e36"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "teacherId": "Шилин Михаил Михайлович",
+  "teacherName": "Шилин Михаил Михайлович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2",
+  "updatedAt": "2026-09-20T13:53:17.922Z",
+  "totalLessons": 16,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7859-2-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Теория информации и сигналов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5480",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        },
+        {
+          "id": "7859-2-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория информации и сигналов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5480",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7636-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Алгоритмы телеуправления мобильными роботами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        },
+        {
+          "id": "7636-3-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Алгоритмы телеуправления мобильными роботами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 119",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        },
+        {
+          "id": "7636-3-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Алгоритмы телеуправления мобильными роботами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 119",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3262",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        },
+        {
+          "id": "7654-3-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Информационные системы подводной морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3424, 3525, 3526",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        },
+        {
+          "id": "7809-3-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информационные системы в мехатронике и робототехнике",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "12315-54",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7635-5-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Системы телеуправления объектами морской техники (С)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 512",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3261",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        },
+        {
+          "id": "7635-5-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы телеуправления объектами морской техники (С)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 512",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3261",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        },
+        {
+          "id": "7652-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Информационные системы подводной морской техники (С)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 512",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        },
+        {
+          "id": "7652-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информационные системы подводной морской техники (С)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 512",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        },
+        {
+          "id": "7660-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информационные устройства и системы в подводной робототехнике",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3480",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7641-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Теория информации и сигналов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3300, 3380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        },
+        {
+          "id": "7641-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория информации и сигналов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3300, 3380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        },
+        {
+          "id": "7641-6-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория информации и сигналов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        },
+        {
+          "id": "7650-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория информации и сигналов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 119",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шилин Михаил Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/24/small/p101360.jpg?token_static=390e4bb3a02c749c236b30ed21634ac2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "teacherId": "122816",
+  "teacherName": "Сезонов Евгений Анатольевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/07/small/p122816.jpg?token_static=a48a2879a1897ee12cb37ba3eb16fedb",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/122816/",
+  "updatedAt": "2026-09-20T13:53:17.952Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7658-5-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Гидрофизические поля (С)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 512",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сезонов Евгений Анатольевич",
+            "id": "122816",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122816/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/07/small/p122816.jpg?token_static=a48a2879a1897ee12cb37ba3eb16fedb"
+          }
+        },
+        {
+          "id": "7658-5-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Гидрофизические поля (С)",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 512",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сезонов Евгений Анатольевич",
+            "id": "122816",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122816/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/07/small/p122816.jpg?token_static=a48a2879a1897ee12cb37ba3eb16fedb"
+          }
+        },
+        {
+          "id": "7658-5-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Гидрофизические поля (С)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 512",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сезонов Евгений Анатольевич",
+            "id": "122816",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122816/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/07/small/p122816.jpg?token_static=a48a2879a1897ee12cb37ba3eb16fedb"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

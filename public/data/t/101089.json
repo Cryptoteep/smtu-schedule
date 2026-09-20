@@ -1,0 +1,263 @@
+{
+  "teacherId": "101089",
+  "teacherName": "Скударнова Ирина Владимировна",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101089/",
+  "updatedAt": "2026-09-20T13:53:17.902Z",
+  "totalLessons": 13,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7465-3-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Методы принятия решений в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12126-54, 12126-63",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Скударнова Ирина Владимировна",
+            "id": "101089",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101089/"
+          }
+        },
+        {
+          "id": "7836-3-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 442",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-36",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Скударнова Ирина Владимировна",
+            "id": "101089",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101089/"
+          }
+        },
+        {
+          "id": "7836-3-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информатика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 442",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-36, 12226-37",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Скударнова Ирина Владимировна",
+            "id": "101089",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101089/"
+          }
+        },
+        {
+          "id": "7836-3-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 442",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-36",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Скударнова Ирина Владимировна",
+            "id": "101089",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101089/"
+          }
+        },
+        {
+          "id": "7837-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 442",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-37",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Скударнова Ирина Владимировна",
+            "id": "101089",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101089/"
+          }
+        },
+        {
+          "id": "7837-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информатика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 442",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-37",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Скударнова Ирина Владимировна",
+            "id": "101089",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101089/"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7473-4-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Управление качеством",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2490, 2491",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Скударнова Ирина Владимировна",
+            "id": "101089",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101089/"
+          }
+        },
+        {
+          "id": "7445-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 442",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12213-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Скударнова Ирина Владимировна",
+            "id": "101089",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101089/"
+          }
+        },
+        {
+          "id": "7445-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 442",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12213-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Скударнова Ирина Владимировна",
+            "id": "101089",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101089/"
+          }
+        },
+        {
+          "id": "7445-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 442",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12213-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Скударнова Ирина Владимировна",
+            "id": "101089",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101089/"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7473-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление качеством",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2490",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Скударнова Ирина Владимировна",
+            "id": "101089",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101089/"
+          }
+        },
+        {
+          "id": "7617-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление качеством",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Скударнова Ирина Владимировна",
+            "id": "101089",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101089/"
+          }
+        },
+        {
+          "id": "7914-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Методы принятия решений в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12126-55",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Скударнова Ирина Владимировна",
+            "id": "101089",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101089/"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

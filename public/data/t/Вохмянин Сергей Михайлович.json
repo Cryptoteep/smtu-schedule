@@ -1,0 +1,105 @@
+{
+  "teacherId": "Вохмянин Сергей Михайлович",
+  "teacherName": "Вохмянин Сергей Михайлович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/25/small/p123459.jpg?token_static=9ba4bdf597ef35bd8d8b2d7fd932a70b",
+  "updatedAt": "2026-09-20T13:53:17.897Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7611-4-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Судовое главное энергетическое оборудование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2426",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Вохмянин Сергей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/25/small/p123459.jpg?token_static=9ba4bdf597ef35bd8d8b2d7fd932a70b"
+          }
+        },
+        {
+          "id": "7611-4-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Судовое главное энергетическое оборудование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2426",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Вохмянин Сергей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/25/small/p123459.jpg?token_static=9ba4bdf597ef35bd8d8b2d7fd932a70b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7808-5-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Научно-технический семинар",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-59",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Вохмянин Сергей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/25/small/p123459.jpg?token_static=9ba4bdf597ef35bd8d8b2d7fd932a70b"
+          }
+        },
+        {
+          "id": "7808-5-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Научно-технический семинар",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-59",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Вохмянин Сергей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/25/small/p123459.jpg?token_static=9ba4bdf597ef35bd8d8b2d7fd932a70b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

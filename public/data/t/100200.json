@@ -1,0 +1,95 @@
+{
+  "teacherId": "100200",
+  "teacherName": "Вахрушина Нина Сергеевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100200.jpg?token_static=a058987491b8f9ef01d08c795a9c9011",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/100200/",
+  "updatedAt": "2026-09-20T13:53:17.870Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7590-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Предотвращение загрязнения акваторий твердыми отходами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2267",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Вахрушина Нина Сергеевна",
+            "id": "100200",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100200/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100200.jpg?token_static=a058987491b8f9ef01d08c795a9c9011"
+          }
+        },
+        {
+          "id": "7590-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Предотвращение загрязнения акваторий твердыми отходами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2267",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Вахрушина Нина Сергеевна",
+            "id": "100200",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100200/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100200.jpg?token_static=a058987491b8f9ef01d08c795a9c9011"
+          }
+        },
+        {
+          "id": "7590-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Предотвращение загрязнения акваторий твердыми отходами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2267",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Вахрушина Нина Сергеевна",
+            "id": "100200",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100200/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100200.jpg?token_static=a058987491b8f9ef01d08c795a9c9011"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

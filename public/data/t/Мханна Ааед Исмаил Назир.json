@@ -1,0 +1,88 @@
+{
+  "teacherId": "Мханна Ааед Исмаил Назир",
+  "teacherName": "Мханна Ааед Исмаил Назир",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/16/small/p128126.jpg?token_static=e8f00aeafbb18ce6efb5f4f5e81d5183",
+  "updatedAt": "2026-09-20T13:53:17.869Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7590-1-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория инженерного эксперимента",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2267",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мханна Ааед Исмаил Назир",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/16/small/p128126.jpg?token_static=e8f00aeafbb18ce6efb5f4f5e81d5183"
+          }
+        },
+        {
+          "id": "7613-1-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность при эксплуатации объектов морской инфраструктуры",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2441",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мханна Ааед Исмаил Назир",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/16/small/p128126.jpg?token_static=e8f00aeafbb18ce6efb5f4f5e81d5183"
+          }
+        },
+        {
+          "id": "7613-1-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Безопасность при эксплуатации объектов морской инфраструктуры",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 453",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2441",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мханна Ааед Исмаил Назир",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/16/small/p128126.jpg?token_static=e8f00aeafbb18ce6efb5f4f5e81d5183"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

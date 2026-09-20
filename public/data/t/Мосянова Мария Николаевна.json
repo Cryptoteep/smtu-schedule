@@ -1,0 +1,121 @@
+{
+  "teacherId": "Мосянова Мария Николаевна",
+  "teacherName": "Мосянова Мария Николаевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/16/small/p107376.jpg?token_static=f72fa6be5d30c094a39fb3fe1c6374c4",
+  "updatedAt": "2026-09-20T13:53:17.813Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7751-4-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Методы гибридного инжиниринга",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 416",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20230",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мосянова Мария Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/16/small/p107376.jpg?token_static=f72fa6be5d30c094a39fb3fe1c6374c4"
+          }
+        },
+        {
+          "id": "7751-4-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Методы гибридного инжиниринга",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 416",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20230",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мосянова Мария Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/16/small/p107376.jpg?token_static=f72fa6be5d30c094a39fb3fe1c6374c4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7768-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Автоматизированные системы управления предприятием",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20350",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мосянова Мария Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/16/small/p107376.jpg?token_static=f72fa6be5d30c094a39fb3fe1c6374c4"
+          }
+        },
+        {
+          "id": "7768-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Автоматизированные системы управления предприятием",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20350",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мосянова Мария Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/16/small/p107376.jpg?token_static=f72fa6be5d30c094a39fb3fe1c6374c4"
+          }
+        },
+        {
+          "id": "7768-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Автоматизированные системы управления предприятием",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 242",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20350",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мосянова Мария Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/16/small/p107376.jpg?token_static=f72fa6be5d30c094a39fb3fe1c6374c4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

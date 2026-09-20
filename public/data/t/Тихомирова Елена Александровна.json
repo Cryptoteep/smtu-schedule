@@ -1,0 +1,56 @@
+{
+  "teacherId": "Тихомирова Елена Александровна",
+  "teacherName": "Тихомирова Елена Александровна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101187.jpg?token_static=cd3e6fbbbcd6360b3b32531a78d5bf96",
+  "updatedAt": "2026-09-20T13:53:17.995Z",
+  "totalLessons": 1,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7694-2-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тихомирова Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101187.jpg?token_static=cd3e6fbbbcd6360b3b32531a78d5bf96"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

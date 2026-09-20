@@ -1,0 +1,105 @@
+{
+  "teacherId": "Шальнова Светлана Александровна",
+  "teacherName": "Шальнова Светлана Александровна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/08/small/p104340.jpg?token_static=9f781f55e7228447ae56566dfcd92ec3",
+  "updatedAt": "2026-09-20T13:53:17.989Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7690-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Производственные наукоемкие технологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 217",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шальнова Светлана Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/08/small/p104340.jpg?token_static=9f781f55e7228447ae56566dfcd92ec3"
+          }
+        },
+        {
+          "id": "7690-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Производственные наукоемкие технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 212",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шальнова Светлана Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/08/small/p104340.jpg?token_static=9f781f55e7228447ae56566dfcd92ec3"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7494-5-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5470, 5480",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шальнова Светлана Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/08/small/p104340.jpg?token_static=9f781f55e7228447ae56566dfcd92ec3"
+          }
+        },
+        {
+          "id": "7494-5-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5470, 5480",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шальнова Светлана Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/08/small/p104340.jpg?token_static=9f781f55e7228447ae56566dfcd92ec3"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "teacherId": "Пальникова Оксана Викторовна",
+  "teacherName": "Пальникова Оксана Викторовна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/08/small/p100867.jpg?token_static=243091ddd3c0c72117ebb7a756956185",
+  "updatedAt": "2026-09-20T13:53:17.944Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7646-2-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы и средства измерений виброакустических и гидрофизических сигналов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3340",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пальникова Оксана Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/08/small/p100867.jpg?token_static=243091ddd3c0c72117ebb7a756956185"
+          }
+        },
+        {
+          "id": "7646-2-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы и средства измерений виброакустических и гидрофизических сигналов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3340",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пальникова Оксана Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/08/small/p100867.jpg?token_static=243091ddd3c0c72117ebb7a756956185"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7646-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Методы и средства измерений виброакустических и гидрофизических сигналов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 215",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3340",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пальникова Оксана Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/08/small/p100867.jpg?token_static=243091ddd3c0c72117ebb7a756956185"
+          }
+        },
+        {
+          "id": "7658-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Пакеты прикладных программ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Пальникова Оксана Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/08/small/p100867.jpg?token_static=243091ddd3c0c72117ebb7a756956185"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

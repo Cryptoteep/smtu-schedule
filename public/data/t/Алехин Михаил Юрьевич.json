@@ -1,0 +1,77 @@
+{
+  "teacherId": "100023",
+  "teacherName": "Алехин Михаил Юрьевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100023.jpg?token_static=d9305271ebe95da7dd19806b3b4d31cf",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/100023/",
+  "updatedAt": "2026-09-20T13:53:17.989Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7690-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Проектный менеджмент в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 209",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Алехин Михаил Юрьевич",
+            "id": "100023",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100023/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100023.jpg?token_static=d9305271ebe95da7dd19806b3b4d31cf"
+          }
+        },
+        {
+          "id": "7690-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Проектный менеджмент в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 209",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4422",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Алехин Михаил Юрьевич",
+            "id": "100023",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100023/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100023.jpg?token_static=d9305271ebe95da7dd19806b3b4d31cf"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

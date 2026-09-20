@@ -1,0 +1,72 @@
+{
+  "teacherId": "Пшеничная Клавдия Викторовна",
+  "teacherName": "Пшеничная Клавдия Викторовна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100961.jpg?token_static=49d56cd7720590082750027f58ad4fd0",
+  "updatedAt": "2026-09-20T13:53:17.900Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7614-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Модели и методы решения задач информационной безопасности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Пшеничная Клавдия Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100961.jpg?token_static=49d56cd7720590082750027f58ad4fd0"
+          }
+        },
+        {
+          "id": "7614-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Модели и методы решения задач информационной безопасности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пшеничная Клавдия Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100961.jpg?token_static=49d56cd7720590082750027f58ad4fd0"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "teacherId": "Михлин Валерий Григорьевич",
+  "teacherName": "Михлин Валерий Григорьевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123810.jpg?token_static=88e7d44eaf1270f460f13dfb1373b73e",
+  "updatedAt": "2026-09-20T13:53:17.887Z",
+  "totalLessons": 12,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7489-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Электрические машины",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2391",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Михлин Валерий Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123810.jpg?token_static=88e7d44eaf1270f460f13dfb1373b73e"
+          }
+        },
+        {
+          "id": "7489-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Электрические машины",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2391",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Михлин Валерий Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123810.jpg?token_static=88e7d44eaf1270f460f13dfb1373b73e"
+          }
+        },
+        {
+          "id": "7489-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Электрические машины",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2391",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Михлин Валерий Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123810.jpg?token_static=88e7d44eaf1270f460f13dfb1373b73e"
+          }
+        },
+        {
+          "id": "7611-2-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Электропривод",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2426",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Михлин Валерий Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123810.jpg?token_static=88e7d44eaf1270f460f13dfb1373b73e"
+          }
+        },
+        {
+          "id": "7611-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Электропривод",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2426",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Михлин Валерий Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123810.jpg?token_static=88e7d44eaf1270f460f13dfb1373b73e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7608-3-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Электропривод",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405, 2426, 2475, 2494, 2495",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Михлин Валерий Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123810.jpg?token_static=88e7d44eaf1270f460f13dfb1373b73e"
+          }
+        },
+        {
+          "id": "7608-3-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Электропривод",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405, 2494",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Михлин Валерий Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123810.jpg?token_static=88e7d44eaf1270f460f13dfb1373b73e"
+          }
+        },
+        {
+          "id": "7608-3-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Электропривод",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405, 2494",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Михлин Валерий Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123810.jpg?token_static=88e7d44eaf1270f460f13dfb1373b73e"
+          }
+        },
+        {
+          "id": "7616-3-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Электропривод",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2475",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Михлин Валерий Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123810.jpg?token_static=88e7d44eaf1270f460f13dfb1373b73e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7616-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Электропривод",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2475",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Михлин Валерий Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123810.jpg?token_static=88e7d44eaf1270f460f13dfb1373b73e"
+          }
+        },
+        {
+          "id": "7491-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Электропривод",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2495",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Михлин Валерий Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123810.jpg?token_static=88e7d44eaf1270f460f13dfb1373b73e"
+          }
+        },
+        {
+          "id": "7491-4-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Электропривод",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2495",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Михлин Валерий Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123810.jpg?token_static=88e7d44eaf1270f460f13dfb1373b73e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

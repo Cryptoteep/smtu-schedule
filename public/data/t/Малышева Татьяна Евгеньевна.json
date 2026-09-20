@@ -1,0 +1,115 @@
+{
+  "teacherId": "127515",
+  "teacherName": "Малышева Татьяна Евгеньевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/25/small/p127515.jpg?token_static=7bca3501bce9d55142e78180002e14df",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/127515/",
+  "updatedAt": "2026-09-20T13:53:17.883Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7682-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Производственный менеджмент",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "М 11",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Малышева Татьяна Евгеньевна",
+            "id": "127515",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127515/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/25/small/p127515.jpg?token_static=7bca3501bce9d55142e78180002e14df"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7604-3-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Экономика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 601",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2340",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малышева Татьяна Евгеньевна",
+            "id": "127515",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127515/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/25/small/p127515.jpg?token_static=7bca3501bce9d55142e78180002e14df"
+          }
+        },
+        {
+          "id": "7604-3-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Экономика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 601",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2340",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малышева Татьяна Евгеньевна",
+            "id": "127515",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127515/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/25/small/p127515.jpg?token_static=7bca3501bce9d55142e78180002e14df"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7680-4-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Производственный менеджмент",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4304",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малышева Татьяна Евгеньевна",
+            "id": "127515",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127515/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/25/small/p127515.jpg?token_static=7bca3501bce9d55142e78180002e14df"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

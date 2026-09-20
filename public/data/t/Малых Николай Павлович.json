@@ -1,0 +1,104 @@
+{
+  "teacherId": "Малых Николай Павлович",
+  "teacherName": "Малых Николай Павлович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100718.jpg?token_static=d7e07e78de38d38c6399e60c99ca5481",
+  "updatedAt": "2026-09-20T13:53:17.882Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7471-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Термодинамика и теплопередача",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Малых Николай Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100718.jpg?token_static=d7e07e78de38d38c6399e60c99ca5481"
+          }
+        },
+        {
+          "id": "7471-6-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Термодинамика и теплопередача",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2330",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малых Николай Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100718.jpg?token_static=d7e07e78de38d38c6399e60c99ca5481"
+          }
+        },
+        {
+          "id": "7489-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теплотехника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2391",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малых Николай Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100718.jpg?token_static=d7e07e78de38d38c6399e60c99ca5481"
+          }
+        },
+        {
+          "id": "7489-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теплотехника",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2391",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Малых Николай Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100718.jpg?token_static=d7e07e78de38d38c6399e60c99ca5481"
+          }
+        }
+      ]
+    }
+  ]
+}

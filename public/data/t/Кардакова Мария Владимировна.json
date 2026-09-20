@@ -1,0 +1,120 @@
+{
+  "teacherId": "Кардакова Мария Владимировна",
+  "teacherName": "Кардакова Мария Владимировна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113895.jpg?token_static=1d8f08bfc448673b3f930e9bbddfc1d9",
+  "updatedAt": "2026-09-20T13:53:17.855Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7586-4-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2250",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кардакова Мария Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113895.jpg?token_static=1d8f08bfc448673b3f930e9bbddfc1d9"
+          }
+        },
+        {
+          "id": "7586-4-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Гуманитарные аспекты информационной безопасности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2250",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кардакова Мария Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113895.jpg?token_static=1d8f08bfc448673b3f930e9bbddfc1d9"
+          }
+        },
+        {
+          "id": "7586-4-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Гуманитарные аспекты информационной безопасности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2250",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кардакова Мария Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113895.jpg?token_static=1d8f08bfc448673b3f930e9bbddfc1d9"
+          }
+        },
+        {
+          "id": "7605-4-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Защита информации от утечки по техническим каналам",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2350",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кардакова Мария Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113895.jpg?token_static=1d8f08bfc448673b3f930e9bbddfc1d9"
+          }
+        },
+        {
+          "id": "7605-4-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Защита информации от утечки по техническим каналам",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2350",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кардакова Мария Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113895.jpg?token_static=1d8f08bfc448673b3f930e9bbddfc1d9"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

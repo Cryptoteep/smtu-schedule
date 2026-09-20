@@ -1,0 +1,72 @@
+{
+  "teacherId": "Жалнин Александр Владимирович",
+  "teacherName": "Жалнин Александр Владимирович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/08/26/small/140536.jpg?token_static=1d77635d31b1c869c32cbb09641ec49a",
+  "updatedAt": "2026-09-20T13:53:17.939Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7642-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Источники энергии электрических специальных подводных аппаратов и роботов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324, 3325, 3326",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Жалнин Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/08/26/small/140536.jpg?token_static=1d77635d31b1c869c32cbb09641ec49a"
+          }
+        },
+        {
+          "id": "7642-4-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Источники энергии электрических специальных подводных аппаратов и роботов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3324, 3325, 3326",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Жалнин Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/08/26/small/140536.jpg?token_static=1d77635d31b1c869c32cbb09641ec49a"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

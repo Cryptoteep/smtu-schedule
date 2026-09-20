@@ -1,0 +1,88 @@
+{
+  "teacherId": "Скобов Евгений Дмитриевич",
+  "teacherName": "Скобов Евгений Дмитриевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101082.jpg?token_static=56779e20c686aee5a68e96e63f03e1f9",
+  "updatedAt": "2026-09-20T13:53:17.950Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7657-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Оптимальное управление в технических системах",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 306",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Скобов Евгений Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101082.jpg?token_static=56779e20c686aee5a68e96e63f03e1f9"
+          }
+        },
+        {
+          "id": "7657-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Оптимальное управление в технических системах",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 306",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Скобов Евгений Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101082.jpg?token_static=56779e20c686aee5a68e96e63f03e1f9"
+          }
+        },
+        {
+          "id": "7657-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Оптимальное управление в технических системах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 306",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3430",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Скобов Евгений Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101082.jpg?token_static=56779e20c686aee5a68e96e63f03e1f9"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

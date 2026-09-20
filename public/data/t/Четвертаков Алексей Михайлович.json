@@ -1,0 +1,113 @@
+{
+  "teacherId": "101319",
+  "teacherName": "Четвертаков Алексей Михайлович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101319.jpg?token_static=aa2b3c9de4161fcf6ecbf61349a620de",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101319/",
+  "updatedAt": "2026-09-20T13:53:18.000Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7852-3-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Теория корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Четвертаков Алексей Михайлович",
+            "id": "101319",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101319/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101319.jpg?token_static=aa2b3c9de4161fcf6ecbf61349a620de"
+          }
+        },
+        {
+          "id": "7852-3-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория корабля",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Четвертаков Алексей Михайлович",
+            "id": "101319",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101319/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101319.jpg?token_static=aa2b3c9de4161fcf6ecbf61349a620de"
+          }
+        },
+        {
+          "id": "7857-3-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Теория корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 422",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5410",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Четвертаков Алексей Михайлович",
+            "id": "101319",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101319/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101319.jpg?token_static=aa2b3c9de4161fcf6ecbf61349a620de"
+          }
+        },
+        {
+          "id": "7857-3-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Теория корабля",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 422",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5410",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Четвертаков Алексей Михайлович",
+            "id": "101319",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101319/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101319.jpg?token_static=aa2b3c9de4161fcf6ecbf61349a620de"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

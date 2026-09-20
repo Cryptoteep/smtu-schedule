@@ -1,0 +1,386 @@
+{
+  "teacherId": "100469",
+  "teacherName": "Ильменков Сергей Львович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+  "updatedAt": "2026-09-20T13:53:17.856Z",
+  "totalLessons": 19,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7473-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы регулирования морской деятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2490",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        },
+        {
+          "id": "7473-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы регулирования морской деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2490",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7587-2-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Современные методы акустической защиты судового оборудования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2261",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        },
+        {
+          "id": "7587-2-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Современные методы акустической защиты судового оборудования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2261",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        },
+        {
+          "id": "7599-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        },
+        {
+          "id": "7599-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2301, 2350, 2391",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        },
+        {
+          "id": "7605-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2350",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        },
+        {
+          "id": "7489-2-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2391",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7448-3-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2395",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        },
+        {
+          "id": "7491-3-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы акустической защиты судового оборудования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2495",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        },
+        {
+          "id": "7491-3-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы акустической защиты судового оборудования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2495",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        },
+        {
+          "id": "7622-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Автоматизация систем управления движением",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 414",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        },
+        {
+          "id": "7622-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Автоматизация систем управления движением",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        },
+        {
+          "id": "7623-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Автоматизация систем управления движением",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2595",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7586-4-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы регулирования морской деятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2250",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        },
+        {
+          "id": "7586-4-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы регулирования морской деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2250",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        },
+        {
+          "id": "7587-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Современные методы акустической защиты судового оборудования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2261",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        },
+        {
+          "id": "7606-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375, 2395",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        },
+        {
+          "id": "7606-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2375",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ильменков Сергей Львович",
+            "id": "100469",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100469/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100469.jpg?token_static=388baeb93ef645d581703d0a679670e3"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

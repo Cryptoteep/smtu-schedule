@@ -1,0 +1,114 @@
+{
+  "teacherId": "100298",
+  "teacherName": "Григорьев-Голубев Владимир Викторович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p100298.jpg?token_static=f536f601bedf01b379d8d256b2f81ccd",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/100298/",
+  "updatedAt": "2026-09-20T13:53:18.040Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7476-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А Актовый зал",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12638-06, 12638-11, 12638-04, 12638-05, 12638-02, 12638-01, 12638-03, 12638-09, 12638-10, 12638-07",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Григорьев-Голубев Владимир Викторович",
+            "id": "100298",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100298/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p100298.jpg?token_static=f536f601bedf01b379d8d256b2f81ccd"
+          }
+        },
+        {
+          "id": "7889-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 501(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12638-04",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Григорьев-Голубев Владимир Викторович",
+            "id": "100298",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100298/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p100298.jpg?token_static=f536f601bedf01b379d8d256b2f81ccd"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7888-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12638-11",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Григорьев-Голубев Владимир Викторович",
+            "id": "100298",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100298/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p100298.jpg?token_static=f536f601bedf01b379d8d256b2f81ccd"
+          }
+        },
+        {
+          "id": "7890-3-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12638-05",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Григорьев-Голубев Владимир Викторович",
+            "id": "100298",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100298/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p100298.jpg?token_static=f536f601bedf01b379d8d256b2f81ccd"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

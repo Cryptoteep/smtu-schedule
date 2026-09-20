@@ -1,0 +1,154 @@
+{
+  "teacherId": "Токаренко София Андреевна",
+  "teacherName": "Токаренко София Андреевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128936.jpg?token_static=7dce80773d7ed41ade2f5219bda626bb",
+  "updatedAt": "2026-09-20T13:53:17.887Z",
+  "totalLessons": 7,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7835-2-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория эксперимента",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-57",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Токаренко София Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128936.jpg?token_static=7dce80773d7ed41ade2f5219bda626bb"
+          }
+        },
+        {
+          "id": "7835-2-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория эксперимента",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-57",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Токаренко София Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128936.jpg?token_static=7dce80773d7ed41ade2f5219bda626bb"
+          }
+        },
+        {
+          "id": "7835-2-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Теория эксперимента",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-57",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Токаренко София Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128936.jpg?token_static=7dce80773d7ed41ade2f5219bda626bb"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7615-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Техническое и технологическое оснащение машиностроительных производств",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Токаренко София Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128936.jpg?token_static=7dce80773d7ed41ade2f5219bda626bb"
+          }
+        },
+        {
+          "id": "7615-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Техническое и технологическое оснащение машиностроительных производств",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Токаренко София Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128936.jpg?token_static=7dce80773d7ed41ade2f5219bda626bb"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7472-5-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Процессы и операции формообразования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Токаренко София Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128936.jpg?token_static=7dce80773d7ed41ade2f5219bda626bb"
+          }
+        },
+        {
+          "id": "7472-5-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Процессы и операции формообразования",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 536",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Токаренко София Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128936.jpg?token_static=7dce80773d7ed41ade2f5219bda626bb"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

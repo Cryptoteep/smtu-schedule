@@ -1,0 +1,72 @@
+{
+  "teacherId": "Стружилин Александр Сергеевич",
+  "teacherName": "Стружилин Александр Сергеевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123987.jpg?token_static=39627b457eba10aeaac2ef3c254cfead",
+  "updatedAt": "2026-09-20T13:53:17.787Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7570-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Проектирование высокоскоростных судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1418",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Стружилин Александр Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123987.jpg?token_static=39627b457eba10aeaac2ef3c254cfead"
+          }
+        },
+        {
+          "id": "7570-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование высокоскоростных судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1418",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Стружилин Александр Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123987.jpg?token_static=39627b457eba10aeaac2ef3c254cfead"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

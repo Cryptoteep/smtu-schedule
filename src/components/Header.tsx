@@ -1,10 +1,12 @@
 import React from 'react';
-import { Anchor, RefreshCw, Sun, Moon, Search, Calendar, MapPin, Bookmark, Download } from 'lucide-react';
-import { GroupItem } from '../types/schedule';
+import { Anchor, RefreshCw, Sun, Moon, Search, Calendar, MapPin, Bookmark, Download, GraduationCap } from 'lucide-react';
+import { GroupItem, TeacherItem, ScheduleMode } from '../types/schedule';
 import { AcademicWeekInfo } from '../services/weekCalculator';
 
 interface HeaderProps {
+  mode?: ScheduleMode;
   currentGroup: GroupItem;
+  currentTeacher?: TeacherItem | null;
   academicWeek: AcademicWeekInfo;
   refreshing: boolean;
   theme: 'dark' | 'light';
@@ -18,7 +20,9 @@ interface HeaderProps {
 }
 
 export const Header: React.FC<HeaderProps> = ({
+  mode = 'group',
   currentGroup,
+  currentTeacher,
   academicWeek,
   refreshing,
   theme,
@@ -53,16 +57,25 @@ export const Header: React.FC<HeaderProps> = ({
           </div>
         </div>
 
-        {/* Center: Group Selector & Week Indicator */}
+        {/* Center: Group/Teacher Selector & Week Indicator */}
         <div className="flex items-center gap-2">
           <button
             onClick={onOpenGroupPicker}
-            className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 dark:bg-navy-900 dark:hover:bg-navy-800 border border-slate-200 dark:border-navy-700 transition font-semibold text-sm text-navy-900 dark:text-white"
-            title="Сменить учебную группу"
+            className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 dark:bg-navy-900 dark:hover:bg-navy-800 border border-slate-200 dark:border-navy-700 transition font-semibold text-sm text-navy-900 dark:text-white max-w-[190px] sm:max-w-[280px]"
+            title={mode === 'teacher' ? 'Сменить преподавателя' : 'Сменить учебную группу'}
           >
-            <Bookmark className="w-3.5 h-3.5 text-ship-gold fill-ship-gold/20" />
-            <span>Гр. {currentGroup.name}</span>
-            <span className="text-xs text-slate-400 font-normal">▾</span>
+            {mode === 'teacher' && currentTeacher ? (
+              <>
+                <GraduationCap className="w-3.5 h-3.5 text-ship-gold shrink-0" />
+                <span className="truncate">{currentTeacher.name}</span>
+              </>
+            ) : (
+              <>
+                <Bookmark className="w-3.5 h-3.5 text-ship-gold fill-ship-gold/20 shrink-0" />
+                <span className="truncate">Гр. {currentGroup.name}</span>
+              </>
+            )}
+            <span className="text-xs text-slate-400 font-normal shrink-0">▾</span>
           </button>
 
           <div

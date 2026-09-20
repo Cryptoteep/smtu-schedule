@@ -1,0 +1,105 @@
+{
+  "teacherId": "Низкий Роман Яковлевич",
+  "teacherName": "Низкий Роман Яковлевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/26/small/p123121.jpg?token_static=02b95aefe6f5b45818205c7ded96e7c8",
+  "updatedAt": "2026-09-20T13:53:17.999Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7852-1-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Корабельное электрооборудование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Низкий Роман Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/26/small/p123121.jpg?token_static=02b95aefe6f5b45818205c7ded96e7c8"
+          }
+        },
+        {
+          "id": "7852-1-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Корабельное электрооборудование",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Низкий Роман Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/26/small/p123121.jpg?token_static=02b95aefe6f5b45818205c7ded96e7c8"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7819-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Научно-технический семинар",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 130",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "12317-52",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Низкий Роман Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/26/small/p123121.jpg?token_static=02b95aefe6f5b45818205c7ded96e7c8"
+          }
+        },
+        {
+          "id": "7819-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Научно-технический семинар",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 215",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "12317-52",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Низкий Роман Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/26/small/p123121.jpg?token_static=02b95aefe6f5b45818205c7ded96e7c8"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

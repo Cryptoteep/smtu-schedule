@@ -54,6 +54,26 @@ export interface Faculty {
   groups: GroupItem[];
 }
 
+export interface TeacherItem {
+  id: string;
+  name: string;
+  photoUrl?: string;
+  profileUrl?: string;
+  totalLessons?: number;
+}
+
+export interface TeacherSchedule {
+  teacherId: string;
+  teacherName: string;
+  photoUrl?: string;
+  profileUrl?: string;
+  updatedAt: string;
+  totalLessons: number;
+  days: DaySchedule[];
+}
+
+export type ScheduleMode = 'group' | 'teacher';
+
 export interface LessonNote {
   id: string;
   groupId: string;

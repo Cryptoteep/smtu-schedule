@@ -1,0 +1,56 @@
+{
+  "teacherId": "Децик Роман Андреевич",
+  "teacherName": "Децик Роман Андреевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/28/small/p102489.jpg?token_static=ecc3994136143859d74145115fdf1e05",
+  "updatedAt": "2026-09-20T13:53:17.759Z",
+  "totalLessons": 1,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7556-2-20:40-5",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 6,
+          "subject": "Экология и охрана окружающей среды при изготовлении и эксплуатации морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 610",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Децик Роман Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/28/small/p102489.jpg?token_static=ecc3994136143859d74145115fdf1e05"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

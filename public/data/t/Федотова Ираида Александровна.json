@@ -1,0 +1,59 @@
+{
+  "teacherId": "122755",
+  "teacherName": "Федотова Ираида Александровна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/20/small/p122755.jpg?token_static=1e8470bed47c190588e0d9adb0588b30",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/122755/",
+  "updatedAt": "2026-09-20T13:53:17.995Z",
+  "totalLessons": 1,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7696-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Прикладная механика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 154",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5270, 5271",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Федотова Ираида Александровна",
+            "id": "122755",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122755/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/20/small/p122755.jpg?token_static=1e8470bed47c190588e0d9adb0588b30"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

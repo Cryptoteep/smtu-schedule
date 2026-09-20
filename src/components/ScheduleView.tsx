@@ -1,27 +1,31 @@
 import React, { useState, useMemo } from 'react';
 import { Sparkles, BookOpen, Coffee } from 'lucide-react';
-import { GroupSchedule, Lesson, LessonNote } from '../types/schedule';
+import { GroupSchedule, Lesson, LessonNote, ScheduleMode } from '../types/schedule';
 import { filterLessonsByParity } from '../services/weekCalculator';
 import { LessonCard } from './LessonCard';
 
 interface ScheduleViewProps {
   schedule: GroupSchedule;
+  mode?: ScheduleMode;
   effectiveParity: 'up' | 'down' | 'all';
   notes: LessonNote[];
   onOpenTeacher: (teacherName: string, photoUrl?: string) => void;
   onOpenCampus: (letter: string) => void;
   onOpenNote: (lesson: Lesson) => void;
+  onSelectGroupByName?: (groupName: string) => void;
 }
 
 const SHORT_DAYS = ['Пн', 'Вт', 'Ср', 'Чт', 'Пт', 'Сб'];
 
 export const ScheduleView: React.FC<ScheduleViewProps> = ({
   schedule,
+  mode = 'group',
   effectiveParity,
   notes,
   onOpenTeacher,
   onOpenCampus,
   onOpenNote,
+  onSelectGroupByName,
 }) => {
   // Current day index (1 = Monday ... 6 = Saturday, 0 = Sunday)
   const todayJs = new Date().getDay();
@@ -40,7 +44,8 @@ export const ScheduleView: React.FC<ScheduleViewProps> = ({
     });
   }, [schedule, effectiveParity]);
 
-  const activeDay = daysWithFilteredLessons.find((d) => d.dayIndex === selectedDayIndex) || daysWithFilteredLessons[0];
+  const activeDay =
+    daysWithFilteredLessons.find((d) => d.dayIndex === selectedDayIndex) || daysWithFilteredLessons[0];
   const isSelectedDayToday = selectedDayIndex === (todayJs === 0 ? 7 : todayJs);
 
   const totalLessonsCount = activeDay?.filteredLessons.length || 0;
@@ -106,7 +111,12 @@ export const ScheduleView: React.FC<ScheduleViewProps> = ({
           <span className="flex items-center gap-1">
             <BookOpen className="w-3.5 h-3.5 text-navy-500" />
             <span>
-              {totalLessonsCount} {totalLessonsCount === 1 ? 'занятие' : totalLessonsCount >= 2 && totalLessonsCount <= 4 ? 'занятия' : 'занятий'}
+              {totalLessonsCount}{' '}
+              {totalLessonsCount === 1
+                ? 'занятие'
+                : totalLessonsCount >= 2 && totalLessonsCount <= 4
+                ? 'занятия'
+                : 'занятий'}
             </span>
           </span>
         </div>
@@ -124,9 +134,11 @@ export const ScheduleView: React.FC<ScheduleViewProps> = ({
                 key={lesson.id}
                 lesson={lesson}
                 notes={lessonNotes}
+                mode={mode}
                 onOpenTeacher={onOpenTeacher}
                 onOpenCampus={onOpenCampus}
                 onOpenNote={onOpenNote}
+                onSelectGroupByName={onSelectGroupByName}
                 isToday={isSelectedDayToday}
               />
             );
@@ -142,7 +154,7 @@ export const ScheduleView: React.FC<ScheduleViewProps> = ({
           </h3>
           <p className="text-xs text-slate-500 dark:text-slate-400 max-w-sm mx-auto">
             {effectiveParity !== 'all'
-              ? 'Возможно, пары запланированы на другую неделю (числитель / знаменатель) или у группы выходной.'
+              ? 'Возможно, пары запланированы на другую неделю (числитель / знаменатель) или в этот день выходной.'
               : 'Учебных занятий в расписании на этот день не найдено.'}
           </p>
         </div>

@@ -1,0 +1,170 @@
+{
+  "teacherId": "Пугач Андрей Анатольевич",
+  "teacherName": "Пугач Андрей Анатольевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p123535.jpg?token_static=633e528767d1f7528433350c1abd49ca",
+  "updatedAt": "2026-09-20T13:53:17.881Z",
+  "totalLessons": 8,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7607-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Судовые дизельные энергетические установки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2401",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Пугач Андрей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p123535.jpg?token_static=633e528767d1f7528433350c1abd49ca"
+          }
+        },
+        {
+          "id": "7607-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Судовые дизельные энергетические установки",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2401",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Пугач Андрей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p123535.jpg?token_static=633e528767d1f7528433350c1abd49ca"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7471-4-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Судовое главное энергетическое оборудование (дизельное)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пугач Андрей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p123535.jpg?token_static=633e528767d1f7528433350c1abd49ca"
+          }
+        },
+        {
+          "id": "7637-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Аддитивные технологии в подводной робототехнике",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-05",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3263",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пугач Андрей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p123535.jpg?token_static=633e528767d1f7528433350c1abd49ca"
+          }
+        },
+        {
+          "id": "7637-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Аддитивные технологии в подводной робототехнике",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-05",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3263",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пугач Андрей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p123535.jpg?token_static=633e528767d1f7528433350c1abd49ca"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7471-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Судовое главное энергетическое оборудование (дизельное)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пугач Андрей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p123535.jpg?token_static=633e528767d1f7528433350c1abd49ca"
+          }
+        },
+        {
+          "id": "7916-5-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Управление проектами и инновациями",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-04",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12326-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пугач Андрей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p123535.jpg?token_static=633e528767d1f7528433350c1abd49ca"
+          }
+        },
+        {
+          "id": "7916-5-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Управление проектами и инновациями",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-04",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12326-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пугач Андрей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p123535.jpg?token_static=633e528767d1f7528433350c1abd49ca"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

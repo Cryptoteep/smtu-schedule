@@ -1,0 +1,88 @@
+{
+  "teacherId": "Лебедев Дмитрий Владимирович",
+  "teacherName": "Лебедев Дмитрий Владимирович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100659.jpg?token_static=e4504ac314819d7ec38b146e029a8a4e",
+  "updatedAt": "2026-09-20T13:53:17.875Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7592-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информационные технологии в жизненном цикле турбинных двигателей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 301а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2269",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лебедев Дмитрий Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100659.jpg?token_static=e4504ac314819d7ec38b146e029a8a4e"
+          }
+        },
+        {
+          "id": "7592-6-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информационные технологии в жизненном цикле турбинных двигателей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 301а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2269",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лебедев Дмитрий Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100659.jpg?token_static=e4504ac314819d7ec38b146e029a8a4e"
+          }
+        },
+        {
+          "id": "7592-6-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информационные технологии в жизненном цикле турбинных двигателей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 301а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2269",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Лебедев Дмитрий Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100659.jpg?token_static=e4504ac314819d7ec38b146e029a8a4e"
+          }
+        }
+      ]
+    }
+  ]
+}

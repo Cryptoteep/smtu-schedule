@@ -1,0 +1,150 @@
+{
+  "teacherId": "101015",
+  "teacherName": "Рытов Евгений Юрьевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101015.jpg?token_static=683859205b38587375e093ab8c155358",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101015/",
+  "updatedAt": "2026-09-20T13:53:17.819Z",
+  "totalLessons": 6,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7757-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Физика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20275",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Рытов Евгений Юрьевич",
+            "id": "101015",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101015/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101015.jpg?token_static=683859205b38587375e093ab8c155358"
+          }
+        },
+        {
+          "id": "7757-2-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 301",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20275",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рытов Евгений Юрьевич",
+            "id": "101015",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101015/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101015.jpg?token_static=683859205b38587375e093ab8c155358"
+          }
+        },
+        {
+          "id": "7696-2-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 301",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рытов Евгений Юрьевич",
+            "id": "101015",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101015/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101015.jpg?token_static=683859205b38587375e093ab8c155358"
+          }
+        },
+        {
+          "id": "7697-2-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 301",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5271",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рытов Евгений Юрьевич",
+            "id": "101015",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101015/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101015.jpg?token_static=683859205b38587375e093ab8c155358"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7694-3-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Физика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5210, 5270, 5271",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Рытов Евгений Юрьевич",
+            "id": "101015",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101015/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101015.jpg?token_static=683859205b38587375e093ab8c155358"
+          }
+        },
+        {
+          "id": "7694-3-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 301",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рытов Евгений Юрьевич",
+            "id": "101015",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101015/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101015.jpg?token_static=683859205b38587375e093ab8c155358"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

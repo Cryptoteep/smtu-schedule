@@ -1,0 +1,186 @@
+{
+  "teacherId": "Тряскин Никита Владимирович",
+  "teacherName": "Тряскин Никита Владимирович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101210.jpg?token_static=1cee014c4169a8fcb3b605dd9051ba69",
+  "updatedAt": "2026-09-20T13:53:17.726Z",
+  "totalLessons": 9,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7013-1-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Гидромеханика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тряскин Никита Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101210.jpg?token_static=1cee014c4169a8fcb3b605dd9051ba69"
+          }
+        },
+        {
+          "id": "7013-1-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Гидромеханика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Тряскин Никита Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101210.jpg?token_static=1cee014c4169a8fcb3b605dd9051ba69"
+          }
+        },
+        {
+          "id": "7911-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Вычислительная механика жидкости и газа",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 610",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1433, 1480",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Тряскин Никита Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101210.jpg?token_static=1cee014c4169a8fcb3b605dd9051ba69"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7912-3-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Современные методы решения задач гидродинамики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Тряскин Никита Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101210.jpg?token_static=1cee014c4169a8fcb3b605dd9051ba69"
+          }
+        },
+        {
+          "id": "7466-3-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Современные методы решения задач гидродинамики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1268",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Тряскин Никита Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101210.jpg?token_static=1cee014c4169a8fcb3b605dd9051ba69"
+          }
+        },
+        {
+          "id": "7466-3-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Современные методы решения задач гидродинамики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1268",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тряскин Никита Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101210.jpg?token_static=1cee014c4169a8fcb3b605dd9051ba69"
+          }
+        },
+        {
+          "id": "7466-3-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Современные методы решения задач гидродинамики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1268",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Тряскин Никита Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101210.jpg?token_static=1cee014c4169a8fcb3b605dd9051ba69"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7912-4-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Современные методы решения задач гидродинамики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Тряскин Никита Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101210.jpg?token_static=1cee014c4169a8fcb3b605dd9051ba69"
+          }
+        },
+        {
+          "id": "7013-4-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Гидромеханика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 415",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1380",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Тряскин Никита Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101210.jpg?token_static=1cee014c4169a8fcb3b605dd9051ba69"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

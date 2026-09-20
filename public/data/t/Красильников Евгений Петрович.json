@@ -1,0 +1,169 @@
+{
+  "teacherId": "Красильников Евгений Петрович",
+  "teacherName": "Красильников Евгений Петрович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100584.jpg?token_static=1484575bbb20d80ec54988203e92e8ec",
+  "updatedAt": "2026-09-20T13:53:17.922Z",
+  "totalLessons": 8,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7647-2-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Термогазодинамика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 130",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3350",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Красильников Евгений Петрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100584.jpg?token_static=1484575bbb20d80ec54988203e92e8ec"
+          }
+        },
+        {
+          "id": "7647-2-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Корабельные системы пуска морских робототехнических объектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 130",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3350",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Красильников Евгений Петрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100584.jpg?token_static=1484575bbb20d80ec54988203e92e8ec"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7635-3-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Проектирование корабельного вооружения и морского оружия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 208",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3261",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Красильников Евгений Петрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100584.jpg?token_static=1484575bbb20d80ec54988203e92e8ec"
+          }
+        },
+        {
+          "id": "7635-3-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Проектирование корабельного вооружения и морского оружия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 207",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3261",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Красильников Евгений Петрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100584.jpg?token_static=1484575bbb20d80ec54988203e92e8ec"
+          }
+        },
+        {
+          "id": "7635-3-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Проектирование корабельного вооружения и морского оружия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 208",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3261",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Красильников Евгений Петрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100584.jpg?token_static=1484575bbb20d80ec54988203e92e8ec"
+          }
+        },
+        {
+          "id": "7647-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Корабельные системы пуска морских робототехнических объектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 130",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3350",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Красильников Евгений Петрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100584.jpg?token_static=1484575bbb20d80ec54988203e92e8ec"
+          }
+        },
+        {
+          "id": "7647-3-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Корабельные системы пуска морских робототехнических объектов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 208",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3350",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Красильников Евгений Петрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100584.jpg?token_static=1484575bbb20d80ec54988203e92e8ec"
+          }
+        },
+        {
+          "id": "7647-3-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Термогазодинамика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 207",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3350",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Красильников Евгений Петрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100584.jpg?token_static=1484575bbb20d80ec54988203e92e8ec"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

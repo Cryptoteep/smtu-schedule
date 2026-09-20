@@ -1,24 +1,28 @@
 import React from 'react';
-import { Clock, MapPin, User, FileText, CheckCircle2, AlertCircle, Navigation } from 'lucide-react';
-import { Lesson, LessonNote } from '../types/schedule';
+import { Clock, MapPin, User, FileText, CheckCircle2, AlertCircle, Navigation, Users } from 'lucide-react';
+import { Lesson, LessonNote, ScheduleMode } from '../types/schedule';
 import { getLessonStatus } from '../services/weekCalculator';
 import { getCampusByRoom } from '../data/campuses';
 
 interface LessonCardProps {
   lesson: Lesson;
   notes: LessonNote[];
+  mode?: ScheduleMode;
   onOpenTeacher: (teacherName: string, photoUrl?: string) => void;
   onOpenCampus: (letter: string) => void;
   onOpenNote: (lesson: Lesson) => void;
+  onSelectGroupByName?: (groupName: string) => void;
   isToday: boolean;
 }
 
 export const LessonCard: React.FC<LessonCardProps> = ({
   lesson,
   notes,
+  mode = 'group',
   onOpenTeacher,
   onOpenCampus,
   onOpenNote,
+  onSelectGroupByName,
   isToday,
 }) => {
   const currentStatus = isToday ? getLessonStatus(lesson.time) : { status: 'passed' as const };
@@ -134,7 +138,7 @@ export const LessonCard: React.FC<LessonCardProps> = ({
         </div>
       </div>
 
-      {/* Bottom row: Location, Teacher, Notes */}
+      {/* Location, Teacher, Notes */}
       <div className="flex flex-wrap items-center justify-between gap-2 pt-2.5 border-t border-slate-100 dark:border-navy-800/80 text-xs">
         {/* Room and Campus */}
         {(() => {
@@ -174,7 +178,7 @@ export const LessonCard: React.FC<LessonCardProps> = ({
         {lesson.teacher ? (
           <button
             onClick={() => onOpenTeacher(lesson.teacher!.name, lesson.teacher?.photoUrl)}
-            className="flex items-center gap-1.5 font-medium text-slate-700 dark:text-slate-300 hover:text-navy-600 dark:hover:text-ship-accent transition max-w-[200px] truncate"
+            className="flex items-center gap-1.5 font-medium text-slate-700 dark:text-slate-300 hover:text-navy-600 dark:hover:text-ship-gold transition max-w-[200px] truncate"
             title="Преподаватель"
           >
             {lesson.teacher.photoUrl ? (
@@ -220,6 +224,29 @@ export const LessonCard: React.FC<LessonCardProps> = ({
           )}
         </button>
       </div>
+
+      {/* For Teacher Mode or when groupName is explicitly present: Clickable Group badge */}
+      {mode === 'teacher' && lesson.groupName && (
+        <div className="flex items-center gap-1.5 mt-2.5 pt-2 border-t border-slate-100 dark:border-navy-800/80 text-xs">
+          <Users className="w-3.5 h-3.5 text-slate-400 shrink-0" />
+          <span className="text-slate-400 font-medium">Группа:</span>
+          <div className="flex flex-wrap gap-1">
+            {lesson.groupName.split(',').map((grp) => {
+              const cleanGrp = grp.trim();
+              return (
+                <button
+                  key={cleanGrp}
+                  onClick={() => onSelectGroupByName?.(cleanGrp)}
+                  className="px-2 py-0.5 rounded-md font-bold text-xs bg-navy-100/80 dark:bg-navy-800 text-navy-800 dark:text-ship-gold hover:bg-navy-200 dark:hover:bg-navy-700 transition"
+                  title={`Перейти к расписанию группы ${cleanGrp}`}
+                >
+                  {cleanGrp}
+                </button>
+              );
+            })}
+          </div>
+        </div>
+      )}
     </div>
   );
 };

@@ -1,16 +1,35 @@
-import { GroupSchedule, GroupItem, LessonNote } from '../types/schedule';
+import { GroupSchedule, GroupItem, LessonNote, TeacherItem, TeacherSchedule, ScheduleMode } from '../types/schedule';
 
 const KEYS = {
   CURRENT_GROUP: 'smtu_current_group',
+  CURRENT_TEACHER: 'smtu_current_teacher',
+  SCHEDULE_MODE: 'smtu_schedule_mode',
   FAVORITES: 'smtu_favorite_groups',
+  FAVORITE_TEACHERS: 'smtu_favorite_teachers',
   RECENT_GROUPS: 'smtu_recent_groups',
+  RECENT_TEACHERS: 'smtu_recent_teachers',
   SCHEDULE_CACHE_PREFIX: 'smtu_sched_cache_v2_',
+  TEACHER_CACHE_PREFIX: 'smtu_teacher_cache_v2_',
   NOTES: 'smtu_lesson_notes',
   THEME: 'smtu_theme_mode',
   WEEK_FILTER: 'smtu_week_filter',
 };
 
 export const storage = {
+  getMode(): ScheduleMode {
+    try {
+      return (localStorage.getItem(KEYS.SCHEDULE_MODE) as ScheduleMode) || 'group';
+    } catch {
+      return 'group';
+    }
+  },
+
+  setMode(mode: ScheduleMode): void {
+    try {
+      localStorage.setItem(KEYS.SCHEDULE_MODE, mode);
+    } catch {}
+  },
+
   getCurrentGroup(): GroupItem | null {
     try {
       const data = localStorage.getItem(KEYS.CURRENT_GROUP);
@@ -18,6 +37,56 @@ export const storage = {
     } catch {
       return null;
     }
+  },
+
+  getCurrentTeacher(): TeacherItem | null {
+    try {
+      const data = localStorage.getItem(KEYS.CURRENT_TEACHER);
+      return data ? JSON.parse(data) : null;
+    } catch {
+      return null;
+    }
+  },
+
+  setCurrentTeacher(teacher: TeacherItem): void {
+    try {
+      localStorage.setItem(KEYS.CURRENT_TEACHER, JSON.stringify(teacher));
+      this.addRecentTeacher(teacher);
+    } catch (e) {
+      console.warn('Storage error saving current teacher:', e);
+    }
+  },
+
+  getRecentTeachers(): TeacherItem[] {
+    try {
+      const data = localStorage.getItem(KEYS.RECENT_TEACHERS);
+      return data ? JSON.parse(data) : [];
+    } catch {
+      return [];
+    }
+  },
+
+  addRecentTeacher(teacher: TeacherItem): void {
+    try {
+      const recents = this.getRecentTeachers().filter((t) => t.id !== teacher.id && t.name !== teacher.name);
+      const updated = [teacher, ...recents].slice(0, 8);
+      localStorage.setItem(KEYS.RECENT_TEACHERS, JSON.stringify(updated));
+    } catch {}
+  },
+
+  getCachedTeacherSchedule(teacherIdOrName: string): TeacherSchedule | null {
+    try {
+      const data = localStorage.getItem(KEYS.TEACHER_CACHE_PREFIX + teacherIdOrName);
+      return data ? JSON.parse(data) : null;
+    } catch {
+      return null;
+    }
+  },
+
+  setCachedTeacherSchedule(schedule: TeacherSchedule): void {
+    try {
+      localStorage.setItem(KEYS.TEACHER_CACHE_PREFIX + (schedule.teacherId || schedule.teacherName), JSON.stringify(schedule));
+    } catch {}
   },
 
   setCurrentGroup(group: GroupItem): void {
@@ -57,6 +126,38 @@ export const storage = {
 
   isFavorite(groupId: string): boolean {
     return this.getFavorites().some((g) => g.id === groupId);
+  },
+
+  getFavoriteTeachers(): TeacherItem[] {
+    try {
+      const data = localStorage.getItem(KEYS.FAVORITE_TEACHERS);
+      return data ? JSON.parse(data) : [];
+    } catch {
+      return [];
+    }
+  },
+
+  toggleFavoriteTeacher(teacher: TeacherItem): boolean {
+    try {
+      const favorites = this.getFavoriteTeachers();
+      const exists = favorites.some((t) => t.id === teacher.id || t.name === teacher.name);
+      let updated: TeacherItem[];
+      if (exists) {
+        updated = favorites.filter((t) => t.id !== teacher.id && t.name !== teacher.name);
+      } else {
+        updated = [teacher, ...favorites];
+      }
+      localStorage.setItem(KEYS.FAVORITE_TEACHERS, JSON.stringify(updated));
+      return !exists;
+    } catch {
+      return false;
+    }
+  },
+
+  isFavoriteTeacher(teacherIdOrName: string): boolean {
+    return this.getFavoriteTeachers().some(
+      (t) => t.id === teacherIdOrName || t.name === teacherIdOrName
+    );
   },
 
   getRecentGroups(): GroupItem[] {

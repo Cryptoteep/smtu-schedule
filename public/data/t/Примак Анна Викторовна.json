@@ -1,0 +1,105 @@
+{
+  "teacherId": "Примак Анна Викторовна",
+  "teacherName": "Примак Анна Викторовна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p128880.jpg?token_static=9935d1e3bef26d0b2da4e8f5e318c703",
+  "updatedAt": "2026-09-20T13:53:17.854Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7614-4-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Организационное и правовое обеспечение информационной безопасности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 414",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Примак Анна Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p128880.jpg?token_static=9935d1e3bef26d0b2da4e8f5e318c703"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7584-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 301а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2235",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Примак Анна Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p128880.jpg?token_static=9935d1e3bef26d0b2da4e8f5e318c703"
+          }
+        },
+        {
+          "id": "7584-5-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 301а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2235",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Примак Анна Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p128880.jpg?token_static=9935d1e3bef26d0b2da4e8f5e318c703"
+          }
+        },
+        {
+          "id": "7586-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Документоведение и конфиденциальное делопроизводство",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2250",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Примак Анна Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p128880.jpg?token_static=9935d1e3bef26d0b2da4e8f5e318c703"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "teacherId": "Гарифуллин Нияз Билалович",
+  "teacherName": "Гарифуллин Нияз Билалович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/11/small/p127999.jpg?token_static=584126ff28dde64debeedb43b30fb7fa",
+  "updatedAt": "2026-09-20T13:53:17.849Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7781-6-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Киберфизические системы в промышленности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "20513",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Гарифуллин Нияз Билалович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/11/small/p127999.jpg?token_static=584126ff28dde64debeedb43b30fb7fa"
+          }
+        },
+        {
+          "id": "7781-6-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Киберфизические системы в промышленности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "20513",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гарифуллин Нияз Билалович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/11/small/p127999.jpg?token_static=584126ff28dde64debeedb43b30fb7fa"
+          }
+        }
+      ]
+    }
+  ]
+}

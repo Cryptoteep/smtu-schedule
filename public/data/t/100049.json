@@ -1,0 +1,114 @@
+{
+  "teacherId": "100049",
+  "teacherName": "Аполлова Анастасия Васильевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100049.jpg?token_static=bc17e9621a942b2e150fd9ea90b256a1",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/100049/",
+  "updatedAt": "2026-09-20T13:53:17.878Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7600-3-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физико-химические процессы, сопровождающие генерацию пара",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-3",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2304",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Аполлова Анастасия Васильевна",
+            "id": "100049",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100049/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100049.jpg?token_static=bc17e9621a942b2e150fd9ea90b256a1"
+          }
+        },
+        {
+          "id": "7600-3-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физико-химические процессы, сопровождающие генерацию пара",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-3",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2304",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Аполлова Анастасия Васильевна",
+            "id": "100049",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100049/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100049.jpg?token_static=bc17e9621a942b2e150fd9ea90b256a1"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7601-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физико-химические процессы, сопровождающие генерацию пара",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 404",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2305",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Аполлова Анастасия Васильевна",
+            "id": "100049",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100049/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100049.jpg?token_static=bc17e9621a942b2e150fd9ea90b256a1"
+          }
+        },
+        {
+          "id": "7601-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физико-химические процессы, сопровождающие генерацию пара",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 404",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2305",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Аполлова Анастасия Васильевна",
+            "id": "100049",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100049/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100049.jpg?token_static=bc17e9621a942b2e150fd9ea90b256a1"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

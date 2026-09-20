@@ -1,0 +1,138 @@
+{
+  "teacherId": "Шилкина Марина Сергеевна",
+  "teacherName": "Шилкина Марина Сергеевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/01/small/106005.jpg?token_static=1778a33cac832b48033a2e7525beaa5c",
+  "updatedAt": "2026-09-20T13:53:17.704Z",
+  "totalLessons": 6,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7540-2-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Судовые устройства и системы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шилкина Марина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/01/small/106005.jpg?token_static=1778a33cac832b48033a2e7525beaa5c"
+          }
+        },
+        {
+          "id": "7540-2-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Судовые устройства и системы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шилкина Марина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/01/small/106005.jpg?token_static=1778a33cac832b48033a2e7525beaa5c"
+          }
+        },
+        {
+          "id": "7540-2-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Судовые устройства и системы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шилкина Марина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/01/small/106005.jpg?token_static=1778a33cac832b48033a2e7525beaa5c"
+          }
+        },
+        {
+          "id": "7882-2-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы и устройства судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1302",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Шилкина Марина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/01/small/106005.jpg?token_static=1778a33cac832b48033a2e7525beaa5c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7882-5-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Системы и устройства судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1302, 1303",
+          "weekParity": "both",
+          "dateSpecific": "18.09",
+          "teacher": {
+            "name": "Шилкина Марина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/01/small/106005.jpg?token_static=1778a33cac832b48033a2e7525beaa5c"
+          }
+        },
+        {
+          "id": "7883-5-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы и устройства судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1303",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Шилкина Марина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/01/small/106005.jpg?token_static=1778a33cac832b48033a2e7525beaa5c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

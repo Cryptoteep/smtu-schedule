@@ -1,0 +1,104 @@
+{
+  "teacherId": "Соловьёв Владимир Дмитриевич",
+  "teacherName": "Соловьёв Владимир Дмитриевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p125565.jpg?token_static=8c47de4f4063ca25747c964e98207006",
+  "updatedAt": "2026-09-20T13:53:17.840Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7469-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физика и оптика лазеров",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20371",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Соловьёв Владимир Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p125565.jpg?token_static=8c47de4f4063ca25747c964e98207006"
+          }
+        },
+        {
+          "id": "7469-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физика и оптика лазеров",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20371",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Соловьёв Владимир Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p125565.jpg?token_static=8c47de4f4063ca25747c964e98207006"
+          }
+        },
+        {
+          "id": "7469-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физика и оптика лазеров",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20371",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Соловьёв Владимир Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p125565.jpg?token_static=8c47de4f4063ca25747c964e98207006"
+          }
+        },
+        {
+          "id": "7469-4-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физика и оптика лазеров",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20371",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Соловьёв Владимир Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p125565.jpg?token_static=8c47de4f4063ca25747c964e98207006"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

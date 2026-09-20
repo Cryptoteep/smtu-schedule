@@ -1,0 +1,121 @@
+{
+  "teacherId": "Дедков Алексей Владимирович",
+  "teacherName": "Дедков Алексей Владимирович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p130457.jpg?token_static=d0c7317e02301fcea5ed67826c983beb",
+  "updatedAt": "2026-09-20T13:53:17.855Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7585-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 442",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2240",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Дедков Алексей Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p130457.jpg?token_static=d0c7317e02301fcea5ed67826c983beb"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7598-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 442",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2295",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дедков Алексей Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p130457.jpg?token_static=d0c7317e02301fcea5ed67826c983beb"
+          }
+        },
+        {
+          "id": "7598-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 442",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2295",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Дедков Алексей Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p130457.jpg?token_static=d0c7317e02301fcea5ed67826c983beb"
+          }
+        },
+        {
+          "id": "7598-5-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 442",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2295",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Дедков Алексей Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p130457.jpg?token_static=d0c7317e02301fcea5ed67826c983beb"
+          }
+        },
+        {
+          "id": "7598-5-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 442",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2295",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Дедков Алексей Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p130457.jpg?token_static=d0c7317e02301fcea5ed67826c983beb"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

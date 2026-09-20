@@ -1,0 +1,113 @@
+{
+  "teacherId": "100043",
+  "teacherName": "Антонов Владимир Михайлович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/29/small/p100043.jpg?token_static=f3bf2df894805d24e7e61a1425e3fdab",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/100043/",
+  "updatedAt": "2026-09-20T13:53:17.786Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7570-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технология судостроения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1418",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Антонов Владимир Михайлович",
+            "id": "100043",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100043/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/29/small/p100043.jpg?token_static=f3bf2df894805d24e7e61a1425e3fdab"
+          }
+        },
+        {
+          "id": "7570-1-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технология судостроения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1418",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Антонов Владимир Михайлович",
+            "id": "100043",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100043/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/29/small/p100043.jpg?token_static=f3bf2df894805d24e7e61a1425e3fdab"
+          }
+        },
+        {
+          "id": "7777-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы технологии судостроения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20470, 20471",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Антонов Владимир Михайлович",
+            "id": "100043",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100043/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/29/small/p100043.jpg?token_static=f3bf2df894805d24e7e61a1425e3fdab"
+          }
+        },
+        {
+          "id": "7777-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы технологии судостроения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20470, 20471",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Антонов Владимир Михайлович",
+            "id": "100043",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100043/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/29/small/p100043.jpg?token_static=f3bf2df894805d24e7e61a1425e3fdab"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

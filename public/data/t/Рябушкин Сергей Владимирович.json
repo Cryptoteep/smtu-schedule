@@ -1,0 +1,122 @@
+{
+  "teacherId": "Рябушкин Сергей Владимирович",
+  "teacherName": "Рябушкин Сергей Владимирович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p104937.jpg?token_static=7e47f923815df9b2bf9c40b3a60069c6",
+  "updatedAt": "2026-09-20T13:53:17.708Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7541-1-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Строительная механика и прочность корабля",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 301а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1203",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Рябушкин Сергей Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p104937.jpg?token_static=7e47f923815df9b2bf9c40b3a60069c6"
+          }
+        },
+        {
+          "id": "7557-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Строительная механика корабля",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1310",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Рябушкин Сергей Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p104937.jpg?token_static=7e47f923815df9b2bf9c40b3a60069c6"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7852-3-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Строительная механика корабля",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 218",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рябушкин Сергей Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p104937.jpg?token_static=7e47f923815df9b2bf9c40b3a60069c6"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7541-5-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Строительная механика и прочность корабля",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 218",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1203",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Рябушкин Сергей Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p104937.jpg?token_static=7e47f923815df9b2bf9c40b3a60069c6"
+          }
+        },
+        {
+          "id": "7541-5-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Строительная механика и прочность корабля",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 218",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1203",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Рябушкин Сергей Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p104937.jpg?token_static=7e47f923815df9b2bf9c40b3a60069c6"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

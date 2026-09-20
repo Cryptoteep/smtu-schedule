@@ -1,0 +1,136 @@
+{
+  "teacherId": "Першина Елена Игоревна",
+  "teacherName": "Першина Елена Игоревна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/17/small/p124664.jpg?token_static=4045740a78a16930b058422181cf9e71",
+  "updatedAt": "2026-09-20T13:53:17.931Z",
+  "totalLessons": 6,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7638-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Алгоритмы телеуправления медицинскими роботами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Медцентр 303",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "3264",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Першина Елена Игоревна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/17/small/p124664.jpg?token_static=4045740a78a16930b058422181cf9e71"
+          }
+        },
+        {
+          "id": "7638-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Алгоритмы обработки цифровых управляющих сигналов в медицинской робототехнике",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Медцентр 303",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "3264",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Першина Елена Игоревна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/17/small/p124664.jpg?token_static=4045740a78a16930b058422181cf9e71"
+          }
+        },
+        {
+          "id": "7638-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Алгоритмы телеуправления медицинскими роботами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Медцентр 303",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "3264",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Першина Елена Игоревна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/17/small/p124664.jpg?token_static=4045740a78a16930b058422181cf9e71"
+          }
+        },
+        {
+          "id": "7638-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Алгоритмы обработки цифровых управляющих сигналов в медицинской робототехнике",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Медцентр 303",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "3264",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Першина Елена Игоревна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/17/small/p124664.jpg?token_static=4045740a78a16930b058422181cf9e71"
+          }
+        },
+        {
+          "id": "7638-5-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Алгоритмы телеуправления медицинскими роботами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Медцентр 303",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "3264",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Першина Елена Игоревна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/17/small/p124664.jpg?token_static=4045740a78a16930b058422181cf9e71"
+          }
+        },
+        {
+          "id": "7638-5-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Алгоритмы обработки цифровых управляющих сигналов в медицинской робототехнике",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Медцентр 303",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "3264",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Першина Елена Игоревна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/17/small/p124664.jpg?token_static=4045740a78a16930b058422181cf9e71"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

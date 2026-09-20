@@ -1,0 +1,122 @@
+{
+  "teacherId": "Розанов Михаил Иванович",
+  "teacherName": "Розанов Михаил Иванович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/09/small/p100991.jpg?token_static=6a71a9ae293d49a298a8d990858e00ef",
+  "updatedAt": "2026-09-20T13:53:17.944Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7658-1-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Экспериментальные методы исследований",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 215",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Розанов Михаил Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/09/small/p100991.jpg?token_static=6a71a9ae293d49a298a8d990858e00ef"
+          }
+        },
+        {
+          "id": "7658-1-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Экспериментальные методы исследований",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 215",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Розанов Михаил Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/09/small/p100991.jpg?token_static=6a71a9ae293d49a298a8d990858e00ef"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7916-2-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Научно-технический семинар",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 414",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "12326-50",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Розанов Михаил Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/09/small/p100991.jpg?token_static=6a71a9ae293d49a298a8d990858e00ef"
+          }
+        },
+        {
+          "id": "7916-2-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Научно-технический семинар",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 414",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "12326-50",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Розанов Михаил Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/09/small/p100991.jpg?token_static=6a71a9ae293d49a298a8d990858e00ef"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7646-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Гидрофизические методы и средства подводного поиска",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 215",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3340",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Розанов Михаил Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/09/small/p100991.jpg?token_static=6a71a9ae293d49a298a8d990858e00ef"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

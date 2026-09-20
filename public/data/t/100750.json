@@ -1,0 +1,367 @@
+{
+  "teacherId": "100750",
+  "teacherName": "Мельников Юрий Алексеевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100750.jpg?token_static=5d88942995da885ed4ea85f2b49c068b",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/100750/",
+  "updatedAt": "2026-09-20T13:53:17.947Z",
+  "totalLessons": 18,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7651-2-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Объекты морской техники (С)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г лаб.12",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3390",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мельников Юрий Алексеевич",
+            "id": "100750",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100750/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100750.jpg?token_static=5d88942995da885ed4ea85f2b49c068b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7651-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Объекты морской техники (С)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г лаб.12",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3390",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мельников Юрий Алексеевич",
+            "id": "100750",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100750/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100750.jpg?token_static=5d88942995da885ed4ea85f2b49c068b"
+          }
+        },
+        {
+          "id": "7651-3-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Объекты морской техники (С)",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г лаб.12",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3390",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мельников Юрий Алексеевич",
+            "id": "100750",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100750/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100750.jpg?token_static=5d88942995da885ed4ea85f2b49c068b"
+          }
+        },
+        {
+          "id": "7653-3-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Организация и технология производства подводных аппаратов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 317",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3420",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мельников Юрий Алексеевич",
+            "id": "100750",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100750/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100750.jpg?token_static=5d88942995da885ed4ea85f2b49c068b"
+          }
+        },
+        {
+          "id": "7653-3-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Организация и технология производства подводных аппаратов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 317",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3420",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мельников Юрий Алексеевич",
+            "id": "100750",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100750/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100750.jpg?token_static=5d88942995da885ed4ea85f2b49c068b"
+          }
+        },
+        {
+          "id": "7654-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Спецтехнология (С)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 512",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3424",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мельников Юрий Алексеевич",
+            "id": "100750",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100750/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100750.jpg?token_static=5d88942995da885ed4ea85f2b49c068b"
+          }
+        },
+        {
+          "id": "7654-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Спецтехнология (С)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 512",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3424",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мельников Юрий Алексеевич",
+            "id": "100750",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100750/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100750.jpg?token_static=5d88942995da885ed4ea85f2b49c068b"
+          }
+        },
+        {
+          "id": "7654-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Спецтехнология (С)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 512",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3424",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мельников Юрий Алексеевич",
+            "id": "100750",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100750/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100750.jpg?token_static=5d88942995da885ed4ea85f2b49c068b"
+          }
+        },
+        {
+          "id": "7654-3-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Спецтехнология (С)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 512",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3424",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мельников Юрий Алексеевич",
+            "id": "100750",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100750/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100750.jpg?token_static=5d88942995da885ed4ea85f2b49c068b"
+          }
+        },
+        {
+          "id": "7656-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Организация и технология производства подводных аппаратов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 317",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3426",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мельников Юрий Алексеевич",
+            "id": "100750",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100750/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100750.jpg?token_static=5d88942995da885ed4ea85f2b49c068b"
+          }
+        },
+        {
+          "id": "7656-3-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Организация и технология производства подводных аппаратов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 317",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3426",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мельников Юрий Алексеевич",
+            "id": "100750",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100750/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100750.jpg?token_static=5d88942995da885ed4ea85f2b49c068b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7653-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Организация и технология производства подводных аппаратов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 317",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3420, 3425",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мельников Юрий Алексеевич",
+            "id": "100750",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100750/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100750.jpg?token_static=5d88942995da885ed4ea85f2b49c068b"
+          }
+        },
+        {
+          "id": "7653-4-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Организация и технология производства подводных аппаратов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 319",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3420",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мельников Юрий Алексеевич",
+            "id": "100750",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100750/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100750.jpg?token_static=5d88942995da885ed4ea85f2b49c068b"
+          }
+        },
+        {
+          "id": "7655-4-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Организация и технология производства подводных аппаратов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 319",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3425",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мельников Юрий Алексеевич",
+            "id": "100750",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100750/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100750.jpg?token_static=5d88942995da885ed4ea85f2b49c068b"
+          }
+        },
+        {
+          "id": "7655-4-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Организация и технология производства подводных аппаратов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 319",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3425",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мельников Юрий Алексеевич",
+            "id": "100750",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100750/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100750.jpg?token_static=5d88942995da885ed4ea85f2b49c068b"
+          }
+        },
+        {
+          "id": "7655-4-14:00-8",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Организация и технология производства подводных аппаратов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 323",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3425",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мельников Юрий Алексеевич",
+            "id": "100750",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100750/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100750.jpg?token_static=5d88942995da885ed4ea85f2b49c068b"
+          }
+        },
+        {
+          "id": "7656-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Организация и технология производства подводных аппаратов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 319",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3426",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мельников Юрий Алексеевич",
+            "id": "100750",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100750/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100750.jpg?token_static=5d88942995da885ed4ea85f2b49c068b"
+          }
+        },
+        {
+          "id": "7656-4-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Организация и технология производства подводных аппаратов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 317",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3426",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мельников Юрий Алексеевич",
+            "id": "100750",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100750/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100750.jpg?token_static=5d88942995da885ed4ea85f2b49c068b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

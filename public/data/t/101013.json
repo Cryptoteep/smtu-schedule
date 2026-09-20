@@ -1,0 +1,330 @@
+{
+  "teacherId": "101013",
+  "teacherName": "Рыков Сергей Алексеевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
+  "updatedAt": "2026-09-20T13:53:17.905Z",
+  "totalLessons": 16,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7624-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Методы оптимизации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 425",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
+          }
+        },
+        {
+          "id": "7624-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы оптимизации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 425",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
+          }
+        },
+        {
+          "id": "7624-3-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Методы оптимизации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 425",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
+          }
+        },
+        {
+          "id": "7661-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Компьютерное конструирование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3490",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
+          }
+        },
+        {
+          "id": "7661-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Компьютерное конструирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3490",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7651-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Методы оптимизации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 425",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3390",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
+          }
+        },
+        {
+          "id": "7651-4-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Методы оптимизации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3390",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
+          }
+        },
+        {
+          "id": "7651-4-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Методы оптимизации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 425",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3390",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
+          }
+        },
+        {
+          "id": "7651-4-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Методы оптимизации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3390",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
+          }
+        },
+        {
+          "id": "7651-4-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Методы оптимизации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 425",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3390",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
+          }
+        },
+        {
+          "id": "7651-4-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Методы оптимизации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3390",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
+          }
+        },
+        {
+          "id": "7659-4-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Автоматизация проектирования сложных технических систем",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
+          }
+        },
+        {
+          "id": "7659-4-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Автоматизация проектирования сложных технических систем",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
+          }
+        },
+        {
+          "id": "7659-4-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Автоматизация проектирования сложных технических систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 407",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
+          }
+        },
+        {
+          "id": "7661-4-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Компьютерное конструирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3490",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
+          }
+        },
+        {
+          "id": "7661-4-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Компьютерное конструирование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3490",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рыков Сергей Алексеевич",
+            "id": "101013",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101013/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/27/small/p101013.jpg?token_static=9a612be7f8a3f996c0633749abe2b487"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

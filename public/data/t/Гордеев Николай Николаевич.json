@@ -1,0 +1,186 @@
+{
+  "teacherId": "Гордеев Николай Николаевич",
+  "teacherName": "Гордеев Николай Николаевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/30/small/p100284.jpg?token_static=7a8acf6c33fda39652d9701465d99e93",
+  "updatedAt": "2026-09-20T13:53:17.725Z",
+  "totalLessons": 9,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7808-2-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление проектами и инновациями",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-59, 12226-62, 12226-56, 12226-60, 12226-57, 12226-51, 12826-61, 12826-58",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гордеев Николай Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/30/small/p100284.jpg?token_static=7a8acf6c33fda39652d9701465d99e93"
+          }
+        },
+        {
+          "id": "7832-2-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Управление проектами и инновациями",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-62, 12226-56, 12826-61",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гордеев Николай Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/30/small/p100284.jpg?token_static=7a8acf6c33fda39652d9701465d99e93"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7808-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление проектами и инновациями",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-59, 12226-57, 12826-58",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гордеев Николай Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/30/small/p100284.jpg?token_static=7a8acf6c33fda39652d9701465d99e93"
+          }
+        },
+        {
+          "id": "7834-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Управление проектами и инновациями",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-60, 12226-51",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гордеев Николай Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/30/small/p100284.jpg?token_static=7a8acf6c33fda39652d9701465d99e93"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7548-6-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Компьютерное конструирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1220",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гордеев Николай Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/30/small/p100284.jpg?token_static=7a8acf6c33fda39652d9701465d99e93"
+          }
+        },
+        {
+          "id": "7548-6-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Компьютерное конструирование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1220, 2210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гордеев Николай Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/30/small/p100284.jpg?token_static=7a8acf6c33fda39652d9701465d99e93"
+          }
+        },
+        {
+          "id": "7582-6-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Компьютерное конструирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гордеев Николай Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/30/small/p100284.jpg?token_static=7a8acf6c33fda39652d9701465d99e93"
+          }
+        },
+        {
+          "id": "7609-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материалы в турбоустановках",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гордеев Николай Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/30/small/p100284.jpg?token_static=7a8acf6c33fda39652d9701465d99e93"
+          }
+        },
+        {
+          "id": "7609-6-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Материалы в турбоустановках",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2410",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гордеев Николай Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/05/30/small/p100284.jpg?token_static=7a8acf6c33fda39652d9701465d99e93"
+          }
+        }
+      ]
+    }
+  ]
+}

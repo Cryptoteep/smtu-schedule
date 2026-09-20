@@ -1,0 +1,104 @@
+{
+  "teacherId": "Соловьев Александр Александрович",
+  "teacherName": "Соловьев Александр Александрович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/09/small/p122763.jpg?token_static=24d0f5096a80155825347cab98c50fc1",
+  "updatedAt": "2026-09-20T13:53:17.713Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7542-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Детали машин",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 311",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Соловьев Александр Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/09/small/p122763.jpg?token_static=24d0f5096a80155825347cab98c50fc1"
+          }
+        },
+        {
+          "id": "7542-6-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Детали машин",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 514",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1210, 1280",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Соловьев Александр Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/09/small/p122763.jpg?token_static=24d0f5096a80155825347cab98c50fc1"
+          }
+        },
+        {
+          "id": "7553-6-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Детали машин",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 312",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1280",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Соловьев Александр Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/09/small/p122763.jpg?token_static=24d0f5096a80155825347cab98c50fc1"
+          }
+        },
+        {
+          "id": "7593-6-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Детали машин",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 312",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Соловьев Александр Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/09/small/p122763.jpg?token_static=24d0f5096a80155825347cab98c50fc1"
+          }
+        }
+      ]
+    }
+  ]
+}

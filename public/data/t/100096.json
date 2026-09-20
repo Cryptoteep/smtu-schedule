@@ -1,0 +1,131 @@
+{
+  "teacherId": "100096",
+  "teacherName": "Беляева Людмила Ивановна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100096.jpg?token_static=6a35cb9ea4cadfef6d7e7e493a8f7626",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/100096/",
+  "updatedAt": "2026-09-20T13:53:18.073Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7925-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Начертательная геометрия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-31, 12317-32, 12317-33, 12317-03",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Беляева Людмила Ивановна",
+            "id": "100096",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100096/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100096.jpg?token_static=6a35cb9ea4cadfef6d7e7e493a8f7626"
+          }
+        },
+        {
+          "id": "7925-6-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Начертательная геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 217",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-31",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Беляева Людмила Ивановна",
+            "id": "100096",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100096/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100096.jpg?token_static=6a35cb9ea4cadfef6d7e7e493a8f7626"
+          }
+        },
+        {
+          "id": "7929-6-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Начертательная геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 217",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-32",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Беляева Людмила Ивановна",
+            "id": "100096",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100096/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100096.jpg?token_static=6a35cb9ea4cadfef6d7e7e493a8f7626"
+          }
+        },
+        {
+          "id": "7931-6-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Начертательная геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 217",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-33",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Беляева Людмила Ивановна",
+            "id": "100096",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100096/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100096.jpg?token_static=6a35cb9ea4cadfef6d7e7e493a8f7626"
+          }
+        },
+        {
+          "id": "7935-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Начертательная геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 217",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-03",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Беляева Людмила Ивановна",
+            "id": "100096",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100096/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100096.jpg?token_static=6a35cb9ea4cadfef6d7e7e493a8f7626"
+          }
+        }
+      ]
+    }
+  ]
+}

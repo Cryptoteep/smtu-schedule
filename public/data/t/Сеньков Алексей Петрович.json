@@ -1,0 +1,114 @@
+{
+  "teacherId": "101060",
+  "teacherName": "Сеньков Алексей Петрович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101060.jpg?token_static=a46feda299f1838b4859191cf25bfea8",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101060/",
+  "updatedAt": "2026-09-20T13:53:17.902Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7833-2-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Научно-технический семинар",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-56",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сеньков Алексей Петрович",
+            "id": "101060",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101060/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101060.jpg?token_static=a46feda299f1838b4859191cf25bfea8"
+          }
+        },
+        {
+          "id": "7833-2-19:00-6",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Научно-технический семинар",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-56",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сеньков Алексей Петрович",
+            "id": "101060",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101060/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101060.jpg?token_static=a46feda299f1838b4859191cf25bfea8"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7617-3-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Электропривод",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сеньков Алексей Петрович",
+            "id": "101060",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101060/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101060.jpg?token_static=a46feda299f1838b4859191cf25bfea8"
+          }
+        },
+        {
+          "id": "7617-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Электропривод",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2491",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сеньков Алексей Петрович",
+            "id": "101060",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101060/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101060.jpg?token_static=a46feda299f1838b4859191cf25bfea8"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

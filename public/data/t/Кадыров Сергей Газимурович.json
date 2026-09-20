@@ -1,0 +1,260 @@
+{
+  "teacherId": "100484",
+  "teacherName": "Кадыров Сергей Газимурович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100484.jpg?token_static=9f8523857cbec24081f5b094aa81c983",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/100484/",
+  "updatedAt": "2026-09-20T13:53:17.717Z",
+  "totalLessons": 12,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7805-1-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 544",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кадыров Сергей Газимурович",
+            "id": "100484",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100484/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100484.jpg?token_static=9f8523857cbec24081f5b094aa81c983"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7545-2-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 155",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1217",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кадыров Сергей Газимурович",
+            "id": "100484",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100484/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100484.jpg?token_static=9f8523857cbec24081f5b094aa81c983"
+          }
+        },
+        {
+          "id": "7547-2-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 155",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1219",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кадыров Сергей Газимурович",
+            "id": "100484",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100484/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100484.jpg?token_static=9f8523857cbec24081f5b094aa81c983"
+          }
+        },
+        {
+          "id": "7805-2-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 543",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12510-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кадыров Сергей Газимурович",
+            "id": "100484",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100484/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100484.jpg?token_static=9f8523857cbec24081f5b094aa81c983"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7554-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Дифференциальные уравнения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 443",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1284",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кадыров Сергей Газимурович",
+            "id": "100484",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100484/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100484.jpg?token_static=9f8523857cbec24081f5b094aa81c983"
+          }
+        },
+        {
+          "id": "7554-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Дифференциальные уравнения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 443",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1284",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кадыров Сергей Газимурович",
+            "id": "100484",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100484/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100484.jpg?token_static=9f8523857cbec24081f5b094aa81c983"
+          }
+        },
+        {
+          "id": "6965-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Математический анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 443",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12115-04",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кадыров Сергей Газимурович",
+            "id": "100484",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100484/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100484.jpg?token_static=9f8523857cbec24081f5b094aa81c983"
+          }
+        },
+        {
+          "id": "7829-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Линейная алгебра, Аналитическая геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 443",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12126-33",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кадыров Сергей Газимурович",
+            "id": "100484",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100484/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100484.jpg?token_static=9f8523857cbec24081f5b094aa81c983"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7546-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 443",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1218",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кадыров Сергей Газимурович",
+            "id": "100484",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100484/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100484.jpg?token_static=9f8523857cbec24081f5b094aa81c983"
+          }
+        },
+        {
+          "id": "7554-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1284",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кадыров Сергей Газимурович",
+            "id": "100484",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100484/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100484.jpg?token_static=9f8523857cbec24081f5b094aa81c983"
+          }
+        },
+        {
+          "id": "7554-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1284",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кадыров Сергей Газимурович",
+            "id": "100484",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100484/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100484.jpg?token_static=9f8523857cbec24081f5b094aa81c983"
+          }
+        },
+        {
+          "id": "6965-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Линейная алгебра, Аналитическая геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 443",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12115-04",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кадыров Сергей Газимурович",
+            "id": "100484",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100484/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100484.jpg?token_static=9f8523857cbec24081f5b094aa81c983"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "teacherId": "Костин Максим Юрьевич",
+  "teacherName": "Костин Максим Юрьевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/03/small/p103405.jpg?token_static=5c07857799d2345a4db2f376057f42b7",
+  "updatedAt": "2026-09-20T13:53:17.934Z",
+  "totalLessons": 6,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7641-1-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Теория информации и сигналов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 418",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Костин Максим Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/03/small/p103405.jpg?token_static=5c07857799d2345a4db2f376057f42b7"
+          }
+        },
+        {
+          "id": "7641-1-19:00-6",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Датчики и преобразователи гидроакустических полей",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 125",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Костин Максим Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/03/small/p103405.jpg?token_static=5c07857799d2345a4db2f376057f42b7"
+          }
+        },
+        {
+          "id": "7859-1-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Теория информации и сигналов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5480",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Костин Максим Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/03/small/p103405.jpg?token_static=5c07857799d2345a4db2f376057f42b7"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7650-2-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Теория информации и сигналов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Костин Максим Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/03/small/p103405.jpg?token_static=5c07857799d2345a4db2f376057f42b7"
+          }
+        },
+        {
+          "id": "7650-2-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Первичные преобразователи информации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 125",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Костин Максим Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/03/small/p103405.jpg?token_static=5c07857799d2345a4db2f376057f42b7"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7809-3-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Информационные системы в мехатронике и робототехнике",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "12315-54",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Костин Максим Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/03/small/p103405.jpg?token_static=5c07857799d2345a4db2f376057f42b7"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

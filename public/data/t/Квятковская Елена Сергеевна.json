@@ -1,0 +1,72 @@
+{
+  "teacherId": "Квятковская Елена Сергеевна",
+  "teacherName": "Квятковская Елена Сергеевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p104676.jpg?token_static=73f8aa365721b9924489294afbc8ab74",
+  "updatedAt": "2026-09-20T13:53:17.790Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7572-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Проектирование морских нефтегазовых сооружений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 206",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1420",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Квятковская Елена Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p104676.jpg?token_static=73f8aa365721b9924489294afbc8ab74"
+          }
+        },
+        {
+          "id": "7573-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование средств океанотехники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Квятковская Елена Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p104676.jpg?token_static=73f8aa365721b9924489294afbc8ab74"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

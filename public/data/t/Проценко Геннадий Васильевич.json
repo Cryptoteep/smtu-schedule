@@ -1,0 +1,72 @@
+{
+  "teacherId": "Проценко Геннадий Васильевич",
+  "teacherName": "Проценко Геннадий Васильевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100951.jpg?token_static=54cdcb77345a47480f20b8bfbe502950",
+  "updatedAt": "2026-09-20T13:53:17.864Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7488-4-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Паропроизводящие агрегаты на органическом топливе",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 417-3",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2263",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Проценко Геннадий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100951.jpg?token_static=54cdcb77345a47480f20b8bfbe502950"
+          }
+        },
+        {
+          "id": "7488-4-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Паропроизводящие агрегаты на органическом топливе",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 308",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2263",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Проценко Геннадий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100951.jpg?token_static=54cdcb77345a47480f20b8bfbe502950"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

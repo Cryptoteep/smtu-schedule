@@ -1,0 +1,132 @@
+{
+  "teacherId": "100732",
+  "teacherName": "Марченко Александр Васильевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/01/small/p100732.jpg?token_static=bf0b17a95997404c46e70733c016c2a0",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/100732/",
+  "updatedAt": "2026-09-20T13:53:18.023Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7713-1-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Уголовный процесс",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7361, 7362, 7363",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Марченко Александр Васильевич",
+            "id": "100732",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100732/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/01/small/p100732.jpg?token_static=bf0b17a95997404c46e70733c016c2a0"
+          }
+        },
+        {
+          "id": "7713-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Уголовный процесс",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7361, 7362, 7363",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Марченко Александр Васильевич",
+            "id": "100732",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100732/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/01/small/p100732.jpg?token_static=bf0b17a95997404c46e70733c016c2a0"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7713-4-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Уголовный процесс",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 209ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7361",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Марченко Александр Васильевич",
+            "id": "100732",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100732/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/01/small/p100732.jpg?token_static=bf0b17a95997404c46e70733c016c2a0"
+          }
+        },
+        {
+          "id": "7714-4-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Уголовный процесс",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 209ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7362",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Марченко Александр Васильевич",
+            "id": "100732",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100732/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/01/small/p100732.jpg?token_static=bf0b17a95997404c46e70733c016c2a0"
+          }
+        },
+        {
+          "id": "7715-4-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Уголовный процесс",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 209ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7363",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Марченко Александр Васильевич",
+            "id": "100732",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100732/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/01/small/p100732.jpg?token_static=bf0b17a95997404c46e70733c016c2a0"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

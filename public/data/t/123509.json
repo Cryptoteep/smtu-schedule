@@ -1,0 +1,222 @@
+{
+  "teacherId": "123509",
+  "teacherName": "Белянцева Наталья Валентиновна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/25/small/p123509.jpg?token_static=2c729e25deedcc315017f10b23f63b11",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/123509/",
+  "updatedAt": "2026-09-20T13:53:17.768Z",
+  "totalLessons": 10,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7557-5-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Корабельное электрооборудование",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 320",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Белянцева Наталья Валентиновна",
+            "id": "123509",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123509/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/25/small/p123509.jpg?token_static=2c729e25deedcc315017f10b23f63b11"
+          }
+        },
+        {
+          "id": "7622-5-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы электроэнергетики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594, 2595",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Белянцева Наталья Валентиновна",
+            "id": "123509",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123509/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/25/small/p123509.jpg?token_static=2c729e25deedcc315017f10b23f63b11"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7585-6-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Электроника и электротехника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 318-А",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2240",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Белянцева Наталья Валентиновна",
+            "id": "123509",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123509/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/25/small/p123509.jpg?token_static=2c729e25deedcc315017f10b23f63b11"
+          }
+        },
+        {
+          "id": "7585-6-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Электроника и электротехника",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2240",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Белянцева Наталья Валентиновна",
+            "id": "123509",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123509/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/25/small/p123509.jpg?token_static=2c729e25deedcc315017f10b23f63b11"
+          }
+        },
+        {
+          "id": "7622-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Системы электроэнергетики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2594, 2595",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Белянцева Наталья Валентиновна",
+            "id": "123509",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123509/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/25/small/p123509.jpg?token_static=2c729e25deedcc315017f10b23f63b11"
+          }
+        },
+        {
+          "id": "7622-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Системы электроэнергетики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2594, 2595",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Белянцева Наталья Валентиновна",
+            "id": "123509",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123509/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/25/small/p123509.jpg?token_static=2c729e25deedcc315017f10b23f63b11"
+          }
+        },
+        {
+          "id": "7622-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Системы электроэнергетики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Белянцева Наталья Валентиновна",
+            "id": "123509",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123509/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/25/small/p123509.jpg?token_static=2c729e25deedcc315017f10b23f63b11"
+          }
+        },
+        {
+          "id": "7622-6-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы электроэнергетики",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Белянцева Наталья Валентиновна",
+            "id": "123509",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123509/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/25/small/p123509.jpg?token_static=2c729e25deedcc315017f10b23f63b11"
+          }
+        },
+        {
+          "id": "7623-6-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Системы электроэнергетики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2595",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Белянцева Наталья Валентиновна",
+            "id": "123509",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123509/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/25/small/p123509.jpg?token_static=2c729e25deedcc315017f10b23f63b11"
+          }
+        },
+        {
+          "id": "7623-6-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы электроэнергетики",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2595",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Белянцева Наталья Валентиновна",
+            "id": "123509",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123509/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/25/small/p123509.jpg?token_static=2c729e25deedcc315017f10b23f63b11"
+          }
+        }
+      ]
+    }
+  ]
+}

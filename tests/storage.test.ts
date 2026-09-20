@@ -75,4 +75,30 @@ describe('Storage Service', () => {
     storage.deleteNote('note-1');
     expect(storage.getNotes('7624')).toHaveLength(0);
   });
+
+  it('manages schedule mode and current teacher', () => {
+    expect(storage.getMode()).toBe('group');
+    storage.setMode('teacher');
+    expect(storage.getMode()).toBe('teacher');
+
+    const teacher = { id: '101326', name: 'Чихонадских Елена Александровна' };
+    expect(storage.getCurrentTeacher()).toBeNull();
+    storage.setCurrentTeacher(teacher);
+    expect(storage.getCurrentTeacher()?.name).toBe('Чихонадских Елена Александровна');
+    expect(storage.getRecentTeachers()).toHaveLength(1);
+  });
+
+  it('manages favorite teachers', () => {
+    const teacher = { id: '100593', name: 'Крыжевич Геннадий Брониславович' };
+    expect(storage.isFavoriteTeacher('100593')).toBe(false);
+
+    const toggledOn = storage.toggleFavoriteTeacher(teacher);
+    expect(toggledOn).toBe(true);
+    expect(storage.isFavoriteTeacher('100593')).toBe(true);
+    expect(storage.getFavoriteTeachers()).toHaveLength(1);
+
+    const toggledOff = storage.toggleFavoriteTeacher(teacher);
+    expect(toggledOff).toBe(false);
+    expect(storage.isFavoriteTeacher('100593')).toBe(false);
+  });
 });

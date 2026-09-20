@@ -1,0 +1,185 @@
+{
+  "teacherId": "Шавинская Сания Караматовна",
+  "teacherName": "Шавинская Сания Караматовна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101335.jpg?token_static=1593f2353c0e41c592e022752bdedac3",
+  "updatedAt": "2026-09-20T13:53:17.842Z",
+  "totalLessons": 9,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7770-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Методы и средства криптографической защиты информации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шавинская Сания Караматовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101335.jpg?token_static=1593f2353c0e41c592e022752bdedac3"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7770-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Методы и средства криптографической защиты информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шавинская Сания Караматовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101335.jpg?token_static=1593f2353c0e41c592e022752bdedac3"
+          }
+        },
+        {
+          "id": "7770-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Методы и средства криптографической защиты информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20380, 2350",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шавинская Сания Караматовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101335.jpg?token_static=1593f2353c0e41c592e022752bdedac3"
+          }
+        },
+        {
+          "id": "7605-6-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы и средства криптографической защиты информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 442",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2350",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шавинская Сания Караматовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101335.jpg?token_static=1593f2353c0e41c592e022752bdedac3"
+          }
+        },
+        {
+          "id": "7605-6-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы и средства криптографической защиты информации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 442",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2350",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шавинская Сания Караматовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101335.jpg?token_static=1593f2353c0e41c592e022752bdedac3"
+          }
+        },
+        {
+          "id": "7605-6-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Методы и средства криптографической защиты информации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 442",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2350",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шавинская Сания Караматовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101335.jpg?token_static=1593f2353c0e41c592e022752bdedac3"
+          }
+        },
+        {
+          "id": "7805-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы криптографии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шавинская Сания Караматовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101335.jpg?token_static=1593f2353c0e41c592e022752bdedac3"
+          }
+        },
+        {
+          "id": "7805-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы криптографии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шавинская Сания Караматовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101335.jpg?token_static=1593f2353c0e41c592e022752bdedac3"
+          }
+        },
+        {
+          "id": "7805-6-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы криптографии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12510-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шавинская Сания Караматовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101335.jpg?token_static=1593f2353c0e41c592e022752bdedac3"
+          }
+        }
+      ]
+    }
+  ]
+}

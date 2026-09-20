@@ -1,0 +1,104 @@
+{
+  "teacherId": "Щербаков Илья Вадимович",
+  "teacherName": "Щербаков Илья Вадимович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/05/small/p124533.jpg?token_static=5d827489e7f10d761c5537671526a333",
+  "updatedAt": "2026-09-20T13:53:17.847Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7781-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Инженерный анализ в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 438",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20513",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Щербаков Илья Вадимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/05/small/p124533.jpg?token_static=5d827489e7f10d761c5537671526a333"
+          }
+        },
+        {
+          "id": "7781-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Инженерный анализ в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 438",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20513",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Щербаков Илья Вадимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/05/small/p124533.jpg?token_static=5d827489e7f10d761c5537671526a333"
+          }
+        },
+        {
+          "id": "7781-1-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Инженерный анализ в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 438",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20513",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Щербаков Илья Вадимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/05/small/p124533.jpg?token_static=5d827489e7f10d761c5537671526a333"
+          }
+        },
+        {
+          "id": "7781-1-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Инженерный анализ в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 438",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20513",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Щербаков Илья Вадимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/05/small/p124533.jpg?token_static=5d827489e7f10d761c5537671526a333"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

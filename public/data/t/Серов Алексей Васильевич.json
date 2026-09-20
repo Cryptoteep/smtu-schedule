@@ -1,0 +1,170 @@
+{
+  "teacherId": "Серов Алексей Васильевич",
+  "teacherName": "Серов Алексей Васильевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/30/small/p105269.jpg?token_static=254d96391f2a1b1b7d928fbb085d2d4e",
+  "updatedAt": "2026-09-20T13:53:17.776Z",
+  "totalLessons": 8,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7612-1-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Судовые передачи и валопровод",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 522",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Серов Алексей Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/30/small/p105269.jpg?token_static=254d96391f2a1b1b7d928fbb085d2d4e"
+          }
+        },
+        {
+          "id": "7612-1-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Судовые передачи и валопровод",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 522",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2430",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Серов Алексей Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/30/small/p105269.jpg?token_static=254d96391f2a1b1b7d928fbb085d2d4e"
+          }
+        },
+        {
+          "id": "7612-1-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Судовые передачи и валопровод",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 522",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Серов Алексей Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/30/small/p105269.jpg?token_static=254d96391f2a1b1b7d928fbb085d2d4e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7013-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 522",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Серов Алексей Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/30/small/p105269.jpg?token_static=254d96391f2a1b1b7d928fbb085d2d4e"
+          }
+        },
+        {
+          "id": "7013-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 522",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Серов Алексей Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/30/small/p105269.jpg?token_static=254d96391f2a1b1b7d928fbb085d2d4e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7485-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320, 1350, 1380",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Серов Алексей Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/30/small/p105269.jpg?token_static=254d96391f2a1b1b7d928fbb085d2d4e"
+          }
+        },
+        {
+          "id": "7485-6-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1320",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Серов Алексей Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/30/small/p105269.jpg?token_static=254d96391f2a1b1b7d928fbb085d2d4e"
+          }
+        },
+        {
+          "id": "7562-6-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1350",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Серов Алексей Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/30/small/p105269.jpg?token_static=254d96391f2a1b1b7d928fbb085d2d4e"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "teacherId": "100438",
+  "teacherName": "Иванов Александр Юрьевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
+  "updatedAt": "2026-09-20T13:53:17.907Z",
+  "totalLessons": 16,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7649-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Исследование операций",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        },
+        {
+          "id": "7649-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Исследование операций",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7651-2-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Системы управления базами данных",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3390",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        },
+        {
+          "id": "7651-2-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Системы управления базами данных",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3390",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7649-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Исследование операций",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        },
+        {
+          "id": "7649-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Исследование операций",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        },
+        {
+          "id": "7649-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Исследование операций",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        },
+        {
+          "id": "7649-3-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Исследование операций",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 425",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        },
+        {
+          "id": "7659-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Защита информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        },
+        {
+          "id": "7659-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Защита информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        },
+        {
+          "id": "7659-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Защита информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        },
+        {
+          "id": "7825-3-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Методы принятия решений в профессиональной деятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 425",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "12317-50",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        },
+        {
+          "id": "7825-3-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы принятия решений в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 425",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "12317-50",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7651-4-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Системы управления базами данных",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3390",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7624-5-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Современные проблемы информатики и вычислительной техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        },
+        {
+          "id": "7624-5-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Современные проблемы информатики и вычислительной техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 426",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Иванов Александр Юрьевич",
+            "id": "100438",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100438/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/14/small/p100438.jpg?token_static=1fee13778e1988bacf014628e7d72640"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

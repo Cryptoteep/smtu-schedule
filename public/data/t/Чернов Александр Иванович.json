@@ -1,0 +1,277 @@
+{
+  "teacherId": "101313",
+  "teacherName": "Чернов Александр Иванович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
+  "updatedAt": "2026-09-20T13:53:17.867Z",
+  "totalLessons": 13,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7589-2-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Проектирование оборудования энергетических установок современных судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2264",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чернов Александр Иванович",
+            "id": "101313",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
+          }
+        },
+        {
+          "id": "7589-2-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Проектирование оборудования энергетических установок современных судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2264",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Чернов Александр Иванович",
+            "id": "101313",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
+          }
+        },
+        {
+          "id": "7471-2-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Судовое вспомогательное энергетическое оборудование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чернов Александр Иванович",
+            "id": "101313",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
+          }
+        },
+        {
+          "id": "7471-2-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Судовое вспомогательное энергетическое оборудование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чернов Александр Иванович",
+            "id": "101313",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7612-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Вспомогательные энергетические установки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2430",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чернов Александр Иванович",
+            "id": "101313",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
+          }
+        },
+        {
+          "id": "7612-3-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Вспомогательные энергетические установки",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 522",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2430",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чернов Александр Иванович",
+            "id": "101313",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
+          }
+        },
+        {
+          "id": "7786-3-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-08, 12226-09, 12226-10, 12226-11, 12826-12",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чернов Александр Иванович",
+            "id": "101313",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7471-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Судовое вспомогательное энергетическое оборудование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чернов Александр Иванович",
+            "id": "101313",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
+          }
+        },
+        {
+          "id": "7471-4-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Судовое вспомогательное энергетическое оборудование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Чернов Александр Иванович",
+            "id": "101313",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
+          }
+        },
+        {
+          "id": "7603-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теплообменные аппараты систем судовых энергетических установок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 206",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2335",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чернов Александр Иванович",
+            "id": "101313",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
+          }
+        },
+        {
+          "id": "7603-4-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теплообменные аппараты систем судовых энергетических установок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2335",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чернов Александр Иванович",
+            "id": "101313",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
+          }
+        },
+        {
+          "id": "7603-4-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теплообменные аппараты систем судовых энергетических установок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2335",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чернов Александр Иванович",
+            "id": "101313",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
+          }
+        },
+        {
+          "id": "7612-4-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Вспомогательные энергетические установки",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 206",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2430",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чернов Александр Иванович",
+            "id": "101313",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

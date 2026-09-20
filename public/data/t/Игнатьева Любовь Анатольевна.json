@@ -1,0 +1,186 @@
+{
+  "teacherId": "Игнатьева Любовь Анатольевна",
+  "teacherName": "Игнатьева Любовь Анатольевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100460.jpg?token_static=fcf8e8c80ebe0f39eec5881264598e41",
+  "updatedAt": "2026-09-20T13:53:17.915Z",
+  "totalLessons": 9,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7628-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 322-322а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3226",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Игнатьева Любовь Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100460.jpg?token_static=fcf8e8c80ebe0f39eec5881264598e41"
+          }
+        },
+        {
+          "id": "7628-2-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 320 -320а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3226",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Игнатьева Любовь Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100460.jpg?token_static=fcf8e8c80ebe0f39eec5881264598e41"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7626-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 320 -320а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3224",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Игнатьева Любовь Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100460.jpg?token_static=fcf8e8c80ebe0f39eec5881264598e41"
+          }
+        },
+        {
+          "id": "7626-3-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 320 -320а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3224",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Игнатьева Любовь Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100460.jpg?token_static=fcf8e8c80ebe0f39eec5881264598e41"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7626-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3224, 3225, 3226, 3227",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Игнатьева Любовь Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100460.jpg?token_static=fcf8e8c80ebe0f39eec5881264598e41"
+          }
+        },
+        {
+          "id": "7627-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 322-322а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3225",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Игнатьева Любовь Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100460.jpg?token_static=fcf8e8c80ebe0f39eec5881264598e41"
+          }
+        },
+        {
+          "id": "7627-5-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 320 -320а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3225",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Игнатьева Любовь Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100460.jpg?token_static=fcf8e8c80ebe0f39eec5881264598e41"
+          }
+        },
+        {
+          "id": "7629-5-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 322-322а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3227",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Игнатьева Любовь Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100460.jpg?token_static=fcf8e8c80ebe0f39eec5881264598e41"
+          }
+        },
+        {
+          "id": "7629-5-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 320 -320а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3227",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Игнатьева Любовь Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100460.jpg?token_static=fcf8e8c80ebe0f39eec5881264598e41"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

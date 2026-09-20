@@ -1,0 +1,187 @@
+{
+  "teacherId": "101074",
+  "teacherName": "Сиек Юрий Леонардович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101074.jpg?token_static=3902692d5a461e131a3dac1bb7d80834",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101074/",
+  "updatedAt": "2026-09-20T13:53:17.755Z",
+  "totalLessons": 8,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7649-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория автоматов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сиек Юрий Леонардович",
+            "id": "101074",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101074/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101074.jpg?token_static=3902692d5a461e131a3dac1bb7d80834"
+          }
+        },
+        {
+          "id": "7649-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория автоматов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сиек Юрий Леонардович",
+            "id": "101074",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101074/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101074.jpg?token_static=3902692d5a461e131a3dac1bb7d80834"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7645-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория управляющих автоматов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сиек Юрий Леонардович",
+            "id": "101074",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101074/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101074.jpg?token_static=3902692d5a461e131a3dac1bb7d80834"
+          }
+        },
+        {
+          "id": "7645-3-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория управляющих автоматов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3330",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сиек Юрий Леонардович",
+            "id": "101074",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101074/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101074.jpg?token_static=3902692d5a461e131a3dac1bb7d80834"
+          }
+        },
+        {
+          "id": "7651-3-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория управляющих автоматов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3390",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сиек Юрий Леонардович",
+            "id": "101074",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101074/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101074.jpg?token_static=3902692d5a461e131a3dac1bb7d80834"
+          }
+        },
+        {
+          "id": "7651-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория управляющих автоматов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 405",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3390",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сиек Юрий Леонардович",
+            "id": "101074",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101074/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101074.jpg?token_static=3902692d5a461e131a3dac1bb7d80834"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7555-4-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Проблемы механотроники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1286",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сиек Юрий Леонардович",
+            "id": "101074",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101074/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101074.jpg?token_static=3902692d5a461e131a3dac1bb7d80834"
+          }
+        },
+        {
+          "id": "7555-4-19:00-6",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Проблемы механотроники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1286",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сиек Юрий Леонардович",
+            "id": "101074",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101074/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101074.jpg?token_static=3902692d5a461e131a3dac1bb7d80834"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

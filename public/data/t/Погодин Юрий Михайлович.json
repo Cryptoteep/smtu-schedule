@@ -1,0 +1,72 @@
+{
+  "teacherId": "Погодин Юрий Михайлович",
+  "teacherName": "Погодин Юрий Михайлович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100911.jpg?token_static=8b16cfa96511b222109bfd0805bb935a",
+  "updatedAt": "2026-09-20T13:53:18.065Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7808-3-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Автоматизированные системы исследовательского проектирования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-59",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Погодин Юрий Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100911.jpg?token_static=8b16cfa96511b222109bfd0805bb935a"
+          }
+        },
+        {
+          "id": "7808-3-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Автоматизированные системы исследовательского проектирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 415",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-59",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Погодин Юрий Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100911.jpg?token_static=8b16cfa96511b222109bfd0805bb935a"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

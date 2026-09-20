@@ -1,0 +1,136 @@
+{
+  "teacherId": "Черных Андрей Валерьевич",
+  "teacherName": "Черных Андрей Валерьевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123523.jpg?token_static=c5a50aebcdaa03c9c3d4ae51b0061506",
+  "updatedAt": "2026-09-20T13:53:17.949Z",
+  "totalLessons": 6,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7654-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Энергосиловые установки тепловых торпед",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3424",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Черных Андрей Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123523.jpg?token_static=c5a50aebcdaa03c9c3d4ae51b0061506"
+          }
+        },
+        {
+          "id": "7654-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Энергосиловые установки тепловых торпед",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3424",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Черных Андрей Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123523.jpg?token_static=c5a50aebcdaa03c9c3d4ae51b0061506"
+          }
+        },
+        {
+          "id": "7654-6-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Энергосиловые установки тепловых торпед",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 412",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3424",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Черных Андрей Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123523.jpg?token_static=c5a50aebcdaa03c9c3d4ae51b0061506"
+          }
+        },
+        {
+          "id": "7654-6-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Энергосиловые установки тепловых торпед",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-05",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3424",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Черных Андрей Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123523.jpg?token_static=c5a50aebcdaa03c9c3d4ae51b0061506"
+          }
+        },
+        {
+          "id": "7654-6-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Энергосиловые установки тепловых торпед",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 414",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3424",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Черных Андрей Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123523.jpg?token_static=c5a50aebcdaa03c9c3d4ae51b0061506"
+          }
+        },
+        {
+          "id": "7654-6-15:40-8",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Энергосиловые установки тепловых торпед",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-05",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3424",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Черных Андрей Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123523.jpg?token_static=c5a50aebcdaa03c9c3d4ae51b0061506"
+          }
+        }
+      ]
+    }
+  ]
+}

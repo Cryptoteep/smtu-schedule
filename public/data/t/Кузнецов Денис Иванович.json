@@ -1,0 +1,77 @@
+{
+  "teacherId": "100607",
+  "teacherName": "Кузнецов Денис Иванович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/17/small/p100607.jpg?token_static=8f03cd2366007e44428b76e72d9f4835",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/100607/",
+  "updatedAt": "2026-09-20T13:53:17.949Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7655-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методология проектирования подводных аппаратов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 317",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3425, 3426",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кузнецов Денис Иванович",
+            "id": "100607",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100607/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/17/small/p100607.jpg?token_static=8f03cd2366007e44428b76e72d9f4835"
+          }
+        },
+        {
+          "id": "7655-5-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Методология проектирования подводных аппаратов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 317",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3425, 3426",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кузнецов Денис Иванович",
+            "id": "100607",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100607/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/17/small/p100607.jpg?token_static=8f03cd2366007e44428b76e72d9f4835"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

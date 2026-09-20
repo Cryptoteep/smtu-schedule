@@ -1,0 +1,114 @@
+{
+  "teacherId": "100045",
+  "teacherName": "Ануфриев Николай Михайлович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/14/small/p100045.jpg?token_static=1b433b884c622ce382d2f1d49ea3bb0c",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/100045/",
+  "updatedAt": "2026-09-20T13:53:17.898Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7612-1-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Проектирование судовых энергетических установок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 522",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2430",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ануфриев Николай Михайлович",
+            "id": "100045",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100045/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/14/small/p100045.jpg?token_static=1b433b884c622ce382d2f1d49ea3bb0c"
+          }
+        },
+        {
+          "id": "7612-1-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Проектирование систем судовых энергетических установок",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 522",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2430",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ануфриев Николай Михайлович",
+            "id": "100045",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100045/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/14/small/p100045.jpg?token_static=1b433b884c622ce382d2f1d49ea3bb0c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7612-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Проектирование судовых энергетических установок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ануфриев Николай Михайлович",
+            "id": "100045",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100045/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/14/small/p100045.jpg?token_static=1b433b884c622ce382d2f1d49ea3bb0c"
+          }
+        },
+        {
+          "id": "7612-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование судовых энергетических установок",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ануфриев Николай Михайлович",
+            "id": "100045",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100045/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/14/small/p100045.jpg?token_static=1b433b884c622ce382d2f1d49ea3bb0c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

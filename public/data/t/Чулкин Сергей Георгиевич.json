@@ -1,0 +1,95 @@
+{
+  "teacherId": "101331",
+  "teacherName": "Чулкин Сергей Георгиевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101331.jpg?token_static=6918fb7ad00b49ab93f0dd8b0518b2ca",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101331/",
+  "updatedAt": "2026-09-20T13:53:17.793Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7573-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технология постройки морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чулкин Сергей Георгиевич",
+            "id": "101331",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101331/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101331.jpg?token_static=6918fb7ad00b49ab93f0dd8b0518b2ca"
+          }
+        },
+        {
+          "id": "7573-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технология постройки морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чулкин Сергей Георгиевич",
+            "id": "101331",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101331/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101331.jpg?token_static=6918fb7ad00b49ab93f0dd8b0518b2ca"
+          }
+        },
+        {
+          "id": "7573-3-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технология постройки морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чулкин Сергей Георгиевич",
+            "id": "101331",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101331/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101331.jpg?token_static=6918fb7ad00b49ab93f0dd8b0518b2ca"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

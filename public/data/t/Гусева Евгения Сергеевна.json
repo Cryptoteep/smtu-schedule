@@ -1,0 +1,56 @@
+{
+  "teacherId": "Гусева Евгения Сергеевна",
+  "teacherName": "Гусева Евгения Сергеевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/04/small/132124.jpg?token_static=9c98c86e25f30d8cd0429184cd5e31b1",
+  "updatedAt": "2026-09-20T13:53:17.842Z",
+  "totalLessons": 1,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7770-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы и средства криптографической защиты информации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гусева Евгения Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/04/small/132124.jpg?token_static=9c98c86e25f30d8cd0429184cd5e31b1"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "teacherId": "103609",
+  "teacherName": "Кулаков Дмитрий Юрьевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/16/small/p103609.jpg?token_static=c5d8f6f06a4844906b4ab50208eb3bd7",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/103609/",
+  "updatedAt": "2026-09-20T13:53:17.964Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7477-3-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Деловой иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4211",
+          "weekParity": "both",
+          "dateSpecific": "28.10 по 16.12",
+          "teacher": {
+            "name": "Кулаков Дмитрий Юрьевич",
+            "id": "103609",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/103609/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/16/small/p103609.jpg?token_static=c5d8f6f06a4844906b4ab50208eb3bd7"
+          }
+        },
+        {
+          "id": "7477-3-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Деловой иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4211",
+          "weekParity": "both",
+          "dateSpecific": "28.10 по 16.12",
+          "teacher": {
+            "name": "Кулаков Дмитрий Юрьевич",
+            "id": "103609",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/103609/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/16/small/p103609.jpg?token_static=c5d8f6f06a4844906b4ab50208eb3bd7"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7451-5-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12213-03-2",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кулаков Дмитрий Юрьевич",
+            "id": "103609",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/103609/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/16/small/p103609.jpg?token_static=c5d8f6f06a4844906b4ab50208eb3bd7"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

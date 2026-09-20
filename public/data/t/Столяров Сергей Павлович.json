@@ -1,0 +1,205 @@
+{
+  "teacherId": "101148",
+  "teacherName": "Столяров Сергей Павлович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101148.jpg?token_static=6091016527203864cdb057dab9410185",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101148/",
+  "updatedAt": "2026-09-20T13:53:17.896Z",
+  "totalLessons": 9,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7834-1-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Научно-технический семинар",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-60",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Столяров Сергей Павлович",
+            "id": "101148",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101148/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101148.jpg?token_static=6091016527203864cdb057dab9410185"
+          }
+        },
+        {
+          "id": "7834-1-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Научно-технический семинар",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-60",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Столяров Сергей Павлович",
+            "id": "101148",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101148/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101148.jpg?token_static=6091016527203864cdb057dab9410185"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7610-2-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Системы двигателей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2420",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Столяров Сергей Павлович",
+            "id": "101148",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101148/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101148.jpg?token_static=6091016527203864cdb057dab9410185"
+          }
+        },
+        {
+          "id": "7610-2-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Системы двигателей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2420",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Столяров Сергей Павлович",
+            "id": "101148",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101148/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101148.jpg?token_static=6091016527203864cdb057dab9410185"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7610-3-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория рабочих процессов двигателей внутреннего сгорания",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2420",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Столяров Сергей Павлович",
+            "id": "101148",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101148/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101148.jpg?token_static=6091016527203864cdb057dab9410185"
+          }
+        },
+        {
+          "id": "7610-3-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория рабочих процессов двигателей внутреннего сгорания",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2420",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Столяров Сергей Павлович",
+            "id": "101148",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101148/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101148.jpg?token_static=6091016527203864cdb057dab9410185"
+          }
+        },
+        {
+          "id": "7834-3-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Автоматизированные системы исследовательского проектирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-60",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Столяров Сергей Павлович",
+            "id": "101148",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101148/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101148.jpg?token_static=6091016527203864cdb057dab9410185"
+          }
+        },
+        {
+          "id": "7834-3-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Автоматизированные системы исследовательского проектирования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-60",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Столяров Сергей Павлович",
+            "id": "101148",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101148/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101148.jpg?token_static=6091016527203864cdb057dab9410185"
+          }
+        },
+        {
+          "id": "7834-3-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Автоматизированные системы исследовательского проектирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-60",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Столяров Сергей Павлович",
+            "id": "101148",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101148/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101148.jpg?token_static=6091016527203864cdb057dab9410185"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

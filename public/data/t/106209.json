@@ -1,0 +1,96 @@
+{
+  "teacherId": "106209",
+  "teacherName": "Цибульский Игорь Александрович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/20/small/p106209.jpg?token_static=7d487ccde86fd44abebba10875917b5b",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/106209/",
+  "updatedAt": "2026-09-20T13:53:17.823Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "8048-2-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технологии обработки материалов концентрированными потоками энергии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20277, 12515-52, 12515-51",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цибульский Игорь Александрович",
+            "id": "106209",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106209/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/20/small/p106209.jpg?token_static=7d487ccde86fd44abebba10875917b5b"
+          }
+        },
+        {
+          "id": "7777-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Лазерные технологии обработки материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20470, 20471",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Цибульский Игорь Александрович",
+            "id": "106209",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106209/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/20/small/p106209.jpg?token_static=7d487ccde86fd44abebba10875917b5b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7818-3-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технологии обработки материалов концентрированными потоками энергии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-50",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цибульский Игорь Александрович",
+            "id": "106209",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106209/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/20/small/p106209.jpg?token_static=7d487ccde86fd44abebba10875917b5b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

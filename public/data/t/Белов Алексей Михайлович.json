@@ -1,0 +1,105 @@
+{
+  "teacherId": "Белов Алексей Михайлович",
+  "teacherName": "Белов Алексей Михайлович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/25/small/p123971.jpg?token_static=087db726c80dfbb72e256d446d214ec9",
+  "updatedAt": "2026-09-20T13:53:17.863Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7488-1-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Проектирование электрохимических энергоустановок для объектов морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 417-2",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2263",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Белов Алексей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/25/small/p123971.jpg?token_static=087db726c80dfbb72e256d446d214ec9"
+          }
+        },
+        {
+          "id": "7488-1-19:00-6",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Проектирование электрохимических энергоустановок для объектов морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-2",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2263",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Белов Алексей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/25/small/p123971.jpg?token_static=087db726c80dfbb72e256d446d214ec9"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7599-4-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Физико-химические основы преобразования химической энергии в электрическую",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 417-2",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Белов Алексей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/25/small/p123971.jpg?token_static=087db726c80dfbb72e256d446d214ec9"
+          }
+        },
+        {
+          "id": "7599-4-19:00-7",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Физико-химические основы преобразования химической энергии в электрическую",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-2",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2301",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Белов Алексей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/25/small/p123971.jpg?token_static=087db726c80dfbb72e256d446d214ec9"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

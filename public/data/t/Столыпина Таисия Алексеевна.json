@@ -1,0 +1,72 @@
+{
+  "teacherId": "Столыпина Таисия Алексеевна",
+  "teacherName": "Столыпина Таисия Алексеевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/18/small/p122740.jpg?token_static=7b24b19d43185e8f4b3d8e8934c9dad3",
+  "updatedAt": "2026-09-20T13:53:17.865Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7488-4-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Энергоисточники глубоководных подводных аппаратов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 417-3",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2263",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Столыпина Таисия Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/18/small/p122740.jpg?token_static=7b24b19d43185e8f4b3d8e8934c9dad3"
+          }
+        },
+        {
+          "id": "7488-4-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Энергоисточники глубоководных подводных аппаратов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-3",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2263",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Столыпина Таисия Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/18/small/p122740.jpg?token_static=7b24b19d43185e8f4b3d8e8934c9dad3"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

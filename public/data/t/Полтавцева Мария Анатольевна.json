@@ -1,0 +1,88 @@
+{
+  "teacherId": "Полтавцева Мария Анатольевна",
+  "teacherName": "Полтавцева Мария Анатольевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/29/small/p123681.jpg?token_static=b257076f1210c4acea7d24e6455e34fa",
+  "updatedAt": "2026-09-20T13:53:17.900Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7614-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Безопасность систем баз данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 414",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Полтавцева Мария Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/29/small/p123681.jpg?token_static=b257076f1210c4acea7d24e6455e34fa"
+          }
+        },
+        {
+          "id": "7614-1-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность систем баз данных",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Полтавцева Мария Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/29/small/p123681.jpg?token_static=b257076f1210c4acea7d24e6455e34fa"
+          }
+        },
+        {
+          "id": "7614-1-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность систем баз данных",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 414",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Полтавцева Мария Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/29/small/p123681.jpg?token_static=b257076f1210c4acea7d24e6455e34fa"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

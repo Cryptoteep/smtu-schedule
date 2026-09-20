@@ -1,5 +1,5 @@
 import React from 'react';
-import { X, User, BookOpen, Clock, MapPin, ExternalLink } from 'lucide-react';
+import { X, User, BookOpen, Clock, MapPin, ExternalLink, Calendar } from 'lucide-react';
 import { Lesson } from '../types/schedule';
 
 interface TeacherModalProps {
@@ -8,6 +8,7 @@ interface TeacherModalProps {
   teacherName: string;
   photoUrl?: string;
   allLessons?: Lesson[];
+  onOpenTeacherSchedule?: (teacherName: string) => void;
 }
 
 export const TeacherModal: React.FC<TeacherModalProps> = ({
@@ -16,6 +17,7 @@ export const TeacherModal: React.FC<TeacherModalProps> = ({
   teacherName,
   photoUrl,
   allLessons = [],
+  onOpenTeacherSchedule,
 }) => {
   if (!isOpen || !teacherName) return null;
 
@@ -24,7 +26,9 @@ export const TeacherModal: React.FC<TeacherModalProps> = ({
   );
 
   const teacherLesson = teacherLessons.find((l) => l.teacher?.profileUrl || l.teacher?.id);
-  const profileUrl = teacherLesson?.teacher?.profileUrl || (teacherLesson?.teacher?.id ? `https://www.smtu.ru/ru/viewperson/${teacherLesson.teacher.id}/` : undefined);
+  const profileUrl =
+    teacherLesson?.teacher?.profileUrl ||
+    (teacherLesson?.teacher?.id ? `https://www.smtu.ru/ru/viewperson/${teacherLesson.teacher.id}/` : undefined);
 
   return (
     <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center p-0 sm:p-4 bg-navy-950/60 backdrop-blur-sm animate-in fade-in duration-200">
@@ -58,6 +62,20 @@ export const TeacherModal: React.FC<TeacherModalProps> = ({
             <X className="w-5 h-5" />
           </button>
         </div>
+
+        {/* Action: Open Full Teacher Schedule */}
+        {onOpenTeacherSchedule && (
+          <button
+            onClick={() => {
+              onOpenTeacherSchedule(teacherName);
+              onClose();
+            }}
+            className="flex items-center justify-center gap-2 w-full py-2.5 px-3 rounded-xl bg-ship-gold/15 hover:bg-ship-gold/25 border border-ship-gold/40 text-xs font-bold text-navy-900 dark:text-ship-gold transition shadow-sm"
+          >
+            <Calendar className="w-4 h-4 text-ship-gold" />
+            <span>Открыть полное расписание преподавателя</span>
+          </button>
+        )}
 
         {/* External Link to Official SMTU Person Page */}
         {profileUrl && (
@@ -105,7 +123,7 @@ export const TeacherModal: React.FC<TeacherModalProps> = ({
             </div>
           ) : (
             <p className="text-xs text-slate-500 dark:text-slate-400">
-              Информация о других парах преподавателя доступна при просмотре расписания других групп.
+              Нажмите кнопку выше, чтобы просмотреть расписание всех занятий данного преподавателя во всех группах.
             </p>
           )}
         </div>

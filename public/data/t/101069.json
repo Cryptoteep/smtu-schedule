@@ -1,0 +1,367 @@
+{
+  "teacherId": "101069",
+  "teacherName": "Сетин Александр Иванович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+  "updatedAt": "2026-09-20T13:53:17.920Z",
+  "totalLessons": 18,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7652-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Техника цифровой обработки сигналов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7652-1-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы проектирования каналов морских информационных систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3400",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7652-1-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Техника цифровой обработки сигналов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3400",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7652-1-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы проектирования каналов морских информационных систем",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7652-1-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы проектирования каналов морских информационных систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3400",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7658-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Техника цифровой обработки сигналов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 215-А",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7658-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Техника цифровой обработки сигналов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 215",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3440",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7634-3-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Алгоритмы оценки параметров и классификации объектов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3260",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7634-3-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Алгоритмы оценки параметров и классификации объектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3260",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7652-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Техника цифровой обработки сигналов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7863-3-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Цифровая обработка информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5580",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7863-3-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Цифровая обработка информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5580",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7863-3-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Цифровая обработка информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5580",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7863-3-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Цифровая обработка информации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5580",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7634-4-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Алгоритмы оценки параметров и классификации объектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3260",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7652-4-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Техника цифровой обработки сигналов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3400",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7660-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Цифровая обработка информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3480",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        },
+        {
+          "id": "7660-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Цифровая обработка информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 119",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3480",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сетин Александр Иванович",
+            "id": "101069",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101069/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/14/small/p101069.jpg?token_static=2b79c2c1d951e8750a852ce6551d5342"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

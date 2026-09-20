@@ -1,0 +1,95 @@
+{
+  "teacherId": "101628",
+  "teacherName": "Мартынов Виктор Леонидович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101628.jpg?token_static=220c014738d84c116897dc8308d6c3a9",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101628/",
+  "updatedAt": "2026-09-20T13:53:17.955Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7661-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Морские интегрированные навигационные системы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 408",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3490",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мартынов Виктор Леонидович",
+            "id": "101628",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101628/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101628.jpg?token_static=220c014738d84c116897dc8308d6c3a9"
+          }
+        },
+        {
+          "id": "7661-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Морские интегрированные навигационные системы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 408",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3490",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мартынов Виктор Леонидович",
+            "id": "101628",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101628/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101628.jpg?token_static=220c014738d84c116897dc8308d6c3a9"
+          }
+        },
+        {
+          "id": "7661-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Морские интегрированные навигационные системы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 408",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3490",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мартынов Виктор Леонидович",
+            "id": "101628",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101628/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101628.jpg?token_static=220c014738d84c116897dc8308d6c3a9"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

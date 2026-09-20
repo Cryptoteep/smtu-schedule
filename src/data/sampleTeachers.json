@@ -1,0 +1,3087 @@
+{
+  "100593": {
+    "teacherId": "100593",
+    "teacherName": "Крыжевич Геннадий Брониславович",
+    "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100593.jpg?token_static=7d9af1ed9b4ebd06ea99ca8caa5a09df",
+    "profileUrl": "https://www.smtu.ru/ru/viewperson/100593/",
+    "updatedAt": "2026-09-20T13:53:17.805Z",
+    "totalLessons": 8,
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayIndex": 1,
+        "lessons": []
+      },
+      {
+        "dayName": "Вторник",
+        "dayIndex": 2,
+        "lessons": []
+      },
+      {
+        "dayName": "Среда",
+        "dayIndex": 3,
+        "lessons": []
+      },
+      {
+        "dayName": "Четверг",
+        "dayIndex": 4,
+        "lessons": []
+      },
+      {
+        "dayName": "Пятница",
+        "dayIndex": 5,
+        "lessons": []
+      },
+      {
+        "dayName": "Суббота",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "id": "7745-6-10:10-1",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Теоретическая механика",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 165",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "20220",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Крыжевич Геннадий Брониславович",
+              "id": "100593",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100593/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100593.jpg?token_static=7d9af1ed9b4ebd06ea99ca8caa5a09df"
+            }
+          },
+          {
+            "id": "7745-6-10:10-2",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Теоретическая механика",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 165",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "20220",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Крыжевич Геннадий Брониславович",
+              "id": "100593",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100593/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100593.jpg?token_static=7d9af1ed9b4ebd06ea99ca8caa5a09df"
+            }
+          },
+          {
+            "id": "7745-6-11:50-3",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Теоретическая механика",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 144",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "20220",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Крыжевич Геннадий Брониславович",
+              "id": "100593",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100593/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100593.jpg?token_static=7d9af1ed9b4ebd06ea99ca8caa5a09df"
+            }
+          },
+          {
+            "id": "7745-6-14:00-4",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Теоретическая механика",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 144",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "20220",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Крыжевич Геннадий Брониславович",
+              "id": "100593",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100593/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100593.jpg?token_static=7d9af1ed9b4ebd06ea99ca8caa5a09df"
+            }
+          },
+          {
+            "id": "7593-6-10:10-2",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Теоретическая механика",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 165",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "2270, 3280",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Крыжевич Геннадий Брониславович",
+              "id": "100593",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100593/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100593.jpg?token_static=7d9af1ed9b4ebd06ea99ca8caa5a09df"
+            }
+          },
+          {
+            "id": "7593-6-11:50-3",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Теоретическая механика",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 143",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "2270",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Крыжевич Геннадий Брониславович",
+              "id": "100593",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100593/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100593.jpg?token_static=7d9af1ed9b4ebd06ea99ca8caa5a09df"
+            }
+          },
+          {
+            "id": "7593-6-14:00-5",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Теоретическая механика",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 143",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "2270",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Крыжевич Геннадий Брониславович",
+              "id": "100593",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100593/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100593.jpg?token_static=7d9af1ed9b4ebd06ea99ca8caa5a09df"
+            }
+          },
+          {
+            "id": "7640-6-08:30-1",
+            "time": "08:30-10:00",
+            "timeSlotIndex": 1,
+            "subject": "Теоретическая механика",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 143",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3280",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Крыжевич Геннадий Брониславович",
+              "id": "100593",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100593/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100593.jpg?token_static=7d9af1ed9b4ebd06ea99ca8caa5a09df"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "101024": {
+    "teacherId": "101024",
+    "teacherName": "Сакович Сергей Юрьевич",
+    "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d",
+    "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+    "updatedAt": "2026-09-20T13:53:17.751Z",
+    "totalLessons": 26,
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "id": "7624-1-11:50-5",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Технология разработки программного обеспечения",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3210",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7624-1-14:00-6",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Технология разработки программного обеспечения",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3210",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7657-1-15:40-5",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Системы технического зрения морской техники",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3430",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7657-1-17:20-6",
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
+            "subject": "Системы технического зрения морской техники",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3430",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7661-1-14:00-5",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Микропроцессорные системы управления",
+            "type": "lab",
+            "rawType": "Лабораторное занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3490",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "id": "7825-2-14:00-4",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Конструкции морской техники",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "12317-50",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7825-2-15:40-5",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Конструкции морской техники",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "12317-50",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7825-2-17:20-6",
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
+            "subject": "Конструкции морской техники",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "12317-50",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "id": "7657-3-11:50-3",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Навигационно-управляющие системы морских объектов",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3430",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7657-3-14:00-5",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Навигационно-управляющие системы морских объектов",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3430",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7657-3-15:40-6",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Навигационно-управляющие системы морских объектов",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3430",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7657-3-17:20-7",
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
+            "subject": "Навигационно-управляющие системы морских объектов",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3430",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7661-3-11:50-3",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Микропроцессорные системы управления",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3490",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7661-3-14:00-5",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Микропроцессорные системы управления",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3490",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "id": "7657-4-14:00-1",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Навигационно-управляющие системы морских объектов",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3430",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7657-4-15:40-3",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Навигационно-управляющие системы морских объектов",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3430",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7661-4-10:10-1",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Навигационно-управляющие системы морских объектов",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3490",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7661-4-11:50-2",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Навигационно-управляющие системы морских объектов",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3490",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7661-4-14:00-4",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Навигационно-управляющие системы морских объектов",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3490",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7661-4-15:40-6",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Навигационно-управляющие системы морских объектов",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3490",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "id": "7552-5-14:00-1",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Автоматическое управление судовыми системами и устройствами",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У УЛК-04",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "1265",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7552-5-15:40-2",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Автоматическое управление судовыми системами и устройствами",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У УЛК-04",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "1265",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7825-5-10:10-1",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Научно-технический семинар",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У УЛК-04",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "12317-50",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7825-5-11:50-2",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Научно-технический семинар",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У УЛК-04",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "12317-50",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7825-5-14:00-4",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Научно-технический семинар",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У УЛК-04",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "12317-50",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7825-5-15:40-6",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Научно-технический семинар",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У УЛК-05",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "12317-50",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayIndex": 6,
+        "lessons": []
+      }
+    ]
+  },
+  "101326": {
+    "teacherId": "101326",
+    "teacherName": "Чихонадских Елена Александровна",
+    "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19",
+    "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+    "updatedAt": "2026-09-20T13:53:17.683Z",
+    "totalLessons": 23,
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "id": "7625-1-15:40-6",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(2)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3220",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7626-1-14:00-8",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Экология",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 105",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3224, 3225, 3226, 3227",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7630-1-11:50-5",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Экология",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 105",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3230, 3231, 3280",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7630-1-11:50-6",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(1)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3230",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7631-1-10:10-2",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(2)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3231",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7640-1-14:00-4",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(2)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3280",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "id": "7738-2-15:40-3",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Экология",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 161",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "10274, 10277",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7738-2-17:20-4",
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(2)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "10274",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7739-2-17:20-6",
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(2)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "10277",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7625-2-15:40-5",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Экология",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 107",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3220, 3240, 3250, 3290",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7628-2-14:00-6",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(1)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3226",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7632-2-11:50-2",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(1)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3240",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7633-2-14:00-4",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(2)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3250",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "id": "7494-3-19:00-2",
+            "time": "19:00-20:30",
+            "timeSlotIndex": 7,
+            "subject": "Экология",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 340а",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "5470",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7494-3-20:40-4",
+            "time": "20:40-22:10",
+            "timeSlotIndex": 5,
+            "subject": "Экология",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 340а",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "5470",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "id": "7894-4-19:00-1",
+            "time": "19:00-20:30",
+            "timeSlotIndex": 7,
+            "subject": "Экология",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 340(1)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "12638-08-2",
+            "weekParity": "both",
+            "dateSpecific": "1.10 по 11.11",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7894-4-20:40-4",
+            "time": "20:40-22:10",
+            "timeSlotIndex": 5,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(1)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "12638-08-2",
+            "weekParity": "both",
+            "dateSpecific": "1.10 по 11.11",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "id": "7743-5-10:10-2",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Экология",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 451",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "20200, 20220, 20270, 20271",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7757-5-19:00-2",
+            "time": "19:00-20:30",
+            "timeSlotIndex": 7,
+            "subject": "Экология",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 340(1)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "20275",
+            "weekParity": "up",
+            "dateSpecific": "30.10 по 11.12",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7757-5-20:40-4",
+            "time": "20:40-22:10",
+            "timeSlotIndex": 5,
+            "subject": "Экология",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 340(1)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "20275",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7626-5-15:40-7",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(1)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3224, 3227",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7627-5-14:00-7",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(2)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3225",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7511-5-11:50-5",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(2)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3290",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayIndex": 6,
+        "lessons": []
+      }
+    ]
+  },
+  "107947": {
+    "teacherId": "107947",
+    "teacherName": "Клюбина Ксения Александровна",
+    "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c",
+    "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+    "updatedAt": "2026-09-20T13:53:17.908Z",
+    "totalLessons": 11,
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "id": "7625-1-11:50-2",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Физика",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 304",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3220",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          },
+          {
+            "id": "7625-1-11:50-3",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Физика",
+            "type": "lab",
+            "rawType": "Лабораторное занятие",
+            "room": "У 301",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3220",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          },
+          {
+            "id": "7632-1-14:00-4",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Физика",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 304",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3240",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          },
+          {
+            "id": "7632-1-14:00-5",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Физика",
+            "type": "lab",
+            "rawType": "Лабораторное занятие",
+            "room": "У 301",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3240",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "id": "7633-2-11:50-2",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Физика",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 304",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3250",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          },
+          {
+            "id": "7633-2-11:50-3",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Физика",
+            "type": "lab",
+            "rawType": "Лабораторное занятие",
+            "room": "У 301",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3250",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          },
+          {
+            "id": "7640-2-15:40-2",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Физика",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 304",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3280",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          },
+          {
+            "id": "7640-2-15:40-3",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Физика",
+            "type": "lab",
+            "rawType": "Лабораторное занятие",
+            "room": "У 301",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3280",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          },
+          {
+            "id": "7511-2-14:00-4",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Физика",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 304",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3290",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          },
+          {
+            "id": "7511-2-14:00-5",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Физика",
+            "type": "lab",
+            "rawType": "Лабораторное занятие",
+            "room": "У 301",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3290",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "id": "7625-3-10:10-2",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Физика",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 165",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3220, 3240, 3250, 3280, 3290",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayIndex": 4,
+        "lessons": []
+      },
+      {
+        "dayName": "Пятница",
+        "dayIndex": 5,
+        "lessons": []
+      },
+      {
+        "dayName": "Суббота",
+        "dayIndex": 6,
+        "lessons": []
+      }
+    ]
+  },
+  "Чихонадских Елена Александровна": {
+    "teacherId": "101326",
+    "teacherName": "Чихонадских Елена Александровна",
+    "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19",
+    "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+    "updatedAt": "2026-09-20T13:53:17.683Z",
+    "totalLessons": 23,
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "id": "7625-1-15:40-6",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(2)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3220",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7626-1-14:00-8",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Экология",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 105",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3224, 3225, 3226, 3227",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7630-1-11:50-5",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Экология",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 105",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3230, 3231, 3280",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7630-1-11:50-6",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(1)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3230",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7631-1-10:10-2",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(2)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3231",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7640-1-14:00-4",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(2)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3280",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "id": "7738-2-15:40-3",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Экология",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 161",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "10274, 10277",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7738-2-17:20-4",
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(2)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "10274",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7739-2-17:20-6",
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(2)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "10277",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7625-2-15:40-5",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Экология",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 107",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3220, 3240, 3250, 3290",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7628-2-14:00-6",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(1)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3226",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7632-2-11:50-2",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(1)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3240",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7633-2-14:00-4",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(2)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3250",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "id": "7494-3-19:00-2",
+            "time": "19:00-20:30",
+            "timeSlotIndex": 7,
+            "subject": "Экология",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 340а",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "5470",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7494-3-20:40-4",
+            "time": "20:40-22:10",
+            "timeSlotIndex": 5,
+            "subject": "Экология",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 340а",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "5470",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "id": "7894-4-19:00-1",
+            "time": "19:00-20:30",
+            "timeSlotIndex": 7,
+            "subject": "Экология",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 340(1)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "12638-08-2",
+            "weekParity": "both",
+            "dateSpecific": "1.10 по 11.11",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7894-4-20:40-4",
+            "time": "20:40-22:10",
+            "timeSlotIndex": 5,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(1)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "12638-08-2",
+            "weekParity": "both",
+            "dateSpecific": "1.10 по 11.11",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "id": "7743-5-10:10-2",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Экология",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 451",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "20200, 20220, 20270, 20271",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7757-5-19:00-2",
+            "time": "19:00-20:30",
+            "timeSlotIndex": 7,
+            "subject": "Экология",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 340(1)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "20275",
+            "weekParity": "up",
+            "dateSpecific": "30.10 по 11.12",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7757-5-20:40-4",
+            "time": "20:40-22:10",
+            "timeSlotIndex": 5,
+            "subject": "Экология",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 340(1)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "20275",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7626-5-15:40-7",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(1)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3224, 3227",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7627-5-14:00-7",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(2)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3225",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          },
+          {
+            "id": "7511-5-11:50-5",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Экология",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 340(2)",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3290",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чихонадских Елена Александровна",
+              "id": "101326",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayIndex": 6,
+        "lessons": []
+      }
+    ]
+  },
+  "Борисов Александр Николаевич": {
+    "teacherId": "Борисов Александр Николаевич",
+    "teacherName": "Борисов Александр Николаевич",
+    "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509",
+    "updatedAt": "2026-09-20T13:53:17.749Z",
+    "totalLessons": 15,
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "id": "7624-1-08:30-1",
+            "time": "08:30-10:00",
+            "timeSlotIndex": 1,
+            "subject": "Методы искусственного интеллекта",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 407",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3210",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Борисов Александр Николаевич",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+            }
+          },
+          {
+            "id": "7624-1-08:30-2",
+            "time": "08:30-10:00",
+            "timeSlotIndex": 1,
+            "subject": "Методы искусственного интеллекта",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 407",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3210",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Борисов Александр Николаевич",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+            }
+          },
+          {
+            "id": "7624-1-10:10-3",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Методы искусственного интеллекта",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 407",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3210",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Борисов Александр Николаевич",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+            }
+          },
+          {
+            "id": "7624-1-10:10-4",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Методы искусственного интеллекта",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 407",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3210",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Борисов Александр Николаевич",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+            }
+          },
+          {
+            "id": "7659-1-11:50-1",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Системы искусственного интеллекта",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 407",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3470",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Борисов Александр Николаевич",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+            }
+          },
+          {
+            "id": "7659-1-14:00-2",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Системы искусственного интеллекта",
+            "type": "lab",
+            "rawType": "Лабораторное занятие",
+            "room": "Г 407",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3470",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Борисов Александр Николаевич",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayIndex": 2,
+        "lessons": []
+      },
+      {
+        "dayName": "Среда",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "id": "7552-3-08:30-1",
+            "time": "08:30-10:00",
+            "timeSlotIndex": 1,
+            "subject": "Вопросы безопасности систем автоматизации судов",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 407",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "1265",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Борисов Александр Николаевич",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+            }
+          },
+          {
+            "id": "7552-3-10:10-2",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Вопросы безопасности систем автоматизации судов",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 407",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "1265",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Борисов Александр Николаевич",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "id": "7681-4-08:30-1",
+            "time": "08:30-10:00",
+            "timeSlotIndex": 1,
+            "subject": "Нечеткая логика в цифровых технологиях",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 407",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "4305",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Борисов Александр Николаевич",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+            }
+          },
+          {
+            "id": "7681-4-10:10-2",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Нечеткая логика в цифровых технологиях",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 407",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "4305",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Борисов Александр Николаевич",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "id": "7659-5-11:50-1",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Системы искусственного интеллекта",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 407",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3470",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Борисов Александр Николаевич",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+            }
+          },
+          {
+            "id": "7659-5-14:00-3",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Системы искусственного интеллекта",
+            "type": "lab",
+            "rawType": "Лабораторное занятие",
+            "room": "Г 407",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3470",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Борисов Александр Николаевич",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+            }
+          },
+          {
+            "id": "7838-5-08:30-1",
+            "time": "08:30-10:00",
+            "timeSlotIndex": 1,
+            "subject": "Интеллектуальные системы",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 407",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "12309-50",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Борисов Александр Николаевич",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+            }
+          },
+          {
+            "id": "7838-5-08:30-2",
+            "time": "08:30-10:00",
+            "timeSlotIndex": 1,
+            "subject": "Интеллектуальные системы",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 407",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "12309-50",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Борисов Александр Николаевич",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+            }
+          },
+          {
+            "id": "7838-5-10:10-3",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Интеллектуальные системы",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 407",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "12309-50",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Борисов Александр Николаевич",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100144.jpg?token_static=8bcee16df3e5443e110ce9eecc9cf509"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayIndex": 6,
+        "lessons": []
+      }
+    ]
+  },
+  "Сакович Сергей Юрьевич": {
+    "teacherId": "101024",
+    "teacherName": "Сакович Сергей Юрьевич",
+    "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d",
+    "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+    "updatedAt": "2026-09-20T13:53:17.751Z",
+    "totalLessons": 26,
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "id": "7624-1-11:50-5",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Технология разработки программного обеспечения",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3210",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7624-1-14:00-6",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Технология разработки программного обеспечения",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3210",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7657-1-15:40-5",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Системы технического зрения морской техники",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3430",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7657-1-17:20-6",
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
+            "subject": "Системы технического зрения морской техники",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3430",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7661-1-14:00-5",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Микропроцессорные системы управления",
+            "type": "lab",
+            "rawType": "Лабораторное занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3490",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "id": "7825-2-14:00-4",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Конструкции морской техники",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "12317-50",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7825-2-15:40-5",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Конструкции морской техники",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "12317-50",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7825-2-17:20-6",
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
+            "subject": "Конструкции морской техники",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "12317-50",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "id": "7657-3-11:50-3",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Навигационно-управляющие системы морских объектов",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3430",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7657-3-14:00-5",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Навигационно-управляющие системы морских объектов",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3430",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7657-3-15:40-6",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Навигационно-управляющие системы морских объектов",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3430",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7657-3-17:20-7",
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
+            "subject": "Навигационно-управляющие системы морских объектов",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3430",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7661-3-11:50-3",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Микропроцессорные системы управления",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3490",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7661-3-14:00-5",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Микропроцессорные системы управления",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3490",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "id": "7657-4-14:00-1",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Навигационно-управляющие системы морских объектов",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3430",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7657-4-15:40-3",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Навигационно-управляющие системы морских объектов",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3430",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7661-4-10:10-1",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Навигационно-управляющие системы морских объектов",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3490",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7661-4-11:50-2",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Навигационно-управляющие системы морских объектов",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3490",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7661-4-14:00-4",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Навигационно-управляющие системы морских объектов",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3490",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7661-4-15:40-6",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Навигационно-управляющие системы морских объектов",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 408",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3490",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "id": "7552-5-14:00-1",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Автоматическое управление судовыми системами и устройствами",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У УЛК-04",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "1265",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7552-5-15:40-2",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Автоматическое управление судовыми системами и устройствами",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У УЛК-04",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "1265",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7825-5-10:10-1",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Научно-технический семинар",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У УЛК-04",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "12317-50",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7825-5-11:50-2",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Научно-технический семинар",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У УЛК-04",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "12317-50",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7825-5-14:00-4",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Научно-технический семинар",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У УЛК-04",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "12317-50",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          },
+          {
+            "id": "7825-5-15:40-6",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Научно-технический семинар",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У УЛК-05",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "12317-50",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Сакович Сергей Юрьевич",
+              "id": "101024",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101024/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/04/small/p101024.jpg?token_static=0361b1e53f626ff108a99d7318bb9c3d"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayIndex": 6,
+        "lessons": []
+      }
+    ]
+  },
+  "Крыжевич Геннадий Брониславович": {
+    "teacherId": "100593",
+    "teacherName": "Крыжевич Геннадий Брониславович",
+    "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100593.jpg?token_static=7d9af1ed9b4ebd06ea99ca8caa5a09df",
+    "profileUrl": "https://www.smtu.ru/ru/viewperson/100593/",
+    "updatedAt": "2026-09-20T13:53:17.805Z",
+    "totalLessons": 8,
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayIndex": 1,
+        "lessons": []
+      },
+      {
+        "dayName": "Вторник",
+        "dayIndex": 2,
+        "lessons": []
+      },
+      {
+        "dayName": "Среда",
+        "dayIndex": 3,
+        "lessons": []
+      },
+      {
+        "dayName": "Четверг",
+        "dayIndex": 4,
+        "lessons": []
+      },
+      {
+        "dayName": "Пятница",
+        "dayIndex": 5,
+        "lessons": []
+      },
+      {
+        "dayName": "Суббота",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "id": "7745-6-10:10-1",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Теоретическая механика",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 165",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "20220",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Крыжевич Геннадий Брониславович",
+              "id": "100593",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100593/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100593.jpg?token_static=7d9af1ed9b4ebd06ea99ca8caa5a09df"
+            }
+          },
+          {
+            "id": "7745-6-10:10-2",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Теоретическая механика",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 165",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "20220",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Крыжевич Геннадий Брониславович",
+              "id": "100593",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100593/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100593.jpg?token_static=7d9af1ed9b4ebd06ea99ca8caa5a09df"
+            }
+          },
+          {
+            "id": "7745-6-11:50-3",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Теоретическая механика",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 144",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "20220",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Крыжевич Геннадий Брониславович",
+              "id": "100593",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100593/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100593.jpg?token_static=7d9af1ed9b4ebd06ea99ca8caa5a09df"
+            }
+          },
+          {
+            "id": "7745-6-14:00-4",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Теоретическая механика",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 144",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "20220",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Крыжевич Геннадий Брониславович",
+              "id": "100593",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100593/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100593.jpg?token_static=7d9af1ed9b4ebd06ea99ca8caa5a09df"
+            }
+          },
+          {
+            "id": "7593-6-10:10-2",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Теоретическая механика",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 165",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "2270, 3280",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Крыжевич Геннадий Брониславович",
+              "id": "100593",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100593/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100593.jpg?token_static=7d9af1ed9b4ebd06ea99ca8caa5a09df"
+            }
+          },
+          {
+            "id": "7593-6-11:50-3",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Теоретическая механика",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 143",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "2270",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Крыжевич Геннадий Брониславович",
+              "id": "100593",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100593/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100593.jpg?token_static=7d9af1ed9b4ebd06ea99ca8caa5a09df"
+            }
+          },
+          {
+            "id": "7593-6-14:00-5",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Теоретическая механика",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 143",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "2270",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Крыжевич Геннадий Брониславович",
+              "id": "100593",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100593/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100593.jpg?token_static=7d9af1ed9b4ebd06ea99ca8caa5a09df"
+            }
+          },
+          {
+            "id": "7640-6-08:30-1",
+            "time": "08:30-10:00",
+            "timeSlotIndex": 1,
+            "subject": "Теоретическая механика",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 143",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3280",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Крыжевич Геннадий Брониславович",
+              "id": "100593",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100593/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100593.jpg?token_static=7d9af1ed9b4ebd06ea99ca8caa5a09df"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "Клюбина Ксения Александровна": {
+    "teacherId": "107947",
+    "teacherName": "Клюбина Ксения Александровна",
+    "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c",
+    "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+    "updatedAt": "2026-09-20T13:53:17.908Z",
+    "totalLessons": 11,
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "id": "7625-1-11:50-2",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Физика",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 304",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3220",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          },
+          {
+            "id": "7625-1-11:50-3",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Физика",
+            "type": "lab",
+            "rawType": "Лабораторное занятие",
+            "room": "У 301",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3220",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          },
+          {
+            "id": "7632-1-14:00-4",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Физика",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 304",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3240",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          },
+          {
+            "id": "7632-1-14:00-5",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Физика",
+            "type": "lab",
+            "rawType": "Лабораторное занятие",
+            "room": "У 301",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3240",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "dayIndex": 2,
+        "lessons": [
+          {
+            "id": "7633-2-11:50-2",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Физика",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 304",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3250",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          },
+          {
+            "id": "7633-2-11:50-3",
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Физика",
+            "type": "lab",
+            "rawType": "Лабораторное занятие",
+            "room": "У 301",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3250",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          },
+          {
+            "id": "7640-2-15:40-2",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Физика",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 304",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3280",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          },
+          {
+            "id": "7640-2-15:40-3",
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Физика",
+            "type": "lab",
+            "rawType": "Лабораторное занятие",
+            "room": "У 301",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3280",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          },
+          {
+            "id": "7511-2-14:00-4",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Физика",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 304",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3290",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          },
+          {
+            "id": "7511-2-14:00-5",
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Физика",
+            "type": "lab",
+            "rawType": "Лабораторное занятие",
+            "room": "У 301",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3290",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "id": "7625-3-10:10-2",
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Физика",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 165",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "3220, 3240, 3250, 3280, 3290",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Клюбина Ксения Александровна",
+              "id": "107947",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/107947/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107947.jpg?token_static=a08bc786e4b9c89ac3fe70211e30157c"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayIndex": 4,
+        "lessons": []
+      },
+      {
+        "dayName": "Пятница",
+        "dayIndex": 5,
+        "lessons": []
+      },
+      {
+        "dayName": "Суббота",
+        "dayIndex": 6,
+        "lessons": []
+      }
+    ]
+  }
+}

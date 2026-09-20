@@ -1,0 +1,105 @@
+{
+  "teacherId": "Климова Маргарита Викторовна",
+  "teacherName": "Климова Маргарита Викторовна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/25/small/p123764.jpg?token_static=21d80f0c7a90cda7db9cd0938910ac70",
+  "updatedAt": "2026-09-20T13:53:17.686Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7739-2-17:20-5",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Общее материаловедение и технологии материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 245",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "10277",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Климова Маргарита Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/25/small/p123764.jpg?token_static=21d80f0c7a90cda7db9cd0938910ac70"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7738-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Кристаллография",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 245а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "10274",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Климова Маргарита Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/25/small/p123764.jpg?token_static=21d80f0c7a90cda7db9cd0938910ac70"
+          }
+        },
+        {
+          "id": "7739-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Общее материаловедение и технологии материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 198",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "10277",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Климова Маргарита Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/25/small/p123764.jpg?token_static=21d80f0c7a90cda7db9cd0938910ac70"
+          }
+        },
+        {
+          "id": "7739-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Общее материаловедение и технологии материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 198",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "10277",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Климова Маргарита Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/25/small/p123764.jpg?token_static=21d80f0c7a90cda7db9cd0938910ac70"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

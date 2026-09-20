@@ -1,0 +1,72 @@
+{
+  "teacherId": "Пескишев Сергей Александрович",
+  "teacherName": "Пескишев Сергей Александрович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100884.jpg?token_static=222765cbde0f70a5b66c4b9b29631fb0",
+  "updatedAt": "2026-09-20T13:53:17.994Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7694-2-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Материаловедение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 191",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пескишев Сергей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100884.jpg?token_static=222765cbde0f70a5b66c4b9b29631fb0"
+          }
+        },
+        {
+          "id": "7694-2-20:40-5",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 6,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пескишев Сергей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100884.jpg?token_static=222765cbde0f70a5b66c4b9b29631fb0"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

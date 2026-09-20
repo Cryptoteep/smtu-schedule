@@ -1,0 +1,105 @@
+{
+  "teacherId": "Барановский Борис Олегович",
+  "teacherName": "Барановский Борис Олегович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/03/small/p101672.jpg?token_static=ce49fc9c28667077276aa9eeb165972e",
+  "updatedAt": "2026-09-20T13:53:17.795Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7576-3-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Организация проектно-конструкторских работ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1514",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Барановский Борис Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/03/small/p101672.jpg?token_static=ce49fc9c28667077276aa9eeb165972e"
+          }
+        },
+        {
+          "id": "7576-3-20:40-5",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 6,
+          "subject": "Организация проектно-конструкторских работ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1514",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Барановский Борис Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/03/small/p101672.jpg?token_static=ce49fc9c28667077276aa9eeb165972e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7578-4-20:40-6",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 7,
+          "subject": "Организация проектно-конструкторских работ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413Б",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1517",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Барановский Борис Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/03/small/p101672.jpg?token_static=ce49fc9c28667077276aa9eeb165972e"
+          }
+        },
+        {
+          "id": "7579-4-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Организация проектно-конструкторских работ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 413Б",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1519",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Барановский Борис Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/03/small/p101672.jpg?token_static=ce49fc9c28667077276aa9eeb165972e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

@@ -12,6 +12,7 @@ import { BottomNav } from './components/BottomNav';
 import { useSchedule } from './hooks/useSchedule';
 import { useNotes } from './hooks/useNotes';
 import { storage } from './services/storage';
+import { api } from './services/api';
 import { Lesson } from './types/schedule';
 import { Sparkles, AlertTriangle } from 'lucide-react';
 
@@ -40,7 +41,9 @@ export const App: React.FC = () => {
 
   // Schedule hook
   const {
+    mode,
     currentGroup,
+    currentTeacher,
     schedule,
     loading,
     refreshing,
@@ -50,11 +53,13 @@ export const App: React.FC = () => {
     setWeekFilter,
     effectiveParity,
     selectGroup,
+    selectTeacher,
     refresh,
   } = useSchedule();
 
   // Notes hook
-  const { notes, addOrUpdateNote, removeNote } = useNotes(currentGroup.id);
+  const activeEntityId = mode === 'teacher' ? `t_${currentTeacher?.id || currentTeacher?.name}` : currentGroup.id;
+  const { notes, addOrUpdateNote, removeNote } = useNotes(activeEntityId);
 
   // Modals state
   const [isGroupPickerOpen, setIsGroupPickerOpen] = useState(false);
@@ -68,7 +73,6 @@ export const App: React.FC = () => {
   // Keyboard shortcuts for PC desktop
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
-      // Don't trigger if typing in input
       if (['INPUT', 'TEXTAREA'].includes((e.target as HTMLElement)?.tagName)) {
         return;
       }
@@ -105,6 +109,24 @@ export const App: React.FC = () => {
     setActiveTeacher({ name, photoUrl });
   };
 
+  const handleOpenTeacherSchedule = (teacherName: string) => {
+    const match = api.findTeacher(teacherName);
+    if (match) {
+      selectTeacher(match);
+    } else {
+      selectTeacher({ id: teacherName, name: teacherName });
+    }
+  };
+
+  const handleSelectGroupByName = (groupName: string) => {
+    const match = api.findGroup(groupName);
+    if (match) {
+      selectGroup(match.group);
+    } else {
+      selectGroup({ id: groupName, name: groupName });
+    }
+  };
+
   const handleOpenNote = (lesson: Lesson) => {
     setActiveLessonForNote(lesson);
   };
@@ -116,7 +138,9 @@ export const App: React.FC = () => {
     <div className="min-h-screen bg-slate-50 dark:bg-navy-950 text-slate-900 dark:text-slate-100 flex flex-col transition-colors">
       {/* Header Bar */}
       <Header
+        mode={mode}
         currentGroup={currentGroup}
+        currentTeacher={currentTeacher}
         academicWeek={academicWeek}
         refreshing={refreshing}
         theme={theme}
@@ -134,21 +158,23 @@ export const App: React.FC = () => {
 
       {/* Main Content Area */}
       <main className="flex-1 max-w-4xl w-full mx-auto px-3 sm:px-6 py-4 sm:py-6 space-y-4 pb-20 sm:pb-8">
-        {/* Banner with Group & Academic Week Status */}
+        {/* Banner with Group/Teacher & Academic Week Status */}
         <div className="rounded-2xl bg-gradient-to-r from-navy-800 to-navy-900 text-white p-4 sm:p-5 shadow-lg border border-navy-700/60 relative overflow-hidden">
           <div className="absolute -right-8 -bottom-8 w-32 h-32 bg-ship-gold/10 rounded-full blur-2xl pointer-events-none" />
           <div className="flex flex-wrap items-center justify-between gap-3 relative z-10">
             <div>
               <div className="flex items-center gap-2 mb-1">
                 <span className="px-2 py-0.5 rounded-full text-[11px] font-extrabold bg-ship-gold text-navy-950 uppercase tracking-wider">
-                  Корабелка
+                  {mode === 'teacher' ? 'Преподаватель' : 'Корабелка'}
                 </span>
                 <span className="text-xs text-navy-200 font-medium">
                   {schedule?.facultyName || 'СПбГМТУ'}
                 </span>
               </div>
               <h1 className="text-xl sm:text-2xl font-black tracking-tight">
-                Группа {currentGroup.name}
+                {mode === 'teacher'
+                  ? currentTeacher?.name || 'Преподаватель СПбГМТУ'
+                  : `Группа ${currentGroup.name}`}
               </h1>
               <p className="text-xs text-navy-300 mt-0.5">
                 {academicWeek.label} • Осенний семестр 2026/2027
@@ -177,7 +203,9 @@ export const App: React.FC = () => {
           <div className="py-16 text-center space-y-3">
             <div className="w-10 h-10 border-4 border-navy-600 border-t-transparent rounded-full animate-spin mx-auto" />
             <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 font-medium">
-              Загрузка расписания группы {currentGroup.name}...
+              {mode === 'teacher'
+                ? `Загрузка расписания преподавателя ${currentTeacher?.name || ''}...`
+                : `Загрузка расписания группы ${currentGroup.name}...`}
             </p>
           </div>
         )}
@@ -202,11 +230,13 @@ export const App: React.FC = () => {
         {!loading && schedule && (
           <ScheduleView
             schedule={schedule}
+            mode={mode}
             effectiveParity={effectiveParity}
             notes={notes}
             onOpenTeacher={handleOpenTeacher}
             onOpenCampus={handleOpenCampus}
             onOpenNote={handleOpenNote}
+            onSelectGroupByName={handleSelectGroupByName}
           />
         )}
       </main>
@@ -226,8 +256,11 @@ export const App: React.FC = () => {
       <GroupPickerModal
         isOpen={isGroupPickerOpen}
         onClose={() => setIsGroupPickerOpen(false)}
+        mode={mode}
         currentGroupId={currentGroup.id}
+        currentTeacherId={currentTeacher?.id || currentTeacher?.name}
         onSelectGroup={selectGroup}
+        onSelectTeacher={selectTeacher}
       />
 
       <TeacherModal
@@ -236,6 +269,7 @@ export const App: React.FC = () => {
         teacherName={activeTeacher?.name || ''}
         photoUrl={activeTeacher?.photoUrl}
         allLessons={allScheduleLessons}
+        onOpenTeacherSchedule={handleOpenTeacherSchedule}
       />
 
       <CampusGuideModal
@@ -248,7 +282,7 @@ export const App: React.FC = () => {
         isOpen={activeLessonForNote !== null}
         onClose={() => setActiveLessonForNote(null)}
         lesson={activeLessonForNote}
-        groupId={currentGroup.id}
+        groupId={activeEntityId}
         notes={
           activeLessonForNote
             ? notes.filter(

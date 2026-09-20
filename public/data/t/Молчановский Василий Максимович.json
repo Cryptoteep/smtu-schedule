@@ -1,0 +1,218 @@
+{
+  "teacherId": "Молчановский Василий Максимович",
+  "teacherName": "Молчановский Василий Максимович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123187.jpg?token_static=349f98fcb04531802fdc5487080e3847",
+  "updatedAt": "2026-09-20T13:53:17.723Z",
+  "totalLessons": 11,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7470-3-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 301",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Молчановский Василий Максимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123187.jpg?token_static=349f98fcb04531802fdc5487080e3847"
+          }
+        },
+        {
+          "id": "7470-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Молчановский Василий Максимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123187.jpg?token_static=349f98fcb04531802fdc5487080e3847"
+          }
+        },
+        {
+          "id": "7583-3-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 301",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2230",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Молчановский Василий Максимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123187.jpg?token_static=349f98fcb04531802fdc5487080e3847"
+          }
+        },
+        {
+          "id": "7583-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2230",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Молчановский Василий Максимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123187.jpg?token_static=349f98fcb04531802fdc5487080e3847"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7503-4-11:50-6",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 301",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1250",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Молчановский Василий Максимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123187.jpg?token_static=349f98fcb04531802fdc5487080e3847"
+          }
+        },
+        {
+          "id": "7553-4-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 301",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1280",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Молчановский Василий Максимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123187.jpg?token_static=349f98fcb04531802fdc5487080e3847"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7548-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 301",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1220",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Молчановский Василий Максимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123187.jpg?token_static=349f98fcb04531802fdc5487080e3847"
+          }
+        },
+        {
+          "id": "7507-5-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 504",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2101",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Молчановский Василий Максимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123187.jpg?token_static=349f98fcb04531802fdc5487080e3847"
+          }
+        },
+        {
+          "id": "7470-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 504",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2201, 2210, 2230",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Молчановский Василий Максимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123187.jpg?token_static=349f98fcb04531802fdc5487080e3847"
+          }
+        },
+        {
+          "id": "7582-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Молчановский Василий Максимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123187.jpg?token_static=349f98fcb04531802fdc5487080e3847"
+          }
+        },
+        {
+          "id": "7582-5-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 301",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Молчановский Василий Максимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123187.jpg?token_static=349f98fcb04531802fdc5487080e3847"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

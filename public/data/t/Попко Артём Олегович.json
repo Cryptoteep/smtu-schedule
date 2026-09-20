@@ -1,0 +1,105 @@
+{
+  "teacherId": "Попко Артём Олегович",
+  "teacherName": "Попко Артём Олегович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/03/small/p122998.jpg?token_static=7c002e9be6e7a68670ed9c644ceb5d20",
+  "updatedAt": "2026-09-20T13:53:18.007Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7859-1-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Физические поля в морской среде",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5480",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Попко Артём Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/03/small/p122998.jpg?token_static=7c002e9be6e7a68670ed9c644ceb5d20"
+          }
+        },
+        {
+          "id": "7859-1-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Физические поля в морской среде",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 315",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5480",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Попко Артём Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/03/small/p122998.jpg?token_static=7c002e9be6e7a68670ed9c644ceb5d20"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7809-5-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Методы принятия решений в профессиональной деятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 520",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "12315-54",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Попко Артём Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/03/small/p122998.jpg?token_static=7c002e9be6e7a68670ed9c644ceb5d20"
+          }
+        },
+        {
+          "id": "7809-5-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Методы принятия решений в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 420",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "12315-54",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Попко Артём Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/03/small/p122998.jpg?token_static=7c002e9be6e7a68670ed9c644ceb5d20"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "teacherId": "Осипенко Елизавета Александровна",
+  "teacherName": "Осипенко Елизавета Александровна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/11/10/small/p124207.jpg?token_static=d25798f6faa52644f2ca9eb04c12005a",
+  "updatedAt": "2026-09-20T13:53:18.068Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7885-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Иностранный язык в профессиональной и академической коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12226-51",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Осипенко Елизавета Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/11/10/small/p124207.jpg?token_static=d25798f6faa52644f2ca9eb04c12005a"
+          }
+        },
+        {
+          "id": "7886-6-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Иностранный язык в профессиональной и академической коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12826-61",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Осипенко Елизавета Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/11/10/small/p124207.jpg?token_static=d25798f6faa52644f2ca9eb04c12005a"
+          }
+        }
+      ]
+    }
+  ]
+}

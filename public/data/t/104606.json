@@ -1,0 +1,77 @@
+{
+  "teacherId": "104606",
+  "teacherName": "Земляков Евгений Вячеславович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/11/09/small/p104606.jpg?token_static=6b9dfef4423b646ff4c9cfe8478b4a3a",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/104606/",
+  "updatedAt": "2026-09-20T13:53:17.821Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "8048-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Аддитивные технологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20277, 12515-52, 12515-51, 12515-50",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Земляков Евгений Вячеславович",
+            "id": "104606",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104606/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/11/09/small/p104606.jpg?token_static=6b9dfef4423b646ff4c9cfe8478b4a3a"
+          }
+        },
+        {
+          "id": "7815-1-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Аддитивные технологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-52",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Земляков Евгений Вячеславович",
+            "id": "104606",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104606/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/11/09/small/p104606.jpg?token_static=6b9dfef4423b646ff4c9cfe8478b4a3a"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

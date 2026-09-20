@@ -1,0 +1,267 @@
+{
+  "teacherId": "Лебедева Надежда Валерьевна",
+  "teacherName": "Лебедева Надежда Валерьевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c",
+  "updatedAt": "2026-09-20T13:53:17.694Z",
+  "totalLessons": 14,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7740-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Методы исследования механических свойств и структуры материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У Укаф",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "10374",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Лебедева Надежда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
+          }
+        },
+        {
+          "id": "7740-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Методы исследования механических свойств и структуры материалов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Укаф",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "10374",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лебедева Надежда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
+          }
+        },
+        {
+          "id": "7740-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Методы исследования механических свойств и структуры материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У Укаф",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "10374",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лебедева Надежда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7470-4-17:20-7",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лебедева Надежда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7559-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материаловедение современных и перспективных материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1314",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лебедева Надежда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
+          }
+        },
+        {
+          "id": "7470-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лебедева Надежда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
+          }
+        },
+        {
+          "id": "7583-5-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2230",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лебедева Надежда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
+          }
+        },
+        {
+          "id": "7596-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2291",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Лебедева Надежда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7470-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Материаловедение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2201, 2230, 2290, 2291, 4222",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лебедева Надежда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
+          }
+        },
+        {
+          "id": "7470-6-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материаловедение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2201, 2230, 2290, 2291",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лебедева Надежда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
+          }
+        },
+        {
+          "id": "7583-6-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2230",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лебедева Надежда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
+          }
+        },
+        {
+          "id": "7595-6-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2290",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лебедева Надежда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
+          }
+        },
+        {
+          "id": "7595-6-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2290",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лебедева Надежда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
+          }
+        },
+        {
+          "id": "7598-6-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2295",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Лебедева Надежда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
+          }
+        }
+      ]
+    }
+  ]
+}

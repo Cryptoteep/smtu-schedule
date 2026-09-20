@@ -1,0 +1,131 @@
+{
+  "teacherId": "100059",
+  "teacherName": "Бабаев Владимир Сергеевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100059.jpg?token_static=ee15b22d2bd5a633fe5bf0e410559d20",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/100059/",
+  "updatedAt": "2026-09-20T13:53:17.718Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7546-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1218",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бабаев Владимир Сергеевич",
+            "id": "100059",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100059/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100059.jpg?token_static=ee15b22d2bd5a633fe5bf0e410559d20"
+          }
+        },
+        {
+          "id": "7585-3-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 301",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2240",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бабаев Владимир Сергеевич",
+            "id": "100059",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100059/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100059.jpg?token_static=ee15b22d2bd5a633fe5bf0e410559d20"
+          }
+        },
+        {
+          "id": "7585-3-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2240",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бабаев Владимир Сергеевич",
+            "id": "100059",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100059/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100059.jpg?token_static=ee15b22d2bd5a633fe5bf0e410559d20"
+          }
+        },
+        {
+          "id": "7586-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 301",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2250",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бабаев Владимир Сергеевич",
+            "id": "100059",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100059/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100059.jpg?token_static=ee15b22d2bd5a633fe5bf0e410559d20"
+          }
+        },
+        {
+          "id": "7586-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2250",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бабаев Владимир Сергеевич",
+            "id": "100059",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100059/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100059.jpg?token_static=ee15b22d2bd5a633fe5bf0e410559d20"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

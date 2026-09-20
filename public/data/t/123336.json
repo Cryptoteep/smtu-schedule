@@ -1,0 +1,77 @@
+{
+  "teacherId": "123336",
+  "teacherName": "Ракова Наталия Геннадьевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/03/small/p123336.jpg?token_static=ff13be3649d02e28e04742356341b55c",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/123336/",
+  "updatedAt": "2026-09-20T13:53:17.959Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7665-5-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Экономическая география",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б ЛУИТ",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "4200",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ракова Наталия Геннадьевна",
+            "id": "123336",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123336/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/03/small/p123336.jpg?token_static=ff13be3649d02e28e04742356341b55c"
+          }
+        },
+        {
+          "id": "7665-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Экономическая география",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 503",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "4200",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ракова Наталия Геннадьевна",
+            "id": "123336",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123336/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/03/small/p123336.jpg?token_static=ff13be3649d02e28e04742356341b55c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

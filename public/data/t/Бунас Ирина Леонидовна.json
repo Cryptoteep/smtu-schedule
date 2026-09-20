@@ -1,0 +1,78 @@
+{
+  "teacherId": "123207",
+  "teacherName": "Бунас Ирина Леонидовна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/17/small/p123207.jpg?token_static=cf17586d91e520ee75406fda4498fa5b",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/123207/",
+  "updatedAt": "2026-09-20T13:53:17.848Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7781-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информационная безопасность",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-06",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20513",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бунас Ирина Леонидовна",
+            "id": "123207",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123207/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/17/small/p123207.jpg?token_static=cf17586d91e520ee75406fda4498fa5b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7805-4-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "История и современная система защиты информации в России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 519",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12510-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бунас Ирина Леонидовна",
+            "id": "123207",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123207/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/17/small/p123207.jpg?token_static=cf17586d91e520ee75406fda4498fa5b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

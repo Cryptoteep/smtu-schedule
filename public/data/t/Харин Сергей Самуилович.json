@@ -1,0 +1,79 @@
+{
+  "teacherId": "101273",
+  "teacherName": "Харин Сергей Самуилович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/20/small/p101273.jpg?token_static=fd5693ba61c83af0a50e0e4f96ca5c90",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101273/",
+  "updatedAt": "2026-09-20T13:53:17.996Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7850-1-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Уголовный процесс",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 08Ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5300",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 26.10",
+          "teacher": {
+            "name": "Харин Сергей Самуилович",
+            "id": "101273",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101273/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/20/small/p101273.jpg?token_static=fd5693ba61c83af0a50e0e4f96ca5c90"
+          }
+        },
+        {
+          "id": "7850-1-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Уголовный процесс",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 08Ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5300",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 26.10",
+          "teacher": {
+            "name": "Харин Сергей Самуилович",
+            "id": "101273",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101273/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/20/small/p101273.jpg?token_static=fd5693ba61c83af0a50e0e4f96ca5c90"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

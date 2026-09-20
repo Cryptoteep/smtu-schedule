@@ -1,0 +1,251 @@
+{
+  "teacherId": "Боровикова Ирина Анатольевна",
+  "teacherName": "Боровикова Ирина Анатольевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100148.jpg?token_static=63782fca6d4dab716dd33008728e5cb0",
+  "updatedAt": "2026-09-20T13:53:17.769Z",
+  "totalLessons": 13,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7914-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Перспективные энергетические установки и их элементы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 601",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12126-55",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Боровикова Ирина Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100148.jpg?token_static=63782fca6d4dab716dd33008728e5cb0"
+          }
+        },
+        {
+          "id": "7914-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Перспективные энергетические установки и их элементы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 601",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12126-55",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Боровикова Ирина Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100148.jpg?token_static=63782fca6d4dab716dd33008728e5cb0"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7910-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 601",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1333",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Боровикова Ирина Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100148.jpg?token_static=63782fca6d4dab716dd33008728e5cb0"
+          }
+        },
+        {
+          "id": "7910-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 601",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1333",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Боровикова Ирина Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100148.jpg?token_static=63782fca6d4dab716dd33008728e5cb0"
+          }
+        },
+        {
+          "id": "7442-4-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12526-34, 12126-32, 12126-30, 12126-31, 12126-33, 12126-40",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Боровикова Ирина Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100148.jpg?token_static=63782fca6d4dab716dd33008728e5cb0"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7489-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Судовые энергетические установки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2391",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Боровикова Ирина Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100148.jpg?token_static=63782fca6d4dab716dd33008728e5cb0"
+          }
+        },
+        {
+          "id": "7489-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Судовые энергетические установки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2391",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Боровикова Ирина Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100148.jpg?token_static=63782fca6d4dab716dd33008728e5cb0"
+          }
+        },
+        {
+          "id": "7448-5-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Судовое вспомогательное энергетическое оборудование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2395",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Боровикова Ирина Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100148.jpg?token_static=63782fca6d4dab716dd33008728e5cb0"
+          }
+        },
+        {
+          "id": "7448-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Судовое вспомогательное энергетическое оборудование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2395",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Боровикова Ирина Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100148.jpg?token_static=63782fca6d4dab716dd33008728e5cb0"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7557-6-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1310",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Боровикова Ирина Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100148.jpg?token_static=63782fca6d4dab716dd33008728e5cb0"
+          }
+        },
+        {
+          "id": "7557-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1310, 1318",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Боровикова Ирина Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100148.jpg?token_static=63782fca6d4dab716dd33008728e5cb0"
+          }
+        },
+        {
+          "id": "7561-6-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Энергетические комплексы морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1318",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Боровикова Ирина Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100148.jpg?token_static=63782fca6d4dab716dd33008728e5cb0"
+          }
+        },
+        {
+          "id": "7489-6-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Судовые энергетические установки",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 503",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2391",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Боровикова Ирина Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100148.jpg?token_static=63782fca6d4dab716dd33008728e5cb0"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "teacherId": "Горностаева Дарья Евгеньевна",
+  "teacherName": "Горностаева Дарья Евгеньевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/22/small/p137603.jpg?token_static=f7e537a8dc76137c53b2edc98f09b2ca",
+  "updatedAt": "2026-09-20T13:53:18.069Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7894-5-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-08-2",
+          "weekParity": "both",
+          "dateSpecific": "03.12 по 23.12",
+          "teacher": {
+            "name": "Горностаева Дарья Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/22/small/p137603.jpg?token_static=f7e537a8dc76137c53b2edc98f09b2ca"
+          }
+        },
+        {
+          "id": "7894-5-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-08-2",
+          "weekParity": "both",
+          "dateSpecific": "03.12 по 23.12",
+          "teacher": {
+            "name": "Горностаева Дарья Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/22/small/p137603.jpg?token_static=f7e537a8dc76137c53b2edc98f09b2ca"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

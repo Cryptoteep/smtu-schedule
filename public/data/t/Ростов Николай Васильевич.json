@@ -1,0 +1,137 @@
+{
+  "teacherId": "Ростов Николай Васильевич",
+  "teacherName": "Ростов Николай Васильевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100997.jpg?token_static=872e474b25c4587c2c4c52c2c7de587c",
+  "updatedAt": "2026-09-20T13:53:17.954Z",
+  "totalLessons": 6,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7660-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление роботами и робототехническими системами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 211",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3480",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ростов Николай Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100997.jpg?token_static=872e474b25c4587c2c4c52c2c7de587c"
+          }
+        },
+        {
+          "id": "7660-3-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление роботами и робототехническими системами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 211",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3480",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ростов Николай Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100997.jpg?token_static=872e474b25c4587c2c4c52c2c7de587c"
+          }
+        },
+        {
+          "id": "7660-3-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Моделирование информационно-управляющих систем роботов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 211",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3480",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ростов Николай Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100997.jpg?token_static=872e474b25c4587c2c4c52c2c7de587c"
+          }
+        },
+        {
+          "id": "7660-3-17:20-8",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Моделирование информационно-управляющих систем роботов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 211",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3480",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ростов Николай Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100997.jpg?token_static=872e474b25c4587c2c4c52c2c7de587c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7859-4-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Моделирование информационно-управляющих систем роботов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 211",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5480",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ростов Николай Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100997.jpg?token_static=872e474b25c4587c2c4c52c2c7de587c"
+          }
+        },
+        {
+          "id": "7859-4-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Управление роботами и робототехническими системами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 211",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5480",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ростов Николай Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100997.jpg?token_static=872e474b25c4587c2c4c52c2c7de587c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

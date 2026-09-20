@@ -1,0 +1,72 @@
+{
+  "teacherId": "Юрченко Никита Юрьевич",
+  "teacherName": "Юрченко Никита Юрьевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/08/small/p123250.jpg?token_static=66f2d0841d22f9c7ef22a250ffc6c19e",
+  "updatedAt": "2026-09-20T13:53:17.686Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7738-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Кристаллография",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 245а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "10274",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Юрченко Никита Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/08/small/p123250.jpg?token_static=66f2d0841d22f9c7ef22a250ffc6c19e"
+          }
+        },
+        {
+          "id": "7738-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Кристаллография",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 245",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "10274",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Юрченко Никита Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/08/small/p123250.jpg?token_static=66f2d0841d22f9c7ef22a250ffc6c19e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

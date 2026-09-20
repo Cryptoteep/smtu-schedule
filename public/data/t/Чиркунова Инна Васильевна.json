@@ -1,0 +1,123 @@
+{
+  "teacherId": "Чиркунова Инна Васильевна",
+  "teacherName": "Чиркунова Инна Васильевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/22/small/p139474.jpg?token_static=315c6a429c9e300f67925e649ba738b5",
+  "updatedAt": "2026-09-20T13:53:18.072Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7906-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "13726-70",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чиркунова Инна Васильевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/22/small/p139474.jpg?token_static=315c6a429c9e300f67925e649ba738b5"
+          }
+        },
+        {
+          "id": "7907-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "13726-71",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Чиркунова Инна Васильевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/22/small/p139474.jpg?token_static=315c6a429c9e300f67925e649ba738b5"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7906-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319а(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "13726-70",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Чиркунова Инна Васильевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/22/small/p139474.jpg?token_static=315c6a429c9e300f67925e649ba738b5"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7908-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319а(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "13738-70",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Чиркунова Инна Васильевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/22/small/p139474.jpg?token_static=315c6a429c9e300f67925e649ba738b5"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7907-5-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 425",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "13726-71",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чиркунова Инна Васильевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/22/small/p139474.jpg?token_static=315c6a429c9e300f67925e649ba738b5"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

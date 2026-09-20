@@ -1,0 +1,137 @@
+{
+  "teacherId": "Кутенев Андрей Александрович",
+  "teacherName": "Кутенев Андрей Александрович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100634.jpg?token_static=1f6c3c15c37fea152e348ee928c0aeae",
+  "updatedAt": "2026-09-20T13:53:17.707Z",
+  "totalLessons": 6,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7556-2-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Экология и охрана окружающей среды при изготовлении и эксплуатации морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 609",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1301",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кутенев Андрей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100634.jpg?token_static=1f6c3c15c37fea152e348ee928c0aeae"
+          }
+        },
+        {
+          "id": "7857-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы систем автоматизированного проектирования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 609",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5410",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кутенев Андрей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100634.jpg?token_static=1f6c3c15c37fea152e348ee928c0aeae"
+          }
+        },
+        {
+          "id": "7857-2-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы систем автоматизированного проектирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 609",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5410",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кутенев Андрей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100634.jpg?token_static=1f6c3c15c37fea152e348ee928c0aeae"
+          }
+        },
+        {
+          "id": "7857-2-20:40-3",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Основы проектирования судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 609",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5410",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кутенев Андрей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100634.jpg?token_static=1f6c3c15c37fea152e348ee928c0aeae"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7540-4-19:00-5",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 610",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кутенев Андрей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100634.jpg?token_static=1f6c3c15c37fea152e348ee928c0aeae"
+          }
+        },
+        {
+          "id": "7540-4-20:40-8",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 9,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 610",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кутенев Андрей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100634.jpg?token_static=1f6c3c15c37fea152e348ee928c0aeae"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

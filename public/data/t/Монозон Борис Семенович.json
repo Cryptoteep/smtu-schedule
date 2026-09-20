@@ -1,0 +1,137 @@
+{
+  "teacherId": "Монозон Борис Семенович",
+  "teacherName": "Монозон Борис Семенович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100771.jpg?token_static=63db404bef7330eb99cef439c74615e4",
+  "updatedAt": "2026-09-20T13:53:17.715Z",
+  "totalLessons": 6,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7543-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1214",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Монозон Борис Семенович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100771.jpg?token_static=63db404bef7330eb99cef439c74615e4"
+          }
+        },
+        {
+          "id": "7544-2-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1216",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Монозон Борис Семенович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100771.jpg?token_static=63db404bef7330eb99cef439c74615e4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7543-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1214, 1216, 1217, 1219, 20213",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Монозон Борис Семенович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100771.jpg?token_static=63db404bef7330eb99cef439c74615e4"
+          }
+        },
+        {
+          "id": "7545-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1217",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Монозон Борис Семенович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100771.jpg?token_static=63db404bef7330eb99cef439c74615e4"
+          }
+        },
+        {
+          "id": "7547-4-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1219",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Монозон Борис Семенович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100771.jpg?token_static=63db404bef7330eb99cef439c74615e4"
+          }
+        },
+        {
+          "id": "7807-4-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20213",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Монозон Борис Семенович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100771.jpg?token_static=63db404bef7330eb99cef439c74615e4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

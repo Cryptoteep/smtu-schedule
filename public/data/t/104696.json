@@ -1,0 +1,131 @@
+{
+  "teacherId": "104696",
+  "teacherName": "Сыралёва Мария Николаевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p104696.jpg?token_static=d131b346af18d58252b233a3865916ec",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/104696/",
+  "updatedAt": "2026-09-20T13:53:17.890Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7607-1-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Вычислительная гидродинамика ядерных установок",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2401",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сыралёва Мария Николаевна",
+            "id": "104696",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104696/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p104696.jpg?token_static=d131b346af18d58252b233a3865916ec"
+          }
+        },
+        {
+          "id": "7607-1-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Вычислительная гидродинамика ядерных установок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2401",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сыралёва Мария Николаевна",
+            "id": "104696",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104696/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p104696.jpg?token_static=d131b346af18d58252b233a3865916ec"
+          }
+        },
+        {
+          "id": "7607-1-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Вычислительная гидродинамика ядерных установок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2401",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сыралёва Мария Николаевна",
+            "id": "104696",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104696/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p104696.jpg?token_static=d131b346af18d58252b233a3865916ec"
+          }
+        },
+        {
+          "id": "7619-1-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы вычислительной гидродинамики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2505",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сыралёва Мария Николаевна",
+            "id": "104696",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104696/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p104696.jpg?token_static=d131b346af18d58252b233a3865916ec"
+          }
+        },
+        {
+          "id": "7619-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы вычислительной гидродинамики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2505",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сыралёва Мария Николаевна",
+            "id": "104696",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104696/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p104696.jpg?token_static=d131b346af18d58252b233a3865916ec"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

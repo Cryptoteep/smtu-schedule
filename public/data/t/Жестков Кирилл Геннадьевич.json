@@ -1,0 +1,72 @@
+{
+  "teacherId": "Жестков Кирилл Геннадьевич",
+  "teacherName": "Жестков Кирилл Геннадьевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100386.jpg?token_static=edd03bb29e56b503ecf98342251dd7b2",
+  "updatedAt": "2026-09-20T13:53:17.796Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7577-5-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Конструкция корпуса подводных лодок и подводных аппаратов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Жестков Кирилл Геннадьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100386.jpg?token_static=edd03bb29e56b503ecf98342251dd7b2"
+          }
+        },
+        {
+          "id": "7577-5-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Конструкция корпуса подводных лодок и подводных аппаратов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 316",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Жестков Кирилл Геннадьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100386.jpg?token_static=edd03bb29e56b503ecf98342251dd7b2"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "teacherId": "100191",
+  "teacherName": "Васильев Борис Петрович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p100191.jpg?token_static=df8d13d5840cf81e69232f5e3d2ad4ef",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/100191/",
+  "updatedAt": "2026-09-20T13:53:17.917Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7630-3-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3230",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Васильев Борис Петрович",
+            "id": "100191",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100191/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p100191.jpg?token_static=df8d13d5840cf81e69232f5e3d2ad4ef"
+          }
+        },
+        {
+          "id": "7630-3-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 301",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3230",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Васильев Борис Петрович",
+            "id": "100191",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100191/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p100191.jpg?token_static=df8d13d5840cf81e69232f5e3d2ad4ef"
+          }
+        },
+        {
+          "id": "7631-3-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3231",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Васильев Борис Петрович",
+            "id": "100191",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100191/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p100191.jpg?token_static=df8d13d5840cf81e69232f5e3d2ad4ef"
+          }
+        },
+        {
+          "id": "7631-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 301",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3231",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Васильев Борис Петрович",
+            "id": "100191",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100191/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p100191.jpg?token_static=df8d13d5840cf81e69232f5e3d2ad4ef"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "teacherId": "Танцура Надежда Петровна",
+  "teacherName": "Танцура Надежда Петровна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p103333.jpg?token_static=5834ffedb94f167cc84286c6296094bd",
+  "updatedAt": "2026-09-20T13:53:18.063Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7881-1-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Химия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 535(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Танцура Надежда Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p103333.jpg?token_static=5834ffedb94f167cc84286c6296094bd"
+          }
+        },
+        {
+          "id": "7881-1-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Химия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 535(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Танцура Надежда Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p103333.jpg?token_static=5834ffedb94f167cc84286c6296094bd"
+          }
+        },
+        {
+          "id": "7881-1-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Химия",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 535(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Танцура Надежда Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p103333.jpg?token_static=5834ffedb94f167cc84286c6296094bd"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7800-4-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Общая и неорганическая химия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 514",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12822-01, 12822-02",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Танцура Надежда Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p103333.jpg?token_static=5834ffedb94f167cc84286c6296094bd"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

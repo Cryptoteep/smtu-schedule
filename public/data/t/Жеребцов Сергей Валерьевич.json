@@ -1,0 +1,120 @@
+{
+  "teacherId": "Жеребцов Сергей Валерьевич",
+  "teacherName": "Жеребцов Сергей Валерьевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/02/small/p123252.jpg?token_static=c16894ed10085e4a18b09e9e5f5ad8b2",
+  "updatedAt": "2026-09-20T13:53:17.697Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7740-4-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Цветные сплавы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 195",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "10374",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Жеребцов Сергей Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/02/small/p123252.jpg?token_static=c16894ed10085e4a18b09e9e5f5ad8b2"
+          }
+        },
+        {
+          "id": "7740-4-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Цветные сплавы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 195",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "10374",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Жеребцов Сергей Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/02/small/p123252.jpg?token_static=c16894ed10085e4a18b09e9e5f5ad8b2"
+          }
+        },
+        {
+          "id": "7740-4-17:20-6",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Цветные сплавы",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 245",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "10374",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Жеребцов Сергей Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/02/small/p123252.jpg?token_static=c16894ed10085e4a18b09e9e5f5ad8b2"
+          }
+        },
+        {
+          "id": "7548-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Материаловедение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1220, 1284",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Жеребцов Сергей Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/02/small/p123252.jpg?token_static=c16894ed10085e4a18b09e9e5f5ad8b2"
+          }
+        },
+        {
+          "id": "7548-4-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материаловедение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1220, 1284",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Жеребцов Сергей Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/02/small/p123252.jpg?token_static=c16894ed10085e4a18b09e9e5f5ad8b2"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "teacherId": "101209",
+  "teacherName": "Тряскин Владимир Николаевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101209.jpg?token_static=23dfce6f2ca024f5766c3f947e160f4f",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101209/",
+  "updatedAt": "2026-09-20T13:53:17.747Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7551-5-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование конструкций корпуса судна и плавучих инженерных сооружений",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 207А",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1264",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тряскин Владимир Николаевич",
+            "id": "101209",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101209/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101209.jpg?token_static=23dfce6f2ca024f5766c3f947e160f4f"
+          }
+        },
+        {
+          "id": "7567-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Конструкция корпуса судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1414, 1416, 1417, 1419, 20413",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Тряскин Владимир Николаевич",
+            "id": "101209",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101209/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101209.jpg?token_static=23dfce6f2ca024f5766c3f947e160f4f"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

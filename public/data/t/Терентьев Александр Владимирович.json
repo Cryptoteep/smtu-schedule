@@ -1,0 +1,186 @@
+{
+  "teacherId": "Терентьев Александр Владимирович",
+  "teacherName": "Терентьев Александр Владимирович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101178.jpg?token_static=7e8740ce1225542f012a6f8109bd827e",
+  "updatedAt": "2026-09-20T13:53:17.754Z",
+  "totalLessons": 9,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7563-3-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физические основы прочности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 143",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1384",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Терентьев Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101178.jpg?token_static=7e8740ce1225542f012a6f8109bd827e"
+          }
+        },
+        {
+          "id": "7563-3-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физические основы прочности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 143",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1384",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Терентьев Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101178.jpg?token_static=7e8740ce1225542f012a6f8109bd827e"
+          }
+        },
+        {
+          "id": "7595-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Сопротивление материалов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 412",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2290",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Терентьев Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101178.jpg?token_static=7e8740ce1225542f012a6f8109bd827e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7555-4-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Научно-технический семинар по механике деформируемого твердого тела",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1286",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Терентьев Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101178.jpg?token_static=7e8740ce1225542f012a6f8109bd827e"
+          }
+        },
+        {
+          "id": "7555-4-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Волны в деформируемых телах",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 144",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1286",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Терентьев Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101178.jpg?token_static=7e8740ce1225542f012a6f8109bd827e"
+          }
+        },
+        {
+          "id": "7555-4-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Волны в деформируемых телах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 144",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1286",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Терентьев Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101178.jpg?token_static=7e8740ce1225542f012a6f8109bd827e"
+          }
+        },
+        {
+          "id": "7555-4-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Волны в деформируемых телах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 144",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1286",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Терентьев Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101178.jpg?token_static=7e8740ce1225542f012a6f8109bd827e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7559-5-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Сопротивление материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1314, 1316, 1319, 20313, 1317",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Терентьев Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101178.jpg?token_static=7e8740ce1225542f012a6f8109bd827e"
+          }
+        },
+        {
+          "id": "7595-5-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Сопротивление материалов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 143",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2290",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Терентьев Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101178.jpg?token_static=7e8740ce1225542f012a6f8109bd827e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

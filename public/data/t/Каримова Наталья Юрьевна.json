@@ -1,0 +1,74 @@
+{
+  "teacherId": "Каримова Наталья Юрьевна",
+  "teacherName": "Каримова Наталья Юрьевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/27/small/p105941.jpg?token_static=8dd02ad1dad4e914343360bbba0cb6dc",
+  "updatedAt": "2026-09-20T13:53:17.970Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7672-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Арбитражная практика по экономическим спорам",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4241",
+          "weekParity": "both",
+          "dateSpecific": "31.10 по 19.12",
+          "teacher": {
+            "name": "Каримова Наталья Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/27/small/p105941.jpg?token_static=8dd02ad1dad4e914343360bbba0cb6dc"
+          }
+        },
+        {
+          "id": "7672-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Арбитражная практика по экономическим спорам",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4241",
+          "weekParity": "both",
+          "dateSpecific": "31.10 по 19.12",
+          "teacher": {
+            "name": "Каримова Наталья Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/27/small/p105941.jpg?token_static=8dd02ad1dad4e914343360bbba0cb6dc"
+          }
+        }
+      ]
+    }
+  ]
+}

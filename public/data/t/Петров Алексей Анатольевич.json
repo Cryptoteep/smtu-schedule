@@ -1,0 +1,88 @@
+{
+  "teacherId": "Петров Алексей Анатольевич",
+  "teacherName": "Петров Алексей Анатольевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/03/small/p105649.jpg?token_static=eac6ea9aba73a7a9694d6e71fa1a1448",
+  "updatedAt": "2026-09-20T13:53:17.791Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7918-3-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технология обслуживания и ремонта морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Петров Алексей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/03/small/p105649.jpg?token_static=eac6ea9aba73a7a9694d6e71fa1a1448"
+          }
+        },
+        {
+          "id": "7918-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технология обслуживания и ремонта морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Петров Алексей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/03/small/p105649.jpg?token_static=eac6ea9aba73a7a9694d6e71fa1a1448"
+          }
+        },
+        {
+          "id": "7918-3-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технология обслуживания и ремонта морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Петров Алексей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/03/small/p105649.jpg?token_static=eac6ea9aba73a7a9694d6e71fa1a1448"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

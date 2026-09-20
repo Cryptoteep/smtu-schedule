@@ -1,0 +1,88 @@
+{
+  "teacherId": "Петров Василий Григорьевич",
+  "teacherName": "Петров Василий Григорьевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/02/small/p100885.jpg?token_static=9b02c570ce3ec3d1e0aa7a2a391ab0f2",
+  "updatedAt": "2026-09-20T13:53:17.906Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7624-4-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Приборы и устройства автоматики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 425",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3210, 3261",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Петров Василий Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/02/small/p100885.jpg?token_static=9b02c570ce3ec3d1e0aa7a2a391ab0f2"
+          }
+        },
+        {
+          "id": "7624-4-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Приборы и устройства автоматики",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 425",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3210, 3261",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Петров Василий Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/02/small/p100885.jpg?token_static=9b02c570ce3ec3d1e0aa7a2a391ab0f2"
+          }
+        },
+        {
+          "id": "7624-4-15:40-3",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Приборы и устройства автоматики",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 425",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3210, 3261",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Петров Василий Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/02/small/p100885.jpg?token_static=9b02c570ce3ec3d1e0aa7a2a391ab0f2"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

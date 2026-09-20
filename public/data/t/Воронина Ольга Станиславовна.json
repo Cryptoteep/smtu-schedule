@@ -1,0 +1,79 @@
+{
+  "teacherId": "122494",
+  "teacherName": "Воронина Ольга Станиславовна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/26/small/p122494.jpg?token_static=ba121ed71b16a99dc057a8a23cfeb618",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/122494/",
+  "updatedAt": "2026-09-20T13:53:17.983Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7845-5-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Профессионально ориентированный перевод",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4311",
+          "weekParity": "both",
+          "dateSpecific": "04.09 по 23.10",
+          "teacher": {
+            "name": "Воронина Ольга Станиславовна",
+            "id": "122494",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122494/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/26/small/p122494.jpg?token_static=ba121ed71b16a99dc057a8a23cfeb618"
+          }
+        },
+        {
+          "id": "7845-5-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Профессионально ориентированный перевод",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4311",
+          "weekParity": "both",
+          "dateSpecific": "04.09 по 23.10",
+          "teacher": {
+            "name": "Воронина Ольга Станиславовна",
+            "id": "122494",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122494/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/26/small/p122494.jpg?token_static=ba121ed71b16a99dc057a8a23cfeb618"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

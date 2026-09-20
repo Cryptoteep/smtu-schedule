@@ -1,0 +1,77 @@
+{
+  "teacherId": "103341",
+  "teacherName": "Голубева Дарья Евгеньевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p103341.jpg?token_static=c3829a92b3851b1d83afa6bd677bd359",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/103341/",
+  "updatedAt": "2026-09-20T13:53:17.901Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7615-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Введение в профессиональную деятельность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Голубева Дарья Евгеньевна",
+            "id": "103341",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/103341/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p103341.jpg?token_static=c3829a92b3851b1d83afa6bd677bd359"
+          }
+        },
+        {
+          "id": "7615-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Введение в профессиональную деятельность",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 537а",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Голубева Дарья Евгеньевна",
+            "id": "103341",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/103341/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p103341.jpg?token_static=c3829a92b3851b1d83afa6bd677bd359"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

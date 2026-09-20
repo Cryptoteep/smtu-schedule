@@ -1,0 +1,106 @@
+{
+  "teacherId": "Свиридонова Татьяна Ивановна",
+  "teacherName": "Свиридонова Татьяна Ивановна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/14/small/p139724.jpg?token_static=2239638643d84dfb640e3a5e73b706e4",
+  "updatedAt": "2026-09-20T13:53:18.020Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7706-3-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Гражданское право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 01Ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7261",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Свиридонова Татьяна Ивановна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/14/small/p139724.jpg?token_static=2239638643d84dfb640e3a5e73b706e4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7707-4-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Гражданское право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 304ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7262",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Свиридонова Татьяна Ивановна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/14/small/p139724.jpg?token_static=2239638643d84dfb640e3a5e73b706e4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7706-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Гражданское право",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7261, 7262, 7263",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Свиридонова Татьяна Ивановна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/14/small/p139724.jpg?token_static=2239638643d84dfb640e3a5e73b706e4"
+          }
+        },
+        {
+          "id": "7708-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Гражданское право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 303ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7263",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Свиридонова Татьяна Ивановна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/14/small/p139724.jpg?token_static=2239638643d84dfb640e3a5e73b706e4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

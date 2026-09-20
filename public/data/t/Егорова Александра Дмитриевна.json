@@ -1,0 +1,137 @@
+{
+  "teacherId": "Егорова Александра Дмитриевна",
+  "teacherName": "Егорова Александра Дмитриевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107212.jpg?token_static=c6e0348dd8b066965abee3b45758adf2",
+  "updatedAt": "2026-09-20T13:53:17.888Z",
+  "totalLessons": 6,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7491-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Обработка результатов измерений в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2495",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Егорова Александра Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107212.jpg?token_static=c6e0348dd8b066965abee3b45758adf2"
+          }
+        },
+        {
+          "id": "7491-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Обработка результатов измерений в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 414",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2495",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Егорова Александра Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107212.jpg?token_static=c6e0348dd8b066965abee3b45758adf2"
+          }
+        },
+        {
+          "id": "7620-2-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Техническая диагностика судового оборудования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2525, 2526, 2594, 2595",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Егорова Александра Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107212.jpg?token_static=c6e0348dd8b066965abee3b45758adf2"
+          }
+        },
+        {
+          "id": "7622-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Техническая диагностика судового оборудования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2594, 2595",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Егорова Александра Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107212.jpg?token_static=c6e0348dd8b066965abee3b45758adf2"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7489-4-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория и техника эксперимента",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2391",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Егорова Александра Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107212.jpg?token_static=c6e0348dd8b066965abee3b45758adf2"
+          }
+        },
+        {
+          "id": "7473-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Техническая диагностика судового оборудования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2490",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Егорова Александра Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p107212.jpg?token_static=c6e0348dd8b066965abee3b45758adf2"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

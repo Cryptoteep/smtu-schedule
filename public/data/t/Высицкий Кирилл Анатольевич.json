@@ -1,0 +1,72 @@
+{
+  "teacherId": "Высицкий Кирилл Анатольевич",
+  "teacherName": "Высицкий Кирилл Анатольевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100243.jpg?token_static=3844144f3e313ddf3fce736a159c8aba",
+  "updatedAt": "2026-09-20T13:53:18.045Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7486-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Программная инженерия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-50, 12509-52",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Высицкий Кирилл Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100243.jpg?token_static=3844144f3e313ddf3fce736a159c8aba"
+          }
+        },
+        {
+          "id": "7486-6-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Программная инженерия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-50, 12509-52",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Высицкий Кирилл Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100243.jpg?token_static=3844144f3e313ddf3fce736a159c8aba"
+          }
+        }
+      ]
+    }
+  ]
+}

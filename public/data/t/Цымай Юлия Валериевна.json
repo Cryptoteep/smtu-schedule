@@ -1,0 +1,300 @@
+{
+  "teacherId": "Цымай Юлия Валериевна",
+  "teacherName": "Цымай Юлия Валериевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd",
+  "updatedAt": "2026-09-20T13:53:17.841Z",
+  "totalLessons": 16,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7770-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Анализ и синтез логических устройств",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        },
+        {
+          "id": "7770-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Анализ и синтез логических устройств",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20380, 2395",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        },
+        {
+          "id": "7448-2-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Анализ и синтез логических устройств",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2395",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7448-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Компьютерное моделирование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2395",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        },
+        {
+          "id": "7614-3-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Имитационное моделирование систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        },
+        {
+          "id": "7614-3-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Имитационное моделирование систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450, 2490",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        },
+        {
+          "id": "7614-3-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Имитационное моделирование систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        },
+        {
+          "id": "7473-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Имитационное моделирование систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2490",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7605-4-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Анализ и синтез логических устройств",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2350, 2391",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        },
+        {
+          "id": "7489-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Анализ и синтез логических устройств",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 414",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2391",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        },
+        {
+          "id": "7473-4-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Имитационное моделирование систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2490",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7770-5-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Анализ и синтез логических устройств",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 435",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        },
+        {
+          "id": "7605-5-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Анализ и синтез логических устройств",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2350",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7605-6-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Анализ и синтез логических устройств",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2350",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        },
+        {
+          "id": "7448-6-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Анализ и синтез логических устройств",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2395",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        },
+        {
+          "id": "7448-6-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Компьютерное моделирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2395",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цымай Юлия Валериевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123530.jpg?token_static=b6d38686a7b811fa2b8089b1d657e8bd"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "teacherId": "101180",
+  "teacherName": "Тимофеев Олег Яковлевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/21/small/p101180.jpg?token_static=ff980948c4ca8b73e35d5dd7717c96bc",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101180/",
+  "updatedAt": "2026-09-20T13:53:17.780Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7564-2-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Судовые системы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1410, 1411",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Тимофеев Олег Яковлевич",
+            "id": "101180",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101180/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/21/small/p101180.jpg?token_static=ff980948c4ca8b73e35d5dd7717c96bc"
+          }
+        },
+        {
+          "id": "7564-2-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Судовые системы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 207",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1410",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тимофеев Олег Яковлевич",
+            "id": "101180",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101180/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/21/small/p101180.jpg?token_static=ff980948c4ca8b73e35d5dd7717c96bc"
+          }
+        },
+        {
+          "id": "7565-2-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Судовые системы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 207",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1411",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Тимофеев Олег Яковлевич",
+            "id": "101180",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101180/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/21/small/p101180.jpg?token_static=ff980948c4ca8b73e35d5dd7717c96bc"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7566-5-14:00-1",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Судовые системы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 207",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1413, 1499",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Тимофеев Олег Яковлевич",
+            "id": "101180",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101180/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/21/small/p101180.jpg?token_static=ff980948c4ca8b73e35d5dd7717c96bc"
+          }
+        },
+        {
+          "id": "7566-5-15:40-2",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Судовые системы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 207",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1413, 1499",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Тимофеев Олег Яковлевич",
+            "id": "101180",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101180/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/21/small/p101180.jpg?token_static=ff980948c4ca8b73e35d5dd7717c96bc"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

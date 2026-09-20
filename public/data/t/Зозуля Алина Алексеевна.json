@@ -1,0 +1,125 @@
+{
+  "teacherId": "Зозуля Алина Алексеевна",
+  "teacherName": "Зозуля Алина Алексеевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p127900.jpg?token_static=e4ae198f8164e9815fa21f82023bb55f",
+  "updatedAt": "2026-09-20T13:53:18.004Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7796-2-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "История государства и права России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 02ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Зозуля Алина Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p127900.jpg?token_static=e4ae198f8164e9815fa21f82023bb55f"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7856-3-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "История государства и права зарубежных стран",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 407",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5400",
+          "weekParity": "down",
+          "dateSpecific": "01.09 по 26.10",
+          "teacher": {
+            "name": "Зозуля Алина Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p127900.jpg?token_static=e4ae198f8164e9815fa21f82023bb55f"
+          }
+        },
+        {
+          "id": "7856-3-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "История государства и права зарубежных стран",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 407",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5400",
+          "weekParity": "down",
+          "dateSpecific": "01.09 по 26.10",
+          "teacher": {
+            "name": "Зозуля Алина Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p127900.jpg?token_static=e4ae198f8164e9815fa21f82023bb55f"
+          }
+        },
+        {
+          "id": "7849-3-19:00-2",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "История государства и права России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 407",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-03-2",
+          "weekParity": "down",
+          "dateSpecific": "12.11 по 23.12",
+          "teacher": {
+            "name": "Зозуля Алина Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p127900.jpg?token_static=e4ae198f8164e9815fa21f82023bb55f"
+          }
+        },
+        {
+          "id": "7849-3-20:40-4",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "История государства и права России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 407",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-03-2",
+          "weekParity": "down",
+          "dateSpecific": "12.11 по 23.12",
+          "teacher": {
+            "name": "Зозуля Алина Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p127900.jpg?token_static=e4ae198f8164e9815fa21f82023bb55f"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

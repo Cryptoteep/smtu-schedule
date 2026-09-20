@@ -1,0 +1,72 @@
+{
+  "teacherId": "Кутейников Михаил Анатольевич",
+  "teacherName": "Кутейников Михаил Анатольевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100633.jpg?token_static=95ba65aa57f89cef488f0694c9af8682",
+  "updatedAt": "2026-09-20T13:53:17.749Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7552-1-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Оптимизация и нормирование мореходных качеств",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1265",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кутейников Михаил Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100633.jpg?token_static=95ba65aa57f89cef488f0694c9af8682"
+          }
+        },
+        {
+          "id": "7552-1-19:00-3",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Оптимизация и нормирование мореходных качеств",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1265",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кутейников Михаил Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100633.jpg?token_static=95ba65aa57f89cef488f0694c9af8682"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

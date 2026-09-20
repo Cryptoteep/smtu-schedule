@@ -1,0 +1,105 @@
+{
+  "teacherId": "Мышков Яков Юрьевич",
+  "teacherName": "Мышков Яков Юрьевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p129941.jpg?token_static=e94eca74b905f502bc6f782cabcad493",
+  "updatedAt": "2026-09-20T13:53:17.796Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7853-2-19:00-1",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Технология судостроения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 410",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5316",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мышков Яков Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p129941.jpg?token_static=e94eca74b905f502bc6f782cabcad493"
+          }
+        },
+        {
+          "id": "7853-2-20:40-2",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Технология судостроения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 410",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "5316",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мышков Яков Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p129941.jpg?token_static=e94eca74b905f502bc6f782cabcad493"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7577-3-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технология постройки подводных лодок",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мышков Яков Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p129941.jpg?token_static=e94eca74b905f502bc6f782cabcad493"
+          }
+        },
+        {
+          "id": "7577-3-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Технология постройки подводных лодок",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1516",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мышков Яков Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p129941.jpg?token_static=e94eca74b905f502bc6f782cabcad493"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

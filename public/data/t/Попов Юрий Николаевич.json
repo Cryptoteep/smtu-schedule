@@ -1,0 +1,120 @@
+{
+  "teacherId": "Попов Юрий Николаевич",
+  "teacherName": "Попов Юрий Николаевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p125599.jpg?token_static=0051eab7ac9f2afd2c5e792f2c551cb4",
+  "updatedAt": "2026-09-20T13:53:17.681Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7738-1-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "10274, 3230, 3231, 4205",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Попов Юрий Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p125599.jpg?token_static=0051eab7ac9f2afd2c5e792f2c551cb4"
+          }
+        },
+        {
+          "id": "7577-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Акустика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1516",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Попов Юрий Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p125599.jpg?token_static=0051eab7ac9f2afd2c5e792f2c551cb4"
+          }
+        },
+        {
+          "id": "7577-1-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Акустика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1516",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Попов Юрий Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p125599.jpg?token_static=0051eab7ac9f2afd2c5e792f2c551cb4"
+          }
+        },
+        {
+          "id": "7668-1-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 320 -320а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4205",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Попов Юрий Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p125599.jpg?token_static=0051eab7ac9f2afd2c5e792f2c551cb4"
+          }
+        },
+        {
+          "id": "7668-1-15:40-7",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4205",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Попов Юрий Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p125599.jpg?token_static=0051eab7ac9f2afd2c5e792f2c551cb4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

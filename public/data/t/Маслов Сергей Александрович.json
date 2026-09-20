@@ -1,0 +1,72 @@
+{
+  "teacherId": "Маслов Сергей Александрович",
+  "teacherName": "Маслов Сергей Александрович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/28/small/p126098.jpg?token_static=3c5a28e37c01a84863962101b3593cf7",
+  "updatedAt": "2026-09-20T13:53:17.767Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7557-4-14:00-6",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория корабля",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 330",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Маслов Сергей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/28/small/p126098.jpg?token_static=3c5a28e37c01a84863962101b3593cf7"
+          }
+        },
+        {
+          "id": "7558-4-15:40-8",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория корабля",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 330",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1313",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Маслов Сергей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/28/small/p126098.jpg?token_static=3c5a28e37c01a84863962101b3593cf7"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

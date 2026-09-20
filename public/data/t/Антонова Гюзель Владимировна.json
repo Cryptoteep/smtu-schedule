@@ -1,0 +1,72 @@
+{
+  "teacherId": "Антонова Гюзель Владимировна",
+  "teacherName": "Антонова Гюзель Владимировна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/21/small/p101550.jpg?token_static=cfd07a585d22e7a65fb59cd51611983f",
+  "updatedAt": "2026-09-20T13:53:18.024Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7442-1-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 416",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12526-34",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Антонова Гюзель Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/21/small/p101550.jpg?token_static=cfd07a585d22e7a65fb59cd51611983f"
+          }
+        },
+        {
+          "id": "7442-1-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 416",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12526-34",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Антонова Гюзель Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/21/small/p101550.jpg?token_static=cfd07a585d22e7a65fb59cd51611983f"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

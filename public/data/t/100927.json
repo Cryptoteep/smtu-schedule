@@ -1,0 +1,77 @@
+{
+  "teacherId": "100927",
+  "teacherName": "Поляков Константин Юрьевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100927.jpg?token_static=55abb39ac465ffe646025d13266191c4",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/100927/",
+  "updatedAt": "2026-09-20T13:53:18.067Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7832-2-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Цифровые системы управления",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-62",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Поляков Константин Юрьевич",
+            "id": "100927",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100927/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100927.jpg?token_static=55abb39ac465ffe646025d13266191c4"
+          }
+        },
+        {
+          "id": "7832-2-11:50-2",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Цифровые системы управления",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 517",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-62",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Поляков Константин Юрьевич",
+            "id": "100927",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100927/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100927.jpg?token_static=55abb39ac465ffe646025d13266191c4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

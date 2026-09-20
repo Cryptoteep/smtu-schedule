@@ -1,0 +1,275 @@
+{
+  "teacherId": "Смирнов Алексей Юрьевич",
+  "teacherName": "Смирнов Алексей Юрьевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p101099.jpg?token_static=d09a4408584a2c77ddf7b41e490be817",
+  "updatedAt": "2026-09-20T13:53:17.969Z",
+  "totalLessons": 14,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7478-3-17:20-4",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы внешнеэкономической деятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4303",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Смирнов Алексей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p101099.jpg?token_static=d09a4408584a2c77ddf7b41e490be817"
+          }
+        },
+        {
+          "id": "7890-3-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "История экономических учений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "12638-05",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Смирнов Алексей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p101099.jpg?token_static=d09a4408584a2c77ddf7b41e490be817"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7672-4-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Бизнес-планирование инновационных проектов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4241",
+          "weekParity": "up",
+          "dateSpecific": "05.11 по 24.12",
+          "teacher": {
+            "name": "Смирнов Алексей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p101099.jpg?token_static=d09a4408584a2c77ddf7b41e490be817"
+          }
+        },
+        {
+          "id": "7672-4-17:20-3",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Бизнес-планирование инновационных проектов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4241",
+          "weekParity": "down",
+          "dateSpecific": "05.11 по 24.12",
+          "teacher": {
+            "name": "Смирнов Алексей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p101099.jpg?token_static=d09a4408584a2c77ddf7b41e490be817"
+          }
+        },
+        {
+          "id": "7672-4-19:00-5",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Бизнес-планирование инновационных проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4241",
+          "weekParity": "up",
+          "dateSpecific": "05.11 по 24.12",
+          "teacher": {
+            "name": "Смирнов Алексей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p101099.jpg?token_static=d09a4408584a2c77ddf7b41e490be817"
+          }
+        },
+        {
+          "id": "7672-4-19:00-6",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Бизнес-планирование инновационных проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4241",
+          "weekParity": "down",
+          "dateSpecific": "05.11 по 24.12",
+          "teacher": {
+            "name": "Смирнов Алексей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p101099.jpg?token_static=d09a4408584a2c77ddf7b41e490be817"
+          }
+        },
+        {
+          "id": "7672-4-20:40-8",
+          "time": "20:40-22:10",
+          "timeSlotIndex": 9,
+          "subject": "Бизнес-планирование инновационных проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4241",
+          "weekParity": "both",
+          "dateSpecific": "05.11 по 24.12",
+          "teacher": {
+            "name": "Смирнов Алексей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p101099.jpg?token_static=d09a4408584a2c77ddf7b41e490be817"
+          }
+        },
+        {
+          "id": "7478-4-08:30-1",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Основы внешнеэкономической деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4303",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Смирнов Алексей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p101099.jpg?token_static=d09a4408584a2c77ddf7b41e490be817"
+          }
+        },
+        {
+          "id": "7897-4-17:20-1",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Ценообразование и ценовая политика предприятия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-50",
+          "weekParity": "up",
+          "dateSpecific": "10.09 по 29.10",
+          "teacher": {
+            "name": "Смирнов Алексей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p101099.jpg?token_static=d09a4408584a2c77ddf7b41e490be817"
+          }
+        },
+        {
+          "id": "7897-4-17:20-2",
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Ценообразование и ценовая политика предприятия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-50",
+          "weekParity": "down",
+          "dateSpecific": "10.09 по 29.10",
+          "teacher": {
+            "name": "Смирнов Алексей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p101099.jpg?token_static=d09a4408584a2c77ddf7b41e490be817"
+          }
+        },
+        {
+          "id": "7897-4-19:00-4",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Ценообразование и ценовая политика предприятия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-50",
+          "weekParity": "up",
+          "dateSpecific": "10.09 по 29.10",
+          "teacher": {
+            "name": "Смирнов Алексей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p101099.jpg?token_static=d09a4408584a2c77ddf7b41e490be817"
+          }
+        },
+        {
+          "id": "7897-4-19:00-5",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Ценообразование и ценовая политика предприятия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-50",
+          "weekParity": "down",
+          "dateSpecific": "10.09 по 29.10",
+          "teacher": {
+            "name": "Смирнов Алексей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p101099.jpg?token_static=d09a4408584a2c77ddf7b41e490be817"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7889-5-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "История экономических учений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 242",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-04",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Смирнов Алексей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p101099.jpg?token_static=d09a4408584a2c77ddf7b41e490be817"
+          }
+        },
+        {
+          "id": "7889-5-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "История экономических учений",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 519",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-04, 12638-05",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Смирнов Алексей Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p101099.jpg?token_static=d09a4408584a2c77ddf7b41e490be817"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

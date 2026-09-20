@@ -1,0 +1,72 @@
+{
+  "teacherId": "Фролов Валентин Александрович",
+  "teacherName": "Фролов Валентин Александрович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/03/13/small/p140393.jpg?token_static=f86153104cf1816242265a0aed04251d",
+  "updatedAt": "2026-09-20T13:53:17.892Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7607-4-11:50-1",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Энергетическое оборудование ядерных установок",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2401",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Фролов Валентин Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/03/13/small/p140393.jpg?token_static=f86153104cf1816242265a0aed04251d"
+          }
+        },
+        {
+          "id": "7607-4-14:00-2",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Энергетическое оборудование ядерных установок",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2401",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Фролов Валентин Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/03/13/small/p140393.jpg?token_static=f86153104cf1816242265a0aed04251d"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

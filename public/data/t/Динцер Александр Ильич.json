@@ -1,0 +1,56 @@
+{
+  "teacherId": "Динцер Александр Ильич",
+  "teacherName": "Динцер Александр Ильич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/25/small/p124124.jpg?token_static=70fe1f2c7761935bed9081e559335f34",
+  "updatedAt": "2026-09-20T13:53:17.752Z",
+  "totalLessons": 1,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7466-5-19:00-5",
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Дополнительные разделы динамики объектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 422",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1268",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Динцер Александр Ильич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/25/small/p124124.jpg?token_static=70fe1f2c7761935bed9081e559335f34"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

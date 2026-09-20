@@ -1,0 +1,59 @@
+{
+  "teacherId": "101259",
+  "teacherName": "Фомичев Андрей Борисович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p101259.jpg?token_static=9f1a9ad5768f165931642953e0c46573",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101259/",
+  "updatedAt": "2026-09-20T13:53:17.786Z",
+  "totalLessons": 1,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7570-3-10:10-1",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Технология изготовления судовых конструкций из композитов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б Бкаф",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1418",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Фомичев Андрей Борисович",
+            "id": "101259",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101259/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p101259.jpg?token_static=9f1a9ad5768f165931642953e0c46573"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

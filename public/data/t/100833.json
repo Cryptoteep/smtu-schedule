@@ -1,0 +1,77 @@
+{
+  "teacherId": "100833",
+  "teacherName": "Образцов Михаил Алексеевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/16/small/p100833.jpg?token_static=c64d140798f73d4a0a0350b12ec3f952",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/100833/",
+  "updatedAt": "2026-09-20T13:53:17.946Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7647-4-08:30-2",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Вычислительные средства и сети корабельных автоматизированных комплексов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 206",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3350",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Образцов Михаил Алексеевич",
+            "id": "100833",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100833/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/16/small/p100833.jpg?token_static=c64d140798f73d4a0a0350b12ec3f952"
+          }
+        },
+        {
+          "id": "7647-4-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Вычислительные средства и сети корабельных автоматизированных комплексов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 206",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3350",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Образцов Михаил Алексеевич",
+            "id": "100833",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100833/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/16/small/p100833.jpg?token_static=c64d140798f73d4a0a0350b12ec3f952"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

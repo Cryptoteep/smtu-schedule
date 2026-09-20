@@ -1,0 +1,88 @@
+{
+  "teacherId": "Зайцев Олег Дмитриевич",
+  "teacherName": "Зайцев Олег Дмитриевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100405.jpg?token_static=e69bb1e83ffb516ce932b8970b0a5e95",
+  "updatedAt": "2026-09-20T13:53:17.855Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7585-3-10:10-3",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Гидрогазодинамика и теплофизика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 155",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2240",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Зайцев Олег Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100405.jpg?token_static=e69bb1e83ffb516ce932b8970b0a5e95"
+          }
+        },
+        {
+          "id": "7585-3-10:10-4",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Гидрогазодинамика и теплофизика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 155",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2240",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Зайцев Олег Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100405.jpg?token_static=e69bb1e83ffb516ce932b8970b0a5e95"
+          }
+        },
+        {
+          "id": "7585-3-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Гидрогазодинамика и теплофизика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 155",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2240",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Зайцев Олег Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100405.jpg?token_static=e69bb1e83ffb516ce932b8970b0a5e95"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

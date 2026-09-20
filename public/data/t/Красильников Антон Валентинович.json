@@ -1,0 +1,121 @@
+{
+  "teacherId": "Красильников Антон Валентинович",
+  "teacherName": "Красильников Антон Валентинович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/05/small/p100583.jpg?token_static=a34eef499874510abc3fd419a5f40533",
+  "updatedAt": "2026-09-20T13:53:17.747Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7551-4-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Инструменты цифровизации и виртуальной реальности в контроле качества",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б Бкаф",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1264",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Красильников Антон Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/05/small/p100583.jpg?token_static=a34eef499874510abc3fd419a5f40533"
+          }
+        },
+        {
+          "id": "7551-4-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Инструменты цифровизации и виртуальной реальности в контроле качества",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б Бкаф",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1264",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Красильников Антон Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/05/small/p100583.jpg?token_static=a34eef499874510abc3fd419a5f40533"
+          }
+        },
+        {
+          "id": "7551-4-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Инструменты цифровизации и виртуальной реальности в контроле качества",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б Бкаф",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1264",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Красильников Антон Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/05/small/p100583.jpg?token_static=a34eef499874510abc3fd419a5f40533"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7576-6-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Комплексы оружия и вооружения боевых кораблей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "1514, 1517, 1519, 20513",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Красильников Антон Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/05/small/p100583.jpg?token_static=a34eef499874510abc3fd419a5f40533"
+          }
+        },
+        {
+          "id": "7576-6-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Комплексы оружия и вооружения боевых кораблей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "1514, 1517, 1519, 20513",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Красильников Антон Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/05/small/p100583.jpg?token_static=a34eef499874510abc3fd419a5f40533"
+          }
+        }
+      ]
+    }
+  ]
+}

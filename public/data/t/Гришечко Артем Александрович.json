@@ -1,0 +1,96 @@
+{
+  "teacherId": "139770",
+  "teacherName": "Гришечко Артем Александрович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/16/small/p139770.jpg?token_static=afa4182f114c672e578098d06b564eee",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/139770/",
+  "updatedAt": "2026-09-20T13:53:17.982Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7691-2-15:40-4",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы моделирования и UML",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гришечко Артем Александрович",
+            "id": "139770",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/139770/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/16/small/p139770.jpg?token_static=afa4182f114c672e578098d06b564eee"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7681-6-11:50-5",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Моделирование технологических и цифровых процессов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4305",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гришечко Артем Александрович",
+            "id": "139770",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/139770/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/16/small/p139770.jpg?token_static=afa4182f114c672e578098d06b564eee"
+          }
+        },
+        {
+          "id": "7681-6-14:00-7",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Моделирование технологических и цифровых процессов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4305",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гришечко Артем Александрович",
+            "id": "139770",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/139770/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/16/small/p139770.jpg?token_static=afa4182f114c672e578098d06b564eee"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "teacherId": "101023",
+  "teacherName": "Сазонов Кирилл Евгеньевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p101023.jpg?token_static=e461101462975f377538c4e1d07278e4",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101023/",
+  "updatedAt": "2026-09-20T13:53:17.748Z",
+  "totalLessons": 1,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7552-1-15:40-1",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Динамика судов во льдах",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 309а",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1265",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сазонов Кирилл Евгеньевич",
+            "id": "101023",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101023/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p101023.jpg?token_static=e461101462975f377538c4e1d07278e4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

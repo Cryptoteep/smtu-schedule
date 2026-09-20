@@ -1,0 +1,132 @@
+{
+  "teacherId": "123169",
+  "teacherName": "Сутеева Аделина Жанатовна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/10/11/small/p123169.jpg?token_static=dbc337a18d502b3ecb62f9995edee8d1",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/123169/",
+  "updatedAt": "2026-09-20T13:53:17.889Z",
+  "totalLessons": 5,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7607-1-11:50-3",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Радиационная безопасность и биологическая защита",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2401",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сутеева Аделина Жанатовна",
+            "id": "123169",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123169/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/10/11/small/p123169.jpg?token_static=dbc337a18d502b3ecb62f9995edee8d1"
+          }
+        },
+        {
+          "id": "7607-1-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Радиационная безопасность и биологическая защита",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2401",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сутеева Аделина Жанатовна",
+            "id": "123169",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123169/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/10/11/small/p123169.jpg?token_static=dbc337a18d502b3ecb62f9995edee8d1"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7608-2-10:10-2",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Радиационная безопасность и биологическая защита",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сутеева Аделина Жанатовна",
+            "id": "123169",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123169/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/10/11/small/p123169.jpg?token_static=dbc337a18d502b3ecb62f9995edee8d1"
+          }
+        },
+        {
+          "id": "7608-2-11:50-4",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Радиационная безопасность и биологическая защита",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сутеева Аделина Жанатовна",
+            "id": "123169",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123169/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/10/11/small/p123169.jpg?token_static=dbc337a18d502b3ecb62f9995edee8d1"
+          }
+        },
+        {
+          "id": "7608-2-14:00-5",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Радиационная безопасность и биологическая защита",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Акаф",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2405",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сутеева Аделина Жанатовна",
+            "id": "123169",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123169/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/10/11/small/p123169.jpg?token_static=dbc337a18d502b3ecb62f9995edee8d1"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

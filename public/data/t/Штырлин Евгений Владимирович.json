@@ -1,0 +1,187 @@
+{
+  "teacherId": "101376",
+  "teacherName": "Штырлин Евгений Владимирович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/24/small/p101376.jpg?token_static=7908cb04b72ca8b92f04e74ca5b980be",
+  "profileUrl": "https://www.smtu.ru/ru/viewperson/101376/",
+  "updatedAt": "2026-09-20T13:53:17.935Z",
+  "totalLessons": 8,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7641-2-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Объекты морской техники (С)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 512",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Штырлин Евгений Владимирович",
+            "id": "101376",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101376/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/24/small/p101376.jpg?token_static=7908cb04b72ca8b92f04e74ca5b980be"
+          }
+        },
+        {
+          "id": "7641-2-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Объекты морской техники (С)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 512",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Штырлин Евгений Владимирович",
+            "id": "101376",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101376/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/24/small/p101376.jpg?token_static=7908cb04b72ca8b92f04e74ca5b980be"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7641-4-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Объекты морской техники (С)",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г лаб.12",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Штырлин Евгений Владимирович",
+            "id": "101376",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101376/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/24/small/p101376.jpg?token_static=7908cb04b72ca8b92f04e74ca5b980be"
+          }
+        },
+        {
+          "id": "7662-4-15:40-8",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Проектирование технических систем позиционирования подводных аппаратов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3524, 3525, 3526",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Штырлин Евгений Владимирович",
+            "id": "101376",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101376/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/24/small/p101376.jpg?token_static=7908cb04b72ca8b92f04e74ca5b980be"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7662-5-14:00-3",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Проектирование технических систем позиционирования подводных аппаратов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 323",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3524, 3525, 3526",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Штырлин Евгений Владимирович",
+            "id": "101376",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101376/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/24/small/p101376.jpg?token_static=7908cb04b72ca8b92f04e74ca5b980be"
+          }
+        },
+        {
+          "id": "7662-5-14:00-4",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Проектирование технических систем позиционирования подводных аппаратов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 323",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3524, 3525, 3526",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Штырлин Евгений Владимирович",
+            "id": "101376",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101376/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/24/small/p101376.jpg?token_static=7908cb04b72ca8b92f04e74ca5b980be"
+          }
+        },
+        {
+          "id": "7662-5-15:40-5",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Проектирование технических систем позиционирования подводных аппаратов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 323",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3524, 3525, 3526",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Штырлин Евгений Владимирович",
+            "id": "101376",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101376/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/24/small/p101376.jpg?token_static=7908cb04b72ca8b92f04e74ca5b980be"
+          }
+        },
+        {
+          "id": "7662-5-15:40-6",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Проектирование технических систем позиционирования подводных аппаратов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 323",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3524, 3525, 3526",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Штырлин Евгений Владимирович",
+            "id": "101376",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101376/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/24/small/p101376.jpg?token_static=7908cb04b72ca8b92f04e74ca5b980be"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}
