@@ -1,5 +1,6 @@
-// Service Worker for SPbGMTU Schedule App
-const CACHE_NAME = 'smtu-schedule-v2';
+// Service Worker for SPbGMTU Schedule App (Корабелка)
+// Version 1.5.0 - Network-First for HTML navigation to ensure instant updates
+const CACHE_NAME = 'smtu-schedule-v1.5.0';
 
 self.addEventListener('install', (event) => {
   const scope = self.registration.scope;
@@ -30,6 +31,7 @@ self.addEventListener('activate', (event) => {
         return Promise.all(
           keys.map((key) => {
             if (key !== CACHE_NAME) {
+              console.log('[SW] Purging outdated cache:', key);
               return caches.delete(key);
             }
           })
@@ -39,37 +41,74 @@ self.addEventListener('activate', (event) => {
   );
 });
 
-self.addEventListener('fetch', (event) => {
-  const url = event.request.url;
+self.addEventListener('message', (event) => {
+  if (event.data && (event.data.action === 'skipWaiting' || event.data === 'skipWaiting')) {
+    self.skipWaiting();
+  }
+});
 
-  // Network-first with cache fallback for dynamic API and schedule JSON requests
-  if (url.includes('/api/') || url.includes('/data/')) {
+self.addEventListener('fetch', (event) => {
+  const request = event.request;
+  const url = request.url;
+
+  // 1. Navigation requests (HTML pages): NETWORK-FIRST
+  // Guarantees users always get the latest release when online, falling back to cache when offline.
+  const isNavigation =
+    request.mode === 'navigate' ||
+    (request.headers.get('accept') && request.headers.get('accept').includes('text/html'));
+
+  if (isNavigation) {
     event.respondWith(
-      fetch(event.request)
+      fetch(request)
         .then((response) => {
-          if (response.ok && event.request.method === 'GET') {
+          if (response.ok && request.method === 'GET') {
             const clone = response.clone();
-            caches.open(CACHE_NAME).then((cache) => cache.put(event.request, clone));
+            caches.open(CACHE_NAME).then((cache) => cache.put(request, clone));
           }
           return response;
         })
-        .catch(() => caches.match(event.request))
+        .catch(async () => {
+          const cached = await caches.match(request);
+          if (cached) return cached;
+          return (
+            (await caches.match('./index.html')) ||
+            (await caches.match('/index.html')) ||
+            (await caches.match(self.registration.scope))
+          );
+        })
     );
-  } else {
-    // Cache-first for static assets
-    event.respondWith(
-      caches.match(event.request).then((cachedResponse) => {
-        return (
-          cachedResponse ||
-          fetch(event.request).then((response) => {
-            if (response.ok && event.request.method === 'GET') {
-              const clone = response.clone();
-              caches.open(CACHE_NAME).then((cache) => cache.put(event.request, clone));
-            }
-            return response;
-          })
-        );
-      })
-    );
+    return;
   }
+
+  // 2. Dynamic schedule data & API requests: NETWORK-FIRST with cache fallback
+  if (url.includes('/api/') || url.includes('/data/')) {
+    event.respondWith(
+      fetch(request)
+        .then((response) => {
+          if (response.ok && request.method === 'GET') {
+            const clone = response.clone();
+            caches.open(CACHE_NAME).then((cache) => cache.put(request, clone));
+          }
+          return response;
+        })
+        .catch(() => caches.match(request))
+    );
+    return;
+  }
+
+  // 3. Static assets (hashed JS, CSS, images): Cache-first with network fallback
+  event.respondWith(
+    caches.match(request).then((cachedResponse) => {
+      if (cachedResponse) {
+        return cachedResponse;
+      }
+      return fetch(request).then((response) => {
+        if (response.ok && request.method === 'GET') {
+          const clone = response.clone();
+          caches.open(CACHE_NAME).then((cache) => cache.put(request, clone));
+        }
+        return response;
+      });
+    })
+  );
 });

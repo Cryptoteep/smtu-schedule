@@ -158,6 +158,19 @@ export const App: React.FC = () => {
     return filterLessonsByParity(day.lessons, effectiveParity);
   }, [schedule, effectiveParity, currentDateKey]);
 
+  // Handle refresh: updates both ServiceWorker cache and schedule data
+  const handleRefresh = async () => {
+    if ('serviceWorker' in navigator) {
+      try {
+        const reg = await navigator.serviceWorker.getRegistration();
+        if (reg) {
+          await reg.update();
+        }
+      } catch {}
+    }
+    await refresh();
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 dark:bg-navy-950 text-slate-900 dark:text-slate-100 flex flex-col transition-colors">
       {/* Header Bar */}
@@ -169,7 +182,7 @@ export const App: React.FC = () => {
         refreshing={refreshing}
         theme={theme}
         onToggleTheme={toggleTheme}
-        onRefresh={refresh}
+        onRefresh={handleRefresh}
         onOpenGroupPicker={() => setIsGroupPickerOpen(true)}
         onOpenSearch={() => setIsGroupPickerOpen(true)}
         onOpenCampusGuide={() => {
