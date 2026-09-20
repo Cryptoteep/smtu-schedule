@@ -1,78 +1,134 @@
 # ⚓ Расписание СПбГМТУ «Корабелка»
 
-Кроссплатформенное приложение расписания для студентов и преподавателей **Санкт-Петербургского государственного морского технического университета (СПбГМТУ)**.
+<div align="center">
 
-Работает на:
-- 📱 **Android** (нативное приложение через Capacitor 7)
-- 🍏 **iOS (iPhone / iPad)** (PWA с поддержкой автономной работы и установки на домашний экран)
-- 💻 **ПК и ноутбуках** (адаптивная веб-версия с горячими клавишами и экспортом в iCalendar)
+[![CI](https://github.com/Cryptoteep/smtu-schedule/actions/workflows/ci.yml/badge.svg)](https://github.com/Cryptoteep/smtu-schedule/actions/workflows/ci.yml)
+[![Deploy to GitHub Pages](https://github.com/Cryptoteep/smtu-schedule/actions/workflows/deploy.yml/badge.svg)](https://github.com/Cryptoteep/smtu-schedule/actions/workflows/deploy.yml)
+[![GitHub release](https://img.shields.io/github/v/release/Cryptoteep/smtu-schedule?color=e6a117&label=Релиз)](https://github.com/Cryptoteep/smtu-schedule/releases/latest)
+[![License: MIT](https://img.shields.io/badge/Лицензия-MIT-blue.svg)](LICENSE)
+[![React 19](https://img.shields.io/badge/React-19.0-61dafb.svg?logo=react&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178c6.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Capacitor](https://img.shields.io/badge/Capacitor-7.0-119EFF.svg?logo=capacitor&logoColor=white)](https://capacitorjs.com/)
+
+**Современное кроссплатформенное приложение расписания для студентов и преподавателей Санкт-Петербургского государственного морского технического университета (СПбГМТУ).**
+
+[🌐 Открыть веб-версию](https://cryptoteep.github.io/smtu-schedule/) • [📲 Страница загрузки (APK & PWA)](https://cryptoteep.github.io/smtu-schedule/download.html) • [📦 Релизы на GitHub](https://github.com/Cryptoteep/smtu-schedule/releases)
+
+</div>
+
+---
+
+## ✨ Быстрый доступ и платформы
+
+| Платформа | Формат | Ссылка / Способ установки |
+| :--- | :--- | :--- |
+| 🌐 **Веб-версия** | SPA (Vite + React 19) | [**Запустить онлайн на GitHub Pages**](https://cryptoteep.github.io/smtu-schedule/) |
+| 📱 **Android** | Нативное приложение (APK) | [**Скачать APK с GitHub Releases**](https://github.com/Cryptoteep/smtu-schedule/releases/latest) |
+| 🍏 **iOS (iPhone/iPad)** | PWA (Progressive Web App) | Откройте [онлайн-версию](https://cryptoteep.github.io/smtu-schedule/) в Safari → «Поделиться» → «На экран Домой» |
+| 💻 **ПК (Win/Mac/Linux)** | Web Desktop + Hotkeys | В браузере (поддерживаются горячие клавиши `G`, `C`, `D`) |
+| 📲 **Страница загрузки** | Интерактивный лендинг с QR | [**Открыть страницу загрузки**](https://cryptoteep.github.io/smtu-schedule/download.html) |
 
 ---
 
 ## 🚀 Основные возможности
 
-1. **Полная база СПбГМТУ**:
+1. **База данных всех факультетов Корабелки**:
    - 412 учебных групп по всем 8 факультетам:
-     - ФКиО (Факультет кораблестроения и океанотехники)
-     - ФКИ (Факультет корабельной энергетики и автоматики)
-     - ФЦТМТ (Факультет цифровых промышленных технологий)
-     - ФГО (Факультет гуманитарного образования)
-     - ИЭФ (Инженерно-экономический факультет)
-     - ВФТШ (Высшая физико-техническая школа)
-     - ИЛИСТ / ВУЦ
-     - Колледж СПбГМТУ (СТФ)
+     - **ФКиО** (Факультет кораблестроения и океанотехники)
+     - **ФКИ** (Факультет корабельной энергетики и автоматики)
+     - **ФЦТМТ** (Факультет цифровых промышленных технологий)
+     - **ФГО** (Факультет гуманитарного образования)
+     - **ИЭФ** (Инженерно-экономический факультет)
+     - **ВФТШ** (Высшая физико-техническая школа)
+     - **ИЛИСТ** / **ВУЦ** (Военный учебный центр)
+     - **Колледж СПбГМТУ** (СТФ)
 2. **Академический календарь и четность недель**:
-   - Автоматическое определение текущей недели и четности: **Верхняя (Числитель)** / **Нижняя (Знаменатель)**.
-   - Удобные фильтры: *Текущая неделя*, *Числитель*, *Знаменатель*, *Все недели*.
-3. **Таймер и статус пар**:
-   - Отображение текущей пары в реальном времени с обратным отсчетом: *«Идёт пара (осталось 25 мин)»*, *«Через 15 мин»*.
+   - Автоматический расчет текущей учебной недели и четности: **Верхняя (Числитель)** / **Нижняя (Знаменатель)**.
+   - Фильтрация: *Текущая неделя*, *Числитель*, *Знаменатель*, *Все недели*.
+3. **Таймер пар в реальном времени**:
+   - Живой статус текущего занятия: *«Идёт пара (осталось 25 мин)»*, *«Перерыв (до пары 15 мин)»*.
 4. **Справочник корпусов и аудиторий**:
-   - Расшифровка литер: **У** (Ульянка, Ленинский пр., 101), **Л** (Лоцманская ул., 3), **Г** (Горьковская, Кронверкский пр., 5), **С** (Колледж).
-   - Интеграция с Яндекс.Картами для построения маршрута.
+   - Расшифровка литер корпусов СПбГМТУ:
+     - **У** — Ульянка (Ленинский пр., 101)
+     - **Л** — Лоцманская (ул. Лоцманская, 3)
+     - **Г** — Горьковская (Кронверкский пр., 5)
+     - **С** — Колледж (Ленинский пр., 101, стр. 4)
+   - Встроенные ссылки на построение маршрута в Яндекс.Картах.
 5. **Преподаватели**:
-   - Просмотр преподавателя, фотографии, дисциплин и аудиторий.
-6. **Домашние задания и заметки**:
-   - Возможность прикреплять персональные дедлайны, домашние задания и заметки к любой паре с локальным сохранением.
-7. **Синхронизация с календарем (.ics)**:
-   - Экспорт в 1 клик в Apple Calendar (iPhone/Mac) и Google Calendar (Android/ПК) с правильным повторением по четным/нечетным неделям.
+   - Просмотр преподавателя, карточки с фотографией, кафедры и аудиторий.
+6. **Заметки и домашние задания**:
+   - Персональные заметки, списки задач и дедлайны к конкретным парам с локальным сохранением.
+7. **Экспорт в iCalendar (.ics)**:
+   - Экспорт в 1 клик в Apple Calendar (iPhone/Mac), Google Calendar и Outlook с правильным повторением по четным/нечетным неделям.
 8. **Автономность (Offline-First)**:
-   - Кэширование расписания в браузере и на устройстве, работа даже без доступа в интернет.
-9. **Темная и светлая морская тема**.
+   - Полное кэширование расписания в браузере и на устройстве через Service Worker и LocalStorage. Приложение работает даже при отсутствии сети.
+
+---
+
+## 🏗 Архитектура проекта
+
+```mermaid
+flowchart TD
+    subgraph Client["Клиентская часть"]
+        UI["React 19 + Tailwind CSS"]
+        Hooks["useSchedule / useNotes"]
+        Services["WeekCalculator / Parser / CalendarExport"]
+        Storage["Offline Storage (LocalStorage + SW Cache)"]
+    end
+
+    subgraph Targets["Платформы исполнения"]
+        Web["GitHub Pages (PWA / Web App)"]
+        Android["Capacitor Android (APK)"]
+        iOS["iOS Safari WebClip (PWA)"]
+    end
+
+    subgraph Backend["Сетевой уровень"]
+        Proxy["Express Proxy (server/server.ts)"]
+        SMTU["Официальный портал rasp.smtu.ru"]
+    end
+
+    UI --> Hooks
+    Hooks --> Services
+    Services --> Storage
+    UI --> Targets
+    Hooks -.->|При наличии сети| Proxy
+    Proxy --> SMTU
+```
 
 ---
 
 ## 🛠 Технологический стек
 
 - **Frontend**: React 19, TypeScript, Vite, Tailwind CSS, Lucide Icons.
-- **Mobile Runtime**: Capacitor 7 (`@capacitor/android`, `@capacitor/core`).
-- **Backend / Proxy**: Node.js, Express, TSX, Fetch с кэшированием и парсером СПбГМТУ.
-- **Тестирование**: Vitest (покрытие критических модулей: парсер, недели, хранилище, экспорт).
+- **Мобильный рантайм**: Capacitor 7 (`@capacitor/android`, `@capacitor/core`).
+- **Сетевой слой**: Node.js, Express, TSX, Fetch с кэшированием расписания.
+- **Тестирование**: Vitest (покрытие парсера, расчета четности недель, экспорта в iCal и хранилища).
+- **CI/CD**: GitHub Actions (автоматическая сборка, тестирование, публикация на GitHub Pages и сборка Android APK).
 
 ---
 
-## ⚡ Быстрый старт
+## ⚡ Быстрый старт для разработчиков
 
-### 1. Установка зависимостей
+### 1. Клонирование и установка
 ```bash
+git clone https://github.com/Cryptoteep/smtu-schedule.git
+cd smtu-schedule
 npm install
 ```
 
-### 2. Запуск тестов
+### 2. Запуск автоматических тестов
 ```bash
 npm test
 ```
 
-### 3. Запуск веб-версии и API-сервера
-В первом терминале (сервер прокси и кэша):
+### 3. Запуск веб-версии
 ```bash
+# В первом терминале (Express прокси кэша расписания):
 npm run server
-```
 
-Во втором терминале (Vite dev-сервер):
-```bash
+# Во втором терминале (Vite dev-сервер):
 npm run dev
 ```
-Приложение откроется по адресу: `http://localhost:5173/`.
 
 ### 4. Сборка для Android
 ```bash
@@ -80,25 +136,10 @@ npm run build
 npx cap sync android
 npx cap open android
 ```
-(Откроется проект в Android Studio для сборки APK или запуска на эмуляторе/устройстве).
 
 ---
 
-## 📂 Структура проекта
+## 📜 Лицензия
 
-```
-elegant-goodall/
-├── android/               # Нативный Android проект Capacitor
-├── public/                # PWA манифест, Service Worker, иконки
-├── server/
-│   └── server.ts          # Express прокси и API кэширования
-├── src/
-│   ├── components/        # UI компоненты (Header, ScheduleView, Modals, BottomNav)
-│   ├── data/              # База 412 групп, кампусов и расписаний
-│   ├── hooks/             # Хуки состояния (useSchedule, useNotes)
-│   ├── services/          # Парсер, расчет недель, iCal экспорт, хранилище
-│   ├── types/             # Строгая типизация моделей
-│   ├── App.tsx            # Главное приложение
-│   └── index.css          # Tailwind стили и адаптация под мобильные устройства
-└── tests/                 # Автоматические тесты (Vitest)
-```
+Проект распространяется под свободной лицензией **MIT**. Подробнее см. в файле [LICENSE](LICENSE).
+Разработано для студентов и преподавателей СПбГМТУ «Корабелка».

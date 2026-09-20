@@ -1,5 +1,5 @@
 import React from 'react';
-import { Anchor, RefreshCw, Sun, Moon, Search, Calendar, MapPin, Bookmark } from 'lucide-react';
+import { Anchor, RefreshCw, Sun, Moon, Search, Calendar, MapPin, Bookmark, Download } from 'lucide-react';
 import { GroupItem } from '../types/schedule';
 import { AcademicWeekInfo } from '../services/weekCalculator';
 
@@ -14,6 +14,7 @@ interface HeaderProps {
   onOpenSearch: () => void;
   onOpenCampusGuide: () => void;
   onOpenCalendarExport: () => void;
+  onOpenDownload?: () => void;
 }
 
 export const Header: React.FC<HeaderProps> = ({
@@ -27,6 +28,7 @@ export const Header: React.FC<HeaderProps> = ({
   onOpenSearch,
   onOpenCampusGuide,
   onOpenCalendarExport,
+  onOpenDownload,
 }) => {
   return (
     <header className="sticky top-0 z-30 bg-white/90 dark:bg-navy-950/90 backdrop-blur-md border-b border-slate-200 dark:border-navy-800 transition-colors">
@@ -101,6 +103,17 @@ export const Header: React.FC<HeaderProps> = ({
           >
             <Calendar className="w-4 h-4" />
           </button>
+
+          {onOpenDownload && (
+            <button
+              onClick={onOpenDownload}
+              className="flex items-center gap-1.5 px-2.5 py-1.5 rounded-lg bg-ship-gold/10 hover:bg-ship-gold/20 text-ship-gold border border-ship-gold/30 transition text-xs font-bold"
+              title="Скачать APK для Android или установить на iPhone"
+            >
+              <Download className="w-3.5 h-3.5" />
+              <span className="hidden md:inline">Скачать</span>
+            </button>
+          )}
 
           <button
             onClick={onRefresh}

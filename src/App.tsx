@@ -7,6 +7,7 @@ import { TeacherModal } from './components/TeacherModal';
 import { CampusGuideModal } from './components/CampusGuideModal';
 import { NoteModal } from './components/NoteModal';
 import { CalendarExportModal } from './components/CalendarExportModal';
+import { DownloadModal } from './components/DownloadModal';
 import { BottomNav } from './components/BottomNav';
 import { useSchedule } from './hooks/useSchedule';
 import { useNotes } from './hooks/useNotes';
@@ -60,6 +61,7 @@ export const App: React.FC = () => {
   const [isCampusGuideOpen, setIsCampusGuideOpen] = useState(false);
   const [selectedCampusLetter, setSelectedCampusLetter] = useState<string | undefined>();
   const [isCalendarExportOpen, setIsCalendarExportOpen] = useState(false);
+  const [isDownloadModalOpen, setIsDownloadModalOpen] = useState(false);
   const [activeTeacher, setActiveTeacher] = useState<{ name: string; photoUrl?: string } | null>(null);
   const [activeLessonForNote, setActiveLessonForNote] = useState<Lesson | null>(null);
 
@@ -77,10 +79,14 @@ export const App: React.FC = () => {
       } else if (e.key === 'c' || e.key === 'C') {
         e.preventDefault();
         setIsCampusGuideOpen(true);
+      } else if (e.key === 'd' || e.key === 'D') {
+        e.preventDefault();
+        setIsDownloadModalOpen(true);
       } else if (e.key === 'Escape') {
         setIsGroupPickerOpen(false);
         setIsCampusGuideOpen(false);
         setIsCalendarExportOpen(false);
+        setIsDownloadModalOpen(false);
         setActiveTeacher(null);
         setActiveLessonForNote(null);
       }
@@ -123,6 +129,7 @@ export const App: React.FC = () => {
           setIsCampusGuideOpen(true);
         }}
         onOpenCalendarExport={() => setIsCalendarExportOpen(true)}
+        onOpenDownload={() => setIsDownloadModalOpen(true)}
       />
 
       {/* Main Content Area */}
@@ -259,6 +266,11 @@ export const App: React.FC = () => {
         isOpen={isCalendarExportOpen}
         onClose={() => setIsCalendarExportOpen(false)}
         schedule={schedule}
+      />
+
+      <DownloadModal
+        isOpen={isDownloadModalOpen}
+        onClose={() => setIsDownloadModalOpen(false)}
       />
     </div>
   );

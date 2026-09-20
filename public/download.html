@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="ru" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Скачать приложение — Расписание СПбГМТУ «Корабелка»</title>
+  <meta name="description" content="Скачайте официальное кроссплатформенное приложение расписания занятий СПбГМТУ для Android (APK), iOS (PWA) и ПК. Полный офлайн, 412 групп, синхронизация с календарями.">
+  <link rel="icon" type="image/svg+xml" href="./favicon.svg">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+          },
+          colors: {
+            navy: {
+              700: '#1b3f6b',
+              800: '#132f50',
+              850: '#0e2440',
+              900: '#0a1a2f',
+              950: '#06101e',
+            },
+            ship: {
+              gold: '#e6a117',
+              'gold-hover': '#c8880a',
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body { font-family: 'Inter', sans-serif; }
+    .glass-card {
+      background: rgba(19, 47, 80, 0.5);
+      backdrop-filter: blur(12px);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    .glass-card-hover:hover {
+      border-color: rgba(230, 161, 23, 0.5);
+      transform: translateY(-2px);
+    }
+  </style>
+</head>
+<body class="bg-navy-950 text-slate-100 min-h-screen flex flex-col selection:bg-ship-gold selection:text-navy-950">
+
+  <!-- Navigation Bar -->
+  <header class="border-b border-navy-800/80 bg-navy-950/80 backdrop-blur-md sticky top-0 z-50">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
+      <a href="./" class="flex items-center gap-3 group">
+        <img src="./favicon.svg" alt="СПбГМТУ" class="w-9 h-9 rounded-xl shadow-lg border border-ship-gold/40 group-hover:scale-105 transition">
+        <div>
+          <div class="font-extrabold text-base tracking-tight text-white flex items-center gap-2">
+            Корабелка <span class="text-[10px] uppercase font-bold tracking-widest bg-ship-gold text-navy-950 px-1.5 py-0.5 rounded">СПбГМТУ</span>
+          </div>
+          <p class="text-[11px] text-slate-400">Расписание занятий</p>
+        </div>
+      </a>
+
+      <div class="flex items-center gap-3">
+        <a href="./" class="hidden sm:inline-flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-bold text-slate-300 hover:text-white hover:bg-navy-900 transition">
+          Онлайн-версия
+        </a>
+        <a href="https://github.com/Cryptoteep/smtu-schedule" target="_blank" rel="noopener noreferrer" class="flex items-center gap-2 px-4 py-2 rounded-xl bg-navy-800 hover:bg-navy-700 border border-slate-700/60 text-xs font-bold text-white transition">
+          <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+          <span>GitHub</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <main class="flex-1 max-w-6xl w-full mx-auto px-4 sm:px-6 py-10 sm:py-16 space-y-12">
+    
+    <div class="text-center max-w-3xl mx-auto space-y-5">
+      <div class="inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-xs font-extrabold bg-ship-gold/10 border border-ship-gold/30 text-ship-gold">
+        <span class="w-2 h-2 rounded-full bg-ship-gold animate-ping"></span>
+        <span>Версия 1.0.0 — Официальный релиз</span>
+      </div>
+
+      <h1 class="text-3xl sm:text-5xl font-black tracking-tight text-white leading-tight">
+        Расписание СПбГМТУ <br class="hidden sm:inline">
+        <span class="bg-gradient-to-r from-ship-gold via-amber-300 to-yellow-500 bg-clip-text text-transparent">
+          всегда под рукой
+        </span>
+      </h1>
+
+      <p class="text-sm sm:text-base text-slate-300 leading-relaxed">
+        Кроссплатформенное приложение для студентов и преподавателей Санкт-Петербургского государственного морского технического университета. Работает полностью офлайн, мгновенно определяет числитель/знаменатель и синхронизируется с календарями.
+      </p>
+
+      <div class="flex flex-wrap items-center justify-center gap-3 pt-2">
+        <a href="#android" class="px-6 py-3.5 rounded-xl bg-ship-gold hover:bg-ship-gold-hover text-navy-950 font-black text-sm transition shadow-lg shadow-ship-gold/20 flex items-center gap-2">
+          <svg class="w-5 h-5 fill-current" viewBox="0 0 24 24"><path d="M17.523 15.3414c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.551 0 .9993.4482.9993.9993.0001.5511-.4483.9997-.9993.9997m-11.046 0c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.5511 0 .9993.4482.9993.9993 0 .5511-.4482.9997-.9993.9997m11.4045-6.02l1.9973-3.4592a.416.416 0 00-.1521-.5676.416.416 0 00-.5676.1521l-2.0223 3.503C15.5902 8.414 13.8533 8.125 12 8.125c-1.8533 0-3.5902.289-5.1368.8247L4.8409 5.4467a.4161.4161 0 00-.5677-.1521.4157.4157 0 00-.1521.5676l1.9973 3.4592C2.6889 11.1867.3432 14.6589 0 18.761h24c-.3432-4.1021-2.6889-7.5743-6.1185-9.4396"/></svg>
+          <span>Скачать для Android (APK)</span>
+        </a>
+
+        <a href="./" class="px-6 py-3.5 rounded-xl bg-navy-800 hover:bg-navy-700 border border-slate-700 text-white font-bold text-sm transition flex items-center gap-2">
+          <span>Открыть веб-версию</span>
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+        </a>
+      </div>
+    </div>
+
+    <!-- Download Platforms Grid -->
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 pt-4">
+
+      <!-- Card 1: Android App -->
+      <div id="android" class="glass-card glass-card-hover rounded-2xl p-6 sm:p-7 flex flex-col justify-between transition duration-200">
+        <div class="space-y-4">
+          <div class="w-12 h-12 rounded-xl bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 flex items-center justify-center">
+            <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24"><path d="M17.523 15.3414c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.551 0 .9993.4482.9993.9993.0001.5511-.4483.9997-.9993.9997m-11.046 0c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.5511 0 .9993.4482.9993.9993 0 .5511-.4482.9997-.9993.9997m11.4045-6.02l1.9973-3.4592a.416.416 0 00-.1521-.5676.416.416 0 00-.5676.1521l-2.0223 3.503C15.5902 8.414 13.8533 8.125 12 8.125c-1.8533 0-3.5902.289-5.1368.8247L4.8409 5.4467a.4161.4161 0 00-.5677-.1521.4157.4157 0 00-.1521.5676l1.9973 3.4592C2.6889 11.1867.3432 14.6589 0 18.761h24c-.3432-4.1021-2.6889-7.5743-6.1185-9.4396"/></svg>
+          </div>
+          <div>
+            <span class="text-[10px] font-black uppercase tracking-wider text-emerald-400 bg-emerald-950/60 px-2 py-0.5 rounded border border-emerald-800/40">Нативное приложение</span>
+            <h3 class="text-xl font-bold text-white mt-1">Android (APK)</h3>
+            <p class="text-xs text-slate-300 mt-2 leading-relaxed">
+              Установите автономный APK-файл на любой смартфон под управлением Android 8.0+. Работает полностью без интернета.
+            </p>
+          </div>
+
+          <ul class="text-xs text-slate-300 space-y-1.5 pt-2">
+            <li class="flex items-center gap-2">
+              <span class="text-emerald-400 font-bold">✓</span> Быстрый запуск и работа офлайн
+            </li>
+            <li class="flex items-center gap-2">
+              <span class="text-emerald-400 font-bold">✓</span> Локальные заметки и домашние задания
+            </li>
+            <li class="flex items-center gap-2">
+              <span class="text-emerald-400 font-bold">✓</span> Никаких подписок и рекламы
+            </li>
+          </ul>
+        </div>
+
+        <div class="pt-6 space-y-2">
+          <a href="https://github.com/Cryptoteep/smtu-schedule/releases/latest" target="_blank" rel="noopener noreferrer" class="w-full py-3 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-extrabold text-xs transition flex items-center justify-center gap-2 shadow-lg shadow-emerald-900/30">
+            <svg class="w-4 h-4 fill-none stroke-current" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/></svg>
+            <span>Скачать APK на GitHub Releases</span>
+          </a>
+          <p class="text-[10px] text-center text-slate-400">Формат: .apk • Свободное ПО (MIT)</p>
+        </div>
+      </div>
+
+      <!-- Card 2: iOS / iPhone / iPad -->
+      <div id="ios" class="glass-card glass-card-hover rounded-2xl p-6 sm:p-7 flex flex-col justify-between transition duration-200">
+        <div class="space-y-4">
+          <div class="w-12 h-12 rounded-xl bg-sky-500/10 border border-sky-500/30 text-sky-400 flex items-center justify-center">
+            <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M15.97 6.42c.67-.82 1.13-1.96.99-3.11-1 .04-2.19.67-2.88 1.48-.61.71-1.15 1.86-.99 2.97 1.12.09 2.22-.55 2.88-1.34z"/></svg>
+          </div>
+          <div>
+            <span class="text-[10px] font-black uppercase tracking-wider text-sky-400 bg-sky-950/60 px-2 py-0.5 rounded border border-sky-800/40">Apple iOS / iPadOS</span>
+            <h3 class="text-xl font-bold text-white mt-1">iPhone и iPad (PWA)</h3>
+            <p class="text-xs text-slate-300 mt-2 leading-relaxed">
+              Устанавливается на рабочий стол iPhone в один клик через штатный браузер Safari без App Store.
+            </p>
+          </div>
+
+          <div class="text-xs text-slate-300 space-y-2 bg-navy-900/80 p-3 rounded-xl border border-slate-800">
+            <p class="font-bold text-sky-300 text-[11px]">Как установить на экран «Домой»:</p>
+            <ol class="list-decimal list-inside space-y-1 text-[11px] text-slate-300">
+              <li>Откройте ссылку в <strong>Safari</strong></li>
+              <li>Нажмите кнопку <strong>«Поделиться»</strong> (иконка квадрата со стрелочкой)</li>
+              <li>Выберите пункт <strong>«На экран „Домой”»</strong></li>
+            </ol>
+          </div>
+        </div>
+
+        <div class="pt-6 space-y-2">
+          <a href="./" class="w-full py-3 rounded-xl bg-sky-600 hover:bg-sky-500 text-white font-extrabold text-xs transition flex items-center justify-center gap-2 shadow-lg shadow-sky-900/30">
+            <svg class="w-4 h-4 fill-none stroke-current" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>
+            <span>Открыть приложение в Safari</span>
+          </a>
+          <p class="text-[10px] text-center text-slate-400">Поддерживает автономную работу офлайн</p>
+        </div>
+      </div>
+
+      <!-- Card 3: PC / Web -->
+      <div id="web" class="glass-card glass-card-hover rounded-2xl p-6 sm:p-7 flex flex-col justify-between transition duration-200">
+        <div class="space-y-4">
+          <div class="w-12 h-12 rounded-xl bg-ship-gold/10 border border-ship-gold/30 text-ship-gold flex items-center justify-center">
+            <svg class="w-6 h-6 fill-none stroke-current" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
+          </div>
+          <div>
+            <span class="text-[10px] font-black uppercase tracking-wider text-ship-gold bg-amber-950/60 px-2 py-0.5 rounded border border-amber-800/40">Для всех компьютеров</span>
+            <h3 class="text-xl font-bold text-white mt-1">ПК и веб-браузер</h3>
+            <p class="text-xs text-slate-300 mt-2 leading-relaxed">
+              Работает в Chrome, Firefox, Яндекс.Браузере, Edge и Safari на Windows, macOS и Linux.
+            </p>
+          </div>
+
+          <ul class="text-xs text-slate-300 space-y-1.5 pt-2">
+            <li class="flex items-center gap-2">
+              <span class="text-ship-gold font-bold">✓</span> Быстрые клавиши: <kbd class="px-1.5 py-0.5 bg-navy-800 rounded border border-slate-700 font-mono text-[10px]">G</kbd> выбор группы, <kbd class="px-1.5 py-0.5 bg-navy-800 rounded border border-slate-700 font-mono text-[10px]">C</kbd> корпусы
+            </li>
+            <li class="flex items-center gap-2">
+              <span class="text-ship-gold font-bold">✓</span> Экспорт в iCalendar (.ics) для Google & Apple Calendar
+            </li>
+            <li class="flex items-center gap-2">
+              <span class="text-ship-gold font-bold">✓</span> Тёмная и светлая морская тема
+            </li>
+          </ul>
+        </div>
+
+        <div class="pt-6 space-y-2">
+          <a href="./" class="w-full py-3 rounded-xl bg-ship-gold hover:bg-ship-gold-hover text-navy-950 font-black text-xs transition flex items-center justify-center gap-2 shadow-lg shadow-ship-gold/20">
+            <span>Запустить веб-версию</span>
+            <svg class="w-4 h-4 fill-none stroke-current" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+          </a>
+          <p class="text-[10px] text-center text-slate-400">Мгновенный запуск без скачивания</p>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- QR Code Section -->
+    <div class="glass-card rounded-2xl p-6 sm:p-8 border border-navy-700 flex flex-col md:flex-row items-center justify-between gap-6">
+      <div class="space-y-3 text-center md:text-left max-w-lg">
+        <span class="text-[11px] font-extrabold uppercase tracking-widest text-ship-gold bg-ship-gold/10 px-2.5 py-1 rounded-full">
+          Мгновенный переход
+        </span>
+        <h2 class="text-2xl font-black text-white">
+          Отсканируйте камерой смартфона
+        </h2>
+        <p class="text-xs sm:text-sm text-slate-300 leading-relaxed">
+          Наведите камеру мобильного телефона на QR-код, чтобы открыть расписание прямо на телефоне и добавить его на главный экран за 3 секунды.
+        </p>
+        <div class="pt-2 text-xs text-slate-400 font-mono">
+          https://cryptoteep.github.io/smtu-schedule/
+        </div>
+      </div>
+
+      <div class="bg-white p-4 rounded-2xl shadow-2xl shrink-0 flex flex-col items-center">
+        <!-- Dynamic SVG QR Code pointing to https://cryptoteep.github.io/smtu-schedule/ -->
+        <img 
+          src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https%3A%2F%2Fcryptoteep.github.io%2Fsmtu-schedule%2F&color=0a1a2f&bgcolor=ffffff" 
+          alt="QR код для расписания СПбГМТУ" 
+          class="w-40 h-40 rounded-lg"
+          loading="lazy"
+        />
+        <span class="text-[11px] text-navy-900 font-bold mt-2">Корабелка Расписание</span>
+      </div>
+    </div>
+
+    <!-- Features Overview -->
+    <div class="space-y-6 pt-6">
+      <div class="text-center space-y-2">
+        <h2 class="text-2xl sm:text-3xl font-black text-white">Всё для продуктивной учёбы</h2>
+        <p class="text-xs sm:text-sm text-slate-400">Разработано с учётом специфики учебного процесса в СПбГМТУ</p>
+      </div>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div class="glass-card p-5 rounded-2xl space-y-2 border border-slate-800">
+          <div class="text-2xl">🎓</div>
+          <h4 class="text-sm font-bold text-white">412 учебных групп</h4>
+          <p class="text-xs text-slate-400">База данных всех 8 факультетов Корабелки, института ИЛИСТ, ВУЦ и колледжа СТФ.</p>
+        </div>
+
+        <div class="glass-card p-5 rounded-2xl space-y-2 border border-slate-800">
+          <div class="text-2xl">⚖️</div>
+          <h4 class="text-sm font-bold text-white">Числитель и знаменатель</h4>
+          <p class="text-xs text-slate-400">Автоматический расчёт четности недели с возможностью просмотра расписания наперёд.</p>
+        </div>
+
+        <div class="glass-card p-5 rounded-2xl space-y-2 border border-slate-800">
+          <div class="text-2xl">📍</div>
+          <h4 class="text-sm font-bold text-white">Навигатор по корпусам</h4>
+          <p class="text-xs text-slate-400">Справочник аудиторий (Ульянка «У», Лоцманская «Л», Горьковская «Г») с Яндекс.Картами.</p>
+        </div>
+
+        <div class="glass-card p-5 rounded-2xl space-y-2 border border-slate-800">
+          <div class="text-2xl">📅</div>
+          <h4 class="text-sm font-bold text-white">Экспорт в календарь</h4>
+          <p class="text-xs text-slate-400">Синхронизация в 1 клик с Apple и Google Календарями с повторением по четным неделям.</p>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="border-t border-navy-800 bg-navy-950 py-8 px-4 sm:px-6 text-center text-xs text-slate-500 space-y-3">
+    <div class="flex items-center justify-center gap-4 text-slate-400 font-semibold">
+      <a href="./" class="hover:text-ship-gold transition">Веб-приложение</a>
+      <span>•</span>
+      <a href="./download.html" class="hover:text-ship-gold transition">Страница загрузки</a>
+      <span>•</span>
+      <a href="https://github.com/Cryptoteep/smtu-schedule" target="_blank" rel="noopener noreferrer" class="hover:text-ship-gold transition">GitHub репозиторий</a>
+      <span>•</span>
+      <a href="https://github.com/Cryptoteep/smtu-schedule/releases" target="_blank" rel="noopener noreferrer" class="hover:text-ship-gold transition">Релизы</a>
+    </div>
+    <p>
+      Неофициальное студенческое приложение Санкт-Петербургского государственного морского технического университета.
+    </p>
+    <p class="text-[11px] text-slate-600">
+      Разработано <a href="https://github.com/Cryptoteep" target="_blank" rel="noopener noreferrer" class="text-slate-400 hover:text-white underline">Cryptoteep</a>. Распространяется под свободной лицензией MIT.
+    </p>
+  </footer>
+
+</body>
+</html>
