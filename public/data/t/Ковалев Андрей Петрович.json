@@ -3,7 +3,7 @@
   "teacherName": "Ковалев Андрей Петрович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/31/small/p122808.jpg?token_static=5db7b5ad65dcd9ef163454d9132bb0ba",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/122808/",
-  "updatedAt": "2026-09-20T17:58:06.921Z",
+  "updatedAt": "2026-09-21T07:57:24.203Z",
   "totalLessons": 14,
   "days": [
     {
@@ -12,6 +12,7 @@
       "lessons": [
         {
           "id": "7799-1-11:50-3",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Иностранный язык",
@@ -30,6 +31,7 @@
         },
         {
           "id": "7827-1-15:40-4",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Иностранный язык",
@@ -48,6 +50,7 @@
         },
         {
           "id": "7828-1-14:00-4",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Иностранный язык",
@@ -66,6 +69,7 @@
         },
         {
           "id": "7828-1-15:40-6",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Иностранный язык",
@@ -84,6 +88,7 @@
         },
         {
           "id": "7915-1-17:20-3",
+          "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Иностранный язык в профессиональной и академической коммуникации",
@@ -108,6 +113,7 @@
       "lessons": [
         {
           "id": "7799-2-08:30-1",
+          "dayIndex": 2,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Иностранный язык",
@@ -126,6 +132,7 @@
         },
         {
           "id": "7827-2-10:10-2",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Иностранный язык",
@@ -150,6 +157,7 @@
       "lessons": [
         {
           "id": "7787-3-10:10-1",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Иностранный язык",
@@ -168,6 +176,7 @@
         },
         {
           "id": "7787-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Иностранный язык",
@@ -197,6 +206,7 @@
       "lessons": [
         {
           "id": "6398-5-15:40-5",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Иностранный язык",
@@ -214,7 +224,8 @@
           }
         },
         {
-          "id": "6398-5-17:20-8",
+          "id": "6398-5-17:20-7",
+          "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Иностранный язык",
@@ -233,6 +244,7 @@
         },
         {
           "id": "7800-5-10:10-1",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Иностранный язык",
@@ -251,6 +263,7 @@
         },
         {
           "id": "7800-5-11:50-2",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Иностранный язык",
@@ -269,6 +282,7 @@
         },
         {
           "id": "7803-5-10:10-3",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Иностранный язык",

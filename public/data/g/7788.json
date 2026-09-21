@@ -1,7 +1,7 @@
 {
   "groupId": "7788",
   "groupName": "12226-09",
-  "updatedAt": "2026-09-20T17:57:48.594Z",
+  "updatedAt": "2026-09-21T07:57:01.624Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,7 @@
       "lessons": [
         {
           "id": "7788-1-11:50-1",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Общая и неорганическая химия",
@@ -27,6 +28,7 @@
         },
         {
           "id": "7788-1-11:50-2",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Начертательная геометрия",
@@ -43,6 +45,7 @@
         },
         {
           "id": "7788-1-14:00-3",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Физическая культура и спорт",
@@ -56,6 +59,7 @@
         },
         {
           "id": "7788-1-14:00-4",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Физическая культура и спорт",
@@ -75,6 +79,7 @@
         },
         {
           "id": "7788-1-15:40-5",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Основы российской государственности",
@@ -90,6 +95,7 @@
         },
         {
           "id": "7788-1-15:40-6",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Лабораторные работы по общей и неорганической химии",
@@ -114,15 +120,17 @@
       "lessons": [
         {
           "id": "7788-2-08:30-1",
+          "dayIndex": 2,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Математический анализ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 115",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-09",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Сорокин Вадим Николаевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101137.jpg?token_static=3c5ba78392bc54806ff547d5a75d1b11"
@@ -130,6 +138,7 @@
         },
         {
           "id": "7788-2-10:10-2",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Линейная алгебра, Аналитическая геометрия",
@@ -148,6 +157,7 @@
         },
         {
           "id": "7788-2-11:50-3",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Иностранный язык",
@@ -166,15 +176,17 @@
         },
         {
           "id": "7788-2-14:00-4",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Линейная алгебра, Аналитическая геометрия",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 115",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-09",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Забавникова Татьяна Алексеевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/10/small/p128144.jpg?token_static=0a22e705380705821d98fffef1eee980"
@@ -188,6 +200,7 @@
       "lessons": [
         {
           "id": "7788-3-08:30-1",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Информатика",
@@ -206,6 +219,7 @@
         },
         {
           "id": "7788-3-08:30-2",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Информатика",
@@ -224,6 +238,7 @@
         },
         {
           "id": "7788-3-10:10-3",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Информатика",
@@ -242,22 +257,7 @@
         },
         {
           "id": "7788-3-11:50-4",
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 407",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12226-09",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Павлов Павел Валентинович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
-          }
-        },
-        {
-          "id": "7788-3-11:50-5",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -273,7 +273,25 @@
           }
         },
         {
+          "id": "7788-3-11:50-5",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-09",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Павлов Павел Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
+          }
+        },
+        {
           "id": "7788-3-11:50-6",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -292,6 +310,7 @@
         },
         {
           "id": "7788-3-11:50-7",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -310,40 +329,7 @@
         },
         {
           "id": "7788-3-11:50-8",
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 407",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12226-09",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Никущенко Елена Александровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
-          }
-        },
-        {
-          "id": "7788-3-11:50-9",
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 407",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12226-09",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Вихров Николай Михайлович",
-            "id": "100217",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
-          }
-        },
-        {
-          "id": "7788-3-11:50-10",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -361,7 +347,44 @@
           }
         },
         {
+          "id": "7788-3-11:50-9",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-09",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Никущенко Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+          }
+        },
+        {
+          "id": "7788-3-11:50-10",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-09",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Вихров Николай Михайлович",
+            "id": "100217",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
+          }
+        },
+        {
           "id": "7788-3-11:50-11",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -378,6 +401,7 @@
         },
         {
           "id": "7788-3-11:50-12",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -394,6 +418,7 @@
         },
         {
           "id": "7788-3-11:50-13",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -412,6 +437,7 @@
         },
         {
           "id": "7788-3-14:00-14",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
@@ -430,6 +456,7 @@
         },
         {
           "id": "7788-3-14:00-15",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
@@ -448,6 +475,7 @@
         },
         {
           "id": "7788-3-15:40-16",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Информатика",
@@ -472,6 +500,7 @@
       "lessons": [
         {
           "id": "7788-4-14:00-1",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "История России",
@@ -488,6 +517,7 @@
         },
         {
           "id": "7788-4-15:40-2",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Основы российской государственности",
@@ -506,6 +536,7 @@
         },
         {
           "id": "7788-4-17:20-3",
+          "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "История России",
@@ -522,12 +553,13 @@
         },
         {
           "id": "7788-4-17:20-4",
+          "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 414",
+          "room": "У 215",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-09",
           "weekParity": "down",
@@ -538,12 +570,13 @@
         },
         {
           "id": "7788-4-17:20-5",
+          "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 215",
+          "room": "У 414",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-09",
           "weekParity": "down",
@@ -560,6 +593,7 @@
       "lessons": [
         {
           "id": "7788-5-10:10-1",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Иностранный язык",
@@ -578,6 +612,7 @@
         },
         {
           "id": "7788-5-11:50-2",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "История России",
@@ -594,6 +629,7 @@
         },
         {
           "id": "7788-5-14:00-3",
+          "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Математический анализ",

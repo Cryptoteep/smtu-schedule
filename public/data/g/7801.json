@@ -1,7 +1,7 @@
 {
   "groupId": "7801",
   "groupName": "12822-02",
-  "updatedAt": "2026-09-20T17:58:04.786Z",
+  "updatedAt": "2026-09-21T07:57:21.043Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,7 @@
       "lessons": [
         {
           "id": "7801-1-08:30-1",
+          "dayIndex": 1,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Социальное взаимодействие в профессиональной деятельности",
@@ -25,6 +26,7 @@
         },
         {
           "id": "7801-1-08:30-2",
+          "dayIndex": 1,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Социальное взаимодействие в профессиональной деятельности",
@@ -41,6 +43,7 @@
         },
         {
           "id": "7801-1-10:10-3",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Математический анализ",
@@ -57,6 +60,7 @@
         },
         {
           "id": "7801-1-11:50-4",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Основы военной подготовки",
@@ -75,6 +79,7 @@
         },
         {
           "id": "7801-1-11:50-5",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "История России",
@@ -97,6 +102,7 @@
       "lessons": [
         {
           "id": "7801-2-08:30-1",
+          "dayIndex": 2,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Информатика",
@@ -113,15 +119,17 @@
         },
         {
           "id": "7801-2-10:10-2",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Математический анализ",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 427",
+          "room": "У 150",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12822-02",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Кузнецов Константин Сергеевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/142856.jpg?token_static=8e0d7bf0502437cbabfcb32e5aee4cb3"
@@ -129,6 +137,7 @@
         },
         {
           "id": "7801-2-11:50-3",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Линейная алгебра, Аналитическая геометрия",
@@ -145,15 +154,17 @@
         },
         {
           "id": "7801-2-11:50-4",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "История России",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 115",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12822-02",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Прудникова Татьяна Юрьевна",
             "id": "100952",
@@ -169,6 +180,7 @@
       "lessons": [
         {
           "id": "7801-3-08:30-1",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "История России",
@@ -187,6 +199,7 @@
         },
         {
           "id": "7801-3-10:10-2",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Линейная алгебра, Аналитическая геометрия",
@@ -209,6 +222,7 @@
       "lessons": [
         {
           "id": "7801-4-10:10-1",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Начертательная геометрия",
@@ -225,6 +239,7 @@
         },
         {
           "id": "7801-4-10:10-2",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Начертательная геометрия",
@@ -241,6 +256,7 @@
         },
         {
           "id": "7801-4-10:10-3",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Общая и неорганическая химия",
@@ -257,6 +273,7 @@
         },
         {
           "id": "7801-4-11:50-4",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Начертательная геометрия",
@@ -273,6 +290,7 @@
         },
         {
           "id": "7801-4-11:50-5",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Иностранный язык",
@@ -289,6 +307,7 @@
         },
         {
           "id": "7801-4-11:50-6",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Иностранный язык",
@@ -307,6 +326,7 @@
         },
         {
           "id": "7801-4-14:00-7",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Иностранный язык",
@@ -323,6 +343,7 @@
         },
         {
           "id": "7801-4-14:00-8",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Иностранный язык",
@@ -341,6 +362,7 @@
         },
         {
           "id": "7801-4-15:40-9",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Информатика",
@@ -359,6 +381,7 @@
       "lessons": [
         {
           "id": "7801-5-08:30-1",
+          "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Лабораторные работы по общей и неорганической химии",
@@ -375,6 +398,24 @@
         },
         {
           "id": "7801-5-10:10-2",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У ВУЦ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12822-02",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
+        },
+        {
+          "id": "7801-5-10:10-3",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Основы военной подготовки",
@@ -392,23 +433,8 @@
           }
         },
         {
-          "id": "7801-5-10:10-3",
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Основы военной подготовки",
-          "type": "military",
-          "rawType": "Практическое занятие",
-          "room": "У ВУЦ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12822-02",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Величко Борис Валерьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
-          }
-        },
-        {
           "id": "7801-5-11:50-4",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Основы военной подготовки",
@@ -425,6 +451,7 @@
         },
         {
           "id": "7801-5-11:50-5",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Основы военной подготовки",
@@ -443,6 +470,7 @@
         },
         {
           "id": "7801-5-11:50-6",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Линейная алгебра, Аналитическая геометрия",
@@ -459,19 +487,7 @@
         },
         {
           "id": "7801-5-14:00-7",
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12822-02",
-          "weekParity": "both",
-          "dateSpecific": "30.10 по 18.12"
-        },
-        {
-          "id": "7801-5-14:00-8",
+          "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Физическая культура и спорт",
@@ -490,7 +506,22 @@
           }
         },
         {
+          "id": "7801-5-14:00-8",
+          "dayIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12822-02",
+          "weekParity": "both",
+          "dateSpecific": "30.10 по 18.12"
+        },
+        {
           "id": "7801-5-15:40-9",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Обучение служением",

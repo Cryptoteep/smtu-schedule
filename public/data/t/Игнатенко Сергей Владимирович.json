@@ -2,7 +2,7 @@
   "teacherId": "Игнатенко Сергей Владимирович",
   "teacherName": "Игнатенко Сергей Владимирович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/05/08/small/p105188.jpg?token_static=50c66911f8b5f89eb1536e2b98f846f1",
-  "updatedAt": "2026-09-20T17:58:06.935Z",
+  "updatedAt": "2026-09-21T07:57:24.231Z",
   "totalLessons": 8,
   "days": [
     {
@@ -26,6 +26,7 @@
       "lessons": [
         {
           "id": "7796-4-14:00-3",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Введение в специальность",
@@ -42,6 +43,7 @@
         },
         {
           "id": "7796-4-15:40-4",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "История России",
@@ -58,6 +60,7 @@
         },
         {
           "id": "7796-4-17:20-6",
+          "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Введение в специальность",
@@ -74,6 +77,7 @@
         },
         {
           "id": "7797-4-15:40-5",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Введение в специальность",
@@ -90,15 +94,17 @@
         },
         {
           "id": "7888-4-19:00-4",
+          "dayIndex": 4,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "История международных отношений",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 426",
+          "room": "У 156",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12638-11",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Игнатенко Сергей Владимирович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/05/08/small/p105188.jpg?token_static=50c66911f8b5f89eb1536e2b98f846f1"
@@ -112,6 +118,7 @@
       "lessons": [
         {
           "id": "7796-5-15:40-5",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "История России",
@@ -128,6 +135,7 @@
         },
         {
           "id": "7797-5-17:20-7",
+          "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "История России",
@@ -144,6 +152,7 @@
         },
         {
           "id": "7888-5-14:00-6",
+          "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "История международных отношений",

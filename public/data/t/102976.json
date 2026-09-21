@@ -3,13 +3,54 @@
   "teacherName": "Жулёв Сергей Константинович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p102976.jpg?token_static=0fd13e0993ffb1725d0e99bea4af5b43",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/102976/",
-  "updatedAt": "2026-09-20T17:58:06.915Z",
-  "totalLessons": 25,
+  "updatedAt": "2026-09-21T07:57:24.201Z",
+  "totalLessons": 27,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7851-1-19:00-1",
+          "dayIndex": 1,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Уголовное право зарубежных стран",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 209ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5306",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 26.10",
+          "teacher": {
+            "name": "Жулёв Сергей Константинович",
+            "id": "102976",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102976/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p102976.jpg?token_static=0fd13e0993ffb1725d0e99bea4af5b43"
+          }
+        },
+        {
+          "id": "7851-1-20:40-2",
+          "dayIndex": 1,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Уголовное право зарубежных стран",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 209ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5306",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 26.10",
+          "teacher": {
+            "name": "Жулёв Сергей Константинович",
+            "id": "102976",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102976/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p102976.jpg?token_static=0fd13e0993ffb1725d0e99bea4af5b43"
+          }
+        }
+      ]
     },
     {
       "dayName": "Вторник",
@@ -321,6 +362,7 @@
         },
         {
           "id": "7717-4-10:10-1",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Административное судопроизводство",
@@ -437,6 +479,7 @@
         },
         {
           "id": "7717-5-11:50-1",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Административное судопроизводство",
@@ -455,6 +498,7 @@
         },
         {
           "id": "7718-5-11:50-2",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Административное судопроизводство",
@@ -473,6 +517,7 @@
         },
         {
           "id": "7719-5-10:10-1",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Административное судопроизводство",

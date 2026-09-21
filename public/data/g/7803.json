@@ -1,7 +1,7 @@
 {
   "groupId": "7803",
   "groupName": "12509-03",
-  "updatedAt": "2026-09-20T17:57:56.513Z",
+  "updatedAt": "2026-09-21T07:57:10.604Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,7 @@
       "lessons": [
         {
           "id": "7803-1-08:30-1",
+          "dayIndex": 1,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Дискретная математика для инженера-программиста",
@@ -25,23 +26,8 @@
           }
         },
         {
-          "id": "7803-1-08:30-2",
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Дискретная математика для инженера-программиста",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр 427",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-03",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Петухова Нина Дмитриевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/30/small/p100896.jpg?token_static=7351a0863365112378e08001c637a4cb"
-          }
-        },
-        {
-          "id": "7803-1-10:10-3",
+          "id": "7803-1-10:10-2",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Дискретная математика для инженера-программиста",
@@ -64,6 +50,7 @@
       "lessons": [
         {
           "id": "7803-2-08:30-1",
+          "dayIndex": 2,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Основы российской государственности",
@@ -80,6 +67,7 @@
         },
         {
           "id": "7803-2-08:30-2",
+          "dayIndex": 2,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Дискретная математика для инженера-программиста",
@@ -96,6 +84,7 @@
         },
         {
           "id": "7803-2-10:10-3",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Алгебра и геометрия",
@@ -112,15 +101,17 @@
         },
         {
           "id": "7803-2-10:10-4",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Математический анализ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 115",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-03",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Кротов Евгений Алексеевич",
             "id": "100590",
@@ -130,6 +121,7 @@
         },
         {
           "id": "7803-2-11:50-5",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Алгебра и геометрия",
@@ -146,15 +138,17 @@
         },
         {
           "id": "7803-2-11:50-6",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 307",
+          "room": "У 314в",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-03",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Саенко Артемий Антонович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p131856.jpg?token_static=5710e658157408c937f04c5abe5adfe6"
@@ -168,6 +162,7 @@
       "lessons": [
         {
           "id": "7803-4-08:30-1",
+          "dayIndex": 4,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Алгебра и геометрия",
@@ -184,15 +179,17 @@
         },
         {
           "id": "7803-4-10:10-2",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Дискретная математика для инженера-программиста",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 207",
+          "room": "У 326",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-03",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Петухова Нина Дмитриевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/30/small/p100896.jpg?token_static=7351a0863365112378e08001c637a4cb"
@@ -200,6 +197,7 @@
         },
         {
           "id": "7803-4-11:50-3",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "История России",
@@ -216,6 +214,7 @@
         },
         {
           "id": "7803-4-11:50-4",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика",
@@ -232,6 +231,7 @@
         },
         {
           "id": "7803-4-14:00-5",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Физическая культура и спорт",
@@ -254,15 +254,17 @@
       "lessons": [
         {
           "id": "7803-5-08:30-1",
+          "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Математический анализ",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 207",
+          "room": "У 02ю",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-03",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Кротов Евгений Алексеевич",
             "id": "100590",
@@ -272,6 +274,7 @@
         },
         {
           "id": "7803-5-10:10-2",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Дискретная математика для инженера-программиста",
@@ -288,6 +291,7 @@
         },
         {
           "id": "7803-5-10:10-3",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Иностранный язык",
@@ -306,6 +310,7 @@
         },
         {
           "id": "7803-5-11:50-4",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика",
@@ -328,6 +333,7 @@
       "lessons": [
         {
           "id": "7803-6-10:10-1",
+          "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "История России",
@@ -346,6 +352,7 @@
         },
         {
           "id": "7803-6-10:10-2",
+          "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "История России",
@@ -364,6 +371,7 @@
         },
         {
           "id": "7803-6-11:50-3",
+          "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "История России",
@@ -382,6 +390,7 @@
         },
         {
           "id": "7803-6-11:50-4",
+          "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Программирование",
@@ -398,6 +407,7 @@
         },
         {
           "id": "7803-6-14:00-5",
+          "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Основы российской государственности",
@@ -414,6 +424,7 @@
         },
         {
           "id": "7803-6-14:00-6",
+          "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Основы российской государственности",

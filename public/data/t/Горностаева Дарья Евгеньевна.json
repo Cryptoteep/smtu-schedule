@@ -2,7 +2,7 @@
   "teacherId": "Горностаева Дарья Евгеньевна",
   "teacherName": "Горностаева Дарья Евгеньевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/22/small/p137603.jpg?token_static=f7e537a8dc76137c53b2edc98f09b2ca",
-  "updatedAt": "2026-09-20T17:58:06.936Z",
+  "updatedAt": "2026-09-21T07:57:24.231Z",
   "totalLessons": 2,
   "days": [
     {
@@ -31,6 +31,7 @@
       "lessons": [
         {
           "id": "7894-5-19:00-2",
+          "dayIndex": 5,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Иностранный язык",
@@ -48,6 +49,7 @@
         },
         {
           "id": "7894-5-20:40-4",
+          "dayIndex": 5,
           "time": "20:40-22:10",
           "timeSlotIndex": 5,
           "subject": "Иностранный язык",

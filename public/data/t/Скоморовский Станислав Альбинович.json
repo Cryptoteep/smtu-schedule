@@ -3,7 +3,7 @@
   "teacherName": "Скоморовский Станислав Альбинович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/27/small/p101084.jpg?token_static=7839ff5ef6b2266b532942f6153ed56d",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101084/",
-  "updatedAt": "2026-09-20T17:58:06.877Z",
+  "updatedAt": "2026-09-21T07:57:24.124Z",
   "totalLessons": 11,
   "days": [
     {
@@ -22,6 +22,7 @@
       "lessons": [
         {
           "id": "7445-3-14:00-3",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Введение в специальность",
@@ -40,6 +41,7 @@
         },
         {
           "id": "7445-3-15:40-8",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Введение в специальность",
@@ -160,6 +162,7 @@
       "lessons": [
         {
           "id": "7834-5-10:10-1",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Современные методы моделирования рабочих процессов в поршневых машинах и установках",
@@ -178,6 +181,7 @@
         },
         {
           "id": "7834-5-11:50-3",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Современные методы моделирования рабочих процессов в поршневых машинах и установках",

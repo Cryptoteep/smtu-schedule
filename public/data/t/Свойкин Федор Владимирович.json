@@ -2,7 +2,7 @@
   "teacherId": "Свойкин Федор Владимирович",
   "teacherName": "Свойкин Федор Владимирович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/21/small/p137669.jpg?token_static=4e96f3b114dd186bbc8a475dbacc5da7",
-  "updatedAt": "2026-09-20T17:58:06.922Z",
+  "updatedAt": "2026-09-21T07:57:24.204Z",
   "totalLessons": 14,
   "days": [
     {
@@ -16,6 +16,7 @@
       "lessons": [
         {
           "id": "6965-2-11:50-2",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Начертательная геометрия",
@@ -32,6 +33,7 @@
         },
         {
           "id": "7463-2-14:00-3",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Начертательная геометрия",
@@ -48,12 +50,13 @@
         },
         {
           "id": "7787-2-15:40-4",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 211",
+          "room": "У 414",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12215-05",
           "weekParity": "up",
@@ -70,6 +73,7 @@
       "lessons": [
         {
           "id": "6965-3-14:00-4",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Начертательная геометрия",
@@ -86,6 +90,7 @@
         },
         {
           "id": "7461-3-11:50-4",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Начертательная геометрия",
@@ -102,6 +107,7 @@
         },
         {
           "id": "7480-3-11:50-3",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Начертательная геометрия",
@@ -118,6 +124,7 @@
         },
         {
           "id": "7782-3-14:00-4",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Начертательная геометрия",
@@ -140,6 +147,7 @@
       "lessons": [
         {
           "id": "7463-4-11:50-3",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Начертательная геометрия",
@@ -156,6 +164,7 @@
         },
         {
           "id": "7481-4-10:10-2",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Начертательная геометрия",
@@ -172,6 +181,7 @@
         },
         {
           "id": "7502-4-14:00-6",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Начертательная геометрия",
@@ -188,6 +198,7 @@
         },
         {
           "id": "7783-4-11:50-1",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Начертательная геометрия",
@@ -204,6 +215,7 @@
         },
         {
           "id": "7784-4-14:00-3",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Начертательная геометрия",
@@ -226,6 +238,7 @@
       "lessons": [
         {
           "id": "7445-5-15:40-3",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Начертательная геометрия",
@@ -242,12 +255,13 @@
         },
         {
           "id": "7799-5-17:20-4",
+          "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 415",
+          "room": "У 211",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12826-12",
           "weekParity": "down",

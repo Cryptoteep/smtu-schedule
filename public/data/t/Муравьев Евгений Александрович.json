@@ -2,8 +2,8 @@
   "teacherId": "Муравьев Евгений Александрович",
   "teacherName": "Муравьев Евгений Александрович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3",
-  "updatedAt": "2026-09-20T17:58:06.862Z",
-  "totalLessons": 8,
+  "updatedAt": "2026-09-21T07:57:24.073Z",
+  "totalLessons": 9,
   "days": [
     {
       "dayName": "Понедельник",
@@ -11,6 +11,7 @@
       "lessons": [
         {
           "id": "7487-1-11:50-2",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Программирование",
@@ -19,6 +20,23 @@
           "room": "Конгресс-Центр 306",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-06",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Муравьев Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"
+          }
+        },
+        {
+          "id": "7760-1-17:20-6",
+          "dayIndex": 1,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Программирование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 436",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20290",
           "weekParity": "up",
           "teacher": {
             "name": "Муравьев Евгений Александрович",
@@ -76,6 +94,7 @@
         },
         {
           "id": "7487-4-10:10-2",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Программирование",
@@ -92,6 +111,7 @@
         },
         {
           "id": "7806-4-11:50-3",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Программирование",
@@ -114,6 +134,7 @@
       "lessons": [
         {
           "id": "7487-5-08:30-1",
+          "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Программирование",
@@ -130,6 +151,7 @@
         },
         {
           "id": "7806-5-10:10-2",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Программирование",
@@ -152,6 +174,7 @@
       "lessons": [
         {
           "id": "7806-6-10:10-2",
+          "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Программирование",

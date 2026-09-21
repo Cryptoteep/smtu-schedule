@@ -2,7 +2,7 @@
   "teacherId": "Вохмянин Сергей Михайлович",
   "teacherName": "Вохмянин Сергей Михайлович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/25/small/p123459.jpg?token_static=9ba4bdf597ef35bd8d8b2d7fd932a70b",
-  "updatedAt": "2026-09-20T17:58:06.882Z",
+  "updatedAt": "2026-09-21T07:57:24.126Z",
   "totalLessons": 4,
   "days": [
     {
@@ -64,6 +64,7 @@
       "lessons": [
         {
           "id": "7808-5-15:40-3",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Научно-технический семинар",
@@ -80,6 +81,7 @@
         },
         {
           "id": "7808-5-17:20-4",
+          "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Научно-технический семинар",

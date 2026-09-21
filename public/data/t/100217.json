@@ -3,7 +3,7 @@
   "teacherName": "Вихров Николай Михайлович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
-  "updatedAt": "2026-09-20T17:58:06.925Z",
+  "updatedAt": "2026-09-21T07:57:24.205Z",
   "totalLessons": 3,
   "days": [
     {
@@ -22,6 +22,7 @@
       "lessons": [
         {
           "id": "7463-3-14:00-9",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Введение в специальность",
@@ -40,6 +41,7 @@
         },
         {
           "id": "7786-3-11:50-5",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -63,7 +65,8 @@
       "dayIndex": 4,
       "lessons": [
         {
-          "id": "7442-4-14:00-7",
+          "id": "7442-4-14:00-9",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Введение в специальность",

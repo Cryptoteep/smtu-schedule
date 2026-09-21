@@ -1,7 +1,7 @@
 {
   "groupId": "7839",
   "groupName": "12739-01",
-  "updatedAt": "2026-09-20T17:58:02.625Z",
+  "updatedAt": "2026-09-21T07:57:18.014Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,24 @@
       "lessons": [
         {
           "id": "7839-1-10:10-1",
+          "dayIndex": 1,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У ВУЦ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12739-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
+        },
+        {
+          "id": "7839-1-10:10-2",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Основы военной подготовки",
@@ -26,23 +44,8 @@
           }
         },
         {
-          "id": "7839-1-10:10-2",
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Основы военной подготовки",
-          "type": "military",
-          "rawType": "Практическое занятие",
-          "room": "У ВУЦ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12739-01",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Величко Борис Валерьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
-          }
-        },
-        {
           "id": "7839-1-11:50-3",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физическая культура и спорт",
@@ -62,6 +65,7 @@
         },
         {
           "id": "7839-1-11:50-4",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Логика",
@@ -80,6 +84,7 @@
         },
         {
           "id": "7839-1-14:00-5",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Логика",
@@ -98,24 +103,7 @@
         },
         {
           "id": "7839-1-14:00-6",
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Логика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 426",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12739-01",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Медведев Владимир Иванович",
-            "id": "100748",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
-          }
-        },
-        {
-          "id": "7839-1-14:00-7",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Логика",
@@ -134,7 +122,8 @@
           }
         },
         {
-          "id": "7839-1-15:40-8",
+          "id": "7839-1-15:40-7",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Современные информационные технологии в социальных науках",
@@ -152,7 +141,8 @@
           }
         },
         {
-          "id": "7839-1-15:40-9",
+          "id": "7839-1-15:40-8",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Современные информационные технологии в социальных науках",
@@ -177,6 +167,7 @@
       "lessons": [
         {
           "id": "7839-2-08:30-1",
+          "dayIndex": 2,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Высшая математика",
@@ -193,6 +184,7 @@
         },
         {
           "id": "7839-2-10:10-2",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Высшая математика",
@@ -209,6 +201,7 @@
         },
         {
           "id": "7839-2-10:10-3",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Информатика",
@@ -221,6 +214,7 @@
         },
         {
           "id": "7839-2-11:50-4",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "История России",
@@ -237,6 +231,7 @@
         },
         {
           "id": "7839-2-11:50-5",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Психология",
@@ -255,6 +250,7 @@
         },
         {
           "id": "7839-2-14:00-6",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Основы социологии",
@@ -279,6 +275,7 @@
       "lessons": [
         {
           "id": "7839-3-10:10-1",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Иностранный язык",
@@ -291,6 +288,7 @@
         },
         {
           "id": "7839-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Иностранный язык",
@@ -303,6 +301,7 @@
         },
         {
           "id": "7839-3-14:00-3",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "История социологии",
@@ -321,6 +320,7 @@
         },
         {
           "id": "7839-3-15:40-4",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "История социологии",
@@ -339,6 +339,7 @@
         },
         {
           "id": "7839-3-15:40-5",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Информатика",
@@ -361,6 +362,7 @@
       "lessons": [
         {
           "id": "7839-4-10:10-1",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Информатика",
@@ -377,6 +379,7 @@
         },
         {
           "id": "7839-4-11:50-2",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Социальное взаимодействие в профессиональной деятельности",
@@ -393,6 +396,7 @@
         },
         {
           "id": "7839-4-14:00-3",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
@@ -409,6 +413,7 @@
         },
         {
           "id": "7839-4-14:00-4",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "История философии",
@@ -425,6 +430,7 @@
         },
         {
           "id": "7839-4-15:40-5",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "История России",
@@ -441,6 +447,7 @@
         },
         {
           "id": "7839-4-15:40-6",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "История философии",
@@ -457,6 +464,7 @@
         },
         {
           "id": "7839-4-17:20-7",
+          "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "История философии",
@@ -479,6 +487,7 @@
       "lessons": [
         {
           "id": "7839-5-11:50-1",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Основы социологии",
@@ -497,6 +506,7 @@
         },
         {
           "id": "7839-5-11:50-2",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физическая культура и спорт",
@@ -516,6 +526,7 @@
         },
         {
           "id": "7839-5-11:50-3",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физическая культура и спорт",
@@ -529,6 +540,7 @@
         },
         {
           "id": "7839-5-14:00-4",
+          "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Основы военной подготовки",
@@ -547,6 +559,7 @@
         },
         {
           "id": "7839-5-15:40-5",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "История России",

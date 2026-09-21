@@ -3,7 +3,7 @@
   "teacherName": "Данилина Наталия Алексеевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100318.jpg?token_static=62d5c25bd37de69d43167b10f15bdc44",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100318/",
-  "updatedAt": "2026-09-20T17:58:06.937Z",
+  "updatedAt": "2026-09-21T07:57:24.232Z",
   "totalLessons": 6,
   "days": [
     {
@@ -22,6 +22,7 @@
       "lessons": [
         {
           "id": "7903-3-14:00-3",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Физика",
@@ -40,6 +41,7 @@
         },
         {
           "id": "7904-3-10:10-1",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физика",
@@ -58,6 +60,7 @@
         },
         {
           "id": "7905-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физика",
@@ -92,6 +95,7 @@
       "lessons": [
         {
           "id": "7903-6-11:50-3",
+          "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физика",
@@ -110,6 +114,7 @@
         },
         {
           "id": "7904-6-10:10-2",
+          "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физика",
@@ -128,6 +133,7 @@
         },
         {
           "id": "7905-6-08:30-1",
+          "dayIndex": 6,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Физика",

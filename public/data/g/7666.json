@@ -1,7 +1,7 @@
 {
   "groupId": "7666",
   "groupName": "4202",
-  "updatedAt": "2026-09-20T17:58:00.739Z",
+  "updatedAt": "2026-09-21T07:57:15.912Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,7 @@
       "lessons": [
         {
           "id": "7666-1-08:30-1",
+          "dayIndex": 1,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Макроэкономика",
@@ -27,6 +28,7 @@
         },
         {
           "id": "7666-1-08:30-2",
+          "dayIndex": 1,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Методы принятия решений",
@@ -45,6 +47,7 @@
         },
         {
           "id": "7666-1-10:10-3",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Макроэкономика",
@@ -63,6 +66,7 @@
         },
         {
           "id": "7666-1-10:10-4",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Методы принятия решений",
@@ -81,6 +85,7 @@
         },
         {
           "id": "7666-1-11:50-5",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Деловой иностранный язык",
@@ -93,6 +98,7 @@
         },
         {
           "id": "7666-1-11:50-6",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Правоведение",
@@ -111,6 +117,7 @@
         },
         {
           "id": "7666-1-14:00-7",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Финансы",
@@ -127,6 +134,7 @@
         },
         {
           "id": "7666-1-14:00-8",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Правоведение",
@@ -151,6 +159,7 @@
       "lessons": [
         {
           "id": "7666-2-11:50-1",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Бухгалтерский учет",
@@ -169,6 +178,7 @@
         },
         {
           "id": "7666-2-14:00-2",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Бухгалтерский учет",
@@ -187,6 +197,7 @@
         },
         {
           "id": "7666-2-14:00-3",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Деловой иностранный язык",
@@ -199,6 +210,7 @@
         },
         {
           "id": "7666-2-15:40-4",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Макроэкономика",
@@ -217,15 +229,17 @@
         },
         {
           "id": "7666-2-17:20-5",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Финансы",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 167",
           "campus": "Ульянка (Корпус У)",
           "groupName": "4202",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Фролова Вероника Александровна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p105303.jpg?token_static=f02ddf6ad924430e02d6c4cc204c817e"
@@ -239,6 +253,7 @@
       "lessons": [
         {
           "id": "7666-3-11:50-1",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Финансы",
@@ -255,6 +270,7 @@
         },
         {
           "id": "7666-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Бухгалтерский учет",
@@ -273,6 +289,7 @@
         },
         {
           "id": "7666-3-14:00-3",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Страхование и страховые риски",
@@ -291,6 +308,7 @@
         },
         {
           "id": "7666-3-14:00-4",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Страхование и страховые риски",
@@ -309,6 +327,7 @@
         },
         {
           "id": "7666-3-15:40-5",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Высшая математика",
@@ -325,6 +344,7 @@
         },
         {
           "id": "7666-3-15:40-6",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Высшая математика",
@@ -341,15 +361,17 @@
         },
         {
           "id": "7666-3-17:20-7",
+          "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Высшая математика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 115",
           "campus": "Ульянка (Корпус У)",
           "groupName": "4202",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Крупицкая Ольга Савельевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/08/small/p122711.jpg?token_static=4b97a048cd33a9d92d4dddfeb85d4940"
@@ -363,6 +385,7 @@
       "lessons": [
         {
           "id": "7666-4-08:30-1",
+          "dayIndex": 4,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Военная подготовка (матросы/солдаты запаса)",
@@ -375,6 +398,7 @@
         },
         {
           "id": "7666-4-10:10-2",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Военная подготовка (матросы/солдаты запаса)",
@@ -393,6 +417,7 @@
       "lessons": [
         {
           "id": "7666-5-08:30-1",
+          "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Менеджмент",
@@ -410,6 +435,7 @@
         },
         {
           "id": "7666-5-10:10-2",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Менеджмент",
@@ -427,6 +453,7 @@
         },
         {
           "id": "7666-5-11:50-3",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физическая культура и спорт (элективная)",
@@ -445,6 +472,7 @@
       "lessons": [
         {
           "id": "7666-6-08:30-1",
+          "dayIndex": 6,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Управление экологической безопасностью",
@@ -463,6 +491,7 @@
         },
         {
           "id": "7666-6-08:30-2",
+          "dayIndex": 6,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Управление экологической безопасностью",
@@ -481,6 +510,7 @@
         },
         {
           "id": "7666-6-10:10-3",
+          "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт (элективная)",

@@ -1,7 +1,7 @@
 {
   "groupId": "7816",
   "groupName": "12509-52",
-  "updatedAt": "2026-09-20T17:57:56.752Z",
+  "updatedAt": "2026-09-21T07:57:11.140Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,7 @@
       "lessons": [
         {
           "id": "7816-1-14:00-1",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Интеллектуальные системы",
@@ -27,43 +28,8 @@
           }
         },
         {
-          "id": "7816-1-14:00-2",
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Интеллектуальные системы",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 304",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-52",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Петров Олег Николаевич",
-            "id": "100888",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8"
-          }
-        },
-        {
-          "id": "7816-1-15:40-3",
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Инженерия знаний",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 304",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-52",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Петров Олег Николаевич",
-            "id": "100888",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8"
-          }
-        },
-        {
-          "id": "7816-1-15:40-4",
+          "id": "7816-1-15:40-2",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Инженерия знаний",
@@ -89,15 +55,17 @@
       "lessons": [
         {
           "id": "7816-3-10:10-1",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Интеллектуальные системы",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 304",
+          "room": "У 202-ИИТ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-52",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Петров Олег Николаевич",
             "id": "100888",
@@ -107,6 +75,7 @@
         },
         {
           "id": "7816-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Вычислительные системы и сетевые технологии",
@@ -117,20 +86,23 @@
           "groupName": "12509-52",
           "weekParity": "up",
           "teacher": {
-            "name": "Фомченко Андрей Андреевич"
+            "name": "Фомченко Андрей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
           }
         },
         {
           "id": "7816-3-11:50-3",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Интеллектуальные системы",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 304",
+          "room": "У 202-ИИТ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-52",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Петров Олег Николаевич",
             "id": "100888",
@@ -140,6 +112,7 @@
         },
         {
           "id": "7816-3-14:00-4",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Вычислительные системы и сетевые технологии",
@@ -156,6 +129,7 @@
         },
         {
           "id": "7816-3-15:40-5",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Вычислительные системы и сетевые технологии",
@@ -178,6 +152,7 @@
       "lessons": [
         {
           "id": "7816-4-15:40-1",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Инженерия знаний",
@@ -196,6 +171,7 @@
         },
         {
           "id": "7816-4-15:40-2",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Программная инженерия",
@@ -212,6 +188,7 @@
         },
         {
           "id": "7816-4-17:20-3",
+          "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Инженерия знаний",
@@ -234,6 +211,7 @@
       "lessons": [
         {
           "id": "7816-5-11:50-1",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Управление проектами и инновациями",
@@ -250,6 +228,7 @@
         },
         {
           "id": "7816-5-14:00-2",
+          "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Управление проектами и инновациями",
@@ -266,6 +245,7 @@
         },
         {
           "id": "7816-5-15:40-3",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Иностранный язык в профессиональной и академической коммуникации",
@@ -284,6 +264,7 @@
         },
         {
           "id": "7816-5-17:20-4",
+          "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Иностранный язык в профессиональной и академической коммуникации",
@@ -308,6 +289,7 @@
       "lessons": [
         {
           "id": "7816-6-08:30-1",
+          "dayIndex": 6,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Программная инженерия",
@@ -324,15 +306,17 @@
         },
         {
           "id": "7816-6-08:30-2",
+          "dayIndex": 6,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Программная инженерия",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр 207",
+          "room": "У 514",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-52",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Высицкий Кирилл Анатольевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100243.jpg?token_static=3844144f3e313ddf3fce736a159c8aba"

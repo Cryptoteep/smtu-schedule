@@ -1,7 +1,7 @@
 {
   "groupId": "7751",
   "groupName": "20230",
-  "updatedAt": "2026-09-20T17:57:57.852Z",
+  "updatedAt": "2026-09-21T07:57:12.153Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,7 @@
       "lessons": [
         {
           "id": "7751-1-14:00-1",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Цифровые технологии в жизненном цикле технических систем",
@@ -25,6 +26,7 @@
         },
         {
           "id": "7751-1-15:40-2",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Цифровые технологии в жизненном цикле технических систем",
@@ -41,6 +43,7 @@
         },
         {
           "id": "7751-1-17:20-3",
+          "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Методы гибридного инжиниринга",
@@ -57,6 +60,7 @@
         },
         {
           "id": "7751-1-19:00-4",
+          "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Цифровые технологии в жизненном цикле технических систем",
@@ -79,6 +83,7 @@
       "lessons": [
         {
           "id": "7751-2-10:10-1",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Методы и средства инженерии знаний",
@@ -97,6 +102,7 @@
         },
         {
           "id": "7751-2-15:40-2",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Научно-технический семинар",
@@ -115,6 +121,7 @@
         },
         {
           "id": "7751-2-15:40-3",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Научно-технический семинар",
@@ -133,6 +140,7 @@
         },
         {
           "id": "7751-2-17:20-4",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Научно-технический семинар",
@@ -151,6 +159,7 @@
         },
         {
           "id": "7751-2-17:20-5",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Научно-технический семинар",
@@ -175,15 +184,17 @@
       "lessons": [
         {
           "id": "7751-4-11:50-1",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Методы и средства инженерии знаний",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 304",
+          "room": "У 515А",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20230",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Якупов Сергей Харисович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128433.jpg?token_static=ea7b1c60a6effb29e6aba9c09a680be5"
@@ -191,15 +202,17 @@
         },
         {
           "id": "7751-4-14:00-2",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Методы и средства инженерии знаний",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 304",
+          "room": "У 202-ИИТ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20230",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Якупов Сергей Харисович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128433.jpg?token_static=ea7b1c60a6effb29e6aba9c09a680be5"
@@ -207,6 +220,7 @@
         },
         {
           "id": "7751-4-17:20-3",
+          "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Методы гибридного инжиниринга",
@@ -223,6 +237,7 @@
         },
         {
           "id": "7751-4-19:00-4",
+          "dayIndex": 4,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Методы гибридного инжиниринга",

@@ -2,7 +2,7 @@
   "teacherId": "Фомченко Андрей Андреевич",
   "teacherName": "Фомченко Андрей Андреевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p132126.jpg?token_static=13600721e1ba8e852cd4c1abd0b14f92",
-  "updatedAt": "2026-09-20T17:58:06.864Z",
+  "updatedAt": "2026-09-21T07:57:24.094Z",
   "totalLessons": 4,
   "days": [
     {
@@ -27,6 +27,7 @@
         },
         {
           "id": "7844-1-17:20-2",
+          "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Инженерия знаний",
@@ -37,7 +38,8 @@
           "groupName": "12509-51",
           "weekParity": "down",
           "teacher": {
-            "name": "Фомченко Андрей Андреевич"
+            "name": "Фомченко Андрей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
           }
         }
       ]
@@ -48,6 +50,7 @@
       "lessons": [
         {
           "id": "7844-2-10:10-1",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Инженерия знаний",
@@ -58,7 +61,8 @@
           "groupName": "12509-51",
           "weekParity": "up",
           "teacher": {
-            "name": "Фомченко Андрей Андреевич"
+            "name": "Фомченко Андрей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
           }
         }
       ]
@@ -69,6 +73,7 @@
       "lessons": [
         {
           "id": "7816-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Вычислительные системы и сетевые технологии",
@@ -79,7 +84,8 @@
           "groupName": "12509-52",
           "weekParity": "up",
           "teacher": {
-            "name": "Фомченко Андрей Андреевич"
+            "name": "Фомченко Андрей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
           }
         }
       ]

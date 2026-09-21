@@ -2,7 +2,7 @@
   "teacherId": "Розанов Михаил Иванович",
   "teacherName": "Розанов Михаил Иванович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/09/small/p100991.jpg?token_static=6a71a9ae293d49a298a8d990858e00ef",
-  "updatedAt": "2026-09-20T17:58:06.897Z",
+  "updatedAt": "2026-09-21T07:57:24.153Z",
   "totalLessons": 5,
   "days": [
     {
@@ -49,6 +49,7 @@
       "lessons": [
         {
           "id": "7916-2-14:00-1",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Научно-технический семинар",
@@ -65,6 +66,7 @@
         },
         {
           "id": "7916-2-15:40-2",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Научно-технический семинар",

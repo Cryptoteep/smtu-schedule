@@ -2,7 +2,7 @@
   "teacherId": "Шестаков Михаил Николаевич",
   "teacherName": "Шестаков Михаил Николаевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/29/small/p126417.jpg?token_static=573c19622435f93a73655ad0fa4d26f5",
-  "updatedAt": "2026-09-20T17:58:06.854Z",
+  "updatedAt": "2026-09-21T07:57:24.069Z",
   "totalLessons": 12,
   "days": [
     {
@@ -199,6 +199,7 @@
       "lessons": [
         {
           "id": "6398-6-14:00-1",
+          "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
@@ -215,6 +216,7 @@
         },
         {
           "id": "6398-6-15:40-5",
+          "dayIndex": 6,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Информатика",

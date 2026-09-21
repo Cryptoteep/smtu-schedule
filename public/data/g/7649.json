@@ -1,7 +1,7 @@
 {
   "groupId": "7649",
   "groupName": "3370",
-  "updatedAt": "2026-09-20T17:57:54.980Z",
+  "updatedAt": "2026-09-21T07:57:09.354Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,7 @@
       "lessons": [
         {
           "id": "7649-1-08:30-1",
+          "dayIndex": 1,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Исследование операций",
@@ -27,6 +28,7 @@
         },
         {
           "id": "7649-1-10:10-2",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Исследование операций",
@@ -45,6 +47,7 @@
         },
         {
           "id": "7649-1-14:00-3",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Деловые коммуникации",
@@ -61,6 +64,7 @@
         },
         {
           "id": "7649-1-15:40-4",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Теория систем и системный анализ",
@@ -79,43 +83,8 @@
           }
         },
         {
-          "id": "7649-1-15:40-5",
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Теория систем и системный анализ",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр 316",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "3370",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Ведерников Юрий Вадимович",
-            "id": "123303",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
-          }
-        },
-        {
-          "id": "7649-1-17:20-6",
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Теория систем и системный анализ",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр 316",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "3370",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Ведерников Юрий Вадимович",
-            "id": "123303",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
-          }
-        },
-        {
-          "id": "7649-1-17:20-7",
+          "id": "7649-1-17:20-5",
+          "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Теория систем и системный анализ",
@@ -134,25 +103,8 @@
           }
         },
         {
-          "id": "7649-1-19:00-8",
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Теория систем и системный анализ",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 316",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "3370",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Ведерников Юрий Вадимович",
-            "id": "123303",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
-          }
-        },
-        {
-          "id": "7649-1-19:00-9",
+          "id": "7649-1-19:00-6",
+          "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Теория систем и системный анализ",
@@ -178,6 +130,7 @@
       "lessons": [
         {
           "id": "7649-2-11:50-1",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "ЭВМ и периферийные устройства",
@@ -194,6 +147,7 @@
         },
         {
           "id": "7649-2-11:50-2",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Теория автоматов",
@@ -212,6 +166,7 @@
         },
         {
           "id": "7649-2-14:00-3",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "ЭВМ и периферийные устройства",
@@ -228,6 +183,7 @@
         },
         {
           "id": "7649-2-14:00-4",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Теория автоматов",
@@ -246,6 +202,7 @@
         },
         {
           "id": "7649-2-15:40-5",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "ЭВМ и периферийные устройства",
@@ -262,6 +219,7 @@
         },
         {
           "id": "7649-2-17:20-6",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "ЭВМ и периферийные устройства",
@@ -284,6 +242,7 @@
       "lessons": [
         {
           "id": "7649-3-10:10-1",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Исследование операций",
@@ -302,6 +261,7 @@
         },
         {
           "id": "7649-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Исследование операций",
@@ -320,6 +280,7 @@
         },
         {
           "id": "7649-3-14:00-3",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Исследование операций",
@@ -338,6 +299,7 @@
         },
         {
           "id": "7649-3-15:40-4",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Исследование операций",
@@ -362,6 +324,7 @@
       "lessons": [
         {
           "id": "7649-4-08:30-1",
+          "dayIndex": 4,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Микропроцессорные системы",
@@ -378,6 +341,7 @@
         },
         {
           "id": "7649-4-10:10-2",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Архитектура вычислительных систем",
@@ -394,6 +358,7 @@
         },
         {
           "id": "7649-4-10:10-3",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Микропроцессорные системы",
@@ -410,6 +375,7 @@
         },
         {
           "id": "7649-4-11:50-4",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Архитектура вычислительных систем",
@@ -426,6 +392,7 @@
         },
         {
           "id": "7649-4-11:50-5",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Микропроцессорные системы",
@@ -442,6 +409,7 @@
         },
         {
           "id": "7649-4-14:00-6",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Архитектура вычислительных систем",
@@ -458,6 +426,7 @@
         },
         {
           "id": "7649-4-14:00-7",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Электротехника, электроника и схемотехника",
@@ -474,6 +443,7 @@
         },
         {
           "id": "7649-4-15:40-8",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Архитектура вычислительных систем",
@@ -496,6 +466,7 @@
       "lessons": [
         {
           "id": "7649-5-08:30-1",
+          "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Военная подготовка (офицеры запаса)",
@@ -508,6 +479,7 @@
         },
         {
           "id": "7649-5-08:30-2",
+          "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Военная подготовка (матросы/солдаты запаса)",
@@ -520,6 +492,7 @@
         },
         {
           "id": "7649-5-10:10-3",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Военная подготовка (офицеры запаса)",
@@ -532,6 +505,7 @@
         },
         {
           "id": "7649-5-10:10-4",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Военная подготовка (матросы/солдаты запаса)",
@@ -544,18 +518,7 @@
         },
         {
           "id": "7649-5-11:50-5",
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Военная подготовка (офицеры запаса)",
-          "type": "military",
-          "rawType": "Практическое занятие",
-          "room": "Г 216",
-          "campus": "Горьковская (Корпус Г)",
-          "groupName": "3370",
-          "weekParity": "both"
-        },
-        {
-          "id": "7649-5-11:50-6",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Военная подготовка (матросы/солдаты запаса)",
@@ -567,7 +530,21 @@
           "weekParity": "both"
         },
         {
+          "id": "7649-5-11:50-6",
+          "dayIndex": 5,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "Г 216",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3370",
+          "weekParity": "both"
+        },
+        {
           "id": "7649-5-15:40-7",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Основы военной подготовки",
@@ -586,6 +563,7 @@
         },
         {
           "id": "7649-5-15:40-8",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Основы военной подготовки",
@@ -602,6 +580,7 @@
         },
         {
           "id": "7649-5-17:20-9",
+          "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Основы военной подготовки",
@@ -620,6 +599,7 @@
         },
         {
           "id": "7649-5-17:20-10",
+          "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Основы военной подготовки",
@@ -636,6 +616,7 @@
         },
         {
           "id": "7649-5-19:00-11",
+          "dayIndex": 5,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Основы военной подготовки",
@@ -652,22 +633,7 @@
         },
         {
           "id": "7649-5-19:00-12",
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Основы военной подготовки",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 103",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "3370",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Величко Борис Валерьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
-          }
-        },
-        {
-          "id": "7649-5-19:00-13",
+          "dayIndex": 5,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Основы военной подготовки",
@@ -683,6 +649,23 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
           }
+        },
+        {
+          "id": "7649-5-19:00-13",
+          "dayIndex": 5,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы военной подготовки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3370",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
         }
       ]
     },
@@ -692,6 +675,7 @@
       "lessons": [
         {
           "id": "7649-6-10:10-1",
+          "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Электротехника, электроника и схемотехника",
@@ -710,6 +694,7 @@
         },
         {
           "id": "7649-6-11:50-2",
+          "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Электротехника, электроника и схемотехника",
@@ -728,6 +713,7 @@
         },
         {
           "id": "7649-6-14:00-3",
+          "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Деловые коммуникации",
@@ -744,6 +730,7 @@
         },
         {
           "id": "7649-6-14:00-4",
+          "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Электротехника, электроника и схемотехника",

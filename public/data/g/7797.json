@@ -1,7 +1,7 @@
 {
   "groupId": "7797",
   "groupName": "12740-02",
-  "updatedAt": "2026-09-20T17:58:02.946Z",
+  "updatedAt": "2026-09-21T07:57:18.244Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,7 @@
       "lessons": [
         {
           "id": "7797-1-08:30-1",
+          "dayIndex": 1,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Теория государства и права",
@@ -27,25 +28,8 @@
           }
         },
         {
-          "id": "7797-1-08:30-2",
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Теория государства и права",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр 207",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12740-02",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Вахмистрова Светлана Ивановна",
-            "id": "123591",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/123591/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/02/small/p123591.jpg?token_static=8a6b9269908e48ce4b8eccfe9cc27640"
-          }
-        },
-        {
-          "id": "7797-1-10:10-3",
+          "id": "7797-1-10:10-2",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Философия",
@@ -63,7 +47,8 @@
           }
         },
         {
-          "id": "7797-1-10:10-4",
+          "id": "7797-1-10:10-3",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Философия",
@@ -81,7 +66,8 @@
           }
         },
         {
-          "id": "7797-1-11:50-5",
+          "id": "7797-1-11:50-4",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физическая культура и спорт",
@@ -100,23 +86,8 @@
           }
         },
         {
-          "id": "7797-1-11:50-6",
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Основы военной подготовки",
-          "type": "military",
-          "rawType": "Практическое занятие",
-          "room": "У ВУЦ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12740-02",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Величко Борис Валерьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
-          }
-        },
-        {
-          "id": "7797-1-11:50-7",
+          "id": "7797-1-11:50-5",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Основы военной подготовки",
@@ -134,7 +105,42 @@
           }
         },
         {
+          "id": "7797-1-11:50-6",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У ВУЦ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-02",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
+        },
+        {
+          "id": "7797-1-14:00-7",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У ВУЦ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-02",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
+        },
+        {
           "id": "7797-1-14:00-8",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Основы военной подготовки",
@@ -153,31 +159,17 @@
         },
         {
           "id": "7797-1-14:00-9",
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Основы военной подготовки",
-          "type": "military",
-          "rawType": "Практическое занятие",
-          "room": "У ВУЦ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12740-02",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Величко Борис Валерьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
-          }
-        },
-        {
-          "id": "7797-1-14:00-10",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Основы военной подготовки",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр 207",
+          "room": "У 536(1)",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12740-02",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Романов Александр Иванович",
             "id": "122500",
@@ -193,6 +185,7 @@
       "lessons": [
         {
           "id": "7797-2-08:30-1",
+          "dayIndex": 2,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Иностранный язык",
@@ -205,6 +198,7 @@
         },
         {
           "id": "7797-2-10:10-2",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Безопасность жизнедеятельности",
@@ -223,6 +217,7 @@
         },
         {
           "id": "7797-2-10:10-3",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Безопасность жизнедеятельности",
@@ -241,15 +236,17 @@
         },
         {
           "id": "7797-2-11:50-4",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "История государства и права России",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр 207",
+          "room": "У 107",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12740-02",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Тарасов Александр Сергеевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/25/small/p127622.jpg?token_static=423628d80af8147008744c36b3f5f078"
@@ -257,15 +254,17 @@
         },
         {
           "id": "7797-2-14:00-5",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информационные системы в юридической деятельности",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 207",
+          "room": "У 156",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12740-02",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Выволокина Альбина Витальевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/31/small/p126941.jpg?token_static=ac1ee48f55a60d9ac55b35359ccd8a63"
@@ -279,6 +278,7 @@
       "lessons": [
         {
           "id": "7797-3-11:50-1",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика и математика",
@@ -295,6 +295,7 @@
         },
         {
           "id": "7797-3-14:00-2",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Иностранный язык",
@@ -307,6 +308,7 @@
         },
         {
           "id": "7797-3-15:40-3",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Теория государства и права",
@@ -331,6 +333,7 @@
       "lessons": [
         {
           "id": "7797-4-10:10-1",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Социальное взаимодействие в профессиональной деятельности",
@@ -348,6 +351,7 @@
         },
         {
           "id": "7797-4-11:50-2",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "История государства и права России",
@@ -364,6 +368,7 @@
         },
         {
           "id": "7797-4-14:00-3",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Введение в специальность",
@@ -380,6 +385,7 @@
         },
         {
           "id": "7797-4-15:40-4",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "История России",
@@ -396,6 +402,7 @@
         },
         {
           "id": "7797-4-15:40-5",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Введение в специальность",
@@ -418,6 +425,7 @@
       "lessons": [
         {
           "id": "7797-5-11:50-1",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Безопасность жизнедеятельности",
@@ -436,6 +444,21 @@
         },
         {
           "id": "7797-5-11:50-2",
+          "dayIndex": 5,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-02",
+          "weekParity": "down",
+          "dateSpecific": "06.10"
+        },
+        {
+          "id": "7797-5-11:50-3",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физическая культура и спорт",
@@ -454,20 +477,8 @@
           }
         },
         {
-          "id": "7797-5-11:50-3",
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12740-02",
-          "weekParity": "down",
-          "dateSpecific": "06.10"
-        },
-        {
           "id": "7797-5-14:00-4",
+          "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Безопасность жизнедеятельности",
@@ -486,15 +497,17 @@
         },
         {
           "id": "7797-5-14:00-5",
+          "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика и математика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр 207",
+          "room": "У 514",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12740-02",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Певзнер Виталий Владимирович",
             "id": "100878",
@@ -504,6 +517,7 @@
         },
         {
           "id": "7797-5-15:40-6",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "История России",
@@ -520,6 +534,7 @@
         },
         {
           "id": "7797-5-17:20-7",
+          "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "История России",
@@ -542,6 +557,7 @@
       "lessons": [
         {
           "id": "7797-6-10:10-1",
+          "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Обучение служением",
@@ -558,6 +574,7 @@
         },
         {
           "id": "7797-6-11:50-2",
+          "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Обучение служением",

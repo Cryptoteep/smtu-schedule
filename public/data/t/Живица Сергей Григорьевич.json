@@ -3,13 +3,33 @@
   "teacherName": "Живица Сергей Григорьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/24/small/p122141.jpg?token_static=1b6f38179a9474015009576eaad53646",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/122141/",
-  "updatedAt": "2026-09-20T17:58:06.832Z",
-  "totalLessons": 3,
+  "updatedAt": "2026-09-21T07:57:24.018Z",
+  "totalLessons": 4,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7912-1-19:00-6",
+          "dayIndex": 1,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Дополнительные разделы динамики объектов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Живица Сергей Григорьевич",
+            "id": "122141",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122141/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/24/small/p122141.jpg?token_static=1b6f38179a9474015009576eaad53646"
+          }
+        }
+      ]
     },
     {
       "dayName": "Вторник",

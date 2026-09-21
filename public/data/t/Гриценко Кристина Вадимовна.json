@@ -2,7 +2,7 @@
   "teacherId": "Гриценко Кристина Вадимовна",
   "teacherName": "Гриценко Кристина Вадимовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3",
-  "updatedAt": "2026-09-20T17:58:06.865Z",
+  "updatedAt": "2026-09-21T07:57:24.095Z",
   "totalLessons": 18,
   "days": [
     {
@@ -75,6 +75,7 @@
         },
         {
           "id": "7798-1-15:40-5",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Информатика",
@@ -91,6 +92,7 @@
         },
         {
           "id": "7798-1-17:20-6",
+          "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Информатика",
@@ -107,6 +109,7 @@
         },
         {
           "id": "7798-1-17:20-7",
+          "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Информатика",
@@ -199,6 +202,7 @@
       "lessons": [
         {
           "id": "7782-3-08:30-1",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Информатика",
@@ -215,15 +219,17 @@
         },
         {
           "id": "7782-3-10:10-2",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 316",
+          "room": "У 314в",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-03",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Гриценко Кристина Вадимовна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3"

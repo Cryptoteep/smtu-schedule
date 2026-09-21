@@ -3,7 +3,7 @@
   "teacherName": "Балашова Елена Сергеевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/12/09/small/p123843.jpg?token_static=a9f4c150fedd8ad3ad22f8d00aec687b",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/123843/",
-  "updatedAt": "2026-09-20T17:58:06.936Z",
+  "updatedAt": "2026-09-21T07:57:24.231Z",
   "totalLessons": 2,
   "days": [
     {
@@ -22,6 +22,7 @@
       "lessons": [
         {
           "id": "7899-3-14:00-1",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Морская логистика",
@@ -41,6 +42,7 @@
         },
         {
           "id": "7899-3-15:40-2",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Морская логистика",

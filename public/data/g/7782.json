@@ -1,7 +1,7 @@
 {
   "groupId": "7782",
   "groupName": "12126-03",
-  "updatedAt": "2026-09-20T17:57:44.368Z",
+  "updatedAt": "2026-09-21T07:56:55.823Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,7 @@
       "lessons": [
         {
           "id": "7782-1-08:30-1",
+          "dayIndex": 1,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Информатика",
@@ -21,6 +22,7 @@
         },
         {
           "id": "7782-1-08:30-2",
+          "dayIndex": 1,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "История России",
@@ -39,6 +41,7 @@
         },
         {
           "id": "7782-1-10:10-3",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "История России",
@@ -55,6 +58,7 @@
         },
         {
           "id": "7782-1-10:10-4",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Иностранный язык",
@@ -71,6 +75,7 @@
         },
         {
           "id": "7782-1-11:50-5",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Иностранный язык",
@@ -87,6 +92,7 @@
         },
         {
           "id": "7782-1-14:00-6",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Основы российской государственности",
@@ -108,15 +114,17 @@
       "lessons": [
         {
           "id": "7782-2-10:10-1",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Математический анализ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 115",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-03",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Постников Сергей Николаевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/10/small/p102517.jpg?token_static=f95fd3436ea970f5d8bd1c3cfb134b81"
@@ -124,6 +132,7 @@
         },
         {
           "id": "7782-2-11:50-2",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Начертательная геометрия",
@@ -140,6 +149,7 @@
         },
         {
           "id": "7782-2-11:50-3",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Общая и неорганическая химия",
@@ -164,6 +174,7 @@
       "lessons": [
         {
           "id": "7782-3-08:30-1",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Информатика",
@@ -180,15 +191,17 @@
         },
         {
           "id": "7782-3-10:10-2",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 316",
+          "room": "У 314в",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-03",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Гриценко Кристина Вадимовна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3"
@@ -196,6 +209,7 @@
         },
         {
           "id": "7782-3-11:50-3",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Математический анализ",
@@ -212,6 +226,7 @@
         },
         {
           "id": "7782-3-14:00-4",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Начертательная геометрия",
@@ -228,6 +243,7 @@
         },
         {
           "id": "7782-3-14:00-5",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Начертательная геометрия",
@@ -244,6 +260,7 @@
         },
         {
           "id": "7782-3-14:00-6",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Лабораторные работы по общей и неорганической химии",
@@ -266,6 +283,7 @@
       "lessons": [
         {
           "id": "7782-4-08:30-1",
+          "dayIndex": 4,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "История России",
@@ -284,6 +302,7 @@
         },
         {
           "id": "7782-4-10:10-2",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Линейная алгебра, Аналитическая геометрия",
@@ -300,6 +319,7 @@
         },
         {
           "id": "7782-4-11:50-3",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -310,14 +330,13 @@
           "groupName": "12126-03",
           "weekParity": "up",
           "teacher": {
-            "name": "Черкаев Георгий Владимирович",
-            "id": "101309",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101309/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/25/small/p101309.jpg?token_static=ee2cf7db26238bc7ed44737b082e9642"
+            "name": "Павлов Павел Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
           }
         },
         {
           "id": "7782-4-11:50-4",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -334,22 +353,7 @@
         },
         {
           "id": "7782-4-11:50-5",
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 450",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12126-03",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Павлов Павел Валентинович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
-          }
-        },
-        {
-          "id": "7782-4-11:50-6",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -367,7 +371,27 @@
           }
         },
         {
+          "id": "7782-4-11:50-6",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12126-03",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Черкаев Георгий Владимирович",
+            "id": "101309",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101309/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/25/small/p101309.jpg?token_static=ee2cf7db26238bc7ed44737b082e9642"
+          }
+        },
+        {
           "id": "7782-4-11:50-7",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -386,6 +410,7 @@
         },
         {
           "id": "7782-4-11:50-8",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -404,22 +429,7 @@
         },
         {
           "id": "7782-4-11:50-9",
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 450",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12126-03",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Дроздов Владимир Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
-          }
-        },
-        {
-          "id": "7782-4-11:50-10",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -435,7 +445,8 @@
           }
         },
         {
-          "id": "7782-4-11:50-11",
+          "id": "7782-4-11:50-10",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -444,14 +455,15 @@
           "room": "А 450",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "12126-03",
-          "weekParity": "both",
+          "weekParity": "down",
           "teacher": {
-            "name": "Ворожейко Анастасия Сергеевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/11/small/p106538.jpg?token_static=a46f970454ad734881b8ad2509e37f04"
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
           }
         },
         {
-          "id": "7782-4-11:50-12",
+          "id": "7782-4-11:50-11",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -469,7 +481,8 @@
           }
         },
         {
-          "id": "7782-4-11:50-13",
+          "id": "7782-4-11:50-12",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -483,6 +496,23 @@
             "name": "Бокатова Анастасия Антоновна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
           }
+        },
+        {
+          "id": "7782-4-11:50-13",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12126-03",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ворожейко Анастасия Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/11/small/p106538.jpg?token_static=a46f970454ad734881b8ad2509e37f04"
+          }
         }
       ]
     },
@@ -492,6 +522,7 @@
       "lessons": [
         {
           "id": "7782-5-08:30-1",
+          "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Линейная алгебра, Аналитическая геометрия",
@@ -508,6 +539,7 @@
         },
         {
           "id": "7782-5-10:10-2",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт",
@@ -520,6 +552,7 @@
         },
         {
           "id": "7782-5-10:10-3",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт",
@@ -536,6 +569,7 @@
         },
         {
           "id": "7782-5-11:50-4",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Основы российской государственности",

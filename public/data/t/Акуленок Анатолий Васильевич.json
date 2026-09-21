@@ -2,15 +2,50 @@
   "teacherId": "Акуленок Анатолий Васильевич",
   "teacherName": "Акуленок Анатолий Васильевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100011.jpg?token_static=d39bd00560048560c5618c7e5ca584ab",
-  "updatedAt": "2026-09-20T17:58:06.820Z",
-  "totalLessons": 11,
+  "updatedAt": "2026-09-21T07:57:24.013Z",
+  "totalLessons": 13,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
       "lessons": [
         {
+          "id": "7759-1-11:50-4",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20280",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Акуленок Анатолий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100011.jpg?token_static=d39bd00560048560c5618c7e5ca584ab"
+          }
+        },
+        {
+          "id": "7759-1-14:00-5",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20280",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Акуленок Анатолий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100011.jpg?token_static=d39bd00560048560c5618c7e5ca584ab"
+          }
+        },
+        {
           "id": "7805-1-11:50-1",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика",
@@ -27,6 +62,7 @@
         },
         {
           "id": "7805-1-14:00-2",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
@@ -97,6 +133,7 @@
         },
         {
           "id": "7800-2-10:10-2",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Информатика",
@@ -172,6 +209,7 @@
         },
         {
           "id": "7800-4-14:00-7",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
@@ -188,6 +226,7 @@
         },
         {
           "id": "7805-4-10:10-4",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Информатика",

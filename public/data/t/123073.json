@@ -3,13 +3,52 @@
   "teacherName": "Пак Элла Ефимовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
-  "updatedAt": "2026-09-20T17:58:06.830Z",
-  "totalLessons": 11,
+  "updatedAt": "2026-09-21T07:57:24.018Z",
+  "totalLessons": 13,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7760-1-08:30-1",
+          "dayIndex": 1,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 410",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20290",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пак Элла Ефимовна",
+            "id": "123073",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc"
+          }
+        },
+        {
+          "id": "7760-1-10:10-2",
+          "dayIndex": 1,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 440",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20290",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пак Элла Ефимовна",
+            "id": "123073",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc"
+          }
+        }
+      ]
     },
     {
       "dayName": "Вторник",

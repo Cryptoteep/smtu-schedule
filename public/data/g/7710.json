@@ -1,7 +1,7 @@
 {
   "groupId": "7710",
   "groupName": "7281",
-  "updatedAt": "2026-09-20T17:58:03.703Z",
+  "updatedAt": "2026-09-21T07:57:19.525Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,7 @@
       "lessons": [
         {
           "id": "7710-1-15:40-1",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Правовое обеспечение безопасности торгового мореплавания",
@@ -26,6 +27,7 @@
         },
         {
           "id": "7710-1-17:20-2",
+          "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Правовое обеспечение безопасности торгового мореплавания",
@@ -43,6 +45,7 @@
         },
         {
           "id": "7710-1-19:00-3",
+          "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Международная морская организация",
@@ -60,6 +63,7 @@
         },
         {
           "id": "7710-1-20:40-4",
+          "dayIndex": 1,
           "time": "20:40-22:10",
           "timeSlotIndex": 5,
           "subject": "Международная морская организация",
@@ -83,6 +87,7 @@
       "lessons": [
         {
           "id": "7710-2-14:00-1",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Бережливое производство в судостроении",
@@ -102,6 +107,7 @@
         },
         {
           "id": "7710-2-15:40-2",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Бережливое производство в судостроении",
@@ -121,6 +127,7 @@
         },
         {
           "id": "7710-2-17:20-3",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Бережливое производство в судостроении",
@@ -146,6 +153,7 @@
       "lessons": [
         {
           "id": "7710-4-15:40-1",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Управление изменениями",
@@ -162,41 +170,8 @@
           }
         },
         {
-          "id": "7710-4-15:40-2",
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Управление изменениями",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 303ю",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "7281",
-          "weekParity": "both",
-          "dateSpecific": "01.09 по 14.09",
-          "teacher": {
-            "name": "Тарасов Александр Сергеевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/25/small/p127622.jpg?token_static=423628d80af8147008744c36b3f5f078"
-          }
-        },
-        {
-          "id": "7710-4-17:20-3",
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Управление изменениями",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 303ю",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "7281",
-          "weekParity": "both",
-          "dateSpecific": "01.09 по 14.09",
-          "teacher": {
-            "name": "Тарасов Александр Сергеевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/25/small/p127622.jpg?token_static=423628d80af8147008744c36b3f5f078"
-          }
-        },
-        {
-          "id": "7710-4-17:20-4",
+          "id": "7710-4-17:20-2",
+          "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Управление изменениями",
@@ -220,6 +195,7 @@
       "lessons": [
         {
           "id": "7710-5-08:30-1",
+          "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Военная подготовка (офицеры запаса)",
@@ -238,25 +214,7 @@
       "lessons": [
         {
           "id": "7710-6-08:30-1",
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Методы принятия решений",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 209ю",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "7281",
-          "weekParity": "both",
-          "dateSpecific": "01.09 по 14.09",
-          "teacher": {
-            "name": "Егорова Людмила Дмитриевна",
-            "id": "101333",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101333/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/19/small/p101333.jpg?token_static=b1c8cfab2928cd2806acb939e2f1cefc"
-          }
-        },
-        {
-          "id": "7710-6-08:30-2",
+          "dayIndex": 6,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Методы принятия решений",
@@ -275,26 +233,8 @@
           }
         },
         {
-          "id": "7710-6-10:10-3",
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Методы принятия решений",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 209ю",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "7281",
-          "weekParity": "both",
-          "dateSpecific": "01.09 по 14.09",
-          "teacher": {
-            "name": "Егорова Людмила Дмитриевна",
-            "id": "101333",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101333/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/19/small/p101333.jpg?token_static=b1c8cfab2928cd2806acb939e2f1cefc"
-          }
-        },
-        {
-          "id": "7710-6-10:10-4",
+          "id": "7710-6-10:10-2",
+          "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Методы принятия решений",
@@ -313,7 +253,8 @@
           }
         },
         {
-          "id": "7710-6-11:50-5",
+          "id": "7710-6-11:50-3",
+          "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Иностранный язык в профессиональной деятельности",
@@ -326,7 +267,8 @@
           "dateSpecific": "08.09 по 30.11"
         },
         {
-          "id": "7710-6-14:00-6",
+          "id": "7710-6-14:00-4",
+          "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Иностранный язык в профессиональной деятельности",

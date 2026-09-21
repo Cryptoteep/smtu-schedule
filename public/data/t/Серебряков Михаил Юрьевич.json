@@ -2,7 +2,7 @@
   "teacherId": "Серебряков Михаил Юрьевич",
   "teacherName": "Серебряков Михаил Юрьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a",
-  "updatedAt": "2026-09-20T17:58:06.857Z",
+  "updatedAt": "2026-09-21T07:57:24.071Z",
   "totalLessons": 17,
   "days": [
     {
@@ -129,6 +129,7 @@
       "lessons": [
         {
           "id": "7917-2-11:50-2",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Комплексные информационные технологии",
@@ -145,6 +146,7 @@
         },
         {
           "id": "7917-2-14:00-4",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Комплексные информационные технологии",
@@ -236,6 +238,7 @@
         },
         {
           "id": "7917-4-10:10-1",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Комплексные информационные технологии",
@@ -274,6 +277,7 @@
         },
         {
           "id": "7486-5-10:10-1",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Вычислительные системы и сетевые технологии",

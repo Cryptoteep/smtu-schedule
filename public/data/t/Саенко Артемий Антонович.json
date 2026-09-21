@@ -2,7 +2,7 @@
   "teacherId": "Саенко Артемий Антонович",
   "teacherName": "Саенко Артемий Антонович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p131856.jpg?token_static=5710e658157408c937f04c5abe5adfe6",
-  "updatedAt": "2026-09-20T17:58:06.926Z",
+  "updatedAt": "2026-09-21T07:57:24.205Z",
   "totalLessons": 6,
   "days": [
     {
@@ -10,7 +10,8 @@
       "dayIndex": 1,
       "lessons": [
         {
-          "id": "7444-1-11:50-4",
+          "id": "7444-1-11:50-3",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика",
@@ -34,15 +35,17 @@
       "lessons": [
         {
           "id": "7803-2-11:50-6",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 307",
+          "room": "У 314в",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-03",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Саенко Артемий Антонович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p131856.jpg?token_static=5710e658157408c937f04c5abe5adfe6"
@@ -61,6 +64,7 @@
       "lessons": [
         {
           "id": "7444-4-11:50-3",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика",
@@ -77,6 +81,7 @@
         },
         {
           "id": "7803-4-11:50-4",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика",
@@ -99,6 +104,7 @@
       "lessons": [
         {
           "id": "7444-5-10:10-3",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Информатика",
@@ -115,6 +121,7 @@
         },
         {
           "id": "7803-5-11:50-4",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика",

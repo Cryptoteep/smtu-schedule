@@ -1,7 +1,7 @@
 {
   "groupId": "7704",
   "groupName": "7200",
-  "updatedAt": "2026-09-20T17:58:03.576Z",
+  "updatedAt": "2026-09-21T07:57:19.319Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,7 @@
       "lessons": [
         {
           "id": "7704-1-14:00-1",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Бережливое производство в судостроении",
@@ -28,44 +29,7 @@
         },
         {
           "id": "7704-1-15:40-2",
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Новые направления в современной теоретической социологии",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 150",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "7200",
-          "weekParity": "both",
-          "dateSpecific": "01.09 по 16.11",
-          "teacher": {
-            "name": "Медведев Владимир Иванович",
-            "id": "100748",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
-          }
-        },
-        {
-          "id": "7704-1-15:40-3",
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Новые направления в современной теоретической социологии",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр 426",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "7200",
-          "weekParity": "both",
-          "dateSpecific": "01.09 по 16.11",
-          "teacher": {
-            "name": "Медведев Владимир Иванович",
-            "id": "100748",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
-          }
-        },
-        {
-          "id": "7704-1-15:40-4",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Бережливое производство в судостроении",
@@ -84,7 +48,48 @@
           }
         },
         {
+          "id": "7704-1-15:40-3",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Новые направления в современной теоретической социологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 150",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7200",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 16.11",
+          "teacher": {
+            "name": "Медведев Владимир Иванович",
+            "id": "100748",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+          }
+        },
+        {
+          "id": "7704-1-17:20-4",
+          "dayIndex": 1,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Новые направления в современной теоретической социологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 308",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7200",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 16.11",
+          "teacher": {
+            "name": "Медведев Владимир Иванович",
+            "id": "100748",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+          }
+        },
+        {
           "id": "7704-1-17:20-5",
+          "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Бережливое производство в судостроении",
@@ -104,6 +109,7 @@
         },
         {
           "id": "7704-1-17:20-6",
+          "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Социология труда",
@@ -122,64 +128,8 @@
           }
         },
         {
-          "id": "7704-1-17:20-7",
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Новые направления в современной теоретической социологии",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр 426",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "7200",
-          "weekParity": "both",
-          "dateSpecific": "01.09 по 16.11",
-          "teacher": {
-            "name": "Медведев Владимир Иванович",
-            "id": "100748",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
-          }
-        },
-        {
-          "id": "7704-1-17:20-8",
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Новые направления в современной теоретической социологии",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 308",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "7200",
-          "weekParity": "both",
-          "dateSpecific": "01.09 по 16.11",
-          "teacher": {
-            "name": "Медведев Владимир Иванович",
-            "id": "100748",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
-          }
-        },
-        {
-          "id": "7704-1-19:00-9",
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Новые направления в современной теоретической социологии",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 426",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "7200",
-          "weekParity": "both",
-          "dateSpecific": "01.09 по 16.11",
-          "teacher": {
-            "name": "Медведев Владимир Иванович",
-            "id": "100748",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
-          }
-        },
-        {
-          "id": "7704-1-19:00-10",
+          "id": "7704-1-19:00-7",
+          "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Новые направления в современной теоретической социологии",
@@ -198,7 +148,8 @@
           }
         },
         {
-          "id": "7704-1-19:00-11",
+          "id": "7704-1-19:00-8",
+          "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Социология труда",
@@ -217,9 +168,10 @@
           }
         },
         {
-          "id": "7704-1-20:40-12",
+          "id": "7704-1-20:40-9",
+          "dayIndex": 1,
           "time": "20:40-22:10",
-          "timeSlotIndex": 13,
+          "timeSlotIndex": 10,
           "subject": "Социология труда",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -243,6 +195,7 @@
       "lessons": [
         {
           "id": "7704-2-15:40-1",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Кризисное управление и управленческие конфликты",
@@ -262,6 +215,7 @@
         },
         {
           "id": "7704-2-17:20-2",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Кризисное управление и управленческие конфликты",
@@ -281,6 +235,7 @@
         },
         {
           "id": "7704-2-19:00-3",
+          "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Кризисное управление и управленческие конфликты",
@@ -300,6 +255,7 @@
         },
         {
           "id": "7704-2-19:00-4",
+          "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Кризисное управление и управленческие конфликты",
@@ -319,6 +275,7 @@
         },
         {
           "id": "7704-2-20:40-5",
+          "dayIndex": 2,
           "time": "20:40-22:10",
           "timeSlotIndex": 6,
           "subject": "Социология труда",
@@ -338,6 +295,7 @@
         },
         {
           "id": "7704-2-20:40-6",
+          "dayIndex": 2,
           "time": "20:40-22:10",
           "timeSlotIndex": 7,
           "subject": "Социология труда",
@@ -363,15 +321,17 @@
       "lessons": [
         {
           "id": "7704-3-17:20-1",
+          "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Современные концепции социологии управления",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр 426",
+          "room": "У 150",
           "campus": "Ульянка (Корпус У)",
           "groupName": "7200",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Козырев Александр Борисович",
             "id": "100538",
@@ -381,15 +341,17 @@
         },
         {
           "id": "7704-3-19:00-2",
+          "dayIndex": 3,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Современные концепции социологии управления",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 426",
+          "room": "У 150",
           "campus": "Ульянка (Корпус У)",
           "groupName": "7200",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Козырев Александр Борисович",
             "id": "100538",
@@ -399,6 +361,7 @@
         },
         {
           "id": "7704-3-20:40-3",
+          "dayIndex": 3,
           "time": "20:40-22:10",
           "timeSlotIndex": 4,
           "subject": "Трудовое и коммерческое право",
@@ -415,15 +378,17 @@
         },
         {
           "id": "7704-3-20:40-4",
+          "dayIndex": 3,
           "time": "20:40-22:10",
           "timeSlotIndex": 5,
           "subject": "Трудовое и коммерческое право",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 426",
+          "room": "У 150",
           "campus": "Ульянка (Корпус У)",
           "groupName": "7200",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Ельчанинова Ольга Владимировна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/09/small/p139976.jpg?token_static=557769433bdf5b34760b0d1eef542284"
@@ -437,6 +402,7 @@
       "lessons": [
         {
           "id": "7704-4-15:40-1",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Кризисное управление и управленческие конфликты",
@@ -456,6 +422,7 @@
         },
         {
           "id": "7704-4-17:20-2",
+          "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Социология труда",
@@ -475,6 +442,7 @@
         },
         {
           "id": "7704-4-19:00-3",
+          "dayIndex": 4,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Социология труда",
@@ -494,6 +462,7 @@
         },
         {
           "id": "7704-4-20:40-4",
+          "dayIndex": 4,
           "time": "20:40-22:10",
           "timeSlotIndex": 5,
           "subject": "Социология труда",
@@ -519,6 +488,7 @@
       "lessons": [
         {
           "id": "7704-5-08:30-1",
+          "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Военная подготовка (офицеры запаса)",
@@ -537,15 +507,17 @@
       "lessons": [
         {
           "id": "7704-6-10:10-1",
+          "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Регионализация и межуровневое управление в Европе",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр 426",
+          "room": "У 150",
           "campus": "Ульянка (Корпус У)",
           "groupName": "7200",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Солдатов Андрей Александрович",
             "id": "101131",
@@ -554,15 +526,17 @@
         },
         {
           "id": "7704-6-11:50-2",
+          "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Регионализация и межуровневое управление в Европе",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 426",
+          "room": "У 150",
           "campus": "Ульянка (Корпус У)",
           "groupName": "7200",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Солдатов Андрей Александрович",
             "id": "101131",

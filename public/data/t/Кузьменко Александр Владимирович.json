@@ -2,8 +2,8 @@
   "teacherId": "Кузьменко Александр Владимирович",
   "teacherName": "Кузьменко Александр Владимирович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/04/small/p100615.jpg?token_static=722e25e2dda2989add83074fc37a2776",
-  "updatedAt": "2026-09-20T17:58:06.891Z",
-  "totalLessons": 26,
+  "updatedAt": "2026-09-21T07:57:24.150Z",
+  "totalLessons": 28,
   "days": [
     {
       "dayName": "Понедельник",
@@ -115,6 +115,40 @@
           "room": "Г 418",
           "campus": "Горьковская (Корпус Г)",
           "groupName": "3526",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кузьменко Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/04/small/p100615.jpg?token_static=722e25e2dda2989add83074fc37a2776"
+          }
+        },
+        {
+          "id": "7863-1-19:00-1",
+          "dayIndex": 1,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Проектирование информационных систем подводной робототехники",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 418",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5580",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кузьменко Александр Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/04/small/p100615.jpg?token_static=722e25e2dda2989add83074fc37a2776"
+          }
+        },
+        {
+          "id": "7863-1-20:40-2",
+          "dayIndex": 1,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование информационных систем подводной робототехники",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Г 418",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "5580",
           "weekParity": "up",
           "teacher": {
             "name": "Кузьменко Александр Владимирович",

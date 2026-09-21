@@ -2,7 +2,7 @@
   "teacherId": "Бояров Игорь Павлович",
   "teacherName": "Бояров Игорь Павлович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/11/10/small/p139927.jpg?token_static=b4816c47a784e838cdb12f8d976276b1",
-  "updatedAt": "2026-09-20T17:58:06.933Z",
+  "updatedAt": "2026-09-21T07:57:24.230Z",
   "totalLessons": 7,
   "days": [
     {
@@ -11,6 +11,7 @@
       "lessons": [
         {
           "id": "7726-1-11:50-3",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информационные технологии в цифровой экономике",
@@ -33,6 +34,7 @@
       "lessons": [
         {
           "id": "7722-2-10:10-2",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Основы вычислительной техники",
@@ -65,6 +67,7 @@
       "lessons": [
         {
           "id": "7723-5-10:10-2",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Основы вычислительной техники",
@@ -81,6 +84,7 @@
         },
         {
           "id": "7723-5-11:50-4",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Основы вычислительной техники",
@@ -103,6 +107,7 @@
       "lessons": [
         {
           "id": "7722-6-10:10-3",
+          "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Основы вычислительной техники",
@@ -119,6 +124,7 @@
         },
         {
           "id": "7723-6-11:50-2",
+          "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Основы вычислительной техники",
@@ -135,6 +141,7 @@
         },
         {
           "id": "7723-6-14:00-4",
+          "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Основы вычислительной техники",

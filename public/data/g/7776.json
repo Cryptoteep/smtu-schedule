@@ -1,7 +1,7 @@
 {
   "groupId": "7776",
   "groupName": "20450",
-  "updatedAt": "2026-09-20T17:57:59.465Z",
+  "updatedAt": "2026-09-21T07:57:14.272Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,18 +9,7 @@
       "lessons": [
         {
           "id": "7776-1-14:00-1",
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Инженерная психология",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 319",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20450",
-          "weekParity": "up"
-        },
-        {
-          "id": "7776-1-14:00-2",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Сети и телекоммуникации",
@@ -36,7 +25,21 @@
           }
         },
         {
+          "id": "7776-1-14:00-2",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Инженерная психология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "up"
+        },
+        {
           "id": "7776-1-15:40-3",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Управление качеством, стандартизация, сертификация",
@@ -53,6 +56,7 @@
         },
         {
           "id": "7776-1-15:40-4",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Анализ больших данных",
@@ -69,6 +73,7 @@
         },
         {
           "id": "7776-1-17:20-5",
+          "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Сети и телекоммуникации",
@@ -85,6 +90,7 @@
         },
         {
           "id": "7776-1-17:20-6",
+          "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Системы искусственного интеллекта",
@@ -103,25 +109,8 @@
           }
         },
         {
-          "id": "7776-1-17:20-7",
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Системы искусственного интеллекта",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр 304",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20450",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Петров Олег Николаевич",
-            "id": "100888",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8"
-          }
-        },
-        {
-          "id": "7776-1-19:00-8",
+          "id": "7776-1-19:00-7",
+          "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Цифровые технологии в жизненном цикле морской техники",
@@ -144,15 +133,17 @@
       "lessons": [
         {
           "id": "7776-2-08:30-1",
+          "dayIndex": 2,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Системы искусственного интеллекта",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 304",
+          "room": "У 436",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20450",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Петров Олег Николаевич",
             "id": "100888",
@@ -162,6 +153,7 @@
         },
         {
           "id": "7776-2-10:10-2",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Анализ больших данных",
@@ -178,15 +170,17 @@
         },
         {
           "id": "7776-2-10:10-3",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Функциональное и логическое программирование",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "Конгресс-Центр 306",
+          "room": "У 205-ИИТ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20450",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Андреев Кирилл Иванович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128239.jpg?token_static=181cfcb6185f86a45a92e70dac84e40c"
@@ -194,6 +188,7 @@
         },
         {
           "id": "7776-2-11:50-4",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Анализ больших данных",
@@ -212,15 +207,17 @@
         },
         {
           "id": "7776-2-11:50-5",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Функциональное и логическое программирование",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "Конгресс-Центр 306",
+          "room": "У 205-ИИТ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20450",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Андреев Кирилл Иванович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128239.jpg?token_static=181cfcb6185f86a45a92e70dac84e40c"
@@ -228,15 +225,17 @@
         },
         {
           "id": "7776-2-14:00-6",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Функциональное и логическое программирование",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр 304",
+          "room": "У 169",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20450",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Петров Олег Николаевич",
             "id": "100888",
@@ -252,6 +251,7 @@
       "lessons": [
         {
           "id": "7776-4-11:50-1",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Защита информации",
@@ -270,6 +270,7 @@
         },
         {
           "id": "7776-4-14:00-2",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Защита информации",
@@ -288,6 +289,7 @@
         },
         {
           "id": "7776-4-15:40-3",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Цифровые технологии в жизненном цикле морской техники",
@@ -304,6 +306,7 @@
         },
         {
           "id": "7776-4-15:40-4",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Управление качеством, стандартизация, сертификация",
@@ -320,6 +323,7 @@
         },
         {
           "id": "7776-4-17:20-5",
+          "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Цифровые технологии в жизненном цикле морской техники",
@@ -336,15 +340,17 @@
         },
         {
           "id": "7776-4-17:20-6",
+          "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Функциональное и логическое программирование",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр 304",
+          "room": "У 436",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20450",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Петров Олег Николаевич",
             "id": "100888",
@@ -354,6 +360,7 @@
         },
         {
           "id": "7776-4-19:00-7",
+          "dayIndex": 4,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Цифровые технологии в жизненном цикле морской техники",
@@ -376,6 +383,7 @@
       "lessons": [
         {
           "id": "7776-6-11:50-1",
+          "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Защита информации",

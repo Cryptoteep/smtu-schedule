@@ -3,7 +3,7 @@
   "teacherName": "Прудникова Татьяна Юрьевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100952.jpg?token_static=247ccf183881448ad446f44fe6ce2653",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100952/",
-  "updatedAt": "2026-09-20T17:58:06.921Z",
+  "updatedAt": "2026-09-21T07:57:24.204Z",
   "totalLessons": 14,
   "days": [
     {
@@ -12,6 +12,7 @@
       "lessons": [
         {
           "id": "6965-1-08:30-2",
+          "dayIndex": 1,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "История России",
@@ -30,6 +31,7 @@
         },
         {
           "id": "7463-1-10:10-2",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "История России",
@@ -48,6 +50,7 @@
         },
         {
           "id": "7487-1-10:10-1",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "История России",
@@ -72,6 +75,7 @@
       "lessons": [
         {
           "id": "7462-2-14:00-6",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "История России",
@@ -90,15 +94,17 @@
         },
         {
           "id": "7798-2-11:50-3",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "История России",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 115",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-11, 12826-12, 12822-01, 12822-02, 12826-38, 12826-39",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Прудникова Татьяна Юрьевна",
             "id": "100952",
@@ -114,6 +120,7 @@
       "lessons": [
         {
           "id": "7463-3-10:10-1",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "История России",
@@ -132,6 +139,7 @@
         },
         {
           "id": "7798-3-08:30-1",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "История России",
@@ -156,6 +164,7 @@
       "lessons": [
         {
           "id": "6965-4-08:30-1",
+          "dayIndex": 4,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "История России",
@@ -174,6 +183,7 @@
         },
         {
           "id": "7462-4-10:10-1",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "История России",
@@ -203,6 +213,7 @@
       "lessons": [
         {
           "id": "7443-6-10:10-2",
+          "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "История России",
@@ -221,6 +232,7 @@
         },
         {
           "id": "7443-6-11:50-3",
+          "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "История России",
@@ -239,6 +251,7 @@
         },
         {
           "id": "7487-6-08:30-1",
+          "dayIndex": 6,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "История России",
@@ -257,6 +270,7 @@
         },
         {
           "id": "7803-6-10:10-1",
+          "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "История России",
@@ -275,6 +289,7 @@
         },
         {
           "id": "7803-6-10:10-2",
+          "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "История России",

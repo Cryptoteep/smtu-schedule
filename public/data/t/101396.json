@@ -3,7 +3,7 @@
   "teacherName": "Янченко Арина Юрьевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p101396.jpg?token_static=99a0d4318cb0d2b3fbf0b96697f65057",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101396/",
-  "updatedAt": "2026-09-20T17:58:06.911Z",
+  "updatedAt": "2026-09-21T07:57:24.178Z",
   "totalLessons": 15,
   "days": [
     {
@@ -47,7 +47,8 @@
           }
         },
         {
-          "id": "7889-1-17:20-6",
+          "id": "7889-1-17:20-5",
+          "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Введение в специальность",
@@ -65,7 +66,8 @@
           }
         },
         {
-          "id": "7889-1-19:00-7",
+          "id": "7889-1-19:00-6",
+          "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Введение в специальность",
@@ -263,6 +265,7 @@
         },
         {
           "id": "7897-4-17:20-3",
+          "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Теория обоснования управленческих решений",
@@ -282,6 +285,7 @@
         },
         {
           "id": "7897-4-19:00-6",
+          "dayIndex": 4,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Теория обоснования управленческих решений",

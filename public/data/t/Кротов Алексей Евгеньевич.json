@@ -3,7 +3,7 @@
   "teacherName": "Кротов Алексей Евгеньевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/30/small/p103479.jpg?token_static=844290e89b35106cb757c00f9dd0968d",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/103479/",
-  "updatedAt": "2026-09-20T17:58:06.931Z",
+  "updatedAt": "2026-09-21T07:57:24.228Z",
   "totalLessons": 2,
   "days": [
     {
@@ -17,15 +17,17 @@
       "lessons": [
         {
           "id": "7505-2-10:10-2",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Математический анализ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 174 - 177",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-04",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Кротов Алексей Евгеньевич",
             "id": "103479",
@@ -35,6 +37,7 @@
         },
         {
           "id": "7505-2-11:50-3",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Математический анализ",

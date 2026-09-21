@@ -1,7 +1,7 @@
 {
   "groupId": "7765",
   "groupName": "20313",
-  "updatedAt": "2026-09-20T17:57:58.611Z",
+  "updatedAt": "2026-09-21T07:57:13.502Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,7 @@
       "lessons": [
         {
           "id": "7765-1-14:00-1",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Механика жидкости и газа",
@@ -25,6 +26,7 @@
         },
         {
           "id": "7765-1-14:00-2",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Механика жидкости и газа",
@@ -41,6 +43,7 @@
         },
         {
           "id": "7765-1-15:40-3",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Строительная механика корабля",
@@ -65,6 +68,7 @@
       "lessons": [
         {
           "id": "7765-2-10:10-1",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Базовые технологии цифрового проектирования",
@@ -81,6 +85,7 @@
         },
         {
           "id": "7765-2-11:50-2",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Базовые технологии цифрового проектирования",
@@ -97,6 +102,7 @@
         },
         {
           "id": "7765-2-11:50-3",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Базовые технологии цифрового проектирования",
@@ -113,6 +119,7 @@
         },
         {
           "id": "7765-2-14:00-4",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Цифровая платформа &quot;Индустрия 4.0&quot;",
@@ -138,6 +145,7 @@
       "lessons": [
         {
           "id": "7765-4-11:50-1",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Механика жидкости и газа",
@@ -154,6 +162,7 @@
         },
         {
           "id": "7765-4-14:00-2",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Энергетические комплексы морской техники",
@@ -170,6 +179,7 @@
         },
         {
           "id": "7765-4-15:40-3",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Энергетические комплексы морской техники",
@@ -186,6 +196,7 @@
         },
         {
           "id": "7765-4-17:20-4",
+          "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Строительная механика корабля",
@@ -208,36 +219,41 @@
       "lessons": [
         {
           "id": "7765-5-10:10-1",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Программирование для инженеров",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 316",
+          "room": "У 202-ИИТ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20313",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Вайнт Никита"
           }
         },
         {
           "id": "7765-5-11:50-2",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Программирование для инженеров",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 316",
+          "room": "У 205-ИИТ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20313",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Вайнт Никита"
           }
         },
         {
           "id": "7765-5-14:00-3",
+          "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Сопротивление материалов",
@@ -256,6 +272,7 @@
         },
         {
           "id": "7765-5-14:00-4",
+          "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Цифровая платформа &quot;Индустрия 4.0&quot;",
@@ -273,6 +290,7 @@
         },
         {
           "id": "7765-5-15:40-5",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Сопротивление материалов",
@@ -295,15 +313,17 @@
       "lessons": [
         {
           "id": "7765-6-08:30-1",
+          "dayIndex": 6,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Облачные и сетевые технологии",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр 304",
+          "room": "У 515А",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20313",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Деулин Андрей Викторович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100332.jpg?token_static=5e220d85b97aa12c3b7137b39d46d30b"
@@ -311,15 +331,17 @@
         },
         {
           "id": "7765-6-10:10-2",
+          "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Облачные и сетевые технологии",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 307",
+          "room": "У 314в",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20313",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Деулин Андрей Викторович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100332.jpg?token_static=5e220d85b97aa12c3b7137b39d46d30b"

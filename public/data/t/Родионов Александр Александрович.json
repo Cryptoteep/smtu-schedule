@@ -3,8 +3,8 @@
   "teacherName": "Родионов Александр Александрович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100985.jpg?token_static=7f602212e660f550b5ae82435bfa35da",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100985/",
-  "updatedAt": "2026-09-20T17:58:06.848Z",
-  "totalLessons": 19,
+  "updatedAt": "2026-09-21T07:57:24.049Z",
+  "totalLessons": 20,
   "days": [
     {
       "dayName": "Понедельник",
@@ -63,6 +63,25 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100985/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100985.jpg?token_static=7f602212e660f550b5ae82435bfa35da"
           }
+        },
+        {
+          "id": "7579-1-11:50-2",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Метод конечных элементов в инженерных расчетах",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 215",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1519",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Родионов Александр Александрович",
+            "id": "100985",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100985/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100985.jpg?token_static=7f602212e660f550b5ae82435bfa35da"
+          }
         }
       ]
     },
@@ -90,6 +109,7 @@
         },
         {
           "id": "7915-2-15:40-3",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Вариационное исчисление",
@@ -108,6 +128,7 @@
         },
         {
           "id": "7915-2-15:40-4",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Вариационное исчисление",
@@ -126,6 +147,7 @@
         },
         {
           "id": "7915-2-17:20-5",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Методы принятия решений",
@@ -144,6 +166,7 @@
         },
         {
           "id": "7915-2-17:20-6",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Методы принятия решений",

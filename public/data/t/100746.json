@@ -3,7 +3,7 @@
   "teacherName": "Мащенко Владимир Юрьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100746.jpg?token_static=7b1b0198b26b91e39f3a2e9dd3ec1b84",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100746/",
-  "updatedAt": "2026-09-20T17:58:06.881Z",
+  "updatedAt": "2026-09-21T07:57:24.125Z",
   "totalLessons": 20,
   "days": [
     {
@@ -89,6 +89,7 @@
         },
         {
           "id": "7834-2-17:20-3",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Пропульсивные комплексы судов",
@@ -107,6 +108,7 @@
         },
         {
           "id": "7834-2-17:20-4",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Пропульсивные комплексы судов",
@@ -125,6 +127,7 @@
         },
         {
           "id": "7834-2-19:00-5",
+          "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Пропульсивные комплексы судов",
@@ -383,12 +386,13 @@
         },
         {
           "id": "6398-6-14:00-3",
+          "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Б 301б",
+          "room": "Б 301а",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12226-35",
           "weekParity": "down",

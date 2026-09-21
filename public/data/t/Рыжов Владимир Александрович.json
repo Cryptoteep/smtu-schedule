@@ -3,8 +3,8 @@
   "teacherName": "Рыжов Владимир Александрович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/03/small/p101012.jpg?token_static=ef90d7ca1f2951ec306da663eb55fa22",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101012/",
-  "updatedAt": "2026-09-20T17:58:06.853Z",
-  "totalLessons": 19,
+  "updatedAt": "2026-09-21T07:57:24.069Z",
+  "totalLessons": 27,
   "days": [
     {
       "dayName": "Понедельник",
@@ -110,6 +110,158 @@
           "room": "Б 500",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "20302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рыжов Владимир Александрович",
+            "id": "101012",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101012/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/03/small/p101012.jpg?token_static=ef90d7ca1f2951ec306da663eb55fa22"
+          }
+        },
+        {
+          "id": "7743-1-08:30-1",
+          "dayIndex": 1,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 503",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20200",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рыжов Владимир Александрович",
+            "id": "101012",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101012/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/03/small/p101012.jpg?token_static=ef90d7ca1f2951ec306da663eb55fa22"
+          }
+        },
+        {
+          "id": "7743-1-08:30-2",
+          "dayIndex": 1,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 503",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20200",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рыжов Владимир Александрович",
+            "id": "101012",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101012/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/03/small/p101012.jpg?token_static=ef90d7ca1f2951ec306da663eb55fa22"
+          }
+        },
+        {
+          "id": "7743-1-10:10-3",
+          "dayIndex": 1,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Математический анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 503",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20200",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рыжов Владимир Александрович",
+            "id": "101012",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101012/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/03/small/p101012.jpg?token_static=ef90d7ca1f2951ec306da663eb55fa22"
+          }
+        },
+        {
+          "id": "7743-1-10:10-4",
+          "dayIndex": 1,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Математический анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 503",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20200",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рыжов Владимир Александрович",
+            "id": "101012",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101012/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/03/small/p101012.jpg?token_static=ef90d7ca1f2951ec306da663eb55fa22"
+          }
+        },
+        {
+          "id": "7743-1-11:50-5",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Дифференциальные уравнения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 509",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20200",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рыжов Владимир Александрович",
+            "id": "101012",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101012/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/03/small/p101012.jpg?token_static=ef90d7ca1f2951ec306da663eb55fa22"
+          }
+        },
+        {
+          "id": "7743-1-11:50-6",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Дифференциальные уравнения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 509",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20200",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рыжов Владимир Александрович",
+            "id": "101012",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101012/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/03/small/p101012.jpg?token_static=ef90d7ca1f2951ec306da663eb55fa22"
+          }
+        },
+        {
+          "id": "7743-1-14:00-7",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Дифференциальные уравнения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 509",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20200",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рыжов Владимир Александрович",
+            "id": "101012",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101012/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/03/small/p101012.jpg?token_static=ef90d7ca1f2951ec306da663eb55fa22"
+          }
+        },
+        {
+          "id": "7743-1-14:00-8",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Дифференциальные уравнения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 509",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20200",
           "weekParity": "down",
           "teacher": {
             "name": "Рыжов Владимир Александрович",

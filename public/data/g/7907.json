@@ -1,7 +1,7 @@
 {
   "groupId": "7907",
   "groupName": "13726-71",
-  "updatedAt": "2026-09-20T17:58:05.589Z",
+  "updatedAt": "2026-09-21T07:57:22.256Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,22 +9,7 @@
       "lessons": [
         {
           "id": "7907-1-10:10-1",
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 306",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "13726-71",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Чиркунова Инна Васильевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/22/small/p139474.jpg?token_static=315c6a429c9e300f67925e649ba738b5"
-          }
-        },
-        {
-          "id": "7907-1-10:10-2",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Информатика",
@@ -41,7 +26,8 @@
           }
         },
         {
-          "id": "7907-1-11:50-3",
+          "id": "7907-1-11:50-2",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "География",
@@ -57,7 +43,8 @@
           }
         },
         {
-          "id": "7907-1-14:00-4",
+          "id": "7907-1-14:00-3",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Математика",
@@ -73,7 +60,8 @@
           }
         },
         {
-          "id": "7907-1-15:40-5",
+          "id": "7907-1-15:40-4",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Математика",
@@ -96,6 +84,7 @@
       "lessons": [
         {
           "id": "7907-2-08:30-1",
+          "dayIndex": 2,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Физическая культура",
@@ -112,6 +101,7 @@
         },
         {
           "id": "7907-2-10:10-2",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Иностранный язык",
@@ -128,6 +118,7 @@
         },
         {
           "id": "7907-2-11:50-3",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Химия",
@@ -150,6 +141,7 @@
       "lessons": [
         {
           "id": "7907-3-08:30-1",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Биология",
@@ -166,6 +158,7 @@
         },
         {
           "id": "7907-3-10:10-2",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Литература",
@@ -182,6 +175,7 @@
         },
         {
           "id": "7907-3-11:50-3",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физика",
@@ -204,6 +198,7 @@
       "lessons": [
         {
           "id": "7907-4-08:30-1",
+          "dayIndex": 4,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Обществознание",
@@ -220,6 +215,7 @@
         },
         {
           "id": "7907-4-10:10-2",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Русский язык",
@@ -236,6 +232,7 @@
         },
         {
           "id": "7907-4-11:50-3",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физика",
@@ -258,6 +255,7 @@
       "lessons": [
         {
           "id": "7907-5-08:30-1",
+          "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Информатика",
@@ -274,6 +272,7 @@
         },
         {
           "id": "7907-5-08:30-2",
+          "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Литература",
@@ -290,6 +289,7 @@
         },
         {
           "id": "7907-5-10:10-3",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Математика",
@@ -306,6 +306,7 @@
         },
         {
           "id": "7907-5-11:50-4",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Математика",
@@ -328,6 +329,7 @@
       "lessons": [
         {
           "id": "7907-6-11:50-1",
+          "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "История",
@@ -344,6 +346,7 @@
         },
         {
           "id": "7907-6-14:00-2",
+          "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "История",

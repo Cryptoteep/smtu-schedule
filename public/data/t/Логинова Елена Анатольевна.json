@@ -2,7 +2,7 @@
   "teacherId": "Логинова Елена Анатольевна",
   "teacherName": "Логинова Елена Анатольевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4",
-  "updatedAt": "2026-09-20T17:58:06.824Z",
+  "updatedAt": "2026-09-21T07:57:24.015Z",
   "totalLessons": 20,
   "days": [
     {
@@ -150,6 +150,7 @@
         },
         {
           "id": "7887-3-14:00-3",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Научно-технический семинар",
@@ -166,6 +167,7 @@
         },
         {
           "id": "7887-3-14:00-4",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Научно-технический семинар",
@@ -182,6 +184,7 @@
         },
         {
           "id": "7887-3-15:40-5",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Научно-технический семинар",
@@ -306,6 +309,7 @@
       "lessons": [
         {
           "id": "7786-5-11:50-1",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика",
@@ -322,15 +326,17 @@
         },
         {
           "id": "7786-5-11:50-2",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 304",
+          "room": "У 436",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-08",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Логинова Елена Анатольевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"
@@ -338,15 +344,17 @@
         },
         {
           "id": "7786-5-14:00-3",
+          "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 304",
+          "room": "У 436",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-08",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Логинова Елена Анатольевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/03/small/p124760.jpg?token_static=90f0fa43915181b9626899cfa775eae4"

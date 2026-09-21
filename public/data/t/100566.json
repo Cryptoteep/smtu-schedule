@@ -3,7 +3,7 @@
   "teacherName": "Коршунов Владимир Александрович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100566.jpg?token_static=d6c761e9ea105214cda2121cde1e5712",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100566/",
-  "updatedAt": "2026-09-20T17:58:06.835Z",
+  "updatedAt": "2026-09-21T07:57:24.042Z",
   "totalLessons": 17,
   "days": [
     {
@@ -162,6 +162,7 @@
         },
         {
           "id": "7915-2-19:00-7",
+          "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Лабораторный практикум по механике деформируемого твердого тела",
@@ -240,6 +241,7 @@
         },
         {
           "id": "7915-3-14:00-1",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Вычислительная механика и компьютерный инжиниринг",
@@ -258,6 +260,7 @@
         },
         {
           "id": "7915-3-15:40-2",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Вычислительная механика и компьютерный инжиниринг",

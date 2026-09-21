@@ -1,7 +1,7 @@
 {
   "groupId": "7787",
   "groupName": "12215-05",
-  "updatedAt": "2026-09-20T17:57:48.514Z",
+  "updatedAt": "2026-09-21T07:57:01.486Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,19 +9,7 @@
       "lessons": [
         {
           "id": "7787-1-10:10-1",
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12215-05",
-          "weekParity": "both",
-          "dateSpecific": "26.10 по 14.12"
-        },
-        {
-          "id": "7787-1-10:10-2",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт",
@@ -40,7 +28,22 @@
           }
         },
         {
+          "id": "7787-1-10:10-2",
+          "dayIndex": 1,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12215-05",
+          "weekParity": "both",
+          "dateSpecific": "26.10 по 14.12"
+        },
+        {
           "id": "7787-1-11:50-3",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "История России",
@@ -59,6 +62,7 @@
         },
         {
           "id": "7787-1-14:00-4",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Социальное взаимодействие в профессиональной деятельности",
@@ -75,6 +79,7 @@
         },
         {
           "id": "7787-1-14:00-5",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Социальное взаимодействие в профессиональной деятельности",
@@ -91,6 +96,7 @@
         },
         {
           "id": "7787-1-15:40-6",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Основы российской государственности",
@@ -113,6 +119,7 @@
       "lessons": [
         {
           "id": "7787-2-10:10-1",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "История России",
@@ -131,6 +138,7 @@
         },
         {
           "id": "7787-2-11:50-2",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Основы российской государственности",
@@ -147,15 +155,17 @@
         },
         {
           "id": "7787-2-14:00-3",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Линейная алгебра, Аналитическая геометрия",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 115",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12215-05",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Забавникова Татьяна Алексеевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/10/small/p128144.jpg?token_static=0a22e705380705821d98fffef1eee980"
@@ -163,22 +173,7 @@
         },
         {
           "id": "7787-2-15:40-4",
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Начертательная геометрия",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 211",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12215-05",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Свойкин Федор Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/21/small/p137669.jpg?token_static=4e96f3b114dd186bbc8a475dbacc5da7"
-          }
-        },
-        {
-          "id": "7787-2-15:40-5",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Начертательная геометрия",
@@ -194,7 +189,25 @@
           }
         },
         {
+          "id": "7787-2-15:40-5",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Начертательная геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 211",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12215-05",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Свойкин Федор Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/21/small/p137669.jpg?token_static=4e96f3b114dd186bbc8a475dbacc5da7"
+          }
+        },
+        {
           "id": "7787-2-15:40-6",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Лабораторные работы по общей и неорганической химии",
@@ -217,6 +230,7 @@
       "lessons": [
         {
           "id": "7787-3-10:10-1",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Иностранный язык",
@@ -235,6 +249,7 @@
         },
         {
           "id": "7787-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Иностранный язык",
@@ -253,6 +268,7 @@
         },
         {
           "id": "7787-3-14:00-3",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Математический анализ",
@@ -269,6 +285,7 @@
         },
         {
           "id": "7787-3-15:40-4",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Математический анализ",
@@ -291,6 +308,7 @@
       "lessons": [
         {
           "id": "7787-4-15:40-1",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Информатика",
@@ -309,6 +327,7 @@
         },
         {
           "id": "7787-4-15:40-2",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Информатика",
@@ -327,6 +346,7 @@
         },
         {
           "id": "7787-4-17:20-3",
+          "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Информатика",
@@ -351,6 +371,7 @@
       "lessons": [
         {
           "id": "7787-5-14:00-1",
+          "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Математический анализ",
@@ -367,6 +388,7 @@
         },
         {
           "id": "7787-5-15:40-2",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Общая и неорганическая химия",
@@ -385,6 +407,7 @@
         },
         {
           "id": "7787-5-15:40-3",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Начертательная геометрия",
@@ -407,6 +430,7 @@
       "lessons": [
         {
           "id": "7787-6-10:10-1",
+          "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "История России",
@@ -423,6 +447,7 @@
         },
         {
           "id": "7787-6-11:50-2",
+          "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Линейная алгебра, Аналитическая геометрия",
@@ -439,6 +464,7 @@
         },
         {
           "id": "7787-6-14:00-3",
+          "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Обучение служением",

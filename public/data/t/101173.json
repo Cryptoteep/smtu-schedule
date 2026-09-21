@@ -3,7 +3,7 @@
   "teacherName": "Телегин Василий Валерьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101173.jpg?token_static=752338f2386a125b0837a1a0228a4b50",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101173/",
-  "updatedAt": "2026-09-20T17:58:06.882Z",
+  "updatedAt": "2026-09-21T07:57:24.126Z",
   "totalLessons": 13,
   "days": [
     {
@@ -150,12 +150,13 @@
       "lessons": [
         {
           "id": "7789-3-08:30-1",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Информатика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Б 301а",
+          "room": "Б 301б",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12226-10",
           "weekParity": "up",
@@ -168,12 +169,13 @@
         },
         {
           "id": "7789-3-08:30-3",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Б 301а",
+          "room": "Б 301б",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12226-10",
           "weekParity": "down",
@@ -186,12 +188,13 @@
         },
         {
           "id": "7789-3-10:10-5",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Б 301б",
+          "room": "Б 301а",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12226-10",
           "weekParity": "both",
@@ -210,6 +213,7 @@
       "lessons": [
         {
           "id": "7785-4-14:00-1",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
@@ -228,6 +232,7 @@
         },
         {
           "id": "7785-4-14:00-2",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
@@ -246,6 +251,7 @@
         },
         {
           "id": "7785-4-15:40-3",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Информатика",

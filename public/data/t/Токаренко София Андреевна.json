@@ -2,7 +2,7 @@
   "teacherId": "Токаренко София Андреевна",
   "teacherName": "Токаренко София Андреевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128936.jpg?token_static=7dce80773d7ed41ade2f5219bda626bb",
-  "updatedAt": "2026-09-20T17:58:06.879Z",
+  "updatedAt": "2026-09-21T07:57:24.124Z",
   "totalLessons": 7,
   "days": [
     {
@@ -16,6 +16,7 @@
       "lessons": [
         {
           "id": "7835-2-14:00-1",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Теория эксперимента",
@@ -32,6 +33,7 @@
         },
         {
           "id": "7835-2-15:40-3",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Теория эксперимента",
@@ -48,6 +50,7 @@
         },
         {
           "id": "7835-2-17:20-4",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Теория эксперимента",

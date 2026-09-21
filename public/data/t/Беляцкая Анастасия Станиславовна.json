@@ -2,13 +2,65 @@
   "teacherId": "Беляцкая Анастасия Станиславовна",
   "teacherName": "Беляцкая Анастасия Станиславовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81",
-  "updatedAt": "2026-09-20T17:58:06.862Z",
-  "totalLessons": 9,
+  "updatedAt": "2026-09-21T07:57:24.073Z",
+  "totalLessons": 12,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7759-1-08:30-1",
+          "dayIndex": 1,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Гуманитарные аспекты информационной безопасности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 436",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20280",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Беляцкая Анастасия Станиславовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
+          }
+        },
+        {
+          "id": "7759-1-10:10-2",
+          "dayIndex": 1,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Гуманитарные аспекты информационной безопасности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 436",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20280",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Беляцкая Анастасия Станиславовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
+          }
+        },
+        {
+          "id": "7759-1-11:50-3",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Документоведение и конфиденциальное делопроизводство",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20280",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Беляцкая Анастасия Станиславовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
+          }
+        }
+      ]
     },
     {
       "dayName": "Вторник",
@@ -64,6 +116,7 @@
         },
         {
           "id": "7805-2-15:40-5",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "История и современная система защиты информации в России",
@@ -80,12 +133,13 @@
         },
         {
           "id": "7814-2-15:40-2",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Кибербезопасность и право",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 304",
+          "room": "У 436",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12740-51",
           "weekParity": "down",
@@ -97,12 +151,13 @@
         },
         {
           "id": "7814-2-17:20-4",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Кибербезопасность и право",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 304",
+          "room": "У 436",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12740-51",
           "weekParity": "down",
@@ -130,6 +185,7 @@
       "lessons": [
         {
           "id": "7805-5-08:30-2",
+          "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "История и современная система защиты информации в России",
@@ -146,6 +202,7 @@
         },
         {
           "id": "7805-5-10:10-3",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "История и современная система защиты информации в России",

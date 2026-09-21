@@ -2,7 +2,7 @@
   "teacherId": "Завьялов Артем Юрьевич",
   "teacherName": "Завьялов Артем Юрьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/10/small/p125367.jpg?token_static=e9be5f756fd0ae8a47d7bfc7e7b4d7b6",
-  "updatedAt": "2026-09-20T17:58:06.836Z",
+  "updatedAt": "2026-09-21T07:57:24.043Z",
   "totalLessons": 10,
   "days": [
     {
@@ -26,7 +26,8 @@
           }
         },
         {
-          "id": "7795-1-14:00-4",
+          "id": "7795-1-14:00-3",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
@@ -108,6 +109,7 @@
         },
         {
           "id": "7795-4-10:10-2",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Информатика",

@@ -3,13 +3,93 @@
   "teacherName": "Горавнева Татьяна Сергеевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
-  "updatedAt": "2026-09-20T17:58:06.858Z",
-  "totalLessons": 7,
+  "updatedAt": "2026-09-21T07:57:24.071Z",
+  "totalLessons": 11,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7760-1-15:40-5",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технологии разработки информационных ресурсов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20290",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Горавнева Татьяна Сергеевна",
+            "id": "100281",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec"
+          }
+        },
+        {
+          "id": "7761-1-14:00-3",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технологии разработки информационных ресурсов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 205-ИИТ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20291",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Горавнева Татьяна Сергеевна",
+            "id": "100281",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec"
+          }
+        },
+        {
+          "id": "7761-1-15:40-4",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технологии разработки информационных ресурсов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 436",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20291",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Горавнева Татьяна Сергеевна",
+            "id": "100281",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec"
+          }
+        },
+        {
+          "id": "7761-1-17:20-5",
+          "dayIndex": 1,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технологии разработки информационных ресурсов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 202-ИИТ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20291",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Горавнева Татьяна Сергеевна",
+            "id": "100281",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec"
+          }
+        }
+      ]
     },
     {
       "dayName": "Вторник",

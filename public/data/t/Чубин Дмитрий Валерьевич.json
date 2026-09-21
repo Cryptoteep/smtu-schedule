@@ -2,7 +2,7 @@
   "teacherId": "Чубин Дмитрий Валерьевич",
   "teacherName": "Чубин Дмитрий Валерьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/02/16/small/p124595.jpg?token_static=e67aec73131e515034d01de5425b5258",
-  "updatedAt": "2026-09-20T17:58:06.857Z",
+  "updatedAt": "2026-09-21T07:57:24.071Z",
   "totalLessons": 16,
   "days": [
     {
@@ -59,6 +59,7 @@
         },
         {
           "id": "7917-1-17:20-3",
+          "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Информационные системы в мехатронике и робототехнике",
@@ -75,6 +76,7 @@
         },
         {
           "id": "7917-1-19:00-4",
+          "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Информационные системы в мехатронике и робототехнике",
@@ -265,6 +267,7 @@
       "lessons": [
         {
           "id": "7802-6-10:10-3",
+          "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Информатика",
@@ -281,6 +284,7 @@
         },
         {
           "id": "7802-6-11:50-5",
+          "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика",

@@ -1,7 +1,7 @@
 {
   "groupId": "7470",
   "groupName": "2201",
-  "updatedAt": "2026-09-20T17:57:49.466Z",
+  "updatedAt": "2026-09-21T07:57:02.659Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,7 @@
       "lessons": [
         {
           "id": "7470-1-08:30-1",
+          "dayIndex": 1,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Детали машин",
@@ -25,6 +26,7 @@
         },
         {
           "id": "7470-1-10:10-2",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт (элективная)",
@@ -37,6 +39,7 @@
         },
         {
           "id": "7470-1-10:10-3",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Детали машин",
@@ -53,6 +56,7 @@
         },
         {
           "id": "7470-1-11:50-4",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Экология",
@@ -71,6 +75,7 @@
         },
         {
           "id": "7470-1-11:50-5",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Деловые коммуникации",
@@ -89,6 +94,7 @@
         },
         {
           "id": "7470-1-14:00-6",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Экология",
@@ -107,6 +113,7 @@
         },
         {
           "id": "7470-1-14:00-7",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Деловые коммуникации",
@@ -131,6 +138,7 @@
       "lessons": [
         {
           "id": "7470-2-08:30-1",
+          "dayIndex": 2,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Военная подготовка (офицеры запаса)",
@@ -143,6 +151,7 @@
         },
         {
           "id": "7470-2-10:10-2",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Военная подготовка (офицеры запаса)",
@@ -161,6 +170,7 @@
       "lessons": [
         {
           "id": "7470-3-11:50-1",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физика",
@@ -177,6 +187,7 @@
         },
         {
           "id": "7470-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физика",
@@ -193,15 +204,17 @@
         },
         {
           "id": "7470-3-14:00-3",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Высшая математика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 427",
+          "room": "У 174 - 177",
           "campus": "Ульянка (Корпус У)",
           "groupName": "2201",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Ионченкова Яна Юрьевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100473.jpg?token_static=e89f84e655182b88a6d0700458b6bf1a"
@@ -209,6 +222,7 @@
         },
         {
           "id": "7470-3-15:40-4",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Сопротивление материалов",
@@ -227,40 +241,26 @@
         },
         {
           "id": "7470-3-15:40-5",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Технология конструкционных материалов",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "У 245",
+          "room": "У 245а",
           "campus": "Ульянка (Корпус У)",
           "groupName": "2201",
           "weekParity": "down",
           "teacher": {
-            "name": "Греков Андрей Анатольевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/19/small/p100295.jpg?token_static=f5a5ab14ddce308e6acfffc82c1721e3"
+            "name": "Юнусов Фируз Абдукадимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123521.jpg?token_static=0ad0f3727125e27b503247a5b407397f"
           }
         },
         {
           "id": "7470-3-15:40-6",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
-          "subject": "Технология конструкционных материалов",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 245а",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "2201",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Юнусов Фируз Абдукадимович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123521.jpg?token_static=0ad0f3727125e27b503247a5b407397f"
-          }
-        },
-        {
-          "id": "7470-3-17:20-7",
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
           "subject": "Технология конструкционных материалов",
           "type": "lab",
           "rawType": "Лабораторное занятие",
@@ -274,7 +274,8 @@
           }
         },
         {
-          "id": "7470-3-17:20-8",
+          "id": "7470-3-17:20-7",
+          "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Технология конструкционных материалов",
@@ -287,6 +288,23 @@
           "teacher": {
             "name": "Юнусов Фируз Абдукадимович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123521.jpg?token_static=0ad0f3727125e27b503247a5b407397f"
+          }
+        },
+        {
+          "id": "7470-3-17:20-8",
+          "dayIndex": 3,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технология конструкционных материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 245",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Греков Андрей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/19/small/p100295.jpg?token_static=f5a5ab14ddce308e6acfffc82c1721e3"
           }
         }
       ]
@@ -297,18 +315,20 @@
       "lessons": [
         {
           "id": "7470-4-10:10-1",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт (элективная)",
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Гребная база Спортзал",
-          "campus": "Горьковская (Корпус Г)",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "2201",
           "weekParity": "down"
         },
         {
           "id": "7470-4-11:50-2",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Философия",
@@ -324,18 +344,20 @@
         },
         {
           "id": "7470-4-11:50-3",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физическая культура и спорт (элективная)",
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Гребная база Спортзал",
-          "campus": "Горьковская (Корпус Г)",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "2201",
           "weekParity": "down"
         },
         {
           "id": "7470-4-14:00-4",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Сопротивление материалов",
@@ -354,6 +376,7 @@
         },
         {
           "id": "7470-4-15:40-5",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Сопротивление материалов",
@@ -372,22 +395,7 @@
         },
         {
           "id": "7470-4-17:20-6",
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Материаловедение",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 191а",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "2201",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Смирнова Дарья Леонидовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/21/small/p115788.jpg?token_static=dae84bbc10e7606ca1d3d6f5a714fff4"
-          }
-        },
-        {
-          "id": "7470-4-17:20-7",
+          "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Материаловедение",
@@ -401,6 +409,23 @@
             "name": "Лебедева Надежда Валерьевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
           }
+        },
+        {
+          "id": "7470-4-17:20-7",
+          "dayIndex": 4,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Смирнова Дарья Леонидовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/21/small/p115788.jpg?token_static=dae84bbc10e7606ca1d3d6f5a714fff4"
+          }
         }
       ]
     },
@@ -410,6 +435,7 @@
       "lessons": [
         {
           "id": "7470-5-08:30-1",
+          "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Философия",
@@ -425,6 +451,7 @@
         },
         {
           "id": "7470-5-10:10-2",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Высшая математика",
@@ -441,6 +468,7 @@
         },
         {
           "id": "7470-5-11:50-3",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Технология конструкционных материалов",
@@ -457,6 +485,7 @@
         },
         {
           "id": "7470-5-14:00-4",
+          "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Физика",
@@ -473,22 +502,7 @@
         },
         {
           "id": "7470-5-15:40-5",
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Материаловедение",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 191",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "2201",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Лебедева Надежда Валерьевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
-          }
-        },
-        {
-          "id": "7470-5-15:40-6",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Материаловедение",
@@ -502,6 +516,23 @@
             "name": "Смирнова Дарья Леонидовна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/21/small/p115788.jpg?token_static=dae84bbc10e7606ca1d3d6f5a714fff4"
           }
+        },
+        {
+          "id": "7470-5-15:40-6",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лебедева Надежда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
+          }
         }
       ]
     },
@@ -511,6 +542,7 @@
       "lessons": [
         {
           "id": "7470-6-10:10-1",
+          "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Материаловедение",
@@ -527,6 +559,7 @@
         },
         {
           "id": "7470-6-10:10-2",
+          "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт (элективная)",
@@ -539,6 +572,7 @@
         },
         {
           "id": "7470-6-11:50-3",
+          "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Теоретическая механика",
@@ -555,6 +589,7 @@
         },
         {
           "id": "7470-6-11:50-4",
+          "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Материаловедение",
@@ -571,6 +606,7 @@
         },
         {
           "id": "7470-6-14:00-5",
+          "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Теоретическая механика",

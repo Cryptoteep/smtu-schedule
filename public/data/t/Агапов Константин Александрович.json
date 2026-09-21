@@ -2,7 +2,7 @@
   "teacherId": "Агапов Константин Александрович",
   "teacherName": "Агапов Константин Александрович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101436.jpg?token_static=c82ec886d50eb533db6ecd5bbc9a1a5c",
-  "updatedAt": "2026-09-20T17:58:06.927Z",
+  "updatedAt": "2026-09-21T07:57:24.206Z",
   "totalLessons": 7,
   "days": [
     {
@@ -10,7 +10,25 @@
       "dayIndex": 1,
       "lessons": [
         {
-          "id": "7467-1-14:00-4",
+          "id": "7451-1-19:00-2",
+          "dayIndex": 1,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Лабораторные работы по общей и неорганической химии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 536(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12213-03-2",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Агапов Константин Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101436.jpg?token_static=c82ec886d50eb533db6ecd5bbc9a1a5c"
+          }
+        },
+        {
+          "id": "7467-1-14:00-3",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Лабораторные работы по общей и неорганической химии",
@@ -27,6 +45,7 @@
         },
         {
           "id": "7800-1-11:50-5",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Лабораторные работы по общей и неорганической химии",
@@ -43,6 +62,7 @@
         },
         {
           "id": "7931-1-10:10-2",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Общая и неорганическая химия",
@@ -59,6 +79,7 @@
         },
         {
           "id": "7931-1-10:10-3",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Лабораторные работы по общей и неорганической химии",
@@ -78,24 +99,7 @@
     {
       "dayName": "Вторник",
       "dayIndex": 2,
-      "lessons": [
-        {
-          "id": "7451-2-19:00-2",
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Лабораторные работы по общей и неорганической химии",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 536(2)",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12213-03-2",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Агапов Константин Александрович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101436.jpg?token_static=c82ec886d50eb533db6ecd5bbc9a1a5c"
-          }
-        }
-      ]
+      "lessons": []
     },
     {
       "dayName": "Среда",
@@ -103,6 +107,7 @@
       "lessons": [
         {
           "id": "7795-3-10:10-1",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Лабораторные работы по общей и неорганической химии",
@@ -125,6 +130,7 @@
       "lessons": [
         {
           "id": "7794-4-14:00-5",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Лабораторные работы по общей и неорганической химии",

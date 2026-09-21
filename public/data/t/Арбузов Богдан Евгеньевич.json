@@ -2,7 +2,7 @@
   "teacherId": "Арбузов Богдан Евгеньевич",
   "teacherName": "Арбузов Богдан Евгеньевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/11/26/small/p127334.jpg?token_static=29f1144041dac363bbd8c28ec8f520bb",
-  "updatedAt": "2026-09-20T17:58:06.863Z",
+  "updatedAt": "2026-09-21T07:57:24.073Z",
   "totalLessons": 10,
   "days": [
     {
@@ -11,6 +11,7 @@
       "lessons": [
         {
           "id": "7461-1-10:10-3",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Информатика",
@@ -27,6 +28,7 @@
         },
         {
           "id": "7461-1-11:50-5",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика",
@@ -43,6 +45,7 @@
         },
         {
           "id": "7481-1-11:50-3",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика",
@@ -59,6 +62,7 @@
         },
         {
           "id": "7481-1-14:00-5",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
@@ -91,6 +95,7 @@
       "lessons": [
         {
           "id": "7816-4-17:20-3",
+          "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Инженерия знаний",
@@ -113,6 +118,7 @@
       "lessons": [
         {
           "id": "7480-5-14:00-4",
+          "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
@@ -129,6 +135,7 @@
         },
         {
           "id": "7480-5-15:40-5",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Информатика",

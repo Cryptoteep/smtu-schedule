@@ -3,7 +3,7 @@
   "teacherName": "Кротов Евгений Алексеевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100590.jpg?token_static=1cbe8e55b144f037405332a10de60893",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100590/",
-  "updatedAt": "2026-09-20T17:58:06.926Z",
+  "updatedAt": "2026-09-21T07:57:24.205Z",
   "totalLessons": 10,
   "days": [
     {
@@ -12,6 +12,7 @@
       "lessons": [
         {
           "id": "7804-1-08:30-1",
+          "dayIndex": 1,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Математический анализ",
@@ -30,6 +31,7 @@
         },
         {
           "id": "7804-1-11:50-3",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Математический анализ",
@@ -48,6 +50,7 @@
         },
         {
           "id": "7806-1-10:10-3",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Математический анализ",
@@ -72,15 +75,17 @@
       "lessons": [
         {
           "id": "7444-2-10:10-2",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Математический анализ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 115",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-02, 12509-06, 12509-01, 12509-03, 12509-05, 12509-07, 12509-08",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Кротов Евгений Алексеевич",
             "id": "100590",
@@ -90,6 +95,7 @@
         },
         {
           "id": "7444-2-14:00-5",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Математический анализ",
@@ -108,6 +114,7 @@
         },
         {
           "id": "7802-2-08:30-1",
+          "dayIndex": 2,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Математический анализ",
@@ -126,6 +133,7 @@
         },
         {
           "id": "7802-2-11:50-3",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Математический анализ",
@@ -144,6 +152,7 @@
         },
         {
           "id": "7806-2-10:10-3",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Математический анализ",
@@ -173,6 +182,7 @@
       "lessons": [
         {
           "id": "7941-4-10:10-2",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Математический анализ",
@@ -197,15 +207,17 @@
       "lessons": [
         {
           "id": "7803-5-08:30-1",
+          "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Математический анализ",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 207",
+          "room": "У 02ю",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-03",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Кротов Евгений Алексеевич",
             "id": "100590",

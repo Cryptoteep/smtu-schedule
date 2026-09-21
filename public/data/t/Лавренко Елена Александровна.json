@@ -2,8 +2,8 @@
   "teacherId": "123927",
   "teacherName": "Лавренко Елена Александровна",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/123927/",
-  "updatedAt": "2026-09-20T17:58:06.904Z",
-  "totalLessons": 21,
+  "updatedAt": "2026-09-21T07:57:24.175Z",
+  "totalLessons": 22,
   "days": [
     {
       "dayName": "Понедельник",
@@ -102,6 +102,7 @@
       "lessons": [
         {
           "id": "7892-2-11:50-2",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Государственное управление цифровой экономикой",
@@ -119,13 +120,14 @@
         },
         {
           "id": "7892-2-14:00-3",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Государственное управление цифровой экономикой",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 417-1",
-          "campus": "Лоцманская (Корпус А)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
           "groupName": "12638-01",
           "weekParity": "both",
           "teacher": {
@@ -136,13 +138,14 @@
         },
         {
           "id": "7892-2-15:40-4",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Экономика инноваций",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "А 417-1",
-          "campus": "Лоцманская (Корпус А)",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
           "groupName": "12638-01",
           "weekParity": "both",
           "teacher": {
@@ -282,8 +285,26 @@
           "rawType": "Лекция",
           "room": "Б 510",
           "campus": "Лоцманская (Корпус Б)",
-          "groupName": "4250",
+          "groupName": "4250, 4251",
           "weekParity": "down",
+          "teacher": {
+            "name": "Лавренко Елена Александровна",
+            "id": "123927",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123927/"
+          }
+        },
+        {
+          "id": "7674-5-10:10-1",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Риск-менеджмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 31",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4251",
+          "weekParity": "up",
           "teacher": {
             "name": "Лавренко Елена Александровна",
             "id": "123927",
@@ -368,6 +389,7 @@
         },
         {
           "id": "7892-6-10:10-1",
+          "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Экономика инноваций",
@@ -385,6 +407,7 @@
         },
         {
           "id": "7892-6-11:50-4",
+          "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Экономика инноваций",

@@ -3,8 +3,8 @@
   "teacherName": "Григорьева-Голубева Виктория Аркадьевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/08/28/small/p100302.jpg?token_static=3c400786fd351508022ddc8929baa59e",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100302/",
-  "updatedAt": "2026-09-20T17:58:06.831Z",
-  "totalLessons": 9,
+  "updatedAt": "2026-09-21T07:57:24.018Z",
+  "totalLessons": 10,
   "days": [
     {
       "dayName": "Понедельник",
@@ -22,6 +22,25 @@
           "groupName": "1333",
           "weekParity": "down",
           "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Григорьева-Голубева Виктория Аркадьевна",
+            "id": "100302",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100302/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/08/28/small/p100302.jpg?token_static=3c400786fd351508022ddc8929baa59e"
+          }
+        },
+        {
+          "id": "7912-1-11:50-1",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Русский язык как иностранный: язык для академических целей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 403",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1236",
+          "weekParity": "both",
           "teacher": {
             "name": "Григорьева-Голубева Виктория Аркадьевна",
             "id": "100302",
@@ -175,6 +194,7 @@
         },
         {
           "id": "7914-4-10:10-1",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Иностранный язык в профессиональной и академической коммуникации",

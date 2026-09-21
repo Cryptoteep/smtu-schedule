@@ -2,8 +2,8 @@
   "teacherId": "Здоровцева Анна Аркадьевна",
   "teacherName": "Здоровцева Анна Аркадьевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/01/small/140524.jpg?token_static=7f3f3129650c52f56f5d59cd0e2fa295",
-  "updatedAt": "2026-09-20T17:58:06.913Z",
-  "totalLessons": 14,
+  "updatedAt": "2026-09-21T07:57:24.179Z",
+  "totalLessons": 16,
   "days": [
     {
       "dayName": "Понедельник",
@@ -45,6 +45,7 @@
         },
         {
           "id": "7717-1-08:30-1",
+          "dayIndex": 1,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Жилищное право",
@@ -61,6 +62,7 @@
         },
         {
           "id": "7718-1-11:50-3",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Жилищное право",
@@ -77,6 +79,7 @@
         },
         {
           "id": "7719-1-10:10-1",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Жилищное право",
@@ -86,6 +89,42 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "7463",
           "weekParity": "both",
+          "teacher": {
+            "name": "Здоровцева Анна Аркадьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/01/small/140524.jpg?token_static=7f3f3129650c52f56f5d59cd0e2fa295"
+          }
+        },
+        {
+          "id": "7856-1-19:00-2",
+          "dayIndex": 1,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Жилищное право",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 403",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5400",
+          "weekParity": "both",
+          "dateSpecific": "27.10 по 21.12",
+          "teacher": {
+            "name": "Здоровцева Анна Аркадьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/01/small/140524.jpg?token_static=7f3f3129650c52f56f5d59cd0e2fa295"
+          }
+        },
+        {
+          "id": "7856-1-20:40-4",
+          "dayIndex": 1,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Жилищное право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 403",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5400",
+          "weekParity": "both",
+          "dateSpecific": "27.10 по 21.12",
           "teacher": {
             "name": "Здоровцева Анна Аркадьевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/01/small/140524.jpg?token_static=7f3f3129650c52f56f5d59cd0e2fa295"
@@ -139,6 +178,7 @@
       "lessons": [
         {
           "id": "7717-3-08:30-1",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Право социального обеспечения",
@@ -155,6 +195,7 @@
         },
         {
           "id": "7717-3-10:10-4",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Право социального обеспечения",
@@ -171,6 +212,7 @@
         },
         {
           "id": "7718-3-10:10-3",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Право социального обеспечения",
@@ -187,6 +229,7 @@
         },
         {
           "id": "7719-3-11:50-5",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Право социального обеспечения",
@@ -248,6 +291,7 @@
         },
         {
           "id": "7718-5-15:40-5",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Жилищное право",

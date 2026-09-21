@@ -1,7 +1,7 @@
 {
   "groupId": "7792",
   "groupName": "12327-01",
-  "updatedAt": "2026-09-20T17:57:53.301Z",
+  "updatedAt": "2026-09-21T07:57:06.942Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,24 +9,7 @@
       "lessons": [
         {
           "id": "7792-1-11:50-1",
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Математический анализ",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12327-01",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Русина Лариса Германовна",
-            "id": "123501",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/123501/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/17/small/p123501.jpg?token_static=ec8df21930d8598050ff7830e2e2ec38"
-          }
-        },
-        {
-          "id": "7792-1-11:50-2",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Математический анализ",
@@ -45,7 +28,8 @@
           }
         },
         {
-          "id": "7792-1-14:00-3",
+          "id": "7792-1-14:00-2",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Начертательная геометрия",
@@ -63,29 +47,14 @@
           }
         },
         {
-          "id": "7792-1-14:00-4",
+          "id": "7792-1-14:00-3",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "История России",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 427",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12327-01",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Смирнова Ирина Павловна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/17/small/p136999.jpg?token_static=8676b2c757bbff9743ce1ccba42fc758"
-          }
-        },
-        {
-          "id": "7792-1-14:00-5",
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "История России",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 225",
+          "room": "У 313",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12327-01",
           "weekParity": "down",
@@ -96,7 +65,8 @@
           }
         },
         {
-          "id": "7792-1-15:40-6",
+          "id": "7792-1-15:40-4",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Физическая культура и спорт",
@@ -122,6 +92,7 @@
       "lessons": [
         {
           "id": "7792-2-11:50-1",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Лабораторные работы по общей и неорганической химии",
@@ -140,6 +111,7 @@
         },
         {
           "id": "7792-2-14:00-2",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Основы военной подготовки",
@@ -156,6 +128,7 @@
         },
         {
           "id": "7792-2-15:40-3",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "История России",
@@ -174,6 +147,7 @@
         },
         {
           "id": "7792-2-17:20-4",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Общая и неорганическая химия",
@@ -192,6 +166,7 @@
         },
         {
           "id": "7792-2-17:20-5",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Начертательная геометрия",
@@ -216,6 +191,7 @@
       "lessons": [
         {
           "id": "7792-3-11:50-1",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Социальное взаимодействие в профессиональной деятельности",
@@ -233,6 +209,7 @@
         },
         {
           "id": "7792-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Социальное взаимодействие в профессиональной деятельности",
@@ -250,15 +227,17 @@
         },
         {
           "id": "7792-3-14:00-3",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 306",
+          "room": "У 202-ИИТ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12327-01",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Куликова Ольга Юрьевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128450.jpg?token_static=3b31c1c92994c21c75b40af97135822f"
@@ -266,6 +245,7 @@
         },
         {
           "id": "7792-3-15:40-4",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Информатика",
@@ -282,15 +262,17 @@
         },
         {
           "id": "7792-3-15:40-5",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Основы военной подготовки",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 167",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12327-01",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Романов Александр Иванович",
             "id": "122500",
@@ -306,6 +288,7 @@
       "lessons": [
         {
           "id": "7792-4-08:30-1",
+          "dayIndex": 4,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Математический анализ",
@@ -324,6 +307,7 @@
         },
         {
           "id": "7792-4-10:10-2",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Линейная алгебра, Аналитическая геометрия",
@@ -336,6 +320,7 @@
         },
         {
           "id": "7792-4-11:50-3",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Линейная алгебра, Аналитическая геометрия",
@@ -358,6 +343,7 @@
       "lessons": [
         {
           "id": "7792-5-11:50-1",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Иностранный язык",
@@ -370,6 +356,7 @@
         },
         {
           "id": "7792-5-14:00-2",
+          "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Иностранный язык",
@@ -382,6 +369,7 @@
         },
         {
           "id": "7792-5-15:40-3",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Информатика",
@@ -394,6 +382,7 @@
         },
         {
           "id": "7792-5-15:40-4",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "История России",
@@ -412,6 +401,7 @@
         },
         {
           "id": "7792-5-17:20-5",
+          "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Социальное взаимодействие в профессиональной деятельности",
@@ -435,6 +425,7 @@
       "lessons": [
         {
           "id": "7792-6-15:40-1",
+          "dayIndex": 6,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Обучение служением",
@@ -451,6 +442,7 @@
         },
         {
           "id": "7792-6-17:20-2",
+          "dayIndex": 6,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Обучение служением",

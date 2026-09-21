@@ -2,7 +2,7 @@
   "teacherId": "Постников Сергей Николаевич",
   "teacherName": "Постников Сергей Николаевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/10/small/p102517.jpg?token_static=f95fd3436ea970f5d8bd1c3cfb134b81",
-  "updatedAt": "2026-09-20T17:58:06.920Z",
+  "updatedAt": "2026-09-21T07:57:24.203Z",
   "totalLessons": 14,
   "days": [
     {
@@ -11,6 +11,7 @@
       "lessons": [
         {
           "id": "7893-1-15:40-4",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Высшая математика",
@@ -27,6 +28,7 @@
         },
         {
           "id": "7898-1-14:00-3",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Высшая математика",
@@ -43,6 +45,7 @@
         },
         {
           "id": "7898-1-14:00-4",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Высшая математика",
@@ -65,15 +68,17 @@
       "lessons": [
         {
           "id": "6965-2-10:10-1",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Математический анализ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 115",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12115-04, 12126-02, 12126-01, 12126-04, 12126-03",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Постников Сергей Николаевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/10/small/p102517.jpg?token_static=f95fd3436ea970f5d8bd1c3cfb134b81"
@@ -81,6 +86,7 @@
         },
         {
           "id": "7502-2-11:50-1",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Математический анализ",
@@ -97,6 +103,7 @@
         },
         {
           "id": "7830-2-14:00-3",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Математический анализ",
@@ -119,6 +126,7 @@
       "lessons": [
         {
           "id": "7461-3-10:10-2",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Математический анализ",
@@ -135,6 +143,7 @@
         },
         {
           "id": "7476-3-14:00-5",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Высшая математика",
@@ -151,6 +160,7 @@
         },
         {
           "id": "7480-3-08:30-1",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Математический анализ",
@@ -167,6 +177,7 @@
         },
         {
           "id": "7782-3-11:50-3",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Математический анализ",
@@ -189,6 +200,7 @@
       "lessons": [
         {
           "id": "6398-4-15:40-5",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Математический анализ",
@@ -205,6 +217,7 @@
         },
         {
           "id": "7481-4-11:50-4",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Математический анализ",
@@ -221,6 +234,7 @@
         },
         {
           "id": "7784-4-10:10-1",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Математический анализ",
@@ -237,6 +251,7 @@
         },
         {
           "id": "7789-4-14:00-2",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Математический анализ",

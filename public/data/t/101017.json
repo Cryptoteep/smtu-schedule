@@ -3,8 +3,8 @@
   "teacherName": "Рюмин Сергей Николаевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
-  "updatedAt": "2026-09-20T17:58:06.837Z",
-  "totalLessons": 16,
+  "updatedAt": "2026-09-21T07:57:24.043Z",
+  "totalLessons": 18,
   "days": [
     {
       "dayName": "Понедельник",
@@ -65,7 +65,8 @@
           }
         },
         {
-          "id": "6398-1-10:10-5",
+          "id": "6398-1-10:10-3",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Введение в специальность",
@@ -83,7 +84,8 @@
           }
         },
         {
-          "id": "6398-1-11:50-14",
+          "id": "6398-1-11:50-17",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -93,6 +95,44 @@
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12226-35, 12226-36, 12226-37, 12826-38, 12826-39",
           "weekParity": "down",
+          "teacher": {
+            "name": "Рюмин Сергей Николаевич",
+            "id": "101017",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
+          }
+        },
+        {
+          "id": "7578-1-11:50-1",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование скоростных судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 610",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1517, 1519",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Рюмин Сергей Николаевич",
+            "id": "101017",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
+          }
+        },
+        {
+          "id": "7578-1-14:00-2",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Проектирование скоростных судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 610",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1517, 1519",
+          "weekParity": "both",
           "teacher": {
             "name": "Рюмин Сергей Николаевич",
             "id": "101017",
@@ -222,6 +262,7 @@
         },
         {
           "id": "7463-3-14:00-11",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Введение в специальность",
@@ -240,6 +281,7 @@
         },
         {
           "id": "7786-3-11:50-9",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -281,7 +323,8 @@
           }
         },
         {
-          "id": "7442-4-14:00-10",
+          "id": "7442-4-14:00-11",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Введение в специальность",
@@ -299,7 +342,8 @@
           }
         },
         {
-          "id": "7461-4-11:50-11",
+          "id": "7461-4-11:50-12",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",

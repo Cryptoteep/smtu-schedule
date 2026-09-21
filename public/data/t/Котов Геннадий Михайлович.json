@@ -2,7 +2,7 @@
   "teacherId": "Котов Геннадий Михайлович",
   "teacherName": "Котов Геннадий Михайлович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/15/small/p102398.jpg?token_static=f21bb1d487d915ab6ee22ef5b7c048d7",
-  "updatedAt": "2026-09-20T17:58:06.931Z",
+  "updatedAt": "2026-09-21T07:57:24.229Z",
   "totalLessons": 5,
   "days": [
     {
@@ -11,6 +11,7 @@
       "lessons": [
         {
           "id": "7717-1-14:00-4",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Финансовое право",
@@ -27,6 +28,7 @@
         },
         {
           "id": "7719-1-11:50-2",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Финансовое право",
@@ -59,6 +61,7 @@
       "lessons": [
         {
           "id": "7717-4-14:00-3",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Финансовое право",
@@ -75,6 +78,7 @@
         },
         {
           "id": "7718-4-15:40-4",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Финансовое право",
@@ -91,6 +95,7 @@
         },
         {
           "id": "7718-4-17:20-6",
+          "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Финансовое право",

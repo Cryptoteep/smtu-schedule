@@ -3,8 +3,8 @@
   "teacherName": "Вишневский Леонид Иосифович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/06/small/p123867.jpg?token_static=cecbbd44160bd5a0c80440f28da4a900",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/123867/",
-  "updatedAt": "2026-09-20T17:58:06.831Z",
-  "totalLessons": 3,
+  "updatedAt": "2026-09-21T07:57:24.018Z",
+  "totalLessons": 4,
   "days": [
     {
       "dayName": "Понедельник",
@@ -21,6 +21,25 @@
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "1333, 1380",
           "weekParity": "up",
+          "teacher": {
+            "name": "Вишневский Леонид Иосифович",
+            "id": "123867",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123867/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/06/small/p123867.jpg?token_static=cecbbd44160bd5a0c80440f28da4a900"
+          }
+        },
+        {
+          "id": "7912-1-15:40-3",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Гидродинамика судов с динамическим поддержанием",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "down",
           "teacher": {
             "name": "Вишневский Леонид Иосифович",
             "id": "123867",

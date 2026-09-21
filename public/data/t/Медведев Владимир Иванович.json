@@ -3,7 +3,7 @@
   "teacherName": "Медведев Владимир Иванович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
-  "updatedAt": "2026-09-20T17:58:06.916Z",
+  "updatedAt": "2026-09-21T07:57:24.202Z",
   "totalLessons": 21,
   "days": [
     {
@@ -69,6 +69,7 @@
         },
         {
           "id": "7839-1-11:50-4",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Логика",
@@ -87,6 +88,7 @@
         },
         {
           "id": "7839-1-14:00-5",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Логика",
@@ -105,15 +107,17 @@
         },
         {
           "id": "7839-1-14:00-6",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Логика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 426",
+          "room": "У 156",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12739-01",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Медведев Владимир Иванович",
             "id": "100748",
@@ -123,6 +127,7 @@
         },
         {
           "id": "7940-1-10:10-1",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Логика",
@@ -146,7 +151,8 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7810-2-15:40-2",
+          "id": "7810-2-15:40-1",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Новые направления в современной теоретической социологии",
@@ -166,6 +172,7 @@
         },
         {
           "id": "7810-2-17:20-3",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Новые направления в современной теоретической социологии",
@@ -185,6 +192,7 @@
         },
         {
           "id": "7810-2-19:00-5",
+          "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Новые направления в современной теоретической социологии",
@@ -210,6 +218,7 @@
       "lessons": [
         {
           "id": "7839-3-14:00-3",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "История социологии",
@@ -228,6 +237,7 @@
         },
         {
           "id": "7839-3-15:40-4",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "История социологии",
@@ -246,15 +256,17 @@
         },
         {
           "id": "7840-3-15:40-5",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Логика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 426",
+          "room": "У 156",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12739-02",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Медведев Владимир Иванович",
             "id": "100748",

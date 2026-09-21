@@ -3,8 +3,8 @@
   "teacherName": "Мудрик Роман Сергеевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/28/small/p104150.jpg?token_static=7a079f505170c279e9d157b81a36cdf3",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/104150/",
-  "updatedAt": "2026-09-20T17:58:06.825Z",
-  "totalLessons": 21,
+  "updatedAt": "2026-09-21T07:57:24.015Z",
+  "totalLessons": 23,
   "days": [
     {
       "dayName": "Понедельник",
@@ -20,6 +20,44 @@
           "room": "Б 301а",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "1203",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мудрик Роман Сергеевич",
+            "id": "104150",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104150/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/28/small/p104150.jpg?token_static=7a079f505170c279e9d157b81a36cdf3"
+          }
+        },
+        {
+          "id": "7482-1-17:20-2",
+          "dayIndex": 1,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Строительная механика и прочность корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1202",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мудрик Роман Сергеевич",
+            "id": "104150",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104150/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/28/small/p104150.jpg?token_static=7a079f505170c279e9d157b81a36cdf3"
+          }
+        },
+        {
+          "id": "7482-1-19:00-3",
+          "dayIndex": 1,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Строительная механика и прочность корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1202",
           "weekParity": "both",
           "teacher": {
             "name": "Мудрик Роман Сергеевич",
@@ -108,6 +146,7 @@
         },
         {
           "id": "7915-2-14:00-1",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Научно-технический семинар",
@@ -126,6 +165,7 @@
         },
         {
           "id": "7915-2-14:00-2",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Научно-технический семинар",
@@ -347,6 +387,7 @@
       "lessons": [
         {
           "id": "7915-6-11:50-1",
+          "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Теория пластичности и ползучести",
@@ -365,6 +406,7 @@
         },
         {
           "id": "7915-6-11:50-2",
+          "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Теория пластичности и ползучести",
@@ -383,6 +425,7 @@
         },
         {
           "id": "7915-6-14:00-3",
+          "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Динамика упругих систем",
@@ -401,6 +444,7 @@
         },
         {
           "id": "7915-6-14:00-4",
+          "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Динамика упругих систем",

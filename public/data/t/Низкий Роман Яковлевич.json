@@ -2,7 +2,7 @@
   "teacherId": "Низкий Роман Яковлевич",
   "teacherName": "Низкий Роман Яковлевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/08/26/small/p123121.jpg?token_static=02b95aefe6f5b45818205c7ded96e7c8",
-  "updatedAt": "2026-09-20T17:58:06.916Z",
+  "updatedAt": "2026-09-21T07:57:24.202Z",
   "totalLessons": 4,
   "days": [
     {
@@ -54,6 +54,7 @@
       "lessons": [
         {
           "id": "7819-3-08:30-1",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Научно-технический семинар",
@@ -70,6 +71,7 @@
         },
         {
           "id": "7819-3-10:10-2",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Научно-технический семинар",

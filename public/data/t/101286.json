@@ -3,7 +3,7 @@
   "teacherName": "Хруцкий Олег Валентинович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p101286.jpg?token_static=9805cc3d8f7b92e289b4baf4702087b0",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101286/",
-  "updatedAt": "2026-09-20T17:58:06.884Z",
+  "updatedAt": "2026-09-21T07:57:24.127Z",
   "totalLessons": 6,
   "days": [
     {
@@ -12,6 +12,7 @@
       "lessons": [
         {
           "id": "7832-1-10:10-1",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Научно-технический семинар",
@@ -30,6 +31,7 @@
         },
         {
           "id": "7832-1-11:50-2",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Научно-технический семинар",

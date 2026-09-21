@@ -2,7 +2,7 @@
   "teacherId": "Тарасюк Светлана Владимировна",
   "teacherName": "Тарасюк Светлана Владимировна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/09/small/142870.jpg?token_static=37506ce12e86b664c1dc2472776c1947",
-  "updatedAt": "2026-09-20T17:58:06.894Z",
+  "updatedAt": "2026-09-21T07:57:24.151Z",
   "totalLessons": 4,
   "days": [
     {
@@ -16,6 +16,7 @@
       "lessons": [
         {
           "id": "7931-2-14:00-2",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Линейная алгебра, Аналитическая геометрия",
@@ -38,6 +39,7 @@
       "lessons": [
         {
           "id": "7896-3-14:00-5",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Высшая математика",
@@ -54,6 +56,7 @@
         },
         {
           "id": "7896-3-14:00-6",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Высшая математика",

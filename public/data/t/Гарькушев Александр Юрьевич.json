@@ -3,8 +3,8 @@
   "teacherName": "Гарькушев Александр Юрьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
-  "updatedAt": "2026-09-20T17:58:06.857Z",
-  "totalLessons": 25,
+  "updatedAt": "2026-09-21T07:57:24.071Z",
+  "totalLessons": 26,
   "days": [
     {
       "dayName": "Понедельник",
@@ -92,6 +92,25 @@
           "room": "У 321",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20480",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гарькушев Александр Юрьевич",
+            "id": "122911",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
+          }
+        },
+        {
+          "id": "7780-1-15:40-9",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Защита информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-06",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20490",
           "weekParity": "up",
           "teacher": {
             "name": "Гарькушев Александр Юрьевич",
@@ -252,6 +271,7 @@
         },
         {
           "id": "7814-2-15:40-1",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Кибербезопасность и право",
@@ -271,6 +291,7 @@
         },
         {
           "id": "7814-2-17:20-3",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Кибербезопасность и право",

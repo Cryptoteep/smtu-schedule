@@ -1,14 +1,15 @@
 {
   "groupId": "7755",
   "groupName": "20271",
-  "updatedAt": "2026-09-20T17:57:58.329Z",
+  "updatedAt": "2026-09-21T07:57:12.866Z",
   "days": [
     {
-      "dayName": "Вторник",
-      "dayIndex": 2,
+      "dayName": "Понедельник",
+      "dayIndex": 1,
       "lessons": [
         {
-          "id": "7755-2-11:50-1",
+          "id": "7755-1-11:50-1",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физика",
@@ -26,16 +27,18 @@
           }
         },
         {
-          "id": "7755-2-11:50-2",
+          "id": "7755-1-11:50-2",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 103",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20271",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Колесников Юрий Леонидович",
             "id": "122535",
@@ -44,7 +47,8 @@
           }
         },
         {
-          "id": "7755-2-14:00-3",
+          "id": "7755-1-14:00-3",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Высшая математика",
@@ -62,16 +66,18 @@
           }
         },
         {
-          "id": "7755-2-14:00-4",
+          "id": "7755-1-14:00-4",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Высшая математика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 107",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20271",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Свиркина Лариса Анатольевна",
             "id": "122619",
@@ -80,7 +86,8 @@
           }
         },
         {
-          "id": "7755-2-15:40-5",
+          "id": "7755-1-15:40-5",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Физика",
@@ -98,7 +105,8 @@
           }
         },
         {
-          "id": "7755-2-15:40-6",
+          "id": "7755-1-15:40-6",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Теоретическая механика",
@@ -123,6 +131,7 @@
       "lessons": [
         {
           "id": "7755-4-11:50-1",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Деловые коммуникации",
@@ -141,6 +150,7 @@
         },
         {
           "id": "7755-4-14:00-2",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Деловые коммуникации",
@@ -165,6 +175,7 @@
       "lessons": [
         {
           "id": "7755-5-10:10-1",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Экология",
@@ -183,6 +194,7 @@
         },
         {
           "id": "7755-5-11:50-2",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Высшая математика",
@@ -201,6 +213,7 @@
         },
         {
           "id": "7755-5-11:50-3",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Высшая математика",
@@ -219,6 +232,7 @@
         },
         {
           "id": "7755-5-14:00-4",
+          "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Теоретическая механика",
@@ -235,6 +249,7 @@
         },
         {
           "id": "7755-5-14:00-5",
+          "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Материаловедение",
@@ -251,6 +266,7 @@
         },
         {
           "id": "7755-5-15:40-6",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Сопротивление материалов",
@@ -269,6 +285,7 @@
         },
         {
           "id": "7755-5-15:40-7",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Сопротивление материалов",
@@ -293,22 +310,7 @@
       "lessons": [
         {
           "id": "7755-6-14:00-1",
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Детали машин",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 312",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20271",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Стукач Александр Васильевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/02/small/p122495.jpg?token_static=a8a1e3f8a8f151b4c46b6ea60c07c438"
-          }
-        },
-        {
-          "id": "7755-6-14:00-2",
+          "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Детали машин",
@@ -324,7 +326,25 @@
           }
         },
         {
+          "id": "7755-6-14:00-2",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Детали машин",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 312",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Стукач Александр Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/02/small/p122495.jpg?token_static=a8a1e3f8a8f151b4c46b6ea60c07c438"
+          }
+        },
+        {
           "id": "7755-6-15:40-3",
+          "dayIndex": 6,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Материаловедение",

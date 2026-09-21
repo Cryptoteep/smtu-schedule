@@ -3,13 +3,71 @@
   "teacherName": "Столяров Андрей Сергеевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
-  "updatedAt": "2026-09-20T17:58:06.882Z",
-  "totalLessons": 20,
+  "updatedAt": "2026-09-21T07:57:24.126Z",
+  "totalLessons": 23,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "6317-1-19:00-1",
+          "dayIndex": 1,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Топливная аппаратура",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5570",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "6317-1-19:00-2",
+          "dayIndex": 1,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Топливная аппаратура",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5570",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        },
+        {
+          "id": "6317-1-20:40-3",
+          "dayIndex": 1,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Топливная аппаратура",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 340",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "5570",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+          }
+        }
+      ]
     },
     {
       "dayName": "Вторник",
@@ -113,6 +171,7 @@
       "lessons": [
         {
           "id": "7788-3-08:30-1",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Информатика",
@@ -131,6 +190,7 @@
         },
         {
           "id": "7788-3-08:30-2",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Информатика",
@@ -149,6 +209,7 @@
         },
         {
           "id": "7788-3-10:10-3",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Информатика",
@@ -167,6 +228,7 @@
         },
         {
           "id": "7788-3-14:00-14",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
@@ -185,6 +247,7 @@
         },
         {
           "id": "7788-3-14:00-15",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
@@ -203,6 +266,7 @@
         },
         {
           "id": "7788-3-15:40-16",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Информатика",
@@ -227,6 +291,7 @@
       "lessons": [
         {
           "id": "7451-4-19:00-1",
+          "dayIndex": 4,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Информатика",
@@ -245,6 +310,7 @@
         },
         {
           "id": "7451-4-20:40-3",
+          "dayIndex": 4,
           "time": "20:40-22:10",
           "timeSlotIndex": 4,
           "subject": "Информатика",
@@ -263,6 +329,7 @@
         },
         {
           "id": "7787-4-15:40-1",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Информатика",
@@ -281,6 +348,7 @@
         },
         {
           "id": "7787-4-15:40-2",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Информатика",
@@ -299,6 +367,7 @@
         },
         {
           "id": "7787-4-17:20-3",
+          "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Информатика",

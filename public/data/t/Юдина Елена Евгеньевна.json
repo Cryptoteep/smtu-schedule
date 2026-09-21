@@ -2,7 +2,7 @@
   "teacherId": "Юдина Елена Евгеньевна",
   "teacherName": "Юдина Елена Евгеньевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p101386.jpg?token_static=48a634a058697779237d3870e1d68a58",
-  "updatedAt": "2026-09-20T17:58:06.928Z",
+  "updatedAt": "2026-09-21T07:57:24.206Z",
   "totalLessons": 2,
   "days": [
     {
@@ -16,6 +16,7 @@
       "lessons": [
         {
           "id": "7468-2-15:40-2",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Информатика",
@@ -32,6 +33,7 @@
         },
         {
           "id": "7468-2-17:20-3",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Информатика",

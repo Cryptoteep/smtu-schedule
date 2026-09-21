@@ -1,14 +1,15 @@
 {
   "groupId": "7861",
   "groupName": "5510",
-  "updatedAt": "2026-09-20T17:57:48.064Z",
+  "updatedAt": "2026-09-21T07:57:01.322Z",
   "days": [
     {
-      "dayName": "Вторник",
-      "dayIndex": 2,
+      "dayName": "Понедельник",
+      "dayIndex": 1,
       "lessons": [
         {
-          "id": "7861-2-19:00-1",
+          "id": "7861-1-19:00-1",
+          "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Конструкция корпуса судов",
@@ -26,7 +27,8 @@
           }
         },
         {
-          "id": "7861-2-20:40-2",
+          "id": "7861-1-20:40-2",
+          "dayIndex": 1,
           "time": "20:40-22:10",
           "timeSlotIndex": 3,
           "subject": "Конструкция корпуса судов",
@@ -51,6 +53,7 @@
       "lessons": [
         {
           "id": "7861-3-19:00-1",
+          "dayIndex": 3,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Проектирование судов",
@@ -69,6 +72,7 @@
         },
         {
           "id": "7861-3-20:40-2",
+          "dayIndex": 3,
           "time": "20:40-22:10",
           "timeSlotIndex": 3,
           "subject": "Проектирование судов",
@@ -93,6 +97,7 @@
       "lessons": [
         {
           "id": "7861-4-19:00-1",
+          "dayIndex": 4,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Проектирование судов",
@@ -103,11 +108,13 @@
           "groupName": "5510",
           "weekParity": "down",
           "teacher": {
-            "name": "Карплюк Артём Олегович"
+            "name": "Карплюк Артём Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/103084.jpg?token_static=ee3851c3e5c2f2df85be1d7fa0cd630e"
           }
         },
         {
           "id": "7861-4-20:40-2",
+          "dayIndex": 4,
           "time": "20:40-22:10",
           "timeSlotIndex": 3,
           "subject": "Проектирование судов",
@@ -118,7 +125,8 @@
           "groupName": "5510",
           "weekParity": "down",
           "teacher": {
-            "name": "Карплюк Артём Олегович"
+            "name": "Карплюк Артём Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/103084.jpg?token_static=ee3851c3e5c2f2df85be1d7fa0cd630e"
           }
         }
       ]

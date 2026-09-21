@@ -3,7 +3,7 @@
   "teacherName": "Гулый Илья Михайлович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/02/small/p131311.jpg?token_static=3695b359c3fab75fc5f09dab6e7dbd74",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/131311/",
-  "updatedAt": "2026-09-20T17:58:06.910Z",
+  "updatedAt": "2026-09-21T07:57:24.178Z",
   "totalLessons": 13,
   "days": [
     {
@@ -55,6 +55,7 @@
         },
         {
           "id": "7476-2-14:00-4",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
@@ -73,6 +74,7 @@
         },
         {
           "id": "7476-2-15:40-6",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Информатика",
@@ -91,6 +93,7 @@
         },
         {
           "id": "7898-2-11:50-3",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика",
@@ -193,6 +196,7 @@
       "lessons": [
         {
           "id": "7476-4-10:10-1",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Информатика",
@@ -211,6 +215,7 @@
         },
         {
           "id": "7476-4-11:50-2",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика",
@@ -229,6 +234,7 @@
         },
         {
           "id": "7898-4-14:00-4",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
@@ -247,6 +253,7 @@
         },
         {
           "id": "7898-4-15:40-6",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Информатика",

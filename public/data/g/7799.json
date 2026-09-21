@@ -1,7 +1,7 @@
 {
   "groupId": "7799",
   "groupName": "12826-12",
-  "updatedAt": "2026-09-20T17:58:05.115Z",
+  "updatedAt": "2026-09-21T07:57:21.226Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,7 @@
       "lessons": [
         {
           "id": "7799-1-10:10-1",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт",
@@ -22,6 +23,7 @@
         },
         {
           "id": "7799-1-10:10-2",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт",
@@ -41,6 +43,7 @@
         },
         {
           "id": "7799-1-11:50-3",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Иностранный язык",
@@ -59,6 +62,7 @@
         },
         {
           "id": "7799-1-14:00-4",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
@@ -75,6 +79,7 @@
         },
         {
           "id": "7799-1-14:00-5",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "История России",
@@ -91,6 +96,7 @@
         },
         {
           "id": "7799-1-15:40-6",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Основы российской государственности",
@@ -112,6 +118,7 @@
       "lessons": [
         {
           "id": "7799-2-08:30-1",
+          "dayIndex": 2,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Иностранный язык",
@@ -130,6 +137,7 @@
         },
         {
           "id": "7799-2-10:10-2",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Основы российской государственности",
@@ -146,6 +154,7 @@
         },
         {
           "id": "7799-2-11:50-3",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика",
@@ -162,15 +171,17 @@
         },
         {
           "id": "7799-2-11:50-4",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "История России",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 115",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12826-12",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Прудникова Татьяна Юрьевна",
             "id": "100952",
@@ -180,6 +191,7 @@
         },
         {
           "id": "7799-2-14:00-5",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
@@ -196,6 +208,7 @@
         },
         {
           "id": "7799-2-14:00-6",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Лабораторные работы по общей и неорганической химии",
@@ -212,6 +225,7 @@
         },
         {
           "id": "7799-2-15:40-7",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Информатика",
@@ -234,6 +248,7 @@
       "lessons": [
         {
           "id": "7799-3-08:30-1",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "История России",
@@ -252,6 +267,7 @@
         },
         {
           "id": "7799-3-10:10-2",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Линейная алгебра, Аналитическая геометрия",
@@ -268,6 +284,7 @@
         },
         {
           "id": "7799-3-11:50-3",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -286,6 +303,7 @@
         },
         {
           "id": "7799-3-11:50-4",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -302,6 +320,7 @@
         },
         {
           "id": "7799-3-11:50-5",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -318,6 +337,7 @@
         },
         {
           "id": "7799-3-11:50-6",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -336,6 +356,7 @@
         },
         {
           "id": "7799-3-11:50-7",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -352,6 +373,7 @@
         },
         {
           "id": "7799-3-11:50-8",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -370,6 +392,7 @@
         },
         {
           "id": "7799-3-11:50-9",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -388,6 +411,7 @@
         },
         {
           "id": "7799-3-11:50-10",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -404,22 +428,7 @@
         },
         {
           "id": "7799-3-11:50-11",
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 407",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12826-12",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Бокатова Анастасия Антоновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
-          }
-        },
-        {
-          "id": "7799-3-11:50-12",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Введение в специальность",
@@ -435,6 +444,23 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
           }
+        },
+        {
+          "id": "7799-3-11:50-12",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12826-12",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Бокатова Анастасия Антоновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
+          }
         }
       ]
     },
@@ -444,6 +470,7 @@
       "lessons": [
         {
           "id": "7799-4-11:50-1",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Математический анализ",
@@ -460,6 +487,7 @@
         },
         {
           "id": "7799-4-14:00-2",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Математический анализ",
@@ -482,6 +510,7 @@
       "lessons": [
         {
           "id": "7799-5-14:00-1",
+          "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Линейная алгебра, Аналитическая геометрия",
@@ -498,6 +527,7 @@
         },
         {
           "id": "7799-5-15:40-2",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Общая и неорганическая химия",
@@ -516,6 +546,7 @@
         },
         {
           "id": "7799-5-15:40-3",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Начертательная геометрия",
@@ -532,12 +563,13 @@
         },
         {
           "id": "7799-5-17:20-4",
+          "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 415",
+          "room": "У 211",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12826-12",
           "weekParity": "down",
@@ -548,12 +580,13 @@
         },
         {
           "id": "7799-5-17:20-5",
+          "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 211",
+          "room": "У 415",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12826-12",
           "weekParity": "down",

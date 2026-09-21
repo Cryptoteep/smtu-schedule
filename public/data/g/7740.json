@@ -1,7 +1,7 @@
 {
   "groupId": "7740",
   "groupName": "10374",
-  "updatedAt": "2026-09-20T17:58:04.707Z",
+  "updatedAt": "2026-09-21T07:57:20.974Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,7 @@
       "lessons": [
         {
           "id": "7740-1-10:10-1",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Общее материаловедение и технологии материалов",
@@ -25,6 +26,7 @@
         },
         {
           "id": "7740-1-11:50-2",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Общее материаловедение и технологии материалов",
@@ -41,6 +43,7 @@
         },
         {
           "id": "7740-1-14:00-3",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Технология обработки металлов давлением",
@@ -57,6 +60,7 @@
         },
         {
           "id": "7740-1-14:00-4",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Технология обработки металлов давлением",
@@ -79,6 +83,7 @@
       "lessons": [
         {
           "id": "7740-2-10:10-1",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Методы исследования механических свойств и структуры материалов",
@@ -95,6 +100,7 @@
         },
         {
           "id": "7740-2-11:50-2",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Методы исследования механических свойств и структуры материалов",
@@ -111,6 +117,7 @@
         },
         {
           "id": "7740-2-11:50-3",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Методы исследования механических свойств и структуры материалов",
@@ -133,6 +140,7 @@
       "lessons": [
         {
           "id": "7740-3-11:50-1",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Термическая обработка",
@@ -149,6 +157,7 @@
         },
         {
           "id": "7740-3-14:00-2",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Термическая обработка",
@@ -165,6 +174,7 @@
         },
         {
           "id": "7740-3-14:00-3",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Термическая обработка",
@@ -181,6 +191,7 @@
         },
         {
           "id": "7740-3-15:40-4",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Деловые коммуникации",
@@ -199,6 +210,7 @@
         },
         {
           "id": "7740-3-15:40-5",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Деловые коммуникации",
@@ -223,6 +235,7 @@
       "lessons": [
         {
           "id": "7740-4-11:50-1",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Теория систем и системный анализ",
@@ -241,6 +254,7 @@
         },
         {
           "id": "7740-4-14:00-2",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Теория систем и системный анализ",
@@ -259,15 +273,17 @@
         },
         {
           "id": "7740-4-14:00-3",
+          "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Теория систем и системный анализ",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 316",
+          "room": "У 308",
           "campus": "Ульянка (Корпус У)",
           "groupName": "10374",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Ведерников Юрий Вадимович",
             "id": "123303",
@@ -277,6 +293,7 @@
         },
         {
           "id": "7740-4-15:40-4",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Цветные сплавы",
@@ -293,6 +310,7 @@
         },
         {
           "id": "7740-4-15:40-5",
+          "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Цветные сплавы",
@@ -309,6 +327,7 @@
         },
         {
           "id": "7740-4-17:20-6",
+          "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Цветные сплавы",
@@ -325,6 +344,7 @@
         },
         {
           "id": "7740-4-17:20-7",
+          "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Технология литейного производства",
@@ -347,6 +367,7 @@
       "lessons": [
         {
           "id": "7740-5-08:30-1",
+          "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Основы военной подготовки",
@@ -357,12 +378,13 @@
           "groupName": "10374",
           "weekParity": "down",
           "teacher": {
-            "name": "Опарин Александр Николаевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100843.jpg?token_static=97843249d42587ca996716e10bc5f564"
+            "name": "Цаплин Виталий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/05/small/p137667.jpg?token_static=a9d73937a075b4e4c1586e3dfc598567"
           }
         },
         {
           "id": "7740-5-08:30-2",
+          "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Основы военной подготовки",
@@ -373,12 +395,13 @@
           "groupName": "10374",
           "weekParity": "down",
           "teacher": {
-            "name": "Цаплин Виталий Васильевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/05/small/p137667.jpg?token_static=a9d73937a075b4e4c1586e3dfc598567"
+            "name": "Опарин Александр Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100843.jpg?token_static=97843249d42587ca996716e10bc5f564"
           }
         },
         {
           "id": "7740-5-10:10-3",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Основы военной подготовки",
@@ -389,12 +412,13 @@
           "groupName": "10374",
           "weekParity": "down",
           "teacher": {
-            "name": "Опарин Александр Николаевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100843.jpg?token_static=97843249d42587ca996716e10bc5f564"
+            "name": "Цаплин Виталий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/05/small/p137667.jpg?token_static=a9d73937a075b4e4c1586e3dfc598567"
           }
         },
         {
           "id": "7740-5-10:10-4",
+          "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Основы военной подготовки",
@@ -405,28 +429,13 @@
           "groupName": "10374",
           "weekParity": "down",
           "teacher": {
-            "name": "Цаплин Виталий Васильевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/05/small/p137667.jpg?token_static=a9d73937a075b4e4c1586e3dfc598567"
+            "name": "Опарин Александр Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100843.jpg?token_static=97843249d42587ca996716e10bc5f564"
           }
         },
         {
           "id": "7740-5-11:50-5",
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Основы военной подготовки",
-          "type": "military",
-          "rawType": "Практическое занятие",
-          "room": "У ВУЦ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "10374",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Цаплин Виталий Васильевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/05/small/p137667.jpg?token_static=a9d73937a075b4e4c1586e3dfc598567"
-          }
-        },
-        {
-          "id": "7740-5-11:50-6",
+          "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Основы военной подготовки",
@@ -442,7 +451,25 @@
           }
         },
         {
+          "id": "7740-5-11:50-6",
+          "dayIndex": 5,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У ВУЦ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "10374",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цаплин Виталий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/05/small/p137667.jpg?token_static=a9d73937a075b4e4c1586e3dfc598567"
+          }
+        },
+        {
           "id": "7740-5-14:00-7",
+          "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Основы военной подготовки",
@@ -459,6 +486,7 @@
         },
         {
           "id": "7740-5-14:00-8",
+          "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Основы военной подготовки",
@@ -481,6 +509,7 @@
       "lessons": [
         {
           "id": "7740-6-08:30-1",
+          "dayIndex": 6,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Технология литейного производства",
@@ -497,6 +526,7 @@
         },
         {
           "id": "7740-6-10:10-2",
+          "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Технология литейного производства",
@@ -513,6 +543,7 @@
         },
         {
           "id": "7740-6-11:50-3",
+          "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Технология литейного производства",
