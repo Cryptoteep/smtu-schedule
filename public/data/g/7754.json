@@ -1,15 +1,64 @@
 {
   "groupId": "7754",
   "groupName": "20270",
-  "updatedAt": "2026-09-21T07:57:12.703Z",
+  "updatedAt": "2026-09-21T15:05:47.684Z",
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
       "lessons": [
         {
-          "id": "7754-1-10:10-1",
+          "id": "7754-1-08:30-1",
           "dayIndex": 1,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20270",
+          "weekParity": "both"
+        },
+        {
+          "id": "7754-1-10:10-2",
+          "dayIndex": 1,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20270",
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7754-2-10:10-1",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Философия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
+          }
+        },
+        {
+          "id": "7754-2-10:10-2",
+          "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физика",
@@ -27,8 +76,8 @@
           }
         },
         {
-          "id": "7754-1-11:50-2",
-          "dayIndex": 1,
+          "id": "7754-2-11:50-3",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физика",
@@ -46,8 +95,8 @@
           }
         },
         {
-          "id": "7754-1-11:50-3",
-          "dayIndex": 1,
+          "id": "7754-2-11:50-4",
+          "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физика",
@@ -66,8 +115,8 @@
           }
         },
         {
-          "id": "7754-1-14:00-4",
-          "dayIndex": 1,
+          "id": "7754-2-14:00-5",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Высшая математика",
@@ -85,8 +134,8 @@
           }
         },
         {
-          "id": "7754-1-14:00-5",
-          "dayIndex": 1,
+          "id": "7754-2-14:00-6",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Высшая математика",
@@ -105,8 +154,8 @@
           }
         },
         {
-          "id": "7754-1-15:40-6",
-          "dayIndex": 1,
+          "id": "7754-2-15:40-7",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Теоретическая механика",

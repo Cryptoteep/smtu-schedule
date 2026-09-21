@@ -1,7 +1,7 @@
 {
   "groupId": "7443",
   "groupName": "12515-07",
-  "updatedAt": "2026-09-21T07:57:11.424Z",
+  "updatedAt": "2026-09-21T15:05:46.983Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -46,25 +46,6 @@
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Начертательная геометрия",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 161",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-07",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Чехович Сергей Владиславович",
-            "id": "101320",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101320/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101320.jpg?token_static=c1b4269032a4a13d778acc3f4ef7b1a6"
-          }
-        },
-        {
-          "id": "7443-1-10:10-4",
-          "dayIndex": 1,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
           "subject": "Основы военной подготовки",
           "type": "military",
           "rawType": "Практическое занятие",
@@ -78,7 +59,7 @@
           }
         },
         {
-          "id": "7443-1-11:50-5",
+          "id": "7443-1-11:50-4",
           "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -97,7 +78,7 @@
           }
         },
         {
-          "id": "7443-1-11:50-6",
+          "id": "7443-1-11:50-5",
           "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -114,6 +95,25 @@
             "id": "123501",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/123501/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/17/small/p123501.jpg?token_static=ec8df21930d8598050ff7830e2e2ec38"
+          }
+        },
+        {
+          "id": "7443-1-15:40-6",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Начертательная геометрия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-07",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чехович Сергей Владиславович",
+            "id": "101320",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101320/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101320.jpg?token_static=c1b4269032a4a13d778acc3f4ef7b1a6"
           }
         }
       ]

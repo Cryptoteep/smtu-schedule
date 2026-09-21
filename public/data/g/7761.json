@@ -1,49 +1,47 @@
 {
   "groupId": "7761",
   "groupName": "20291",
-  "updatedAt": "2026-09-21T07:57:13.099Z",
+  "updatedAt": "2026-09-21T15:05:47.880Z",
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
       "lessons": [
         {
-          "id": "7761-1-11:50-1",
+          "id": "7761-1-08:30-1",
           "dayIndex": 1,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Информационная безопасность и защита информации",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
-          "campus": "Ульянка (Корпус У)",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
           "groupName": "20291",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Ли Изольда Валерьевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
-          }
+          "weekParity": "both"
         },
         {
-          "id": "7761-1-14:00-2",
+          "id": "7761-1-10:10-2",
           "dayIndex": 1,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Информационная безопасность и защита информации",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
-          "campus": "Ульянка (Корпус У)",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
           "groupName": "20291",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Ли Изольда Валерьевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
-          }
-        },
+          "weekParity": "both"
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
         {
-          "id": "7761-1-14:00-3",
-          "dayIndex": 1,
+          "id": "7761-2-14:00-1",
+          "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Технологии разработки информационных ресурсов",
@@ -62,8 +60,8 @@
           }
         },
         {
-          "id": "7761-1-15:40-4",
-          "dayIndex": 1,
+          "id": "7761-2-15:40-2",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Технологии разработки информационных ресурсов",
@@ -82,8 +80,8 @@
           }
         },
         {
-          "id": "7761-1-17:20-5",
-          "dayIndex": 1,
+          "id": "7761-2-17:20-3",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Технологии разработки информационных ресурсов",
@@ -112,35 +110,33 @@
           "dayIndex": 4,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
-          "subject": "Деловые коммуникации",
+          "subject": "Информационная безопасность и защита информации",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 161",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20291",
           "weekParity": "up",
           "teacher": {
-            "name": "Евграфова Ирина Владимировна",
-            "id": "100356",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100356/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
           }
         },
         {
-          "id": "7761-4-10:10-2",
+          "id": "7761-4-08:30-2",
           "dayIndex": 4,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Программирование",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 416",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Философия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20291",
-          "weekParity": "up",
+          "weekParity": "down",
           "teacher": {
-            "name": "Муравьев Евгений Александрович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
           }
         },
         {
@@ -173,6 +169,23 @@
           "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
+          "subject": "Деловые коммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20291",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        },
+        {
+          "id": "7761-5-08:30-2",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
           "subject": "Базы данных",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -188,7 +201,24 @@
           }
         },
         {
-          "id": "7761-5-10:10-2",
+          "id": "7761-5-10:10-3",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информационная безопасность и защита информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20291",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        },
+        {
+          "id": "7761-5-10:10-4",
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -205,25 +235,6 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9"
           }
-        },
-        {
-          "id": "7761-5-11:50-3",
-          "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Базы данных",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 436",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20291",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Семенова-Тян-Шанская Вера Александровна",
-            "id": "101056",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9"
-          }
         }
       ]
     },
@@ -232,17 +243,17 @@
       "dayIndex": 6,
       "lessons": [
         {
-          "id": "7761-6-10:10-1",
+          "id": "7761-6-08:30-1",
           "dayIndex": 6,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
           "subject": "Дифференциальные уравнения",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 165",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20291",
-          "weekParity": "up",
+          "weekParity": "down",
           "teacher": {
             "name": "Пак Элла Ефимовна",
             "id": "123073",

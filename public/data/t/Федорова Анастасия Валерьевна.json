@@ -2,8 +2,8 @@
   "teacherId": "Федорова Анастасия Валерьевна",
   "teacherName": "Федорова Анастасия Валерьевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7",
-  "updatedAt": "2026-09-21T07:57:24.069Z",
-  "totalLessons": 13,
+  "updatedAt": "2026-09-21T15:05:56.014Z",
+  "totalLessons": 14,
   "days": [
     {
       "dayName": "Понедельник",
@@ -122,6 +122,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20513",
           "weekParity": "both",
+          "teacher": {
+            "name": "Федорова Анастасия Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
+          }
+        },
+        {
+          "id": "7744-2-11:50-4",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информационная безопасность и защита информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-06",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20202",
+          "weekParity": "up",
           "teacher": {
             "name": "Федорова Анастасия Валерьевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"

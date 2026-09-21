@@ -1,7 +1,7 @@
 {
   "groupId": "7679",
   "groupName": "4302",
-  "updatedAt": "2026-09-21T07:57:16.928Z",
+  "updatedAt": "2026-09-21T15:05:50.893Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -149,23 +149,6 @@
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
-          "subject": "Налоги и налогообложение",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 518",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "4302",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Хрупало Елена Николаевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/09/small/p126538.jpg?token_static=2b1300a446b199c18090cb391ece59dd"
-          }
-        },
-        {
-          "id": "7679-2-15:40-4",
-          "dayIndex": 2,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
           "subject": "Деловые коммуникации",
           "type": "lecture",
           "rawType": "Лекция",
@@ -181,36 +164,17 @@
           }
         },
         {
-          "id": "7679-2-15:40-5",
-          "dayIndex": 2,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Экономика судостроения",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 514",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "4302",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Алешина Елена Владимировна",
-            "id": "123129",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/123129/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123129.jpg?token_static=c57301c6fc89bb528160cb158c513074"
-          }
-        },
-        {
-          "id": "7679-2-17:20-6",
+          "id": "7679-2-17:20-4",
           "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Экономика судостроения",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 511",
+          "room": "У 514",
           "campus": "Ульянка (Корпус У)",
           "groupName": "4302",
-          "weekParity": "down",
+          "weekParity": "both",
           "teacher": {
             "name": "Алешина Елена Владимировна",
             "id": "123129",
@@ -219,10 +183,27 @@
           }
         },
         {
-          "id": "7679-2-20:40-7",
+          "id": "7679-2-19:00-5",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Налоги и налогообложение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Хрупало Елена Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/09/small/p126538.jpg?token_static=2b1300a446b199c18090cb391ece59dd"
+          }
+        },
+        {
+          "id": "7679-2-20:40-6",
           "dayIndex": 2,
           "time": "20:40-22:10",
-          "timeSlotIndex": 8,
+          "timeSlotIndex": 7,
           "subject": "Налоги и налогообложение",
           "type": "practice",
           "rawType": "Практическое занятие",

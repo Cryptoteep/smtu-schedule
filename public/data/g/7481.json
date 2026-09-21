@@ -1,7 +1,7 @@
 {
   "groupId": "7481",
   "groupName": "12126-04",
-  "updatedAt": "2026-09-21T07:56:55.783Z",
+  "updatedAt": "2026-09-21T15:05:34.393Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -222,8 +222,10 @@
           "groupName": "12126-04",
           "weekParity": "up",
           "teacher": {
-            "name": "Павлов Павел Валентинович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
+            "name": "Яковлев Алексей Юрьевич",
+            "id": "101392",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
           }
         },
         {
@@ -239,10 +241,8 @@
           "groupName": "12126-04",
           "weekParity": "up",
           "teacher": {
-            "name": "Яковлев Алексей Юрьевич",
-            "id": "101392",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
+            "name": "Павлов Павел Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
           }
         },
         {
@@ -366,8 +366,10 @@
           "groupName": "12126-04",
           "weekParity": "both",
           "teacher": {
-            "name": "Бокатова Анастасия Антоновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
+            "name": "Рюмин Сергей Николаевич",
+            "id": "101017",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
           }
         },
         {
@@ -383,10 +385,8 @@
           "groupName": "12126-04",
           "weekParity": "both",
           "teacher": {
-            "name": "Рюмин Сергей Николаевич",
-            "id": "101017",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
+            "name": "Глазырина Диана Олеговна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
           }
         },
         {
@@ -402,8 +402,8 @@
           "groupName": "12126-04",
           "weekParity": "both",
           "teacher": {
-            "name": "Глазырина Диана Олеговна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
+            "name": "Бокатова Анастасия Антоновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
           }
         }
       ]
@@ -423,13 +423,7 @@
           "room": "У каф.ИЯ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-04",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Осипенко Елена Анатольевна",
-            "id": "122745",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122745/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/02/small/p122745.jpg?token_static=f61d8b2a8ef451c5a3c7e4444f09d148"
-          }
+          "weekParity": "up"
         },
         {
           "id": "7481-4-10:10-2",
@@ -511,19 +505,6 @@
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12126-04",
-          "weekParity": "both"
-        },
-        {
-          "id": "7481-5-10:10-2",
-          "dayIndex": 5,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Физическая культура и спорт",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 101",
@@ -534,6 +515,19 @@
             "name": "Лапин Валерий Викторович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/12/small/p128180.jpg?token_static=77107b9386e89abe57027f4eace5d5ff"
           }
+        },
+        {
+          "id": "7481-5-10:10-2",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12126-04",
+          "weekParity": "both"
         },
         {
           "id": "7481-5-11:50-3",
@@ -565,13 +559,7 @@
           "room": "У каф.ИЯ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-04",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Осипенко Елена Анатольевна",
-            "id": "122745",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122745/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/02/small/p122745.jpg?token_static=f61d8b2a8ef451c5a3c7e4444f09d148"
-          }
+          "weekParity": "both"
         },
         {
           "id": "7481-5-15:40-5",

@@ -2,48 +2,13 @@
   "teacherId": "Ли Изольда Валерьевна",
   "teacherName": "Ли Изольда Валерьевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8",
-  "updatedAt": "2026-09-21T07:57:24.069Z",
-  "totalLessons": 4,
+  "updatedAt": "2026-09-21T15:05:56.015Z",
+  "totalLessons": 5,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": [
-        {
-          "id": "7746-1-11:50-3",
-          "dayIndex": 1,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Информационная безопасность и защита информации",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20221, 20222, 20250, 20290, 20291",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Ли Изольда Валерьевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
-          }
-        },
-        {
-          "id": "7746-1-14:00-4",
-          "dayIndex": 1,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Информационная безопасность и защита информации",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20221, 20222, 20250, 20290, 20291",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Ли Изольда Валерьевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
-          }
-        }
-      ]
+      "lessons": []
     },
     {
       "dayName": "Вторник",
@@ -91,12 +56,65 @@
     {
       "dayName": "Четверг",
       "dayIndex": 4,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7744-4-08:30-1",
+          "dayIndex": 4,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Информационная безопасность и защита информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20202, 20221, 20222, 20223, 20250, 20290, 20291",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        }
+      ]
     },
     {
       "dayName": "Пятница",
       "dayIndex": 5,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7744-5-10:10-1",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информационная безопасность и защита информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20202, 20221, 20222, 20223, 20250, 20290, 20291",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        },
+        {
+          "id": "7761-5-08:30-1",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Деловые коммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20291",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        }
+      ]
     },
     {
       "dayName": "Суббота",

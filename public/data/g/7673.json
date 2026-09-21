@@ -1,7 +1,7 @@
 {
   "groupId": "7673",
   "groupName": "4250",
-  "updatedAt": "2026-09-21T07:57:16.626Z",
+  "updatedAt": "2026-09-21T15:05:50.717Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -13,8 +13,8 @@
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Внутрифирменное и бизнес планирование на предприятии",
-          "type": "practice",
-          "rawType": "Практическое занятие",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "Конгресс-Центр 427",
           "campus": "Ульянка (Корпус У)",
           "groupName": "4250",
@@ -26,18 +26,17 @@
           }
         },
         {
-          "id": "7673-1-08:30-2",
+          "id": "7673-1-10:10-2",
           "dayIndex": 1,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
           "subject": "Правоведение",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 156",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 105",
           "campus": "Ульянка (Корпус У)",
           "groupName": "4250",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
+          "weekParity": "up",
           "teacher": {
             "name": "Ладыка Сергей Иванович",
             "id": "100652",
@@ -50,27 +49,9 @@
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Внутрифирменное и бизнес планирование на предприятии",
+          "subject": "Правоведение",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 518",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "4250",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Лавренко Елена Александровна",
-            "id": "123927",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/123927/"
-          }
-        },
-        {
-          "id": "7673-1-10:10-4",
-          "dayIndex": 1,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Правоведение",
-          "type": "lecture",
-          "rawType": "Лекция",
           "room": "У 303ю",
           "campus": "Ульянка (Корпус У)",
           "groupName": "4250",
@@ -83,7 +64,7 @@
           }
         },
         {
-          "id": "7673-1-11:50-5",
+          "id": "7673-1-11:50-4",
           "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -187,6 +168,19 @@
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4250",
+          "weekParity": "both"
+        },
+        {
+          "id": "7673-3-11:50-2",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
           "subject": "Высшая математика",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -198,19 +192,6 @@
             "name": "Крупицкая Ольга Савельевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/08/small/p122711.jpg?token_static=4b97a048cd33a9d92d4dddfeb85d4940"
           }
-        },
-        {
-          "id": "7673-3-11:50-2",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Физическая культура и спорт (элективная)",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "4250",
-          "weekParity": "both"
         },
         {
           "id": "7673-3-15:40-3",
@@ -292,6 +273,24 @@
           "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
+          "subject": "Внутрифирменное и бизнес планирование на предприятии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 12",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4250",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Лавренко Елена Александровна",
+            "id": "123927",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123927/"
+          }
+        },
+        {
+          "id": "7673-5-08:30-2",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
           "subject": "Риск-менеджмент",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -306,7 +305,7 @@
           }
         },
         {
-          "id": "7673-5-10:10-2",
+          "id": "7673-5-10:10-3",
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -319,7 +318,7 @@
           "weekParity": "up"
         },
         {
-          "id": "7673-5-10:10-3",
+          "id": "7673-5-10:10-4",
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -337,7 +336,7 @@
           }
         },
         {
-          "id": "7673-5-11:50-4",
+          "id": "7673-5-11:50-5",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -355,7 +354,7 @@
           }
         },
         {
-          "id": "7673-5-14:00-5",
+          "id": "7673-5-14:00-6",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

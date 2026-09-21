@@ -3,8 +3,8 @@
   "teacherName": "Алешина Елена Владимировна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123129.jpg?token_static=c57301c6fc89bb528160cb158c513074",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/123129/",
-  "updatedAt": "2026-09-21T07:57:24.015Z",
-  "totalLessons": 30,
+  "updatedAt": "2026-09-21T15:05:55.989Z",
+  "totalLessons": 31,
   "days": [
     {
       "dayName": "Понедельник",
@@ -152,6 +152,25 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "4302",
           "weekParity": "down",
+          "teacher": {
+            "name": "Алешина Елена Владимировна",
+            "id": "123129",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123129/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123129.jpg?token_static=c57301c6fc89bb528160cb158c513074"
+          }
+        },
+        {
+          "id": "7679-2-17:20-4",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Экономика судостроения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 514",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4302",
+          "weekParity": "both",
           "teacher": {
             "name": "Алешина Елена Владимировна",
             "id": "123129",

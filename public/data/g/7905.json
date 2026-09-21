@@ -1,7 +1,7 @@
 {
   "groupId": "7905",
   "groupName": "13715-72",
-  "updatedAt": "2026-09-21T07:57:21.649Z",
+  "updatedAt": "2026-09-21T15:05:54.751Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -103,31 +103,16 @@
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Русский язык",
+          "subject": "ВПР 22 сентября",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 205-ИИТ",
+          "room": "У 209",
           "campus": "Ульянка (Корпус У)",
           "groupName": "13715-72",
-          "weekParity": "down",
-          "dateSpecific": "21.09"
+          "weekParity": "down"
         },
         {
           "id": "7905-2-10:10-3",
-          "dayIndex": 2,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "ВПР 22 сентября ПЕРЕНОС на период 21.09–27.09.2026: вместо Конгресс-Центр 306",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 515А",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "13715-72",
-          "weekParity": "down",
-          "dateSpecific": "21.09"
-        },
-        {
-          "id": "7905-2-10:10-4",
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -144,7 +129,7 @@
           }
         },
         {
-          "id": "7905-2-11:50-5",
+          "id": "7905-2-11:50-4",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,

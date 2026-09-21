@@ -1,7 +1,7 @@
 {
   "groupId": "7815",
   "groupName": "12515-52",
-  "updatedAt": "2026-09-21T07:57:11.735Z",
+  "updatedAt": "2026-09-21T15:05:46.891Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -82,25 +82,6 @@
           "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
-          "subject": "Управление проектами и инновациями",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 161",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-52",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Гоголюхина Мария Евгеньевна",
-            "id": "100274",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100274/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/27/small/p100274.jpg?token_static=39a45e1b3ba5272bac18b5ce3a124af9"
-          }
-        },
-        {
-          "id": "7815-1-15:40-6",
-          "dayIndex": 1,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
           "subject": "Дуговые и плазменные технологии",
           "type": "lecture",
           "rawType": "Лекция",
@@ -114,45 +95,7 @@
           }
         },
         {
-          "id": "7815-1-15:40-7",
-          "dayIndex": 1,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Аддитивные технологии",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "ИЛИСТ УИК207",
-          "campus": "СПбГМТУ",
-          "groupName": "12515-52",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Земляков Евгений Вячеславович",
-            "id": "104606",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/104606/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/11/09/small/p104606.jpg?token_static=6b9dfef4423b646ff4c9cfe8478b4a3a"
-          }
-        },
-        {
-          "id": "7815-1-17:20-8",
-          "dayIndex": 1,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Аддитивные технологии",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "ИЛИСТ НПК207",
-          "campus": "СПбГМТУ",
-          "groupName": "12515-52",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Вильданов Артур Маратович",
-            "id": "123773",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/123773/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123773.jpg?token_static=57e3a70d14ed0cea1b46b54a7d7675d6"
-          }
-        },
-        {
-          "id": "7815-1-17:20-9",
+          "id": "7815-1-17:20-6",
           "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -171,7 +114,7 @@
           }
         },
         {
-          "id": "7815-1-17:20-10",
+          "id": "7815-1-17:20-7",
           "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -187,25 +130,6 @@
             "id": "100733",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100733/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100733.jpg?token_static=ad8ce444af017c0dcbefaf3f17969b58"
-          }
-        },
-        {
-          "id": "7815-1-19:00-11",
-          "dayIndex": 1,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Аддитивные технологии",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "ИЛИСТ НПК207",
-          "campus": "СПбГМТУ",
-          "groupName": "12515-52",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Вильданов Артур Маратович",
-            "id": "123773",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/123773/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123773.jpg?token_static=57e3a70d14ed0cea1b46b54a7d7675d6"
           }
         }
       ]

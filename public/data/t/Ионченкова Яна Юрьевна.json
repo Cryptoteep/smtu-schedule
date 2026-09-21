@@ -2,8 +2,8 @@
   "teacherId": "Ионченкова Яна Юрьевна",
   "teacherName": "Ионченкова Яна Юрьевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100473.jpg?token_static=e89f84e655182b88a6d0700458b6bf1a",
-  "updatedAt": "2026-09-21T07:57:24.096Z",
-  "totalLessons": 9,
+  "updatedAt": "2026-09-21T15:05:56.027Z",
+  "totalLessons": 10,
   "days": [
     {
       "dayName": "Понедельник",
@@ -94,6 +94,23 @@
         },
         {
           "id": "7799-4-11:50-1",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Математический анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 451",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12826-12",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ионченкова Яна Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100473.jpg?token_static=e89f84e655182b88a6d0700458b6bf1a"
+          }
+        },
+        {
+          "id": "7799-4-11:50-2",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,

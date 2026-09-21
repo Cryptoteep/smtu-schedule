@@ -1,7 +1,7 @@
 {
   "groupId": "7940",
   "groupName": "12739-03",
-  "updatedAt": "2026-09-21T07:57:18.603Z",
+  "updatedAt": "2026-09-21T15:05:52.320Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -141,15 +141,13 @@
           "subject": "Основы военной подготовки",
           "type": "military",
           "rawType": "Практическое занятие",
-          "room": "У 511",
+          "room": "У ВУЦ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12739-03",
           "weekParity": "up",
           "teacher": {
-            "name": "Романов Александр Иванович",
-            "id": "122500",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
           }
         },
         {
@@ -160,13 +158,15 @@
           "subject": "Основы военной подготовки",
           "type": "military",
           "rawType": "Практическое занятие",
-          "room": "У ВУЦ",
+          "room": "У 511",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12739-03",
           "weekParity": "up",
           "teacher": {
-            "name": "Величко Борис Валерьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+            "name": "Романов Александр Иванович",
+            "id": "122500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
           }
         }
       ]
@@ -290,24 +290,7 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7940-3-11:50-1",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Социальное взаимодействие в профессиональной деятельности",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 438",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12739-03",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Сидоренко Светлана Анатольевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
-          }
-        },
-        {
-          "id": "7940-3-14:00-2",
+          "id": "7940-3-14:00-1",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -326,7 +309,7 @@
           }
         },
         {
-          "id": "7940-3-15:40-3",
+          "id": "7940-3-15:40-2",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -345,7 +328,7 @@
           }
         },
         {
-          "id": "7940-3-15:40-4",
+          "id": "7940-3-15:40-3",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -358,7 +341,7 @@
           "weekParity": "down"
         },
         {
-          "id": "7940-3-17:20-5",
+          "id": "7940-3-17:20-4",
           "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -371,7 +354,7 @@
           "weekParity": "up"
         },
         {
-          "id": "7940-3-17:20-6",
+          "id": "7940-3-17:20-5",
           "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -388,7 +371,7 @@
           }
         },
         {
-          "id": "7940-3-19:00-7",
+          "id": "7940-3-19:00-6",
           "dayIndex": 3,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -551,6 +534,24 @@
             "name": "Кленин Петр Владиславович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
           }
+        },
+        {
+          "id": "7940-4-17:20-9",
+          "dayIndex": 4,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Социальное взаимодействие в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 438",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12739-03",
+          "weekParity": "down",
+          "dateSpecific": "08.10",
+          "teacher": {
+            "name": "Сидоренко Светлана Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
+          }
         }
       ]
     },
@@ -581,20 +582,6 @@
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12739-03",
-          "weekParity": "down",
-          "dateSpecific": "06.10"
-        },
-        {
-          "id": "7940-5-11:50-3",
-          "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Физическая культура и спорт",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 115",
@@ -608,6 +595,20 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100122/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/05/small/p100122.jpg?token_static=647755b070c41d931bb0b14a2a82dec3"
           }
+        },
+        {
+          "id": "7940-5-11:50-3",
+          "dayIndex": 5,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12739-03",
+          "weekParity": "down",
+          "dateSpecific": "06.10"
         },
         {
           "id": "7940-5-14:00-4",
