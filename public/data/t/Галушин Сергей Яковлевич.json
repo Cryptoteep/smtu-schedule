@@ -2,8 +2,8 @@
   "teacherId": "Галушин Сергей Яковлевич",
   "teacherName": "Галушин Сергей Яковлевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100258.jpg?token_static=b4b019e33609ed6e45b81ee239b86c66",
-  "updatedAt": "2026-09-21T15:05:56.022Z",
-  "totalLessons": 6,
+  "updatedAt": "2026-09-21T23:16:07.798Z",
+  "totalLessons": 9,
   "days": [
     {
       "dayName": "Понедельник",
@@ -116,7 +116,59 @@
     {
       "dayName": "Среда",
       "dayIndex": 3,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7764-3-08:30-1",
+          "dayIndex": 3,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "ЭВМ и периферийные устройства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302, 20350, 20390, 20391",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Галушин Сергей Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100258.jpg?token_static=b4b019e33609ed6e45b81ee239b86c66"
+          }
+        },
+        {
+          "id": "7764-3-10:10-2",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "ЭВМ и периферийные устройства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302, 20350, 20390, 20391",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Галушин Сергей Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100258.jpg?token_static=b4b019e33609ed6e45b81ee239b86c66"
+          }
+        },
+        {
+          "id": "7764-3-11:50-3",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "ЭВМ и периферийные устройства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302, 20350, 20390, 20391",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Галушин Сергей Яковлевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100258.jpg?token_static=b4b019e33609ed6e45b81ee239b86c66"
+          }
+        }
+      ]
     },
     {
       "dayName": "Четверг",

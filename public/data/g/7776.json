@@ -1,7 +1,7 @@
 {
   "groupId": "7776",
   "groupName": "20450",
-  "updatedAt": "2026-09-21T15:05:49.052Z",
+  "updatedAt": "2026-09-21T23:15:59.638Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -137,8 +137,8 @@
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Системы искусственного интеллекта",
-          "type": "practice",
-          "rawType": "Практическое занятие",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
           "room": "У 436",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20450",
@@ -156,6 +156,137 @@
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
+          "subject": "Инженерная психология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 438",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сидоренко Светлана Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
+          }
+        },
+        {
+          "id": "7776-2-10:10-3",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Функциональное и логическое программирование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 436",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Петров Олег Николаевич",
+            "id": "100888",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8"
+          }
+        },
+        {
+          "id": "7776-2-14:00-4",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Сети и телекоммуникации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Акуленок Ирина Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"
+          }
+        },
+        {
+          "id": "7776-2-14:00-5",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление качеством, стандартизация, сертификация",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мальцева Юлия Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100720.jpg?token_static=f8e418990bfc22189eb5747b7ad16701"
+          }
+        },
+        {
+          "id": "7776-2-15:40-6",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Сети и телекоммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Акуленок Ирина Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"
+          }
+        },
+        {
+          "id": "7776-2-17:20-7",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Сети и телекоммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Акуленок Ирина Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7776-3-08:30-1",
+          "dayIndex": 3,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Системы искусственного интеллекта",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 436",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Петров Олег Николаевич",
+            "id": "100888",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8"
+          }
+        },
+        {
+          "id": "7776-3-10:10-2",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
           "subject": "Анализ больших данных",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -169,8 +300,8 @@
           }
         },
         {
-          "id": "7776-2-10:10-3",
-          "dayIndex": 2,
+          "id": "7776-3-10:10-3",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Функциональное и логическое программирование",
@@ -187,8 +318,8 @@
           }
         },
         {
-          "id": "7776-2-11:50-4",
-          "dayIndex": 2,
+          "id": "7776-3-11:50-4",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Анализ больших данных",
@@ -206,8 +337,8 @@
           }
         },
         {
-          "id": "7776-2-11:50-5",
-          "dayIndex": 2,
+          "id": "7776-3-11:50-5",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Функциональное и логическое программирование",
@@ -224,8 +355,8 @@
           }
         },
         {
-          "id": "7776-2-14:00-6",
-          "dayIndex": 2,
+          "id": "7776-3-14:00-6",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Функциональное и логическое программирование",

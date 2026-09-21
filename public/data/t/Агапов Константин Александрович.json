@@ -2,30 +2,13 @@
   "teacherId": "Агапов Константин Александрович",
   "teacherName": "Агапов Константин Александрович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101436.jpg?token_static=c82ec886d50eb533db6ecd5bbc9a1a5c",
-  "updatedAt": "2026-09-21T15:05:56.077Z",
+  "updatedAt": "2026-09-21T23:16:08.011Z",
   "totalLessons": 7,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
       "lessons": [
-        {
-          "id": "7451-1-19:00-2",
-          "dayIndex": 1,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Лабораторные работы по общей и неорганической химии",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 536(2)",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12213-03-2",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Агапов Константин Александрович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101436.jpg?token_static=c82ec886d50eb533db6ecd5bbc9a1a5c"
-          }
-        },
         {
           "id": "7467-1-14:00-3",
           "dayIndex": 1,
@@ -99,7 +82,25 @@
     {
       "dayName": "Вторник",
       "dayIndex": 2,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7451-2-19:00-2",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Лабораторные работы по общей и неорганической химии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 536(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12213-03-2",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Агапов Константин Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101436.jpg?token_static=c82ec886d50eb533db6ecd5bbc9a1a5c"
+          }
+        }
+      ]
     },
     {
       "dayName": "Среда",

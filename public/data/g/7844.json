@@ -1,7 +1,7 @@
 {
   "groupId": "7844",
   "groupName": "12509-51",
-  "updatedAt": "2026-09-21T15:05:46.345Z",
+  "updatedAt": "2026-09-21T23:15:56.303Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -99,8 +99,65 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7844-2-10:10-1",
+          "id": "7844-2-11:50-1",
           "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Инженерия знаний",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-13",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-51",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Фомченко Андрей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
+          }
+        },
+        {
+          "id": "7844-2-17:20-2",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Вычислительные системы и сетевые технологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319а(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-51",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Черный Сергей Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
+          }
+        },
+        {
+          "id": "7844-2-19:00-3",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Вычислительные системы и сетевые технологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-51",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Черный Сергей Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7844-3-10:10-1",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Инженерия знаний",
@@ -116,8 +173,8 @@
           }
         },
         {
-          "id": "7844-2-11:50-2",
-          "dayIndex": 2,
+          "id": "7844-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Управление проектами и инновациями",
@@ -133,8 +190,8 @@
           }
         },
         {
-          "id": "7844-2-14:00-3",
-          "dayIndex": 2,
+          "id": "7844-3-14:00-3",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Управление проектами и инновациями",

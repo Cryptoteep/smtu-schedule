@@ -1,7 +1,7 @@
 {
   "groupId": "7766",
   "groupName": "20320",
-  "updatedAt": "2026-09-21T15:05:48.260Z",
+  "updatedAt": "2026-09-21T23:15:58.874Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -150,8 +150,139 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7766-2-10:10-1",
+          "id": "7766-2-08:30-1",
           "dayIndex": 2,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Деловые коммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 115",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Евграфова Ирина Владимировна",
+            "id": "100356",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100356/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
+          }
+        },
+        {
+          "id": "7766-2-10:10-2",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Классическая и современная теория автоматического управления",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кичигина Ольга Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100522.jpg?token_static=1aa780db3038d5b4eaa9897d08b3fe12"
+          }
+        },
+        {
+          "id": "7766-2-11:50-3",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Классическая и современная теория автоматического управления",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кичигина Ольга Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100522.jpg?token_static=1aa780db3038d5b4eaa9897d08b3fe12"
+          }
+        },
+        {
+          "id": "7766-2-14:00-4",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        },
+        {
+          "id": "7766-2-14:00-5",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы программирования систем управления",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Моисеев Илья Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107668.jpg?token_static=cc6d2602d86c6382697c2928afb128bd"
+          }
+        },
+        {
+          "id": "7766-2-17:20-6",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Цифровые системы управления и обработки информации в робототехнике",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-13",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чубин Дмитрий Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/02/16/small/p124595.jpg?token_static=e67aec73131e515034d01de5425b5258"
+          }
+        },
+        {
+          "id": "7766-2-19:00-7",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7766-3-10:10-1",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Математические основы кинематики и динамики роботов",
@@ -167,8 +298,8 @@
           }
         },
         {
-          "id": "7766-2-11:50-2",
-          "dayIndex": 2,
+          "id": "7766-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Основы программирования систем управления",
@@ -184,8 +315,8 @@
           }
         },
         {
-          "id": "7766-2-11:50-3",
-          "dayIndex": 2,
+          "id": "7766-3-11:50-3",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Математические основы кинематики и динамики роботов",
@@ -201,8 +332,8 @@
           }
         },
         {
-          "id": "7766-2-14:00-4",
-          "dayIndex": 2,
+          "id": "7766-3-14:00-4",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Основы программирования систем управления",
@@ -218,8 +349,8 @@
           }
         },
         {
-          "id": "7766-2-14:00-5",
-          "dayIndex": 2,
+          "id": "7766-3-14:00-5",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Математические основы кинематики и динамики роботов",
@@ -235,8 +366,8 @@
           }
         },
         {
-          "id": "7766-2-15:40-6",
-          "dayIndex": 2,
+          "id": "7766-3-15:40-6",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Цифровые системы управления и обработки информации в робототехнике",

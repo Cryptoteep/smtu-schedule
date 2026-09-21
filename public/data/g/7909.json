@@ -1,7 +1,7 @@
 {
   "groupId": "7909",
   "groupName": "20365",
-  "updatedAt": "2026-09-21T15:05:48.249Z",
+  "updatedAt": "2026-09-21T23:15:58.749Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -86,6 +86,46 @@
           "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
+          "subject": "Дефектоскопия и металлография материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20365",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мендагалиев Руслан Валисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/11/small/p104013.jpg?token_static=e1803f56f754322bba4f5b5b66678acd"
+          }
+        },
+        {
+          "id": "7909-2-20:40-2",
+          "dayIndex": 2,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Дефектоскопия и металлография материалов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК208",
+          "campus": "СПбГМТУ",
+          "groupName": "20365",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мендагалиев Руслан Валисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/11/small/p104013.jpg?token_static=e1803f56f754322bba4f5b5b66678acd"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7909-3-19:00-1",
+          "dayIndex": 3,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
           "subject": "Проектирование технологического оборудования",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -99,8 +139,8 @@
           }
         },
         {
-          "id": "7909-2-20:40-2",
-          "dayIndex": 2,
+          "id": "7909-3-20:40-2",
+          "dayIndex": 3,
           "time": "20:40-22:10",
           "timeSlotIndex": 3,
           "subject": "Проектирование технологического оборудования",

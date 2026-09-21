@@ -1,7 +1,7 @@
 {
   "groupId": "7917",
   "groupName": "12515-56",
-  "updatedAt": "2026-09-21T15:05:47.050Z",
+  "updatedAt": "2026-09-21T23:15:56.930Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -82,8 +82,84 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7917-2-10:10-1",
+          "id": "7917-2-14:00-1",
           "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Комплексные информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-56",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
+          }
+        },
+        {
+          "id": "7917-2-15:40-2",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Методы искусственного интеллекта в мехатронике и робототехнике",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-56",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кайнова Татьяна Денисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p106561.jpg?token_static=5d5e274a03861a0352c1c0592f368171"
+          }
+        },
+        {
+          "id": "7917-2-15:40-3",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Методы принятия решений в профессиональной деятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-56",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Моисеев Илья Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107668.jpg?token_static=cc6d2602d86c6382697c2928afb128bd"
+          }
+        },
+        {
+          "id": "7917-2-17:20-4",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Иностранный язык в профессиональной и академической коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-56",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Суринова Елена Аркадьевна",
+            "id": "101156",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101156/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101156.jpg?token_static=52fd6bee87ec2f49ca409f2f940502c8"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7917-3-10:10-1",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Методы принятия решений в профессиональной деятельности",
@@ -99,8 +175,8 @@
           }
         },
         {
-          "id": "7917-2-11:50-2",
-          "dayIndex": 2,
+          "id": "7917-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Комплексные информационные технологии",
@@ -116,8 +192,8 @@
           }
         },
         {
-          "id": "7917-2-14:00-3",
-          "dayIndex": 2,
+          "id": "7917-3-14:00-3",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Управление проектами и инновациями",
@@ -133,8 +209,8 @@
           }
         },
         {
-          "id": "7917-2-14:00-4",
-          "dayIndex": 2,
+          "id": "7917-3-14:00-4",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Комплексные информационные технологии",
@@ -150,8 +226,8 @@
           }
         },
         {
-          "id": "7917-2-15:40-5",
-          "dayIndex": 2,
+          "id": "7917-3-15:40-5",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Методы искусственного интеллекта в мехатронике и робототехнике",
@@ -167,8 +243,8 @@
           }
         },
         {
-          "id": "7917-2-17:20-6",
-          "dayIndex": 2,
+          "id": "7917-3-17:20-6",
+          "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Методы искусственного интеллекта в мехатронике и робототехнике",

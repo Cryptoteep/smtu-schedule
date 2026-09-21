@@ -2,8 +2,8 @@
   "teacherId": "Моисеев Илья Сергеевич",
   "teacherName": "Моисеев Илья Сергеевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107668.jpg?token_static=cc6d2602d86c6382697c2928afb128bd",
-  "updatedAt": "2026-09-21T15:05:56.023Z",
-  "totalLessons": 10,
+  "updatedAt": "2026-09-21T23:16:07.798Z",
+  "totalLessons": 17,
   "days": [
     {
       "dayName": "Понедельник",
@@ -95,8 +95,133 @@
           }
         },
         {
-          "id": "7917-2-10:10-1",
+          "id": "7766-2-14:00-5",
           "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы программирования систем управления",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Моисеев Илья Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107668.jpg?token_static=cc6d2602d86c6382697c2928afb128bd"
+          }
+        },
+        {
+          "id": "7917-2-15:40-3",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Методы принятия решений в профессиональной деятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-56",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Моисеев Илья Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107668.jpg?token_static=cc6d2602d86c6382697c2928afb128bd"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7766-3-10:10-1",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Математические основы кинематики и динамики роботов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 436",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Моисеев Илья Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107668.jpg?token_static=cc6d2602d86c6382697c2928afb128bd"
+          }
+        },
+        {
+          "id": "7766-3-11:50-2",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы программирования систем управления",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Моисеев Илья Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107668.jpg?token_static=cc6d2602d86c6382697c2928afb128bd"
+          }
+        },
+        {
+          "id": "7766-3-11:50-3",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Математические основы кинематики и динамики роботов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Моисеев Илья Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107668.jpg?token_static=cc6d2602d86c6382697c2928afb128bd"
+          }
+        },
+        {
+          "id": "7766-3-14:00-4",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы программирования систем управления",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Моисеев Илья Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107668.jpg?token_static=cc6d2602d86c6382697c2928afb128bd"
+          }
+        },
+        {
+          "id": "7766-3-14:00-5",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Математические основы кинематики и динамики роботов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Моисеев Илья Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107668.jpg?token_static=cc6d2602d86c6382697c2928afb128bd"
+          }
+        },
+        {
+          "id": "7917-3-10:10-1",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Методы принятия решений в профессиональной деятельности",
@@ -112,11 +237,6 @@
           }
         }
       ]
-    },
-    {
-      "dayName": "Среда",
-      "dayIndex": 3,
-      "lessons": []
     },
     {
       "dayName": "Четверг",

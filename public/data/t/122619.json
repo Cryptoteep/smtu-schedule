@@ -3,8 +3,8 @@
   "teacherName": "Свиркина Лариса Анатольевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
-  "updatedAt": "2026-09-21T15:05:56.015Z",
-  "totalLessons": 22,
+  "updatedAt": "2026-09-21T23:16:07.769Z",
+  "totalLessons": 26,
   "days": [
     {
       "dayName": "Понедельник",
@@ -68,6 +68,44 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
           }
+        },
+        {
+          "id": "7443-2-10:10-2",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Линейная алгебра, Аналитическая геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 502",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-07",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Свиркина Лариса Анатольевна",
+            "id": "122619",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
+          }
+        },
+        {
+          "id": "7467-2-11:50-5",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Линейная алгебра, Аналитическая геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 440",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-03",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Свиркина Лариса Анатольевна",
+            "id": "122619",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
+          }
         }
       ]
     },
@@ -84,8 +122,47 @@
           "rawType": "Лекция",
           "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "3280",
+          "groupName": "3280, 20213",
           "weekParity": "both",
+          "teacher": {
+            "name": "Свиркина Лариса Анатольевна",
+            "id": "122619",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
+          }
+        },
+        {
+          "id": "7745-3-14:00-4",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20220, 20270, 20271",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Свиркина Лариса Анатольевна",
+            "id": "122619",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
+          }
+        },
+        {
+          "id": "7745-3-14:00-5",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 107",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20220, 20270, 20271",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Свиркина Лариса Анатольевна",
             "id": "122619",

@@ -1,7 +1,7 @@
 {
   "groupId": "7752",
   "groupName": "20231",
-  "updatedAt": "2026-09-21T15:05:47.556Z",
+  "updatedAt": "2026-09-21T23:15:57.691Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -57,6 +57,23 @@
             "name": "Федорова Анастасия Валерьевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
           }
+        },
+        {
+          "id": "7752-1-19:00-4",
+          "dayIndex": 1,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Инновационный менеджмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-06",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20231",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Федорова Анастасия Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
+          }
         }
       ]
     },
@@ -65,8 +82,84 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7752-2-10:10-1",
+          "id": "7752-2-11:50-1",
           "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Цифровые технологии в жизненном цикле морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 507",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20231",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "7752-2-14:00-2",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Цифровые технологии в жизненном цикле морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20231",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "7752-2-14:00-3",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Цифровые технологии в жизненном цикле морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20231",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "7752-2-15:40-4",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Инновационный менеджмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20231",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Федорова Анастасия Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7752-3-10:10-1",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Научно-технический семинар",
@@ -84,8 +177,8 @@
           }
         },
         {
-          "id": "7752-2-11:50-2",
-          "dayIndex": 2,
+          "id": "7752-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Научно-технический семинар",
@@ -103,8 +196,8 @@
           }
         },
         {
-          "id": "7752-2-14:00-3",
-          "dayIndex": 2,
+          "id": "7752-3-14:00-3",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Научно-технический семинар",
@@ -122,8 +215,8 @@
           }
         },
         {
-          "id": "7752-2-15:40-4",
-          "dayIndex": 2,
+          "id": "7752-3-15:40-4",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Научно-технический семинар",
@@ -141,8 +234,8 @@
           }
         },
         {
-          "id": "7752-2-15:40-5",
-          "dayIndex": 2,
+          "id": "7752-3-15:40-5",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Научно-технический семинар",
@@ -160,8 +253,8 @@
           }
         },
         {
-          "id": "7752-2-17:20-6",
-          "dayIndex": 2,
+          "id": "7752-3-17:20-6",
+          "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Научно-технический семинар",

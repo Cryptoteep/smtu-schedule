@@ -2,8 +2,8 @@
   "teacherId": "Сапожков Сергей Борисович",
   "teacherName": "Сапожков Сергей Борисович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/13/small/p128165.jpg?token_static=5b3dbce8975e2ba98e595723e5886668",
-  "updatedAt": "2026-09-21T15:05:56.019Z",
-  "totalLessons": 7,
+  "updatedAt": "2026-09-21T23:16:07.772Z",
+  "totalLessons": 8,
   "days": [
     {
       "dayName": "Понедельник",
@@ -27,7 +27,7 @@
           }
         },
         {
-          "id": "7817-1-14:00-6",
+          "id": "7817-1-14:00-5",
           "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -50,17 +50,34 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7815-2-15:40-5",
+          "id": "7815-2-11:50-1",
           "dayIndex": 2,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Планирование эксперимента и анализ научных данных",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-52",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сапожков Сергей Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/13/small/p128165.jpg?token_static=5b3dbce8975e2ba98e595723e5886668"
+          }
+        },
+        {
+          "id": "7815-2-14:00-3",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
           "subject": "Планирование эксперимента и анализ научных данных",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "ИЛИСТ УИК207",
-          "campus": "СПбГМТУ",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "12515-52",
-          "weekParity": "down",
+          "weekParity": "up",
           "teacher": {
             "name": "Сапожков Сергей Борисович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/13/small/p128165.jpg?token_static=5b3dbce8975e2ba98e595723e5886668"
@@ -89,7 +106,7 @@
           }
         },
         {
-          "id": "7818-3-15:40-6",
+          "id": "7815-3-15:40-5",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -98,7 +115,7 @@
           "rawType": "Практическое занятие",
           "room": "ИЛИСТ УИК207",
           "campus": "СПбГМТУ",
-          "groupName": "12515-50",
+          "groupName": "12515-52, 12515-50",
           "weekParity": "down",
           "teacher": {
             "name": "Сапожков Сергей Борисович",

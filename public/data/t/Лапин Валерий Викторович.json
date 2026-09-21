@@ -2,8 +2,8 @@
   "teacherId": "Лапин Валерий Викторович",
   "teacherName": "Лапин Валерий Викторович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/12/small/p128180.jpg?token_static=77107b9386e89abe57027f4eace5d5ff",
-  "updatedAt": "2026-09-21T15:05:56.073Z",
-  "totalLessons": 5,
+  "updatedAt": "2026-09-21T23:16:08.009Z",
+  "totalLessons": 4,
   "days": [
     {
       "dayName": "Понедельник",
@@ -13,10 +13,15 @@
     {
       "dayName": "Вторник",
       "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
       "lessons": [
         {
-          "id": "7442-2-10:10-3",
-          "dayIndex": 2,
+          "id": "7442-3-10:10-3",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт",
@@ -24,20 +29,14 @@
           "rawType": "Лекция",
           "room": "У 101",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "12526-34",
+          "groupName": "12526-34, 12126-33, 12126-40",
           "weekParity": "both",
           "dateSpecific": "02.09 по 21.10",
           "teacher": {
             "name": "Лапин Валерий Викторович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/12/small/p128180.jpg?token_static=77107b9386e89abe57027f4eace5d5ff"
           }
-        }
-      ]
-    },
-    {
-      "dayName": "Среда",
-      "dayIndex": 3,
-      "lessons": [
+        },
         {
           "id": "7462-3-11:50-3",
           "dayIndex": 3,
@@ -49,24 +48,6 @@
           "room": "У 101",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-32, 12126-30, 12126-31",
-          "weekParity": "both",
-          "dateSpecific": "02.09 по 21.10",
-          "teacher": {
-            "name": "Лапин Валерий Викторович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/12/small/p128180.jpg?token_static=77107b9386e89abe57027f4eace5d5ff"
-          }
-        },
-        {
-          "id": "7829-3-10:10-2",
-          "dayIndex": 3,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Физическая культура и спорт",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 101",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12126-33, 12126-40",
           "weekParity": "both",
           "dateSpecific": "02.09 по 21.10",
           "teacher": {

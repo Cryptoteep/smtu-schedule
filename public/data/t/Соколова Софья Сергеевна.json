@@ -2,7 +2,7 @@
   "teacherId": "Соколова Софья Сергеевна",
   "teacherName": "Соколова Софья Сергеевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/21/small/p107087.jpg?token_static=5dbc4a0271e02c67e9a8e06c6133bd13",
-  "updatedAt": "2026-09-21T15:05:56.084Z",
+  "updatedAt": "2026-09-21T23:16:08.039Z",
   "totalLessons": 7,
   "days": [
     {
@@ -48,10 +48,15 @@
     {
       "dayName": "Вторник",
       "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
       "lessons": [
         {
-          "id": "7844-2-11:50-2",
-          "dayIndex": 2,
+          "id": "7844-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Управление проектами и инновациями",
@@ -67,8 +72,8 @@
           }
         },
         {
-          "id": "7844-2-14:00-3",
-          "dayIndex": 2,
+          "id": "7844-3-14:00-3",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Управление проектами и инновациями",
@@ -84,11 +89,6 @@
           }
         }
       ]
-    },
-    {
-      "dayName": "Среда",
-      "dayIndex": 3,
-      "lessons": []
     },
     {
       "dayName": "Четверг",

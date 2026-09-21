@@ -2,7 +2,7 @@
   "teacherId": "Павлов Павел Валентинович",
   "teacherName": "Павлов Павел Валентинович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f",
-  "updatedAt": "2026-09-21T15:05:56.037Z",
+  "updatedAt": "2026-09-21T23:16:07.826Z",
   "totalLessons": 12,
   "days": [
     {
@@ -25,10 +25,16 @@
             "name": "Павлов Павел Валентинович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
           }
-        },
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
         {
-          "id": "7451-1-19:00-1",
-          "dayIndex": 1,
+          "id": "7451-2-19:00-1",
+          "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Введение в специальность",
@@ -44,8 +50,8 @@
           }
         },
         {
-          "id": "7451-1-20:40-4",
-          "dayIndex": 1,
+          "id": "7451-2-20:40-4",
+          "dayIndex": 2,
           "time": "20:40-22:10",
           "timeSlotIndex": 5,
           "subject": "Введение в специальность",
@@ -61,11 +67,6 @@
           }
         }
       ]
-    },
-    {
-      "dayName": "Вторник",
-      "dayIndex": 2,
-      "lessons": []
     },
     {
       "dayName": "Среда",

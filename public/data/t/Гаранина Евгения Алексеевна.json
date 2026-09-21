@@ -2,8 +2,8 @@
   "teacherId": "Гаранина Евгения Алексеевна",
   "teacherName": "Гаранина Евгения Алексеевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40",
-  "updatedAt": "2026-09-21T15:05:56.076Z",
-  "totalLessons": 17,
+  "updatedAt": "2026-09-21T23:16:08.011Z",
+  "totalLessons": 20,
   "days": [
     {
       "dayName": "Понедельник",
@@ -100,6 +100,57 @@
       "dayName": "Вторник",
       "dayIndex": 2,
       "lessons": [
+        {
+          "id": "7815-2-15:40-5",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Иностранный язык в профессиональной и академической коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-52",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Гаранина Евгения Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
+          }
+        },
+        {
+          "id": "7820-2-15:40-4",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-02",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гаранина Евгения Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
+          }
+        },
+        {
+          "id": "7820-2-15:40-5",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-02",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гаранина Евгения Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
+          }
+        },
         {
           "id": "7841-2-11:50-2",
           "dayIndex": 2,
@@ -255,7 +306,7 @@
           }
         },
         {
-          "id": "7818-5-14:00-5",
+          "id": "7818-5-14:00-4",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

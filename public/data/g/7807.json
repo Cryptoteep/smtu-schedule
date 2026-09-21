@@ -1,7 +1,7 @@
 {
   "groupId": "7807",
   "groupName": "20213",
-  "updatedAt": "2026-09-21T15:05:47.241Z",
+  "updatedAt": "2026-09-21T23:15:57.371Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -44,6 +44,82 @@
           "dayIndex": 2,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
+          "subject": "Сопротивление материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 143",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20213",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Крахмалёва Ольга Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100588.jpg?token_static=aa8f6d868ec833022acb7d44d183c778"
+          }
+        },
+        {
+          "id": "7807-2-10:10-2",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Сопротивление материалов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 143",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20213",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Крахмалёва Ольга Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100588.jpg?token_static=aa8f6d868ec833022acb7d44d183c778"
+          }
+        },
+        {
+          "id": "7807-2-11:50-3",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теоретическая механика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20213",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мелконян Армен Левонович",
+            "id": "100749",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100749/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100749.jpg?token_static=a604f7cb24d29165ccbd7d74ed7372ee"
+          }
+        },
+        {
+          "id": "7807-2-14:00-4",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теоретическая механика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 506",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20213",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Гур-Мильнер Семен Исаакович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100312.jpg?token_static=453db8877fb5240d0e45f83d36c475e5"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7807-3-08:30-1",
+          "dayIndex": 3,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
           "subject": "Высшая математика",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -59,8 +135,8 @@
           }
         },
         {
-          "id": "7807-2-10:10-2",
-          "dayIndex": 2,
+          "id": "7807-3-10:10-2",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт (элективная)",
@@ -72,8 +148,8 @@
           "weekParity": "both"
         },
         {
-          "id": "7807-2-11:50-3",
-          "dayIndex": 2,
+          "id": "7807-3-11:50-3",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Сопротивление материалов",
@@ -91,8 +167,8 @@
           }
         },
         {
-          "id": "7807-2-14:00-4",
-          "dayIndex": 2,
+          "id": "7807-3-14:00-4",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Высшая математика",

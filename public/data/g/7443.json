@@ -1,7 +1,7 @@
 {
   "groupId": "7443",
   "groupName": "12515-07",
-  "updatedAt": "2026-09-21T15:05:46.983Z",
+  "updatedAt": "2026-09-21T23:15:56.849Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -127,6 +127,107 @@
           "dayIndex": 2,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
+          "subject": "Математический анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 451",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-07",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Русина Лариса Германовна",
+            "id": "123501",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123501/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/17/small/p123501.jpg?token_static=ec8df21930d8598050ff7830e2e2ec38"
+          }
+        },
+        {
+          "id": "7443-2-10:10-2",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Линейная алгебра, Аналитическая геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 502",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-07",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Свиркина Лариса Анатольевна",
+            "id": "122619",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
+          }
+        },
+        {
+          "id": "7443-2-11:50-3",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Математический анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 438",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-07",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Русина Лариса Германовна",
+            "id": "123501",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123501/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/17/small/p123501.jpg?token_static=ec8df21930d8598050ff7830e2e2ec38"
+          }
+        },
+        {
+          "id": "7443-2-11:50-4",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Начертательная геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 215",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-07",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чехович Сергей Владиславович",
+            "id": "101320",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101320/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101320.jpg?token_static=c1b4269032a4a13d778acc3f4ef7b1a6"
+          }
+        },
+        {
+          "id": "7443-2-14:00-5",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Общая и неорганическая химия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 242",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-07",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Трусов Валерий Иванович",
+            "id": "101208",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101208/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101208.jpg?token_static=48d2d4be94fc7a8e58a329b1b449f7db"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7443-3-08:30-1",
+          "dayIndex": 3,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
           "subject": "Физическая культура и спорт",
           "type": "lecture",
           "rawType": "Лекция",
@@ -140,8 +241,8 @@
           }
         },
         {
-          "id": "7443-2-10:10-2",
-          "dayIndex": 2,
+          "id": "7443-3-10:10-2",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "История России",
@@ -157,8 +258,8 @@
           }
         },
         {
-          "id": "7443-2-10:10-3",
-          "dayIndex": 2,
+          "id": "7443-3-10:10-3",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Социальное взаимодействие в профессиональной деятельности",
@@ -174,8 +275,8 @@
           }
         },
         {
-          "id": "7443-2-11:50-4",
-          "dayIndex": 2,
+          "id": "7443-3-11:50-4",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Иностранный язык",
@@ -191,8 +292,8 @@
           }
         },
         {
-          "id": "7443-2-11:50-5",
-          "dayIndex": 2,
+          "id": "7443-3-11:50-5",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Иностранный язык",
@@ -208,8 +309,8 @@
           }
         },
         {
-          "id": "7443-2-14:00-6",
-          "dayIndex": 2,
+          "id": "7443-3-14:00-6",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информатика",
@@ -225,8 +326,8 @@
           }
         },
         {
-          "id": "7443-2-14:00-7",
-          "dayIndex": 2,
+          "id": "7443-3-14:00-7",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Иностранный язык",

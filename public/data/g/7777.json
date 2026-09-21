@@ -1,7 +1,7 @@
 {
   "groupId": "7777",
   "groupName": "20470",
-  "updatedAt": "2026-09-21T15:05:49.129Z",
+  "updatedAt": "2026-09-21T23:15:59.689Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -86,8 +86,116 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7777-2-10:10-1",
+          "id": "7777-2-11:50-1",
           "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Автоматизация сварочных процессов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 520",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Карпов Вячеслав Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/11/small/p100502.jpg?token_static=8f53807a0d4ea9e0d53563fe481e95e1"
+          }
+        },
+        {
+          "id": "7777-2-14:00-2",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Автоматизация сварочных процессов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 521",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Карпов Вячеслав Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/11/small/p100502.jpg?token_static=8f53807a0d4ea9e0d53563fe481e95e1"
+          }
+        },
+        {
+          "id": "7777-2-14:00-3",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы числового программного управления",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ НПК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бабкин Константин Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p104989.jpg?token_static=b3add6990af4d4d439ba4e0d4ef14362"
+          }
+        },
+        {
+          "id": "7777-2-15:40-4",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Автоматизация сварочных процессов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 521",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Карпов Вячеслав Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/11/small/p100502.jpg?token_static=8f53807a0d4ea9e0d53563fe481e95e1"
+          }
+        },
+        {
+          "id": "7777-2-15:40-5",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы числового программного управления",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Певзнер Яков Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p106219.jpg?token_static=cacb9c7f62085d0cdeefe08d65aa12fe"
+          }
+        },
+        {
+          "id": "7777-2-17:20-6",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы числового программного управления",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Певзнер Яков Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p106219.jpg?token_static=cacb9c7f62085d0cdeefe08d65aa12fe"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7777-3-10:10-1",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Лазерные технологии обработки материалов",
@@ -105,8 +213,8 @@
           }
         },
         {
-          "id": "7777-2-11:50-2",
-          "dayIndex": 2,
+          "id": "7777-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Технология сварки плавлением и давлением",
@@ -122,8 +230,8 @@
           }
         },
         {
-          "id": "7777-2-11:50-3",
-          "dayIndex": 2,
+          "id": "7777-3-11:50-3",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Технология сварки плавлением и давлением",
@@ -189,23 +297,6 @@
           "room": "ИЛИСТ УИК207",
           "campus": "СПбГМТУ",
           "groupName": "20470",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Иванов Сергей Юрьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106214.jpg?token_static=006ee993bc23049b76433617f16a1e36"
-          }
-        },
-        {
-          "id": "7777-4-14:00-4",
-          "dayIndex": 4,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Теория сварочных деформаций и напряжений",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "ИЛИСТ УИК207",
-          "campus": "СПбГМТУ",
-          "groupName": "20470",
           "weekParity": "both",
           "teacher": {
             "name": "Иванов Сергей Юрьевич",
@@ -213,24 +304,7 @@
           }
         },
         {
-          "id": "7777-4-15:40-5",
-          "dayIndex": 4,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Теория сварочных деформаций и напряжений",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "ИЛИСТ УИК207",
-          "campus": "СПбГМТУ",
-          "groupName": "20470",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Иванов Сергей Юрьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106214.jpg?token_static=006ee993bc23049b76433617f16a1e36"
-          }
-        },
-        {
-          "id": "7777-4-15:40-6",
+          "id": "7777-4-15:40-4",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -258,8 +332,8 @@
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Военная подготовка (офицеры запаса)",
-          "type": "military",
-          "rawType": "Практическое занятие",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20470",
@@ -271,8 +345,8 @@
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Военная подготовка (офицеры запаса)",
-          "type": "lecture",
-          "rawType": "Лекция",
+          "type": "military",
+          "rawType": "Практическое занятие",
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20470",

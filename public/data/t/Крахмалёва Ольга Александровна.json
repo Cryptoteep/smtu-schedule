@@ -2,8 +2,8 @@
   "teacherId": "Крахмалёва Ольга Александровна",
   "teacherName": "Крахмалёва Ольга Александровна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100588.jpg?token_static=aa8f6d868ec833022acb7d44d183c778",
-  "updatedAt": "2026-09-21T15:05:55.991Z",
-  "totalLessons": 15,
+  "updatedAt": "2026-09-21T23:16:07.640Z",
+  "totalLessons": 17,
   "days": [
     {
       "dayName": "Понедельник",
@@ -42,6 +42,40 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "3226",
           "weekParity": "up",
+          "teacher": {
+            "name": "Крахмалёва Ольга Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100588.jpg?token_static=aa8f6d868ec833022acb7d44d183c778"
+          }
+        },
+        {
+          "id": "7807-2-08:30-1",
+          "dayIndex": 2,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Сопротивление материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 143",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20213",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Крахмалёва Ольга Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100588.jpg?token_static=aa8f6d868ec833022acb7d44d183c778"
+          }
+        },
+        {
+          "id": "7807-2-10:10-2",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Сопротивление материалов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 143",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20213",
+          "weekParity": "both",
           "teacher": {
             "name": "Крахмалёва Ольга Александровна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100588.jpg?token_static=aa8f6d868ec833022acb7d44d183c778"

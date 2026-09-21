@@ -2,8 +2,8 @@
   "teacherId": "Гиль Максим Алексеевич",
   "teacherName": "Гиль Максим Алексеевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/06/small/p124850.jpg?token_static=d64aaadc32bf0e7484d2aa7b252e5950",
-  "updatedAt": "2026-09-21T15:05:56.017Z",
-  "totalLessons": 5,
+  "updatedAt": "2026-09-21T23:16:07.770Z",
+  "totalLessons": 9,
   "days": [
     {
       "dayName": "Понедельник",
@@ -46,13 +46,82 @@
             "name": "Гиль Максим Алексеевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/06/small/p124850.jpg?token_static=d64aaadc32bf0e7484d2aa7b252e5950"
           }
+        },
+        {
+          "id": "7506-2-10:10-1",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Виртуальное моделирование и проектирование роботов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20420",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гиль Максим Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/06/small/p124850.jpg?token_static=d64aaadc32bf0e7484d2aa7b252e5950"
+          }
+        },
+        {
+          "id": "7745-2-08:30-2",
+          "dayIndex": 2,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Автоматизированное проектирование мехатронных модулей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20220",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гиль Максим Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/06/small/p124850.jpg?token_static=d64aaadc32bf0e7484d2aa7b252e5950"
+          }
+        },
+        {
+          "id": "7745-2-10:10-4",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Автоматизированное проектирование мехатронных модулей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20220",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гиль Максим Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/06/small/p124850.jpg?token_static=d64aaadc32bf0e7484d2aa7b252e5950"
+          }
         }
       ]
     },
     {
       "dayName": "Среда",
       "dayIndex": 3,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7506-3-11:50-6",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Виртуальное моделирование и проектирование роботов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20420",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гиль Максим Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/06/small/p124850.jpg?token_static=d64aaadc32bf0e7484d2aa7b252e5950"
+          }
+        }
+      ]
     },
     {
       "dayName": "Четверг",

@@ -1,7 +1,7 @@
 {
   "groupId": "7769",
   "groupName": "20370",
-  "updatedAt": "2026-09-21T15:05:48.407Z",
+  "updatedAt": "2026-09-21T23:15:58.890Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -137,8 +137,122 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7769-2-15:40-1",
+          "id": "7769-2-14:00-1",
           "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы теплофизики и механики сплошных сред",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 324",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ларионов Николай Владимирович",
+            "id": "104846",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104846/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104846.jpg?token_static=de6c8f5c086b0306d8efda8ce9e3cd94"
+          }
+        },
+        {
+          "id": "7769-2-15:40-2",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория автоматического управления",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кичигина Ольга Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100522.jpg?token_static=1aa780db3038d5b4eaa9897d08b3fe12"
+          }
+        },
+        {
+          "id": "7769-2-15:40-3",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы теплофизики и механики сплошных сред",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 324",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ларионов Николай Владимирович",
+            "id": "104846",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104846/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104846.jpg?token_static=de6c8f5c086b0306d8efda8ce9e3cd94"
+          }
+        },
+        {
+          "id": "7769-2-17:20-4",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Теория автоматического управления",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Фомченко Андрей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
+          }
+        },
+        {
+          "id": "7769-2-17:20-5",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Теория автоматического управления",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Фомченко Андрей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
+          }
+        },
+        {
+          "id": "7769-2-19:00-6",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7769-3-15:40-1",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Основы теплофизики и механики сплошных сред",
@@ -156,8 +270,8 @@
           }
         },
         {
-          "id": "7769-2-15:40-2",
-          "dayIndex": 2,
+          "id": "7769-3-15:40-2",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Основы теплофизики и механики сплошных сред",

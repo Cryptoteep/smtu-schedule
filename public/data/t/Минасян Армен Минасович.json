@@ -2,8 +2,8 @@
   "teacherId": "Минасян Армен Минасович",
   "teacherName": "Минасян Армен Минасович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea",
-  "updatedAt": "2026-09-21T15:05:56.016Z",
-  "totalLessons": 20,
+  "updatedAt": "2026-09-21T23:16:07.770Z",
+  "totalLessons": 30,
   "days": [
     {
       "dayName": "Понедельник",
@@ -152,7 +152,7 @@
           "rawType": "Практическое занятие",
           "room": "Конгресс-Центр 307",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "20222",
+          "groupName": "20222, 20223",
           "weekParity": "up",
           "teacher": {
             "name": "Минасян Армен Минасович",
@@ -168,7 +168,7 @@
           "rawType": "Практическое занятие",
           "room": "Конгресс-Центр 307",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "20222",
+          "groupName": "20222, 20223",
           "weekParity": "up",
           "teacher": {
             "name": "Минасян Армен Минасович",
@@ -238,13 +238,186 @@
             "name": "Минасян Армен Минасович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
           }
+        },
+        {
+          "id": "7746-2-14:00-6",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технологии разработки информационных ресурсов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20221",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "7747-2-11:50-5",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технологии разработки информационных ресурсов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20222",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "7751-2-17:20-4",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Цифровые технологии в жизненном цикле технических систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 415",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20230",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "7752-2-11:50-1",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Цифровые технологии в жизненном цикле морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 507",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20231",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "7752-2-14:00-2",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Цифровые технологии в жизненном цикле морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20231",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
         }
       ]
     },
     {
       "dayName": "Среда",
       "dayIndex": 3,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7747-3-10:10-2",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Технологии разработки информационных ресурсов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20222",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "7765-3-10:10-1",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Базовые технологии цифрового проектирования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 416",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20313",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "7765-3-11:50-2",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Базовые технологии цифрового проектирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 416",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20313",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "7774-3-14:00-3",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информационные технологии в жизненном цикле морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 416",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20413",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "7774-3-15:40-4",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информационные технологии в жизненном цикле морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 416",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20413",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        }
+      ]
     },
     {
       "dayName": "Четверг",

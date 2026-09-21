@@ -3,8 +3,8 @@
   "teacherName": "Пономарёв Алексей Александрович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/06/19/small/p122756.jpg?token_static=1cbedd5cfab898a1b2f0c78dd2522591",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/122756/",
-  "updatedAt": "2026-09-21T15:05:56.014Z",
-  "totalLessons": 23,
+  "updatedAt": "2026-09-21T23:16:07.768Z",
+  "totalLessons": 25,
   "days": [
     {
       "dayName": "Понедельник",
@@ -197,8 +197,53 @@
           }
         },
         {
-          "id": "7505-2-14:00-5",
+          "id": "7941-2-10:10-4",
           "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Дискретная математика для инженера-программиста",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 212",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-08",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Пономарёв Алексей Александрович",
+            "id": "122756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/06/19/small/p122756.jpg?token_static=1cbedd5cfab898a1b2f0c78dd2522591"
+          }
+        },
+        {
+          "id": "7941-2-10:10-5",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Дискретная математика для инженера-программиста",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 421",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-08",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Пономарёв Алексей Александрович",
+            "id": "122756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/06/19/small/p122756.jpg?token_static=1cbedd5cfab898a1b2f0c78dd2522591"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7505-3-14:00-5",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Дискретная математика для инженера-программиста",
@@ -216,8 +261,8 @@
           }
         },
         {
-          "id": "7505-2-14:00-6",
-          "dayIndex": 2,
+          "id": "7505-3-14:00-6",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Дискретная математика для инженера-программиста",
@@ -235,11 +280,6 @@
           }
         }
       ]
-    },
-    {
-      "dayName": "Среда",
-      "dayIndex": 3,
-      "lessons": []
     },
     {
       "dayName": "Четверг",

@@ -2,8 +2,8 @@
   "teacherId": "Гриценко Кристина Вадимовна",
   "teacherName": "Гриценко Кристина Вадимовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3",
-  "updatedAt": "2026-09-21T15:05:56.024Z",
-  "totalLessons": 18,
+  "updatedAt": "2026-09-21T23:16:07.799Z",
+  "totalLessons": 20,
   "days": [
     {
       "dayName": "Понедельник",
@@ -230,6 +230,40 @@
           "groupName": "12126-03",
           "weekParity": "both",
           "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Гриценко Кристина Вадимовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3"
+          }
+        },
+        {
+          "id": "7879-3-19:00-1",
+          "dayIndex": 3,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Электротехника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-03",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20375",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гриценко Кристина Вадимовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3"
+          }
+        },
+        {
+          "id": "7879-3-20:40-2",
+          "dayIndex": 3,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Электротехника",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-03",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20375",
+          "weekParity": "up",
           "teacher": {
             "name": "Гриценко Кристина Вадимовна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3"

@@ -3,8 +3,8 @@
   "teacherName": "Трусов Валерий Иванович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101208.jpg?token_static=48d2d4be94fc7a8e58a329b1b449f7db",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101208/",
-  "updatedAt": "2026-09-21T15:05:55.984Z",
-  "totalLessons": 9,
+  "updatedAt": "2026-09-21T23:16:07.636Z",
+  "totalLessons": 12,
   "days": [
     {
       "dayName": "Понедельник",
@@ -71,6 +71,25 @@
           }
         },
         {
+          "id": "7443-2-14:00-5",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Общая и неорганическая химия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 242",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-07",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Трусов Валерий Иванович",
+            "id": "101208",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101208/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101208.jpg?token_static=48d2d4be94fc7a8e58a329b1b449f7db"
+          }
+        },
+        {
           "id": "7463-2-14:00-4",
           "dayIndex": 2,
           "time": "14:00-15:30",
@@ -100,6 +119,44 @@
           "room": "У 165",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12327-01, 12327-02, 12327-03, 12315-06",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Трусов Валерий Иванович",
+            "id": "101208",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101208/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101208.jpg?token_static=48d2d4be94fc7a8e58a329b1b449f7db"
+          }
+        },
+        {
+          "id": "7879-2-19:00-1",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Коррозия металлов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 536(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20375",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Трусов Валерий Иванович",
+            "id": "101208",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101208/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101208.jpg?token_static=48d2d4be94fc7a8e58a329b1b449f7db"
+          }
+        },
+        {
+          "id": "7879-2-20:40-3",
+          "dayIndex": 2,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Коррозия металлов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 536(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20375",
           "weekParity": "up",
           "teacher": {
             "name": "Трусов Валерий Иванович",

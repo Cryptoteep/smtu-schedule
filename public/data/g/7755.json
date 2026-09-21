@@ -1,7 +1,7 @@
 {
   "groupId": "7755",
   "groupName": "20271",
-  "updatedAt": "2026-09-21T15:05:47.758Z",
+  "updatedAt": "2026-09-21T23:15:58.249Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -40,8 +40,116 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7755-2-10:10-1",
+          "id": "7755-2-08:30-1",
           "dayIndex": 2,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Системы автоматизированного проектирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20271",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бабкин Константин Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p104989.jpg?token_static=b3add6990af4d4d439ba4e0d4ef14362"
+          }
+        },
+        {
+          "id": "7755-2-08:30-2",
+          "dayIndex": 2,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Системы автоматизированного проектирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20271",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бабкин Константин Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p104989.jpg?token_static=b3add6990af4d4d439ba4e0d4ef14362"
+          }
+        },
+        {
+          "id": "7755-2-10:10-3",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Системы автоматизированного проектирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20271",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бабкин Константин Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p104989.jpg?token_static=b3add6990af4d4d439ba4e0d4ef14362"
+          }
+        },
+        {
+          "id": "7755-2-10:10-4",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Системы автоматизированного проектирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20271",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бабкин Константин Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p104989.jpg?token_static=b3add6990af4d4d439ba4e0d4ef14362"
+          }
+        },
+        {
+          "id": "7755-2-11:50-5",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Детали машин",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Стукач Александр Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/02/small/p122495.jpg?token_static=a8a1e3f8a8f151b4c46b6ea60c07c438"
+          }
+        },
+        {
+          "id": "7755-2-11:50-6",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Детали машин",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Протасов Алексей Вячеславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/03/small/p126851.jpg?token_static=ba7785d7b0057e0db276340b78bf6a1e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7755-3-10:10-1",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Философия",
@@ -57,8 +165,8 @@
           }
         },
         {
-          "id": "7755-2-11:50-2",
-          "dayIndex": 2,
+          "id": "7755-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физика",
@@ -76,8 +184,8 @@
           }
         },
         {
-          "id": "7755-2-11:50-3",
-          "dayIndex": 2,
+          "id": "7755-3-11:50-3",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физика",
@@ -96,8 +204,8 @@
           }
         },
         {
-          "id": "7755-2-14:00-4",
-          "dayIndex": 2,
+          "id": "7755-3-14:00-4",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Высшая математика",
@@ -115,8 +223,8 @@
           }
         },
         {
-          "id": "7755-2-14:00-5",
-          "dayIndex": 2,
+          "id": "7755-3-14:00-5",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Высшая математика",
@@ -135,8 +243,8 @@
           }
         },
         {
-          "id": "7755-2-15:40-6",
-          "dayIndex": 2,
+          "id": "7755-3-15:40-6",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Физика",
@@ -154,8 +262,8 @@
           }
         },
         {
-          "id": "7755-2-15:40-7",
-          "dayIndex": 2,
+          "id": "7755-3-15:40-7",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Теоретическая механика",

@@ -1,7 +1,7 @@
 {
   "groupId": "7673",
   "groupName": "4250",
-  "updatedAt": "2026-09-21T15:05:50.717Z",
+  "updatedAt": "2026-09-21T23:16:01.289Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -98,14 +98,31 @@
           "room": "У 451",
           "campus": "Ульянка (Корпус У)",
           "groupName": "4250",
-          "weekParity": "both",
+          "weekParity": "up",
           "teacher": {
             "name": "Еремеева Дарья Дмитриевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p127344.jpg?token_static=fb97232ff487c8a37f6a93eb8fededeb"
           }
         },
         {
-          "id": "7673-2-11:50-2",
+          "id": "7673-2-10:10-2",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Макроэкономика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4250",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Еремеева Дарья Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p127344.jpg?token_static=fb97232ff487c8a37f6a93eb8fededeb"
+          }
+        },
+        {
+          "id": "7673-2-11:50-3",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -122,7 +139,7 @@
           }
         },
         {
-          "id": "7673-2-14:00-3",
+          "id": "7673-2-14:00-4",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -139,7 +156,7 @@
           }
         },
         {
-          "id": "7673-2-15:40-4",
+          "id": "7673-2-15:40-5",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -168,19 +185,6 @@
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
-          "subject": "Физическая культура и спорт (элективная)",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "4250",
-          "weekParity": "both"
-        },
-        {
-          "id": "7673-3-11:50-2",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
           "subject": "Высшая математика",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -192,6 +196,19 @@
             "name": "Крупицкая Ольга Савельевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/08/small/p122711.jpg?token_static=4b97a048cd33a9d92d4dddfeb85d4940"
           }
+        },
+        {
+          "id": "7673-3-11:50-2",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4250",
+          "weekParity": "both"
         },
         {
           "id": "7673-3-15:40-3",

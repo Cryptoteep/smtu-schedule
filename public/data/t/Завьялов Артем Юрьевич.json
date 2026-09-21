@@ -2,8 +2,8 @@
   "teacherId": "Завьялов Артем Юрьевич",
   "teacherName": "Завьялов Артем Юрьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/10/small/p125367.jpg?token_static=e9be5f756fd0ae8a47d7bfc7e7b4d7b6",
-  "updatedAt": "2026-09-21T15:05:55.999Z",
-  "totalLessons": 10,
+  "updatedAt": "2026-09-21T23:16:07.663Z",
+  "totalLessons": 11,
   "days": [
     {
       "dayName": "Понедельник",
@@ -69,7 +69,25 @@
     {
       "dayName": "Среда",
       "dayIndex": 3,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7776-3-10:10-2",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Анализ больших данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Завьялов Артем Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/10/small/p125367.jpg?token_static=e9be5f756fd0ae8a47d7bfc7e7b4d7b6"
+          }
+        }
+      ]
     },
     {
       "dayName": "Четверг",

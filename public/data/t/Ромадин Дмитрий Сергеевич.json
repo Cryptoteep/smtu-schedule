@@ -2,8 +2,8 @@
   "teacherId": "Ромадин Дмитрий Сергеевич",
   "teacherName": "Ромадин Дмитрий Сергеевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/08/small/p124281.jpg?token_static=35c0aed366ab63318d2455cf21c381bb",
-  "updatedAt": "2026-09-21T15:05:56.007Z",
-  "totalLessons": 8,
+  "updatedAt": "2026-09-21T23:16:07.668Z",
+  "totalLessons": 9,
   "days": [
     {
       "dayName": "Понедельник",
@@ -46,7 +46,25 @@
     {
       "dayName": "Вторник",
       "dayIndex": 2,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7780-2-11:50-1",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление качеством, стандартизация, сертификация",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 505(1)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20490",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ромадин Дмитрий Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/08/small/p124281.jpg?token_static=35c0aed366ab63318d2455cf21c381bb"
+          }
+        }
+      ]
     },
     {
       "dayName": "Среда",

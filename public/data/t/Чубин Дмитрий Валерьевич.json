@@ -2,8 +2,8 @@
   "teacherId": "Чубин Дмитрий Валерьевич",
   "teacherName": "Чубин Дмитрий Валерьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/02/16/small/p124595.jpg?token_static=e67aec73131e515034d01de5425b5258",
-  "updatedAt": "2026-09-21T15:05:56.017Z",
-  "totalLessons": 16,
+  "updatedAt": "2026-09-21T23:16:07.770Z",
+  "totalLessons": 18,
   "days": [
     {
       "dayName": "Понедельник",
@@ -112,6 +112,23 @@
             "name": "Чубин Дмитрий Валерьевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/02/16/small/p124595.jpg?token_static=e67aec73131e515034d01de5425b5258"
           }
+        },
+        {
+          "id": "7766-2-17:20-6",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Цифровые системы управления и обработки информации в робототехнике",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-13",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чубин Дмитрий Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/02/16/small/p124595.jpg?token_static=e67aec73131e515034d01de5425b5258"
+          }
         }
       ]
     },
@@ -178,6 +195,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20227",
           "weekParity": "up",
+          "teacher": {
+            "name": "Чубин Дмитрий Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/02/16/small/p124595.jpg?token_static=e67aec73131e515034d01de5425b5258"
+          }
+        },
+        {
+          "id": "7766-3-15:40-6",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Цифровые системы управления и обработки информации в робототехнике",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-13",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "down",
           "teacher": {
             "name": "Чубин Дмитрий Валерьевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/02/16/small/p124595.jpg?token_static=e67aec73131e515034d01de5425b5258"
@@ -266,7 +300,7 @@
       "dayIndex": 6,
       "lessons": [
         {
-          "id": "7802-6-10:10-3",
+          "id": "7802-6-10:10-4",
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -283,17 +317,18 @@
           }
         },
         {
-          "id": "7802-6-11:50-5",
+          "id": "7802-6-11:50-7",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 318",
+          "room": "У УЛК-13",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-01",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Чубин Дмитрий Валерьевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/02/16/small/p124595.jpg?token_static=e67aec73131e515034d01de5425b5258"

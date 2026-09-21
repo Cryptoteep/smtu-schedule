@@ -2,8 +2,8 @@
   "teacherId": "Кайнова Татьяна Денисовна",
   "teacherName": "Кайнова Татьяна Денисовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p106561.jpg?token_static=5d5e274a03861a0352c1c0592f368171",
-  "updatedAt": "2026-09-21T15:05:56.025Z",
-  "totalLessons": 10,
+  "updatedAt": "2026-09-21T23:16:07.799Z",
+  "totalLessons": 15,
   "days": [
     {
       "dayName": "Понедельник",
@@ -83,8 +83,99 @@
           }
         },
         {
-          "id": "7917-2-15:40-5",
+          "id": "7506-2-14:00-5",
           "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы искусственного интеллекта и машинное обучение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20420",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кайнова Татьяна Денисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p106561.jpg?token_static=5d5e274a03861a0352c1c0592f368171"
+          }
+        },
+        {
+          "id": "7506-2-15:40-6",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Методы искусственного интеллекта и машинное обучение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20420",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кайнова Татьяна Денисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p106561.jpg?token_static=5d5e274a03861a0352c1c0592f368171"
+          }
+        },
+        {
+          "id": "7506-2-17:20-7",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Методы искусственного интеллекта и машинное обучение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20420",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кайнова Татьяна Денисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p106561.jpg?token_static=5d5e274a03861a0352c1c0592f368171"
+          }
+        },
+        {
+          "id": "7917-2-15:40-2",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Методы искусственного интеллекта в мехатронике и робототехнике",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-56",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кайнова Татьяна Денисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p106561.jpg?token_static=5d5e274a03861a0352c1c0592f368171"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7506-3-10:10-4",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Методы искусственного интеллекта и машинное обучение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20420",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кайнова Татьяна Денисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p106561.jpg?token_static=5d5e274a03861a0352c1c0592f368171"
+          }
+        },
+        {
+          "id": "7917-3-15:40-5",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Методы искусственного интеллекта в мехатронике и робототехнике",
@@ -100,8 +191,8 @@
           }
         },
         {
-          "id": "7917-2-17:20-6",
-          "dayIndex": 2,
+          "id": "7917-3-17:20-6",
+          "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Методы искусственного интеллекта в мехатронике и робототехнике",
@@ -117,11 +208,6 @@
           }
         }
       ]
-    },
-    {
-      "dayName": "Среда",
-      "dayIndex": 3,
-      "lessons": []
     },
     {
       "dayName": "Четверг",

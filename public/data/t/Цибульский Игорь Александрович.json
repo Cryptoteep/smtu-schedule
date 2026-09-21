@@ -3,8 +3,8 @@
   "teacherName": "Цибульский Игорь Александрович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/20/small/p106209.jpg?token_static=7d487ccde86fd44abebba10875917b5b",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/106209/",
-  "updatedAt": "2026-09-21T15:05:56.021Z",
-  "totalLessons": 3,
+  "updatedAt": "2026-09-21T23:16:07.772Z",
+  "totalLessons": 4,
   "days": [
     {
       "dayName": "Понедельник",
@@ -24,7 +24,7 @@
           "rawType": "Лекция",
           "room": "ИЛИСТ УИК207",
           "campus": "СПбГМТУ",
-          "groupName": "20277, 12515-52, 12515-51",
+          "groupName": "20277",
           "weekParity": "up",
           "teacher": {
             "name": "Цибульский Игорь Александрович",
@@ -58,7 +58,26 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7818-3-11:50-1",
+          "id": "7777-3-10:10-1",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Лазерные технологии обработки материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20470, 20471",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Цибульский Игорь Александрович",
+            "id": "106209",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106209/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/20/small/p106209.jpg?token_static=7d487ccde86fd44abebba10875917b5b"
+          }
+        },
+        {
+          "id": "7815-3-11:50-1",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -67,7 +86,7 @@
           "rawType": "Лекция",
           "room": "ИЛИСТ УИК207",
           "campus": "СПбГМТУ",
-          "groupName": "12515-50",
+          "groupName": "12515-52, 12515-51, 12515-50, 20277",
           "weekParity": "up",
           "teacher": {
             "name": "Цибульский Игорь Александрович",

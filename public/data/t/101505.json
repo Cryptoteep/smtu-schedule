@@ -3,7 +3,7 @@
   "teacherName": "Альбаев Данил Айдарович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p101505.jpg?token_static=e0f44ca0ab3df528b3d17443537a0733",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101505/",
-  "updatedAt": "2026-09-21T15:05:55.995Z",
+  "updatedAt": "2026-09-21T23:16:07.642Z",
   "totalLessons": 16,
   "days": [
     {
@@ -99,10 +99,16 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/101505/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p101505.jpg?token_static=e0f44ca0ab3df528b3d17443537a0733"
           }
-        },
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
         {
-          "id": "7912-1-17:20-4",
-          "dayIndex": 1,
+          "id": "7912-2-17:20-4",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Математические модели внешних гидрометеорологических возмущений",
@@ -120,8 +126,8 @@
           }
         },
         {
-          "id": "7912-1-17:20-5",
-          "dayIndex": 1,
+          "id": "7912-2-17:20-5",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Математические модели внешних гидрометеорологических возмущений",
@@ -139,11 +145,6 @@
           }
         }
       ]
-    },
-    {
-      "dayName": "Вторник",
-      "dayIndex": 2,
-      "lessons": []
     },
     {
       "dayName": "Среда",

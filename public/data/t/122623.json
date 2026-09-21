@@ -3,8 +3,8 @@
   "teacherName": "Глускер Михаил Яковлевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
-  "updatedAt": "2026-09-21T15:05:56.013Z",
-  "totalLessons": 17,
+  "updatedAt": "2026-09-21T23:16:07.768Z",
+  "totalLessons": 27,
   "days": [
     {
       "dayName": "Понедельник",
@@ -16,16 +16,54 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7744-2-10:10-3",
+          "id": "7743-2-10:10-1",
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Жизненный цикл программного обеспечения",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 439",
+          "subject": "Программирование для ЭВМ",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Конгресс-Центр 318",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "20202",
+          "groupName": "20200",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Глускер Михаил Яковлевич",
+            "id": "122623",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+          }
+        },
+        {
+          "id": "7743-2-11:50-2",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Программирование для ЭВМ",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20200",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Глускер Михаил Яковлевич",
+            "id": "122623",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+          }
+        },
+        {
+          "id": "7743-2-15:40-4",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Программирование для ЭВМ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 415",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20200",
           "weekParity": "down",
           "teacher": {
             "name": "Глускер Михаил Яковлевич",
@@ -35,16 +73,132 @@
           }
         },
         {
-          "id": "7753-2-10:10-2",
+          "id": "7743-2-17:20-5",
           "dayIndex": 2,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Программирование для ЭВМ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 439",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20200",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Глускер Михаил Яковлевич",
+            "id": "122623",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+          }
+        },
+        {
+          "id": "7746-2-14:00-7",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
           "subject": "Жизненный цикл программного обеспечения",
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 415",
           "campus": "Ульянка (Корпус У)",
+          "groupName": "20221",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Глускер Михаил Яковлевич",
+            "id": "122623",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+          }
+        },
+        {
+          "id": "7748-2-10:10-4",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Жизненный цикл программного обеспечения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20223",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Глускер Михаил Яковлевич",
+            "id": "122623",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+          }
+        },
+        {
+          "id": "7748-2-11:50-6",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Жизненный цикл программного обеспечения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20223",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Глускер Михаил Яковлевич",
+            "id": "122623",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+          }
+        },
+        {
+          "id": "7753-2-08:30-2",
+          "dayIndex": 2,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Жизненный цикл программного обеспечения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 415",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "20250",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Глускер Михаил Яковлевич",
+            "id": "122623",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+          }
+        },
+        {
+          "id": "7760-2-14:00-6",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Жизненный цикл программного обеспечения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 415",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20290",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Глускер Михаил Яковлевич",
+            "id": "122623",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+          }
+        },
+        {
+          "id": "7805-2-08:30-1",
+          "dayIndex": 2,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Языки программирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12510-01",
           "weekParity": "up",
           "teacher": {
             "name": "Глускер Михаил Яковлевич",
@@ -105,6 +259,44 @@
           "room": "У 415",
           "campus": "Ульянка (Корпус У)",
           "groupName": "1499",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Глускер Михаил Яковлевич",
+            "id": "122623",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+          }
+        },
+        {
+          "id": "7744-3-10:10-3",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Жизненный цикл программного обеспечения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 439",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20202",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Глускер Михаил Яковлевич",
+            "id": "122623",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+          }
+        },
+        {
+          "id": "7753-3-10:10-2",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Жизненный цикл программного обеспечения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 415",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20250",
           "weekParity": "up",
           "teacher": {
             "name": "Глускер Михаил Яковлевич",

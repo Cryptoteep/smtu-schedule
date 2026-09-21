@@ -2,8 +2,8 @@
   "teacherId": "Царева Полина Евгеньевна",
   "teacherName": "Царева Полина Евгеньевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2",
-  "updatedAt": "2026-09-21T15:05:56.017Z",
-  "totalLessons": 19,
+  "updatedAt": "2026-09-21T23:16:07.770Z",
+  "totalLessons": 27,
   "days": [
     {
       "dayName": "Понедельник",
@@ -174,13 +174,150 @@
             "name": "Царева Полина Евгеньевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
           }
+        },
+        {
+          "id": "7759-2-08:30-1",
+          "dayIndex": 2,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Метрология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 443",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20280",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Царева Полина Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
+          }
+        },
+        {
+          "id": "7759-2-11:50-4",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Метрология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20280",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Царева Полина Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
+          }
         }
       ]
     },
     {
       "dayName": "Среда",
       "dayIndex": 3,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7749-3-17:20-4",
+          "dayIndex": 3,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Системы высокопроизводительных вычислений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20226",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Царева Полина Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
+          }
+        },
+        {
+          "id": "7749-3-19:00-6",
+          "dayIndex": 3,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Системы высокопроизводительных вычислений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20226",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Царева Полина Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
+          }
+        },
+        {
+          "id": "7767-3-14:00-6",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория игр и исследование операций",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20321",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Царева Полина Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
+          }
+        },
+        {
+          "id": "7767-3-14:00-7",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория игр и исследование операций",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 436",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20321",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Царева Полина Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
+          }
+        },
+        {
+          "id": "7767-3-15:40-8",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория игр и исследование операций",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20321",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Царева Полина Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
+          }
+        },
+        {
+          "id": "7775-3-10:10-2",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Управление качеством, стандартизация, сертификация",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Царева Полина Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
+          }
+        }
+      ]
     },
     {
       "dayName": "Четверг",

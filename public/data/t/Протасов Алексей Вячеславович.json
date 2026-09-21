@@ -1,0 +1,57 @@
+{
+  "teacherId": "Протасов Алексей Вячеславович",
+  "teacherName": "Протасов Алексей Вячеславович",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/03/small/p126851.jpg?token_static=ba7785d7b0057e0db276340b78bf6a1e",
+  "updatedAt": "2026-09-21T23:16:08.039Z",
+  "totalLessons": 1,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7755-2-11:50-6",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Детали машин",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Протасов Алексей Вячеславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/03/small/p126851.jpg?token_static=ba7785d7b0057e0db276340b78bf6a1e"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

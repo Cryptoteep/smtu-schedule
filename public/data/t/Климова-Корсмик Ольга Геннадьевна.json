@@ -3,8 +3,8 @@
   "teacherName": "Климова-Корсмик Ольга Геннадьевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p104812.jpg?token_static=092df29f49e97b5b15491fc20119e2fd",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/104812/",
-  "updatedAt": "2026-09-21T15:05:56.020Z",
-  "totalLessons": 3,
+  "updatedAt": "2026-09-21T23:16:07.772Z",
+  "totalLessons": 2,
   "days": [
     {
       "dayName": "Понедельник",
@@ -33,34 +33,14 @@
     {
       "dayName": "Вторник",
       "dayIndex": 2,
-      "lessons": [
-        {
-          "id": "7815-2-11:50-2",
-          "dayIndex": 2,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Современные конструкционные материалы",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "ИЛИСТ УИК207",
-          "campus": "СПбГМТУ",
-          "groupName": "12515-52, 12515-51",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Климова-Корсмик Ольга Геннадьевна",
-            "id": "104812",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/104812/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p104812.jpg?token_static=092df29f49e97b5b15491fc20119e2fd"
-          }
-        }
-      ]
+      "lessons": []
     },
     {
       "dayName": "Среда",
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7818-3-11:50-2",
+          "id": "7815-3-11:50-2",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -69,7 +49,7 @@
           "rawType": "Лекция",
           "room": "ИЛИСТ УИК207",
           "campus": "СПбГМТУ",
-          "groupName": "12515-50",
+          "groupName": "12515-52, 12515-51, 12515-50",
           "weekParity": "down",
           "teacher": {
             "name": "Климова-Корсмик Ольга Геннадьевна",

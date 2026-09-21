@@ -1,7 +1,7 @@
 {
   "groupId": "7745",
   "groupName": "20220",
-  "updatedAt": "2026-09-21T15:05:47.297Z",
+  "updatedAt": "2026-09-21T23:15:57.573Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -40,14 +40,164 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7745-2-10:10-1",
+          "id": "7745-2-08:30-1",
+          "dayIndex": 2,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 504",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20220",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бабаева Наталья Михайловна",
+            "id": "100060",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100060/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100060.jpg?token_static=6983cf54ef4c5f9ccf1992c4ec056dd0"
+          }
+        },
+        {
+          "id": "7745-2-08:30-2",
+          "dayIndex": 2,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Автоматизированное проектирование мехатронных модулей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20220",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гиль Максим Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/06/small/p124850.jpg?token_static=d64aaadc32bf0e7484d2aa7b252e5950"
+          }
+        },
+        {
+          "id": "7745-2-10:10-3",
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Сопротивление материалов",
+          "subject": "Электротехника и электроника",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-03",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20220",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Попов Антон Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/06/small/p123307.jpg?token_static=a3ebfcfee2becebef74fa12444a8a3e8"
+          }
+        },
+        {
+          "id": "7745-2-10:10-4",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Автоматизированное проектирование мехатронных модулей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20220",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гиль Максим Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/06/small/p124850.jpg?token_static=d64aaadc32bf0e7484d2aa7b252e5950"
+          }
+        },
+        {
+          "id": "7745-2-11:50-5",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Электротехника и электроника",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-03",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20220",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Попов Антон Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/06/small/p123307.jpg?token_static=a3ebfcfee2becebef74fa12444a8a3e8"
+          }
+        },
+        {
+          "id": "7745-2-11:50-6",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Экология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 340(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20220",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чихонадских Елена Александровна",
+            "id": "101326",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+          }
+        },
+        {
+          "id": "7745-2-14:00-7",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Электротехника и электроника",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 143а",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20220",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ветров Борис Георгиевич",
+            "id": "100209",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100209/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/26/small/p100209.jpg?token_static=009872370c283ae287618e9ec0a5c72d"
+          }
+        },
+        {
+          "id": "7745-2-14:00-8",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Электротехника и электроника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20220",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ветров Борис Георгиевич",
+            "id": "100209",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100209/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/26/small/p100209.jpg?token_static=009872370c283ae287618e9ec0a5c72d"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7745-3-10:10-1",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Сопротивление материалов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 143",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20220",
           "weekParity": "down",
@@ -59,8 +209,8 @@
           }
         },
         {
-          "id": "7745-2-11:50-2",
-          "dayIndex": 2,
+          "id": "7745-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физика",
@@ -78,8 +228,8 @@
           }
         },
         {
-          "id": "7745-2-11:50-3",
-          "dayIndex": 2,
+          "id": "7745-3-11:50-3",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физика",
@@ -98,8 +248,8 @@
           }
         },
         {
-          "id": "7745-2-14:00-4",
-          "dayIndex": 2,
+          "id": "7745-3-14:00-4",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Высшая математика",
@@ -117,8 +267,8 @@
           }
         },
         {
-          "id": "7745-2-14:00-5",
-          "dayIndex": 2,
+          "id": "7745-3-14:00-5",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Высшая математика",
@@ -137,14 +287,14 @@
           }
         },
         {
-          "id": "7745-2-15:40-6",
-          "dayIndex": 2,
+          "id": "7745-3-15:40-6",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Сопротивление материалов",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 207",
+          "room": "Конгресс-Центр 207",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20220",
           "weekParity": "up",

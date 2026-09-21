@@ -2,8 +2,8 @@
   "teacherId": "Хрупало Елена Николаевна",
   "teacherName": "Хрупало Елена Николаевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/09/small/p126538.jpg?token_static=2b1300a446b199c18090cb391ece59dd",
-  "updatedAt": "2026-09-21T15:05:56.061Z",
-  "totalLessons": 12,
+  "updatedAt": "2026-09-21T23:16:07.981Z",
+  "totalLessons": 13,
   "days": [
     {
       "dayName": "Понедельник",
@@ -128,14 +128,31 @@
           }
         },
         {
-          "id": "7679-2-19:00-5",
+          "id": "7679-2-15:40-4",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Налоги и налогообложение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 519",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Хрупало Елена Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/09/small/p126538.jpg?token_static=2b1300a446b199c18090cb391ece59dd"
+          }
+        },
+        {
+          "id": "7679-2-19:00-6",
           "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Налоги и налогообложение",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 518",
+          "room": "У 511",
           "campus": "Ульянка (Корпус У)",
           "groupName": "4302",
           "weekParity": "down",

@@ -3,8 +3,8 @@
   "teacherName": "Гаврильева Татьяна Федоровна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/20/small/p122678.jpg?token_static=764911c79c89d32e8ace6d44a8e8ee35",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/122678/",
-  "updatedAt": "2026-09-21T15:05:56.015Z",
-  "totalLessons": 14,
+  "updatedAt": "2026-09-21T23:16:07.769Z",
+  "totalLessons": 15,
   "days": [
     {
       "dayName": "Понедельник",
@@ -211,7 +211,7 @@
           "rawType": "Лекция",
           "room": "Конгресс-Центр 207",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "3280",
+          "groupName": "3280, 20220",
           "weekParity": "up",
           "teacher": {
             "name": "Гаврильева Татьяна Федоровна",
@@ -230,6 +230,25 @@
           "room": "У 144",
           "campus": "Ульянка (Корпус У)",
           "groupName": "3280",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гаврильева Татьяна Федоровна",
+            "id": "122678",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122678/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/20/small/p122678.jpg?token_static=764911c79c89d32e8ace6d44a8e8ee35"
+          }
+        },
+        {
+          "id": "7745-3-10:10-1",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Сопротивление материалов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 143",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20220",
           "weekParity": "down",
           "teacher": {
             "name": "Гаврильева Татьяна Федоровна",

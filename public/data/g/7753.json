@@ -1,7 +1,7 @@
 {
   "groupId": "7753",
   "groupName": "20250",
-  "updatedAt": "2026-09-21T15:05:47.598Z",
+  "updatedAt": "2026-09-21T23:15:57.772Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -25,19 +25,6 @@
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Программирование",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 304",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20250",
-          "weekParity": "up"
-        },
-        {
-          "id": "7753-1-10:10-3",
-          "dayIndex": 1,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
           "subject": "Военная подготовка (офицеры запаса)",
           "type": "military",
           "rawType": "Практическое занятие",
@@ -57,13 +44,126 @@
           "dayIndex": 2,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20250",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Семенова-Тян-Шанская Вера Александровна",
+            "id": "101056",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9"
+          }
+        },
+        {
+          "id": "7753-2-08:30-2",
+          "dayIndex": 2,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Жизненный цикл программного обеспечения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 415",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20250",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Глускер Михаил Яковлевич",
+            "id": "122623",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+          }
+        },
+        {
+          "id": "7753-2-10:10-3",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 439",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20250",
+          "weekParity": "down"
+        },
+        {
+          "id": "7753-2-11:50-4",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 243",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20250",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бабаева Наталья Михайловна",
+            "id": "100060",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100060/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100060.jpg?token_static=6983cf54ef4c5f9ccf1992c4ec056dd0"
+          }
+        },
+        {
+          "id": "7753-2-11:50-5",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 313",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20250",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
+          }
+        },
+        {
+          "id": "7753-2-14:00-6",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20250",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Семенова-Тян-Шанская Вера Александровна",
+            "id": "101056",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7753-3-08:30-1",
+          "dayIndex": 3,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
           "subject": "Теория вероятностей и математическая статистика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 115",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20250",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Пак Элла Ефимовна",
             "id": "123073",
@@ -72,8 +172,8 @@
           }
         },
         {
-          "id": "7753-2-10:10-2",
-          "dayIndex": 2,
+          "id": "7753-3-10:10-2",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Жизненный цикл программного обеспечения",

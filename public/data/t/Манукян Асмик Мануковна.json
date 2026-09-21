@@ -3,8 +3,8 @@
   "teacherName": "Манукян Асмик Мануковна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/02/small/p102710.jpg?token_static=c9f1f17693d3c9b7aa96f54d1366848e",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/102710/",
-  "updatedAt": "2026-09-21T15:05:56.072Z",
-  "totalLessons": 18,
+  "updatedAt": "2026-09-21T23:16:08.009Z",
+  "totalLessons": 20,
   "days": [
     {
       "dayName": "Понедельник",
@@ -129,7 +129,46 @@
     {
       "dayName": "Вторник",
       "dayIndex": 2,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7806-2-10:10-2",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-07",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Манукян Асмик Мануковна",
+            "id": "102710",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102710/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/02/small/p102710.jpg?token_static=c9f1f17693d3c9b7aa96f54d1366848e"
+          }
+        },
+        {
+          "id": "7806-2-10:10-3",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-07",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Манукян Асмик Мануковна",
+            "id": "102710",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102710/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/02/small/p102710.jpg?token_static=c9f1f17693d3c9b7aa96f54d1366848e"
+          }
+        }
+      ]
     },
     {
       "dayName": "Среда",

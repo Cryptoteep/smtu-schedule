@@ -2,30 +2,13 @@
   "teacherId": "Грицкевич Анна Игоревна",
   "teacherName": "Грицкевич Анна Игоревна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100303.jpg?token_static=45dff744cb96b9aad81abd1f6ea00e56",
-  "updatedAt": "2026-09-21T15:05:56.077Z",
+  "updatedAt": "2026-09-21T23:16:08.011Z",
   "totalLessons": 13,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
       "lessons": [
-        {
-          "id": "7451-1-19:00-3",
-          "dayIndex": 1,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Общая и неорганическая химия",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 535(1)",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12213-03-2",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Грицкевич Анна Игоревна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100303.jpg?token_static=45dff744cb96b9aad81abd1f6ea00e56"
-          }
-        },
         {
           "id": "7462-1-08:30-1",
           "dayIndex": 1,
@@ -95,6 +78,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12213-01",
           "weekParity": "up",
+          "teacher": {
+            "name": "Грицкевич Анна Игоревна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100303.jpg?token_static=45dff744cb96b9aad81abd1f6ea00e56"
+          }
+        },
+        {
+          "id": "7451-2-19:00-3",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Общая и неорганическая химия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 535(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12213-03-2",
+          "weekParity": "down",
           "teacher": {
             "name": "Грицкевич Анна Игоревна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100303.jpg?token_static=45dff744cb96b9aad81abd1f6ea00e56"

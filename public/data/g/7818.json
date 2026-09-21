@@ -1,7 +1,7 @@
 {
   "groupId": "7818",
   "groupName": "12515-50",
-  "updatedAt": "2026-09-21T15:05:46.919Z",
+  "updatedAt": "2026-09-21T23:15:56.906Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -316,23 +316,6 @@
           "room": "ИЛИСТ УИК104",
           "campus": "СПбГМТУ",
           "groupName": "12515-50",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Ахметов Александр Дмитриевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106212.jpg?token_static=77830dd30282be9b35bbd7c0d7b645f3"
-          }
-        },
-        {
-          "id": "7818-5-11:50-4",
-          "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Технологии обработки материалов концентрированными потоками энергии",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "ИЛИСТ УИК104",
-          "campus": "СПбГМТУ",
-          "groupName": "12515-50",
           "weekParity": "both",
           "teacher": {
             "name": "Ахметов Александр Дмитриевич",
@@ -340,7 +323,7 @@
           }
         },
         {
-          "id": "7818-5-14:00-5",
+          "id": "7818-5-14:00-4",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

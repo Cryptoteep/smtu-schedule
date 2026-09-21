@@ -1,7 +1,7 @@
 {
   "groupId": "7773",
   "groupName": "20402",
-  "updatedAt": "2026-09-21T15:05:48.519Z",
+  "updatedAt": "2026-09-21T23:15:59.354Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -99,8 +99,154 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7773-2-10:10-1",
+          "id": "7773-2-08:30-1",
           "dayIndex": 2,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Теория принятия решений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 511",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20402",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Федорова Татьяна Александровна",
+            "id": "101243",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101243/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101243.jpg?token_static=34cc10c7f2dec8f3d2d541dd9e316dfd"
+          }
+        },
+        {
+          "id": "7773-2-08:30-2",
+          "dayIndex": 2,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Теория автоматического управления",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 505(2)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20402",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Маевский Андрей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/01/19/small/p122569.jpg?token_static=9f15bc4c7e634e1b85f1a522e53d9b7f"
+          }
+        },
+        {
+          "id": "7773-2-10:10-3",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория принятия решений",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 511",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20402",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Федорова Татьяна Александровна",
+            "id": "101243",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101243/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101243.jpg?token_static=34cc10c7f2dec8f3d2d541dd9e316dfd"
+          }
+        },
+        {
+          "id": "7773-2-10:10-4",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория автоматического управления",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 505(2)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20402",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Маевский Андрей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/01/19/small/p122569.jpg?token_static=9f15bc4c7e634e1b85f1a522e53d9b7f"
+          }
+        },
+        {
+          "id": "7773-2-11:50-5",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория автоматического управления",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 505(2)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20402",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Маевский Андрей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/01/19/small/p122569.jpg?token_static=9f15bc4c7e634e1b85f1a522e53d9b7f"
+          }
+        },
+        {
+          "id": "7773-2-14:00-6",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление качеством, стандартизация, сертификация",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20402",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мальцева Юлия Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100720.jpg?token_static=f8e418990bfc22189eb5747b7ad16701"
+          }
+        },
+        {
+          "id": "7773-2-15:40-7",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Сети и телекоммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20402",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Акуленок Ирина Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"
+          }
+        },
+        {
+          "id": "7773-2-17:20-8",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Сети и телекоммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20402",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Акуленок Ирина Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7773-3-10:10-1",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Интегральные уравнения",
@@ -118,8 +264,8 @@
           }
         },
         {
-          "id": "7773-2-10:10-2",
-          "dayIndex": 2,
+          "id": "7773-3-10:10-2",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Интегральные уравнения",
@@ -137,8 +283,8 @@
           }
         },
         {
-          "id": "7773-2-11:50-3",
-          "dayIndex": 2,
+          "id": "7773-3-11:50-3",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Интегральные уравнения",
@@ -156,8 +302,8 @@
           }
         },
         {
-          "id": "7773-2-11:50-4",
-          "dayIndex": 2,
+          "id": "7773-3-11:50-4",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Интегральные уравнения",
@@ -175,8 +321,8 @@
           }
         },
         {
-          "id": "7773-2-14:00-5",
-          "dayIndex": 2,
+          "id": "7773-3-14:00-5",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Интегральные уравнения",
@@ -194,8 +340,8 @@
           }
         },
         {
-          "id": "7773-2-14:00-6",
-          "dayIndex": 2,
+          "id": "7773-3-14:00-6",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Виртуальное моделирование инженерных задач с использованием среды RMD",
@@ -211,8 +357,8 @@
           }
         },
         {
-          "id": "7773-2-15:40-7",
-          "dayIndex": 2,
+          "id": "7773-3-15:40-7",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Теория принятия решений",
@@ -230,8 +376,8 @@
           }
         },
         {
-          "id": "7773-2-15:40-8",
-          "dayIndex": 2,
+          "id": "7773-3-15:40-8",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Виртуальное моделирование инженерных задач с использованием среды RMD",

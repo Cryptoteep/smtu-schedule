@@ -2,7 +2,7 @@
   "teacherId": "Сорокин Вадим Николаевич",
   "teacherName": "Сорокин Вадим Николаевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101137.jpg?token_static=3c5ba78392bc54806ff547d5a75d1b11",
-  "updatedAt": "2026-09-21T15:05:56.071Z",
+  "updatedAt": "2026-09-21T23:16:08.008Z",
   "totalLessons": 12,
   "days": [
     {
@@ -85,23 +85,6 @@
           }
         },
         {
-          "id": "7806-2-08:30-2",
-          "dayIndex": 2,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Алгебра и геометрия",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 450",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-07",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Сорокин Вадим Николаевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101137.jpg?token_static=3c5ba78392bc54806ff547d5a75d1b11"
-          }
-        },
-        {
           "id": "7828-2-10:10-1",
           "dayIndex": 2,
           "time": "10:10-11:40",
@@ -123,7 +106,25 @@
     {
       "dayName": "Среда",
       "dayIndex": 3,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7806-3-08:30-2",
+          "dayIndex": 3,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Алгебра и геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-07",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сорокин Вадим Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101137.jpg?token_static=3c5ba78392bc54806ff547d5a75d1b11"
+          }
+        }
+      ]
     },
     {
       "dayName": "Четверг",

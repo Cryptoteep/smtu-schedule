@@ -1,7 +1,7 @@
 {
   "groupId": "7749",
   "groupName": "20226",
-  "updatedAt": "2026-09-21T15:05:47.455Z",
+  "updatedAt": "2026-09-21T23:15:57.526Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -150,8 +150,99 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7749-2-14:00-1",
+          "id": "7749-2-15:40-1",
           "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технологии виртуальной и дополненной реальности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20226",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
+          }
+        },
+        {
+          "id": "7749-2-17:20-2",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технологии смешанной и дополненной виртуальной реальности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20226",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
+          }
+        },
+        {
+          "id": "7749-2-19:00-3",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Человеко-машинный интерфейс",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20226",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Козирацкая Карина Константиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
+          }
+        },
+        {
+          "id": "7749-2-19:00-4",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Человеко-машинный интерфейс",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20226",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Козирацкая Карина Константиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
+          }
+        },
+        {
+          "id": "7749-2-20:40-5",
+          "dayIndex": 2,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 6,
+          "subject": "Человеко-машинный интерфейс",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20226",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Козирацкая Карина Константиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7749-3-14:00-1",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Научно-технический семинар",
@@ -167,8 +258,8 @@
           }
         },
         {
-          "id": "7749-2-15:40-2",
-          "dayIndex": 2,
+          "id": "7749-3-15:40-2",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Научно-технический семинар",
@@ -184,8 +275,8 @@
           }
         },
         {
-          "id": "7749-2-17:20-3",
-          "dayIndex": 2,
+          "id": "7749-3-17:20-3",
+          "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Научно-технический семинар",
@@ -201,8 +292,8 @@
           }
         },
         {
-          "id": "7749-2-17:20-4",
-          "dayIndex": 2,
+          "id": "7749-3-17:20-4",
+          "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Системы высокопроизводительных вычислений",
@@ -218,8 +309,8 @@
           }
         },
         {
-          "id": "7749-2-19:00-5",
-          "dayIndex": 2,
+          "id": "7749-3-19:00-5",
+          "dayIndex": 3,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Научно-технический семинар",
@@ -235,8 +326,8 @@
           }
         },
         {
-          "id": "7749-2-19:00-6",
-          "dayIndex": 2,
+          "id": "7749-3-19:00-6",
+          "dayIndex": 3,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Системы высокопроизводительных вычислений",

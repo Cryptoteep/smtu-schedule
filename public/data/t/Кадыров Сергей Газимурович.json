@@ -3,8 +3,8 @@
   "teacherName": "Кадыров Сергей Газимурович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100484.jpg?token_static=9f8523857cbec24081f5b094aa81c983",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100484/",
-  "updatedAt": "2026-09-21T15:05:55.993Z",
-  "totalLessons": 12,
+  "updatedAt": "2026-09-21T23:16:07.641Z",
+  "totalLessons": 16,
   "days": [
     {
       "dayName": "Понедельник",
@@ -72,14 +72,71 @@
           }
         },
         {
-          "id": "7805-2-14:00-2",
+          "id": "7805-2-08:30-2",
           "dayIndex": 2,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 544",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кадыров Сергей Газимурович",
+            "id": "100484",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100484/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100484.jpg?token_static=9f8523857cbec24081f5b094aa81c983"
+          }
+        },
+        {
+          "id": "7805-2-10:10-3",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
           "subject": "Высшая математика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 543",
+          "room": "У 544",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12510-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кадыров Сергей Газимурович",
+            "id": "100484",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100484/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100484.jpg?token_static=9f8523857cbec24081f5b094aa81c983"
+          }
+        },
+        {
+          "id": "7805-2-10:10-4",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 544",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кадыров Сергей Газимурович",
+            "id": "100484",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100484/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100484.jpg?token_static=9f8523857cbec24081f5b094aa81c983"
+          }
+        },
+        {
+          "id": "7805-2-11:50-5",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 544",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12510-01",
           "weekParity": "up",
@@ -144,6 +201,25 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12115-04",
           "weekParity": "both",
+          "teacher": {
+            "name": "Кадыров Сергей Газимурович",
+            "id": "100484",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100484/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100484.jpg?token_static=9f8523857cbec24081f5b094aa81c983"
+          }
+        },
+        {
+          "id": "7805-3-14:00-2",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 543",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12510-01",
+          "weekParity": "up",
           "teacher": {
             "name": "Кадыров Сергей Газимурович",
             "id": "100484",

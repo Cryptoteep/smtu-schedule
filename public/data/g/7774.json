@@ -1,7 +1,7 @@
 {
   "groupId": "7774",
   "groupName": "20413",
-  "updatedAt": "2026-09-21T15:05:48.719Z",
+  "updatedAt": "2026-09-21T23:15:59.523Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -124,8 +124,128 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7774-2-10:10-1",
+          "id": "7774-2-11:50-1",
           "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Проектирование судов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 610",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20413",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Рюмин Сергей Николаевич",
+            "id": "101017",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
+          }
+        },
+        {
+          "id": "7774-2-14:00-2",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Проектирование судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20413",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Демешко Геннадий Федорович",
+            "id": "100328",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100328/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100328.jpg?token_static=83ba06f60fbb9d93121f082cb75db24a"
+          }
+        },
+        {
+          "id": "7774-2-15:40-3",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Гидромеханика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20413",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Али Рами Мамдух",
+            "id": "106092",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106092/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p106092.jpg?token_static=026f7cff3e3628d0d8e56d6f1697dd48"
+          }
+        },
+        {
+          "id": "7774-2-15:40-4",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Гидромеханика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 318",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20413",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Али Рами Мамдух",
+            "id": "106092",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106092/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p106092.jpg?token_static=026f7cff3e3628d0d8e56d6f1697dd48"
+          }
+        },
+        {
+          "id": "7774-2-17:20-5",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Вибрация корабля",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 508",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20413",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Коршунов Владимир Александрович",
+            "id": "100566",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100566/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100566.jpg?token_static=d6c761e9ea105214cda2121cde1e5712"
+          }
+        },
+        {
+          "id": "7774-2-17:20-6",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Вибрация корабля",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 215",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20413",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Коршунов Владимир Александрович",
+            "id": "100566",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100566/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100566.jpg?token_static=d6c761e9ea105214cda2121cde1e5712"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7774-3-10:10-1",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Инновационный инжиниринг",
@@ -142,8 +262,8 @@
           }
         },
         {
-          "id": "7774-2-11:50-2",
-          "dayIndex": 2,
+          "id": "7774-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Инновационный инжиниринг",
@@ -162,8 +282,8 @@
           }
         },
         {
-          "id": "7774-2-14:00-3",
-          "dayIndex": 2,
+          "id": "7774-3-14:00-3",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Информационные технологии в жизненном цикле морской техники",
@@ -179,8 +299,8 @@
           }
         },
         {
-          "id": "7774-2-15:40-4",
-          "dayIndex": 2,
+          "id": "7774-3-15:40-4",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Информационные технологии в жизненном цикле морской техники",

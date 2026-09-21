@@ -3,7 +3,7 @@
   "teacherName": "Григорьева-Голубева Виктория Аркадьевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/08/28/small/p100302.jpg?token_static=3c400786fd351508022ddc8929baa59e",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100302/",
-  "updatedAt": "2026-09-21T15:05:55.995Z",
+  "updatedAt": "2026-09-21T23:16:07.642Z",
   "totalLessons": 10,
   "days": [
     {
@@ -22,25 +22,6 @@
           "groupName": "1333",
           "weekParity": "down",
           "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Григорьева-Голубева Виктория Аркадьевна",
-            "id": "100302",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100302/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/08/28/small/p100302.jpg?token_static=3c400786fd351508022ddc8929baa59e"
-          }
-        },
-        {
-          "id": "7912-1-11:50-1",
-          "dayIndex": 1,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Русский язык как иностранный: язык для академических целей",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 403",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "1236",
-          "weekParity": "both",
           "teacher": {
             "name": "Григорьева-Голубева Виктория Аркадьевна",
             "id": "100302",
@@ -101,6 +82,25 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "1333",
           "weekParity": "up",
+          "teacher": {
+            "name": "Григорьева-Голубева Виктория Аркадьевна",
+            "id": "100302",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100302/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/08/28/small/p100302.jpg?token_static=3c400786fd351508022ddc8929baa59e"
+          }
+        },
+        {
+          "id": "7912-2-11:50-1",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Русский язык как иностранный: язык для академических целей",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 403",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1236",
+          "weekParity": "both",
           "teacher": {
             "name": "Григорьева-Голубева Виктория Аркадьевна",
             "id": "100302",

@@ -2,8 +2,8 @@
   "teacherId": "Серебряков Михаил Юрьевич",
   "teacherName": "Серебряков Михаил Юрьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a",
-  "updatedAt": "2026-09-21T15:05:56.017Z",
-  "totalLessons": 17,
+  "updatedAt": "2026-09-21T23:16:07.770Z",
+  "totalLessons": 20,
   "days": [
     {
       "dayName": "Понедельник",
@@ -128,8 +128,65 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7917-2-11:50-2",
+          "id": "7749-2-15:40-1",
           "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технологии виртуальной и дополненной реальности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20226",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
+          }
+        },
+        {
+          "id": "7749-2-17:20-2",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технологии смешанной и дополненной виртуальной реальности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20226",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
+          }
+        },
+        {
+          "id": "7917-2-14:00-1",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Комплексные информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-56",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7917-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Комплексные информационные технологии",
@@ -145,8 +202,8 @@
           }
         },
         {
-          "id": "7917-2-14:00-4",
-          "dayIndex": 2,
+          "id": "7917-3-14:00-4",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Комплексные информационные технологии",
@@ -162,11 +219,6 @@
           }
         }
       ]
-    },
-    {
-      "dayName": "Среда",
-      "dayIndex": 3,
-      "lessons": []
     },
     {
       "dayName": "Четверг",

@@ -1,7 +1,7 @@
 {
   "groupId": "7815",
   "groupName": "12515-52",
-  "updatedAt": "2026-09-21T15:05:46.891Z",
+  "updatedAt": "2026-09-21T23:15:56.966Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -143,6 +143,131 @@
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
+          "subject": "Планирование эксперимента и анализ научных данных",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-52",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сапожков Сергей Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/13/small/p128165.jpg?token_static=5b3dbce8975e2ba98e595723e5886668"
+          }
+        },
+        {
+          "id": "7815-2-11:50-2",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Дуговые и плазменные технологии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ УИК208",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-52",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Воропаев Артем Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/29/small/p107556.jpg?token_static=1ab1eda115a89fdfeb2445001cc9d0be"
+          }
+        },
+        {
+          "id": "7815-2-14:00-3",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Планирование эксперимента и анализ научных данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-52",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сапожков Сергей Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/13/small/p128165.jpg?token_static=5b3dbce8975e2ba98e595723e5886668"
+          }
+        },
+        {
+          "id": "7815-2-14:00-4",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Дуговые и плазменные технологии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ УИК208",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-52",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Воропаев Артем Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/29/small/p107556.jpg?token_static=1ab1eda115a89fdfeb2445001cc9d0be"
+          }
+        },
+        {
+          "id": "7815-2-15:40-5",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Иностранный язык в профессиональной и академической коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-52",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Гаранина Евгения Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
+          }
+        },
+        {
+          "id": "7815-2-17:20-6",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Современные конструкционные материалы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-52",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мендагалиев Руслан Валисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/11/small/p104013.jpg?token_static=e1803f56f754322bba4f5b5b66678acd"
+          }
+        },
+        {
+          "id": "7815-2-17:20-7",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Современные конструкционные материалы",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ УИК208",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-52",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мендагалиев Руслан Валисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/11/small/p104013.jpg?token_static=e1803f56f754322bba4f5b5b66678acd"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7815-3-11:50-1",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
           "subject": "Технологии обработки материалов концентрированными потоками энергии",
           "type": "lecture",
           "rawType": "Лекция",
@@ -158,8 +283,8 @@
           }
         },
         {
-          "id": "7815-2-11:50-2",
-          "dayIndex": 2,
+          "id": "7815-3-11:50-2",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Современные конструкционные материалы",
@@ -177,8 +302,8 @@
           }
         },
         {
-          "id": "7815-2-14:00-3",
-          "dayIndex": 2,
+          "id": "7815-3-14:00-3",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Аддитивные технологии",
@@ -196,8 +321,8 @@
           }
         },
         {
-          "id": "7815-2-14:00-4",
-          "dayIndex": 2,
+          "id": "7815-3-14:00-4",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Аддитивные технологии",
@@ -215,8 +340,8 @@
           }
         },
         {
-          "id": "7815-2-15:40-5",
-          "dayIndex": 2,
+          "id": "7815-3-15:40-5",
+          "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Планирование эксперимента и анализ научных данных",
@@ -232,8 +357,8 @@
           }
         },
         {
-          "id": "7815-2-17:20-6",
-          "dayIndex": 2,
+          "id": "7815-3-17:20-6",
+          "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Управление проектами и инновациями",
@@ -252,8 +377,8 @@
           }
         },
         {
-          "id": "7815-2-19:00-7",
-          "dayIndex": 2,
+          "id": "7815-3-19:00-7",
+          "dayIndex": 3,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Управление проектами и инновациями",
@@ -351,23 +476,6 @@
           "subject": "Машинное обучение в материаловедении",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 245а",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-52",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Степанов Никита Дмитриевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/20/small/p123251.jpg?token_static=9b8f2ab8dfea27dd51a00290a94d8e4f"
-          }
-        },
-        {
-          "id": "7815-5-11:50-4",
-          "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Машинное обучение в материаловедении",
-          "type": "practice",
-          "rawType": "Практическое занятие",
           "room": "У 507",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-52",
@@ -378,24 +486,7 @@
           }
         },
         {
-          "id": "7815-5-14:00-5",
-          "dayIndex": 5,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Машинное обучение в материаловедении",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 245а",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-52",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Степанов Никита Дмитриевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/20/small/p123251.jpg?token_static=9b8f2ab8dfea27dd51a00290a94d8e4f"
-          }
-        },
-        {
-          "id": "7815-5-14:00-6",
+          "id": "7815-5-14:00-4",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

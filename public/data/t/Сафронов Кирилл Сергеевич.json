@@ -2,8 +2,8 @@
   "teacherId": "Сафронов Кирилл Сергеевич",
   "teacherName": "Сафронов Кирилл Сергеевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194",
-  "updatedAt": "2026-09-21T15:05:56.010Z",
-  "totalLessons": 17,
+  "updatedAt": "2026-09-21T23:16:07.766Z",
+  "totalLessons": 28,
   "days": [
     {
       "dayName": "Понедельник",
@@ -174,13 +174,201 @@
             "name": "Сафронов Кирилл Сергеевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
           }
+        },
+        {
+          "id": "7764-2-08:30-2",
+          "dayIndex": 2,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Теория случайных процессов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 511",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        },
+        {
+          "id": "7764-2-10:10-3",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория случайных процессов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 511",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        },
+        {
+          "id": "7764-2-11:50-4",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория случайных процессов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 511",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        },
+        {
+          "id": "7764-2-14:00-5",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория случайных процессов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 503",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20302",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
         }
       ]
     },
     {
       "dayName": "Среда",
       "dayIndex": 3,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7763-3-10:10-1",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 505(2)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        },
+        {
+          "id": "7763-3-11:50-2",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 505(2)",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        },
+        {
+          "id": "7763-3-14:00-3",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Системы компьютерной алгебры",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        },
+        {
+          "id": "7763-3-15:40-5",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Системы компьютерной алгебры",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        },
+        {
+          "id": "7763-3-17:20-7",
+          "dayIndex": 3,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Системы компьютерной алгебры",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        },
+        {
+          "id": "7773-3-14:00-6",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Виртуальное моделирование инженерных задач с использованием среды RMD",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20402",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        },
+        {
+          "id": "7773-3-15:40-8",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Виртуальное моделирование инженерных задач с использованием среды RMD",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20402",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сафронов Кирилл Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101041.jpg?token_static=93bd5f6415dadac851d28034393a5194"
+          }
+        }
+      ]
     },
     {
       "dayName": "Четверг",

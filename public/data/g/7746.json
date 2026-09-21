@@ -1,7 +1,7 @@
 {
   "groupId": "7746",
   "groupName": "20221",
-  "updatedAt": "2026-09-21T15:05:47.418Z",
+  "updatedAt": "2026-09-21T23:15:57.543Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -44,13 +44,143 @@
           "dayIndex": 2,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20221",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
+          }
+        },
+        {
+          "id": "7746-2-08:30-2",
+          "dayIndex": 2,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20221",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мавлютов Айдар Марселевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/03/small/142859.jpg?token_static=99b29fb7edbcbfb2e897d7733bbab92b"
+          }
+        },
+        {
+          "id": "7746-2-10:10-3",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информационная безопасность и защита информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 439",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20221",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Федорова Анастасия Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
+          }
+        },
+        {
+          "id": "7746-2-10:10-4",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-03",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20221",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Фатьков Тимур Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/06/small/p134239.jpg?token_static=694c5177899da875156abdefbe3e8a53"
+          }
+        },
+        {
+          "id": "7746-2-11:50-5",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20221",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Фатьков Тимур Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/06/small/p134239.jpg?token_static=694c5177899da875156abdefbe3e8a53"
+          }
+        },
+        {
+          "id": "7746-2-14:00-6",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технологии разработки информационных ресурсов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20221",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "7746-2-14:00-7",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Жизненный цикл программного обеспечения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 415",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20221",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Глускер Михаил Яковлевич",
+            "id": "122623",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7746-3-08:30-1",
+          "dayIndex": 3,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
           "subject": "Теория вероятностей и математическая статистика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 115",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20221",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Пак Элла Ефимовна",
             "id": "123073",
@@ -59,8 +189,8 @@
           }
         },
         {
-          "id": "7746-2-10:10-2",
-          "dayIndex": 2,
+          "id": "7746-3-10:10-2",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Базы данных",
@@ -76,8 +206,8 @@
           }
         },
         {
-          "id": "7746-2-19:00-3",
-          "dayIndex": 2,
+          "id": "7746-3-19:00-3",
+          "dayIndex": 3,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Учебное занятие молодежного яхт-клуба 23.09.2026.",

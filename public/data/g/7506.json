@@ -1,7 +1,7 @@
 {
   "groupId": "7506",
   "groupName": "20420",
-  "updatedAt": "2026-09-21T15:05:48.949Z",
+  "updatedAt": "2026-09-21T23:15:59.418Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -99,8 +99,133 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7506-2-08:30-1",
+          "id": "7506-2-10:10-1",
           "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Виртуальное моделирование и проектирование роботов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20420",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гиль Максим Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/06/small/p124850.jpg?token_static=d64aaadc32bf0e7484d2aa7b252e5950"
+          }
+        },
+        {
+          "id": "7506-2-11:50-2",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Операционные системы реального времени",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 319а(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20420",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Масис Виктор Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p132316.jpg?token_static=883f3df6f3f6763a9d857c6be3668ced"
+          }
+        },
+        {
+          "id": "7506-2-11:50-3",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление интеллектуальными роботами и робототехническими системами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20420",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ложкин Владислав Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89"
+          }
+        },
+        {
+          "id": "7506-2-14:00-4",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Пакеты прикладных программ в проектировании робототехнических систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-13",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20420",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Масис Виктор Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p132316.jpg?token_static=883f3df6f3f6763a9d857c6be3668ced"
+          }
+        },
+        {
+          "id": "7506-2-14:00-5",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы искусственного интеллекта и машинное обучение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20420",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кайнова Татьяна Денисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p106561.jpg?token_static=5d5e274a03861a0352c1c0592f368171"
+          }
+        },
+        {
+          "id": "7506-2-15:40-6",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Методы искусственного интеллекта и машинное обучение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20420",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кайнова Татьяна Денисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p106561.jpg?token_static=5d5e274a03861a0352c1c0592f368171"
+          }
+        },
+        {
+          "id": "7506-2-17:20-7",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Методы искусственного интеллекта и машинное обучение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20420",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кайнова Татьяна Денисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p106561.jpg?token_static=5d5e274a03861a0352c1c0592f368171"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7506-3-08:30-1",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Информационные элементы робототехнических систем",
@@ -116,8 +241,8 @@
           }
         },
         {
-          "id": "7506-2-08:30-2",
-          "dayIndex": 2,
+          "id": "7506-3-08:30-2",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Приводы мехатронных и робототехнических систем",
@@ -133,8 +258,8 @@
           }
         },
         {
-          "id": "7506-2-10:10-3",
-          "dayIndex": 2,
+          "id": "7506-3-10:10-3",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Информационные элементы робототехнических систем",
@@ -150,8 +275,8 @@
           }
         },
         {
-          "id": "7506-2-10:10-4",
-          "dayIndex": 2,
+          "id": "7506-3-10:10-4",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Методы искусственного интеллекта и машинное обучение",
@@ -167,8 +292,8 @@
           }
         },
         {
-          "id": "7506-2-11:50-5",
-          "dayIndex": 2,
+          "id": "7506-3-11:50-5",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Пакеты прикладных программ в проектировании робототехнических систем",
@@ -184,8 +309,8 @@
           }
         },
         {
-          "id": "7506-2-11:50-6",
-          "dayIndex": 2,
+          "id": "7506-3-11:50-6",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Виртуальное моделирование и проектирование роботов",
@@ -201,8 +326,8 @@
           }
         },
         {
-          "id": "7506-2-14:00-7",
-          "dayIndex": 2,
+          "id": "7506-3-14:00-7",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Операционные системы реального времени",

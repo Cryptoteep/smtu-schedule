@@ -3,8 +3,8 @@
   "teacherName": "Гарькушев Александр Юрьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
-  "updatedAt": "2026-09-21T15:05:56.017Z",
-  "totalLessons": 26,
+  "updatedAt": "2026-09-21T23:16:07.770Z",
+  "totalLessons": 31,
   "days": [
     {
       "dayName": "Понедельник",
@@ -92,25 +92,6 @@
           "room": "У 321",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20480",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Гарькушев Александр Юрьевич",
-            "id": "122911",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
-          }
-        },
-        {
-          "id": "7780-1-15:40-9",
-          "dayIndex": 1,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Защита информации",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У УЛК-06",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20490",
           "weekParity": "up",
           "teacher": {
             "name": "Гарькушев Александр Юрьевич",
@@ -314,7 +295,84 @@
     {
       "dayName": "Среда",
       "dayIndex": 3,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7779-3-08:30-1",
+          "dayIndex": 3,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Проектирование защищенных автоматизированных систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 321",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20480",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гарькушев Александр Юрьевич",
+            "id": "122911",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
+          }
+        },
+        {
+          "id": "7779-3-10:10-2",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Проектирование защищенных автоматизированных систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 321",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20480",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гарькушев Александр Юрьевич",
+            "id": "122911",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
+          }
+        },
+        {
+          "id": "7779-3-15:40-8",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Проектирование защищенных автоматизированных систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 321",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20480",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гарькушев Александр Юрьевич",
+            "id": "122911",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
+          }
+        },
+        {
+          "id": "7780-3-15:40-9",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Защита информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-06",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20490",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гарькушев Александр Юрьевич",
+            "id": "122911",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
+          }
+        }
+      ]
     },
     {
       "dayName": "Четверг",
@@ -384,6 +442,44 @@
           "room": "У УЛК-06",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20490",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гарькушев Александр Юрьевич",
+            "id": "122911",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
+          }
+        },
+        {
+          "id": "7781-4-10:10-1",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информационная безопасность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-06",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20513",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Гарькушев Александр Юрьевич",
+            "id": "122911",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
+          }
+        },
+        {
+          "id": "7781-4-11:50-2",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информационная безопасность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-06",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20513",
           "weekParity": "up",
           "teacher": {
             "name": "Гарькушев Александр Юрьевич",

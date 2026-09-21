@@ -1,7 +1,7 @@
 {
   "groupId": "7771",
   "groupName": "20390",
-  "updatedAt": "2026-09-21T15:05:48.682Z",
+  "updatedAt": "2026-09-21T23:15:59.450Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -128,6 +128,65 @@
           "dayIndex": 2,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
+          "subject": "Деловые коммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 115",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20390",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Евграфова Ирина Владимировна",
+            "id": "100356",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100356/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
+          }
+        },
+        {
+          "id": "7771-2-15:40-2",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технология разработки программного обеспечения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 416",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20390",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Муравьев Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"
+          }
+        },
+        {
+          "id": "7771-2-17:20-3",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технология разработки программного обеспечения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20390",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Муравьев Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7771-3-08:30-1",
+          "dayIndex": 3,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
           "subject": "ЭВМ и периферийные устройства",
           "type": "lecture",
           "rawType": "Лекция",
@@ -141,8 +200,8 @@
           }
         },
         {
-          "id": "7771-2-10:10-2",
-          "dayIndex": 2,
+          "id": "7771-3-10:10-2",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "ЭВМ и периферийные устройства",
@@ -158,8 +217,8 @@
           }
         },
         {
-          "id": "7771-2-11:50-3",
-          "dayIndex": 2,
+          "id": "7771-3-11:50-3",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "ЭВМ и периферийные устройства",
@@ -175,8 +234,8 @@
           }
         },
         {
-          "id": "7771-2-14:00-4",
-          "dayIndex": 2,
+          "id": "7771-3-14:00-4",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "ЭВМ и периферийные устройства",

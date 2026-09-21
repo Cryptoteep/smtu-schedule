@@ -2,8 +2,8 @@
   "teacherId": "Петухова Нина Дмитриевна",
   "teacherName": "Петухова Нина Дмитриевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/30/small/p100896.jpg?token_static=7351a0863365112378e08001c637a4cb",
-  "updatedAt": "2026-09-21T15:05:56.075Z",
-  "totalLessons": 11,
+  "updatedAt": "2026-09-21T23:16:08.010Z",
+  "totalLessons": 14,
   "days": [
     {
       "dayName": "Понедельник",
@@ -51,8 +51,67 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7444-2-11:50-3",
+          "id": "7802-2-10:10-3",
           "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Дискретная математика для инженера-программиста",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 313",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-01",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Петухова Нина Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/30/small/p100896.jpg?token_static=7351a0863365112378e08001c637a4cb"
+          }
+        },
+        {
+          "id": "7802-2-14:00-6",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Дискретная математика для инженера-программиста",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 403",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Петухова Нина Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/30/small/p100896.jpg?token_static=7351a0863365112378e08001c637a4cb"
+          }
+        },
+        {
+          "id": "7806-2-11:50-5",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Дискретная математика для инженера-программиста",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-07",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Петухова Нина Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/30/small/p100896.jpg?token_static=7351a0863365112378e08001c637a4cb"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7444-3-11:50-3",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Дискретная математика для инженера-программиста",
@@ -68,8 +127,8 @@
           }
         },
         {
-          "id": "7487-2-11:50-4",
-          "dayIndex": 2,
+          "id": "7487-3-11:50-4",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Дискретная математика для инженера-программиста",
@@ -85,8 +144,8 @@
           }
         },
         {
-          "id": "7487-2-14:00-5",
-          "dayIndex": 2,
+          "id": "7487-3-14:00-5",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Дискретная математика для инженера-программиста",
@@ -102,8 +161,8 @@
           }
         },
         {
-          "id": "7487-2-14:00-6",
-          "dayIndex": 2,
+          "id": "7487-3-14:00-6",
+          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Алгебра и геометрия",
@@ -119,8 +178,8 @@
           }
         },
         {
-          "id": "7803-2-08:30-2",
-          "dayIndex": 2,
+          "id": "7803-3-08:30-2",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Дискретная математика для инженера-программиста",
@@ -136,11 +195,6 @@
           }
         }
       ]
-    },
-    {
-      "dayName": "Среда",
-      "dayIndex": 3,
-      "lessons": []
     },
     {
       "dayName": "Четверг",

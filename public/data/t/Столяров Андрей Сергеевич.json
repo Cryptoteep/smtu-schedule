@@ -3,71 +3,13 @@
   "teacherName": "Столяров Андрей Сергеевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
-  "updatedAt": "2026-09-21T15:05:56.039Z",
-  "totalLessons": 23,
+  "updatedAt": "2026-09-21T23:16:07.828Z",
+  "totalLessons": 20,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": [
-        {
-          "id": "6317-1-19:00-1",
-          "dayIndex": 1,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Топливная аппаратура",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 340",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "5570",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Столяров Андрей Сергеевич",
-            "id": "101147",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
-          }
-        },
-        {
-          "id": "6317-1-19:00-2",
-          "dayIndex": 1,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Топливная аппаратура",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "А 340",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "5570",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Столяров Андрей Сергеевич",
-            "id": "101147",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
-          }
-        },
-        {
-          "id": "6317-1-20:40-3",
-          "dayIndex": 1,
-          "time": "20:40-22:10",
-          "timeSlotIndex": 4,
-          "subject": "Топливная аппаратура",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "А 340",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "5570",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Столяров Андрей Сергеевич",
-            "id": "101147",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
-          }
-        }
-      ]
+      "lessons": []
     },
     {
       "dayName": "Вторник",

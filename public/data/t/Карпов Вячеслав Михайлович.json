@@ -2,8 +2,8 @@
   "teacherId": "Карпов Вячеслав Михайлович",
   "teacherName": "Карпов Вячеслав Михайлович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/11/small/p100502.jpg?token_static=8f53807a0d4ea9e0d53563fe481e95e1",
-  "updatedAt": "2026-09-21T15:05:56.003Z",
-  "totalLessons": 20,
+  "updatedAt": "2026-09-21T23:16:07.665Z",
+  "totalLessons": 23,
   "days": [
     {
       "dayName": "Понедельник",
@@ -138,6 +138,57 @@
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "1419",
           "weekParity": "down",
+          "teacher": {
+            "name": "Карпов Вячеслав Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/11/small/p100502.jpg?token_static=8f53807a0d4ea9e0d53563fe481e95e1"
+          }
+        },
+        {
+          "id": "7777-2-11:50-1",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Автоматизация сварочных процессов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 520",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Карпов Вячеслав Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/11/small/p100502.jpg?token_static=8f53807a0d4ea9e0d53563fe481e95e1"
+          }
+        },
+        {
+          "id": "7777-2-14:00-2",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Автоматизация сварочных процессов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 521",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20470",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Карпов Вячеслав Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/11/small/p100502.jpg?token_static=8f53807a0d4ea9e0d53563fe481e95e1"
+          }
+        },
+        {
+          "id": "7777-2-15:40-4",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Автоматизация сварочных процессов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 521",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20470",
+          "weekParity": "up",
           "teacher": {
             "name": "Карпов Вячеслав Михайлович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/11/small/p100502.jpg?token_static=8f53807a0d4ea9e0d53563fe481e95e1"

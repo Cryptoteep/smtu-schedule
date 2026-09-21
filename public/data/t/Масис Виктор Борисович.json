@@ -2,8 +2,8 @@
   "teacherId": "Масис Виктор Борисович",
   "teacherName": "Масис Виктор Борисович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p132316.jpg?token_static=883f3df6f3f6763a9d857c6be3668ced",
-  "updatedAt": "2026-09-21T15:05:56.025Z",
-  "totalLessons": 6,
+  "updatedAt": "2026-09-21T23:16:07.799Z",
+  "totalLessons": 12,
   "days": [
     {
       "dayName": "Понедельник",
@@ -77,13 +77,116 @@
             "name": "Масис Виктор Борисович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p132316.jpg?token_static=883f3df6f3f6763a9d857c6be3668ced"
           }
+        },
+        {
+          "id": "7506-2-11:50-2",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Операционные системы реального времени",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 319а(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20420",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Масис Виктор Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p132316.jpg?token_static=883f3df6f3f6763a9d857c6be3668ced"
+          }
+        },
+        {
+          "id": "7506-2-14:00-4",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Пакеты прикладных программ в проектировании робототехнических систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-13",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20420",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Масис Виктор Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p132316.jpg?token_static=883f3df6f3f6763a9d857c6be3668ced"
+          }
         }
       ]
     },
     {
       "dayName": "Среда",
       "dayIndex": 3,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7506-3-11:50-5",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Пакеты прикладных программ в проектировании робототехнических систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-13",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20420",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Масис Виктор Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p132316.jpg?token_static=883f3df6f3f6763a9d857c6be3668ced"
+          }
+        },
+        {
+          "id": "7775-3-08:30-1",
+          "dayIndex": 3,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Коллаборативные робототехнические системы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Масис Виктор Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p132316.jpg?token_static=883f3df6f3f6763a9d857c6be3668ced"
+          }
+        },
+        {
+          "id": "7775-3-14:00-6",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Сети и телекоммуникации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 436",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Масис Виктор Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p132316.jpg?token_static=883f3df6f3f6763a9d857c6be3668ced"
+          }
+        },
+        {
+          "id": "7775-3-14:00-7",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Сети и телекоммуникации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Масис Виктор Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p132316.jpg?token_static=883f3df6f3f6763a9d857c6be3668ced"
+          }
+        }
+      ]
     },
     {
       "dayName": "Четверг",

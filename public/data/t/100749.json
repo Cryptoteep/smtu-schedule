@@ -3,8 +3,8 @@
   "teacherName": "Мелконян Армен Левонович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100749.jpg?token_static=a604f7cb24d29165ccbd7d74ed7372ee",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100749/",
-  "updatedAt": "2026-09-21T15:05:55.992Z",
-  "totalLessons": 7,
+  "updatedAt": "2026-09-21T23:16:07.640Z",
+  "totalLessons": 8,
   "days": [
     {
       "dayName": "Понедельник",
@@ -24,7 +24,7 @@
           "rawType": "Лекция",
           "room": "У 165",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "1214, 1216, 1217, 1219",
+          "groupName": "1214, 1216, 1217, 1219, 20213",
           "weekParity": "both",
           "teacher": {
             "name": "Мелконян Армен Левонович",
@@ -86,6 +86,25 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "1284",
           "weekParity": "both",
+          "teacher": {
+            "name": "Мелконян Армен Левонович",
+            "id": "100749",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100749/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100749.jpg?token_static=a604f7cb24d29165ccbd7d74ed7372ee"
+          }
+        },
+        {
+          "id": "7754-3-15:40-7",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теоретическая механика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 504",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270, 20271",
+          "weekParity": "down",
           "teacher": {
             "name": "Мелконян Армен Левонович",
             "id": "100749",

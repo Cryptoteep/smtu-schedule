@@ -2,8 +2,8 @@
   "teacherId": "Ложкин Владислав Александрович",
   "teacherName": "Ложкин Владислав Александрович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89",
-  "updatedAt": "2026-09-21T15:05:56.018Z",
-  "totalLessons": 14,
+  "updatedAt": "2026-09-21T23:16:07.771Z",
+  "totalLessons": 19,
   "days": [
     {
       "dayName": "Понедельник",
@@ -142,13 +142,99 @@
             "name": "Ложкин Владислав Александрович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89"
           }
+        },
+        {
+          "id": "7506-2-11:50-3",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление интеллектуальными роботами и робототехническими системами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20420",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ложкин Владислав Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89"
+          }
         }
       ]
     },
     {
       "dayName": "Среда",
       "dayIndex": 3,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7506-3-08:30-2",
+          "dayIndex": 3,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Приводы мехатронных и робототехнических систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-13",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20420",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ложкин Владислав Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89"
+          }
+        },
+        {
+          "id": "7779-3-10:10-3",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Техническая диагностика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-13",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20480",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ложкин Владислав Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89"
+          }
+        },
+        {
+          "id": "7779-3-11:50-5",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Техническая диагностика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-13",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20480",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ложкин Владислав Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89"
+          }
+        },
+        {
+          "id": "7779-3-14:00-7",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Техническая диагностика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-13",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20480",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ложкин Владислав Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89"
+          }
+        }
+      ]
     },
     {
       "dayName": "Четверг",

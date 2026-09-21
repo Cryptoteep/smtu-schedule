@@ -3,8 +3,8 @@
   "teacherName": "Петров Олег Николаевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
-  "updatedAt": "2026-09-21T15:05:56.018Z",
-  "totalLessons": 22,
+  "updatedAt": "2026-09-21T23:16:07.771Z",
+  "totalLessons": 26,
   "days": [
     {
       "dayName": "Понедельник",
@@ -96,25 +96,6 @@
           "room": "Конгресс-Центр 304",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-50",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Петров Олег Николаевич",
-            "id": "100888",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8"
-          }
-        },
-        {
-          "id": "7780-1-14:00-7",
-          "dayIndex": 1,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Системы искусственного интеллекта",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр 304",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20490",
           "weekParity": "up",
           "teacher": {
             "name": "Петров Олег Николаевич",
@@ -240,6 +221,26 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8"
           }
+        },
+        {
+          "id": "7776-2-10:10-3",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Функциональное и логическое программирование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 436",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Петров Олег Николаевич",
+            "id": "100888",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8"
+          }
         }
       ]
     },
@@ -247,6 +248,84 @@
       "dayName": "Среда",
       "dayIndex": 3,
       "lessons": [
+        {
+          "id": "7751-3-10:10-1",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Методы и средства инженерии знаний",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20230",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Петров Олег Николаевич",
+            "id": "100888",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8"
+          }
+        },
+        {
+          "id": "7776-3-08:30-1",
+          "dayIndex": 3,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Системы искусственного интеллекта",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 436",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Петров Олег Николаевич",
+            "id": "100888",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8"
+          }
+        },
+        {
+          "id": "7776-3-14:00-6",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Функциональное и логическое программирование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 169",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Петров Олег Николаевич",
+            "id": "100888",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8"
+          }
+        },
+        {
+          "id": "7780-3-14:00-7",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Системы искусственного интеллекта",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20490",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Петров Олег Николаевич",
+            "id": "100888",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8"
+          }
+        },
         {
           "id": "7816-3-10:10-1",
           "dayIndex": 3,

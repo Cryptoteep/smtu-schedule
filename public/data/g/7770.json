@@ -1,7 +1,7 @@
 {
   "groupId": "7770",
   "groupName": "20380",
-  "updatedAt": "2026-09-21T15:05:48.594Z",
+  "updatedAt": "2026-09-21T23:15:59.108Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -48,8 +48,67 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7770-2-10:10-1",
+          "id": "7770-2-08:30-1",
           "dayIndex": 2,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Теория автоматического управления",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кичигина Ольга Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100522.jpg?token_static=1aa780db3038d5b4eaa9897d08b3fe12"
+          }
+        },
+        {
+          "id": "7770-2-10:10-2",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория автоматического управления",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Фомченко Андрей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
+          }
+        },
+        {
+          "id": "7770-2-19:00-3",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7770-4-10:10-1",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Анализ и синтез логических устройств",
@@ -65,8 +124,8 @@
           }
         },
         {
-          "id": "7770-2-10:10-2",
-          "dayIndex": 2,
+          "id": "7770-4-10:10-2",
+          "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Анализ и синтез логических устройств",
@@ -82,8 +141,8 @@
           }
         },
         {
-          "id": "7770-2-11:50-3",
-          "dayIndex": 2,
+          "id": "7770-4-11:50-3",
+          "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Методы и средства криптографической защиты информации",

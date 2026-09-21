@@ -2,8 +2,8 @@
   "teacherId": "Мальцева Юлия Евгеньевна",
   "teacherName": "Мальцева Юлия Евгеньевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100720.jpg?token_static=f8e418990bfc22189eb5747b7ad16701",
-  "updatedAt": "2026-09-21T15:05:56.007Z",
-  "totalLessons": 10,
+  "updatedAt": "2026-09-21T23:16:07.668Z",
+  "totalLessons": 11,
   "days": [
     {
       "dayName": "Понедельник",
@@ -62,7 +62,25 @@
     {
       "dayName": "Вторник",
       "dayIndex": 2,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7773-2-14:00-6",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление качеством, стандартизация, сертификация",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 419",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20402, 20450, 20490",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мальцева Юлия Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100720.jpg?token_static=f8e418990bfc22189eb5747b7ad16701"
+          }
+        }
+      ]
     },
     {
       "dayName": "Среда",

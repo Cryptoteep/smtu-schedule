@@ -3,7 +3,7 @@
   "teacherName": "Вишневский Леонид Иосифович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/06/small/p123867.jpg?token_static=cecbbd44160bd5a0c80440f28da4a900",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/123867/",
-  "updatedAt": "2026-09-21T15:05:55.995Z",
+  "updatedAt": "2026-09-21T23:16:07.642Z",
   "totalLessons": 4,
   "days": [
     {
@@ -27,10 +27,16 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/123867/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/06/small/p123867.jpg?token_static=cecbbd44160bd5a0c80440f28da4a900"
           }
-        },
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
         {
-          "id": "7912-1-15:40-3",
-          "dayIndex": 1,
+          "id": "7912-2-15:40-3",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Гидродинамика судов с динамическим поддержанием",
@@ -48,11 +54,6 @@
           }
         }
       ]
-    },
-    {
-      "dayName": "Вторник",
-      "dayIndex": 2,
-      "lessons": []
     },
     {
       "dayName": "Среда",

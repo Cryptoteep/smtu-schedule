@@ -2,8 +2,8 @@
   "teacherId": "Стукач Александр Васильевич",
   "teacherName": "Стукач Александр Васильевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/02/small/p122495.jpg?token_static=a8a1e3f8a8f151b4c46b6ea60c07c438",
-  "updatedAt": "2026-09-21T15:05:56.019Z",
-  "totalLessons": 5,
+  "updatedAt": "2026-09-21T23:16:07.771Z",
+  "totalLessons": 6,
   "days": [
     {
       "dayName": "Понедельник",
@@ -13,7 +13,25 @@
     {
       "dayName": "Вторник",
       "dayIndex": 2,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7755-2-11:50-5",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Детали машин",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Стукач Александр Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/02/small/p122495.jpg?token_static=a8a1e3f8a8f151b4c46b6ea60c07c438"
+          }
+        }
+      ]
     },
     {
       "dayName": "Среда",

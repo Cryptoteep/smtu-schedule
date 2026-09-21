@@ -3,8 +3,8 @@
   "teacherName": "Бунас Ирина Леонидовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/17/small/p123207.jpg?token_static=cf17586d91e520ee75406fda4498fa5b",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/123207/",
-  "updatedAt": "2026-09-21T15:05:56.026Z",
-  "totalLessons": 2,
+  "updatedAt": "2026-09-21T23:16:07.800Z",
+  "totalLessons": 5,
   "days": [
     {
       "dayName": "Понедельник",
@@ -38,12 +38,71 @@
     {
       "dayName": "Среда",
       "dayIndex": 3,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7759-3-10:10-1",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Гуманитарные аспекты информационной безопасности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 436",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20280",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бунас Ирина Леонидовна",
+            "id": "123207",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123207/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/17/small/p123207.jpg?token_static=cf17586d91e520ee75406fda4498fa5b"
+          }
+        },
+        {
+          "id": "7759-3-10:10-2",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Гуманитарные аспекты информационной безопасности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 308",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20280",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Бунас Ирина Леонидовна",
+            "id": "123207",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123207/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/17/small/p123207.jpg?token_static=cf17586d91e520ee75406fda4498fa5b"
+          }
+        }
+      ]
     },
     {
       "dayName": "Четверг",
       "dayIndex": 4,
       "lessons": [
+        {
+          "id": "7781-4-11:50-3",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информационная безопасность",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-06",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20513",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бунас Ирина Леонидовна",
+            "id": "123207",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123207/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/17/small/p123207.jpg?token_static=cf17586d91e520ee75406fda4498fa5b"
+          }
+        },
         {
           "id": "7805-4-11:50-5",
           "dayIndex": 4,

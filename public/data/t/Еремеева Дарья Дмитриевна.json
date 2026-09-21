@@ -2,8 +2,8 @@
   "teacherId": "Еремеева Дарья Дмитриевна",
   "teacherName": "Еремеева Дарья Дмитриевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p127344.jpg?token_static=fb97232ff487c8a37f6a93eb8fededeb",
-  "updatedAt": "2026-09-21T15:05:56.037Z",
-  "totalLessons": 19,
+  "updatedAt": "2026-09-21T23:16:07.827Z",
+  "totalLessons": 21,
   "days": [
     {
       "dayName": "Понедельник",
@@ -186,6 +186,40 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "4250",
           "weekParity": "both",
+          "teacher": {
+            "name": "Еремеева Дарья Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p127344.jpg?token_static=fb97232ff487c8a37f6a93eb8fededeb"
+          }
+        },
+        {
+          "id": "7673-2-10:10-1",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Макроэкономика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 451",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4250",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Еремеева Дарья Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p127344.jpg?token_static=fb97232ff487c8a37f6a93eb8fededeb"
+          }
+        },
+        {
+          "id": "7673-2-10:10-2",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Макроэкономика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4250",
+          "weekParity": "down",
           "teacher": {
             "name": "Еремеева Дарья Дмитриевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p127344.jpg?token_static=fb97232ff487c8a37f6a93eb8fededeb"

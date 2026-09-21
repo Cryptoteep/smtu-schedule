@@ -2,8 +2,8 @@
   "teacherId": "Андреев Кирилл Иванович",
   "teacherName": "Андреев Кирилл Иванович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128239.jpg?token_static=181cfcb6185f86a45a92e70dac84e40c",
-  "updatedAt": "2026-09-21T15:05:56.025Z",
-  "totalLessons": 16,
+  "updatedAt": "2026-09-21T23:16:07.799Z",
+  "totalLessons": 18,
   "days": [
     {
       "dayName": "Понедельник",
@@ -83,23 +83,6 @@
           }
         },
         {
-          "id": "7505-2-11:50-4",
-          "dayIndex": 2,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Программирование",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 439",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-04",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Андреев Кирилл Иванович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128239.jpg?token_static=181cfcb6185f86a45a92e70dac84e40c"
-          }
-        },
-        {
           "id": "7799-2-11:50-3",
           "dayIndex": 2,
           "time": "11:50-13:20",
@@ -168,6 +151,59 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-50",
           "weekParity": "up",
+          "teacher": {
+            "name": "Андреев Кирилл Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128239.jpg?token_static=181cfcb6185f86a45a92e70dac84e40c"
+          }
+        },
+        {
+          "id": "7505-3-11:50-4",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 439",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-04",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Андреев Кирилл Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128239.jpg?token_static=181cfcb6185f86a45a92e70dac84e40c"
+          }
+        },
+        {
+          "id": "7776-3-10:10-3",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Функциональное и логическое программирование",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 205-ИИТ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Андреев Кирилл Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128239.jpg?token_static=181cfcb6185f86a45a92e70dac84e40c"
+          }
+        },
+        {
+          "id": "7776-3-11:50-5",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Функциональное и логическое программирование",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 205-ИИТ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Андреев Кирилл Иванович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128239.jpg?token_static=181cfcb6185f86a45a92e70dac84e40c"

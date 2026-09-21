@@ -2,8 +2,8 @@
   "teacherId": "Павлова Елизавета Алексеевна",
   "teacherName": "Павлова Елизавета Алексеевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128579.jpg?token_static=c693b63995910d17b302d6d109314f62",
-  "updatedAt": "2026-09-21T15:05:56.023Z",
-  "totalLessons": 7,
+  "updatedAt": "2026-09-21T23:16:07.798Z",
+  "totalLessons": 10,
   "days": [
     {
       "dayName": "Понедельник",
@@ -67,7 +67,59 @@
     {
       "dayName": "Среда",
       "dayIndex": 3,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7767-3-10:10-3",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Управление дискретно-непрерывными системами",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Б 410",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20321",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Павлова Елизавета Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128579.jpg?token_static=c693b63995910d17b302d6d109314f62"
+          }
+        },
+        {
+          "id": "7767-3-11:50-4",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление дискретно-непрерывными системами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 544",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20321",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Павлова Елизавета Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128579.jpg?token_static=c693b63995910d17b302d6d109314f62"
+          }
+        },
+        {
+          "id": "7767-3-11:50-5",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление дискретно-непрерывными системами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 436",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20321",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Павлова Елизавета Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128579.jpg?token_static=c693b63995910d17b302d6d109314f62"
+          }
+        }
+      ]
     },
     {
       "dayName": "Четверг",

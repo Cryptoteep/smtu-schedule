@@ -2,8 +2,8 @@
   "teacherId": "Бояринцев Дмитрий Константинович",
   "teacherName": "Бояринцев Дмитрий Константинович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/03/small/p122101.jpg?token_static=ca1f3d42e109e9966d982de5240130be",
-  "updatedAt": "2026-09-21T15:05:56.072Z",
-  "totalLessons": 37,
+  "updatedAt": "2026-09-21T23:16:08.009Z",
+  "totalLessons": 38,
   "days": [
     {
       "dayName": "Понедельник",
@@ -186,16 +186,16 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7443-2-10:10-2",
+          "id": "7444-2-10:10-1",
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "История России",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 437",
+          "room": "У 531",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-07",
+          "groupName": "12509-02",
           "weekParity": "up",
           "teacher": {
             "name": "Бояринцев Дмитрий Константинович",
@@ -212,25 +212,8 @@
           "rawType": "Практическое занятие",
           "room": "У 531",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "12126-32, 12509-06",
+          "groupName": "12126-32",
           "weekParity": "up",
-          "teacher": {
-            "name": "Бояринцев Дмитрий Константинович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/03/small/p122101.jpg?token_static=ca1f3d42e109e9966d982de5240130be"
-          }
-        },
-        {
-          "id": "7468-2-10:10-1",
-          "dayIndex": 2,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "История России",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 507",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-01",
-          "weekParity": "down",
           "teacher": {
             "name": "Бояринцев Дмитрий Константинович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/03/small/p122101.jpg?token_static=ca1f3d42e109e9966d982de5240130be"
@@ -328,17 +311,51 @@
           }
         },
         {
-          "id": "7828-3-10:10-2",
+          "id": "7443-3-10:10-2",
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "История России",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 531",
+          "room": "У 437",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "12126-31",
+          "groupName": "12515-07",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бояринцев Дмитрий Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/03/small/p122101.jpg?token_static=ca1f3d42e109e9966d982de5240130be"
+          }
+        },
+        {
+          "id": "7468-3-10:10-1",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "История России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 507",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-01, 12126-31",
           "weekParity": "down",
+          "teacher": {
+            "name": "Бояринцев Дмитрий Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/03/small/p122101.jpg?token_static=ca1f3d42e109e9966d982de5240130be"
+          }
+        },
+        {
+          "id": "7487-3-11:50-3",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "История России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 403",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-06",
+          "weekParity": "up",
           "teacher": {
             "name": "Бояринцев Дмитрий Константинович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/03/small/p122101.jpg?token_static=ca1f3d42e109e9966d982de5240130be"

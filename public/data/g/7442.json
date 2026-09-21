@@ -1,7 +1,7 @@
 {
   "groupId": "7442",
   "groupName": "12526-34",
-  "updatedAt": "2026-09-21T15:05:47.391Z",
+  "updatedAt": "2026-09-21T23:15:57.138Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -87,8 +87,69 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7442-2-08:30-1",
+          "id": "7442-2-10:10-1",
           "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Математический анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 412",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12526-34",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Русина Лариса Германовна",
+            "id": "123501",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123501/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/17/small/p123501.jpg?token_static=ec8df21930d8598050ff7830e2e2ec38"
+          }
+        },
+        {
+          "id": "7442-2-11:50-2",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Начертательная геометрия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12526-34",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Анисимов Антон Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123833.jpg?token_static=b159b064a34029c71367529f81aba0bd"
+          }
+        },
+        {
+          "id": "7442-2-11:50-3",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12526-34",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пантелеева Екатерина Валерьевна",
+            "id": "100873",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100873/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100873.jpg?token_static=0581704817a1db2ba4e2795028e98174"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7442-3-08:30-1",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Начертательная геометрия",
@@ -104,8 +165,8 @@
           }
         },
         {
-          "id": "7442-2-08:30-2",
-          "dayIndex": 2,
+          "id": "7442-3-08:30-2",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Начертательная геометрия",
@@ -121,8 +182,8 @@
           }
         },
         {
-          "id": "7442-2-10:10-3",
-          "dayIndex": 2,
+          "id": "7442-3-10:10-3",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт",
@@ -139,8 +200,8 @@
           }
         },
         {
-          "id": "7442-2-10:10-4",
-          "dayIndex": 2,
+          "id": "7442-3-10:10-4",
+          "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт",
@@ -153,8 +214,8 @@
           "dateSpecific": "28.10 по 16.12"
         },
         {
-          "id": "7442-2-11:50-5",
-          "dayIndex": 2,
+          "id": "7442-3-11:50-5",
+          "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Основы российской государственности",

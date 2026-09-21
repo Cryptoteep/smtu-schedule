@@ -2,7 +2,7 @@
   "teacherId": "Высицкий Анатолий Федорович",
   "teacherName": "Высицкий Анатолий Федорович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100242.jpg?token_static=b9428d49bd30bd62760e23d86635f21e",
-  "updatedAt": "2026-09-21T15:05:56.079Z",
+  "updatedAt": "2026-09-21T23:16:08.012Z",
   "totalLessons": 11,
   "days": [
     {
@@ -48,10 +48,15 @@
     {
       "dayName": "Вторник",
       "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
       "lessons": [
         {
-          "id": "7806-2-08:30-1",
-          "dayIndex": 2,
+          "id": "7806-3-08:30-1",
+          "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Информатика",
@@ -67,11 +72,6 @@
           }
         }
       ]
-    },
-    {
-      "dayName": "Среда",
-      "dayIndex": 3,
-      "lessons": []
     },
     {
       "dayName": "Четверг",

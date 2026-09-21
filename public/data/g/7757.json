@@ -1,7 +1,7 @@
 {
   "groupId": "7757",
   "groupName": "20275",
-  "updatedAt": "2026-09-21T15:05:47.818Z",
+  "updatedAt": "2026-09-21T23:15:58.137Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -90,6 +90,101 @@
           "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 412",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20275",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Седова Елена Германовна",
+            "id": "101047",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101047/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101047.jpg?token_static=99a98d22dfdb03c33fb502d171e041d5"
+          }
+        },
+        {
+          "id": "7757-2-19:00-2",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Материаловедение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 191",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20275",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пескишев Сергей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100884.jpg?token_static=222765cbde0f70a5b66c4b9b29631fb0"
+          }
+        },
+        {
+          "id": "7757-2-20:40-3",
+          "dayIndex": 2,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 412",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20275",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Седова Елена Германовна",
+            "id": "101047",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101047/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101047.jpg?token_static=99a98d22dfdb03c33fb502d171e041d5"
+          }
+        },
+        {
+          "id": "7757-2-20:40-4",
+          "dayIndex": 2,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20275",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тихомирова Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101187.jpg?token_static=cd3e6fbbbcd6360b3b32531a78d5bf96"
+          }
+        },
+        {
+          "id": "7757-2-20:40-5",
+          "dayIndex": 2,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 6,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20275",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пескишев Сергей Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100884.jpg?token_static=222765cbde0f70a5b66c4b9b29631fb0"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7757-3-19:00-1",
+          "dayIndex": 3,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
           "subject": "Физика",
           "type": "lecture",
           "rawType": "Лекция",
@@ -105,8 +200,8 @@
           }
         },
         {
-          "id": "7757-2-20:40-2",
-          "dayIndex": 2,
+          "id": "7757-3-20:40-2",
+          "dayIndex": 3,
           "time": "20:40-22:10",
           "timeSlotIndex": 3,
           "subject": "Физика",
@@ -124,8 +219,8 @@
           }
         },
         {
-          "id": "7757-2-20:40-3",
-          "dayIndex": 2,
+          "id": "7757-3-20:40-3",
+          "dayIndex": 3,
           "time": "20:40-22:10",
           "timeSlotIndex": 4,
           "subject": "Философия",

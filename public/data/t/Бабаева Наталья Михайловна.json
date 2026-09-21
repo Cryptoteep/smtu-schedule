@@ -3,8 +3,8 @@
   "teacherName": "Бабаева Наталья Михайловна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100060.jpg?token_static=6983cf54ef4c5f9ccf1992c4ec056dd0",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100060/",
-  "updatedAt": "2026-09-21T15:05:56.011Z",
-  "totalLessons": 14,
+  "updatedAt": "2026-09-21T23:16:07.767Z",
+  "totalLessons": 16,
   "days": [
     {
       "dayName": "Понедельник",
@@ -117,6 +117,44 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "2370",
           "weekParity": "down",
+          "teacher": {
+            "name": "Бабаева Наталья Михайловна",
+            "id": "100060",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100060/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100060.jpg?token_static=6983cf54ef4c5f9ccf1992c4ec056dd0"
+          }
+        },
+        {
+          "id": "7745-2-08:30-1",
+          "dayIndex": 2,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 504",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20220",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бабаева Наталья Михайловна",
+            "id": "100060",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100060/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100060.jpg?token_static=6983cf54ef4c5f9ccf1992c4ec056dd0"
+          }
+        },
+        {
+          "id": "7753-2-11:50-4",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 243",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20250",
+          "weekParity": "up",
           "teacher": {
             "name": "Бабаева Наталья Михайловна",
             "id": "100060",

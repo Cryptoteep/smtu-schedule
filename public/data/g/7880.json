@@ -1,7 +1,7 @@
 {
   "groupId": "7880",
   "groupName": "20575",
-  "updatedAt": "2026-09-21T15:05:49.215Z",
+  "updatedAt": "2026-09-21T23:15:59.808Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -52,6 +52,55 @@
           "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
+          "subject": "Технология сварки конструкционных материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20575",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Зернин Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/05/15/small/p124399.jpg?token_static=acd22df3c9ee08d5b13fa2491c00ae5c"
+          }
+        },
+        {
+          "id": "7880-2-19:00-2",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Технология сварки конструкционных материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20575",
+          "weekParity": "down"
+        },
+        {
+          "id": "7880-2-20:40-3",
+          "dayIndex": 2,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Технология сварки конструкционных материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20575",
+          "weekParity": "down"
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7880-4-19:00-1",
+          "dayIndex": 4,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
           "subject": "Основы числового программного управления",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -65,8 +114,8 @@
           }
         },
         {
-          "id": "7880-2-19:00-2",
-          "dayIndex": 2,
+          "id": "7880-4-19:00-2",
+          "dayIndex": 4,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Основы числового программного управления",
@@ -82,8 +131,8 @@
           }
         },
         {
-          "id": "7880-2-20:40-3",
-          "dayIndex": 2,
+          "id": "7880-4-20:40-3",
+          "dayIndex": 4,
           "time": "20:40-22:10",
           "timeSlotIndex": 4,
           "subject": "Основы числового программного управления",
@@ -99,8 +148,8 @@
           }
         },
         {
-          "id": "7880-2-20:40-4",
-          "dayIndex": 2,
+          "id": "7880-4-20:40-4",
+          "dayIndex": 4,
           "time": "20:40-22:10",
           "timeSlotIndex": 5,
           "subject": "Основы числового программного управления",

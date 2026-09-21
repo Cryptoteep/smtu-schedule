@@ -2,8 +2,8 @@
   "teacherId": "Иванова Марина Александровна",
   "teacherName": "Иванова Марина Александровна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/12/06/small/p100452.jpg?token_static=b0a7c13cd5642cab318dfcd633ba3225",
-  "updatedAt": "2026-09-21T15:05:55.994Z",
-  "totalLessons": 17,
+  "updatedAt": "2026-09-21T23:16:07.641Z",
+  "totalLessons": 19,
   "days": [
     {
       "dayName": "Понедельник",
@@ -90,6 +90,40 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "2330",
           "weekParity": "up",
+          "teacher": {
+            "name": "Иванова Марина Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/12/06/small/p100452.jpg?token_static=b0a7c13cd5642cab318dfcd633ba3225"
+          }
+        },
+        {
+          "id": "7879-2-19:00-2",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы проектирования машин",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 312",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20375",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Иванова Марина Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/12/06/small/p100452.jpg?token_static=b0a7c13cd5642cab318dfcd633ba3225"
+          }
+        },
+        {
+          "id": "7879-2-20:40-4",
+          "dayIndex": 2,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы проектирования машин",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 312",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20375",
+          "weekParity": "down",
           "teacher": {
             "name": "Иванова Марина Александровна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/12/06/small/p100452.jpg?token_static=b0a7c13cd5642cab318dfcd633ba3225"

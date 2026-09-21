@@ -2,7 +2,7 @@
   "teacherId": "Минин Максим Сергеевич",
   "teacherName": "Минин Максим Сергеевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p130347.jpg?token_static=99e337925833409623025853d6963cd3",
-  "updatedAt": "2026-09-21T15:05:56.015Z",
+  "updatedAt": "2026-09-21T23:16:07.769Z",
   "totalLessons": 9,
   "days": [
     {
@@ -13,7 +13,25 @@
     {
       "dayName": "Вторник",
       "dayIndex": 2,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7747-2-10:10-4",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20222",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Минин Максим Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p130347.jpg?token_static=99e337925833409623025853d6963cd3"
+          }
+        }
+      ]
     },
     {
       "dayName": "Среда",
@@ -99,25 +117,7 @@
           "subject": "Программирование",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 169",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-02",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Минин Максим Сергеевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p130347.jpg?token_static=99e337925833409623025853d6963cd3"
-          }
-        },
-        {
-          "id": "7444-4-11:50-4",
-          "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Программирование",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 205-ИИТ",
+          "room": "У УЛК-13",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-02",
           "weekParity": "down",
@@ -172,7 +172,7 @@
       "dayIndex": 6,
       "lessons": [
         {
-          "id": "7444-6-11:50-3",
+          "id": "7444-6-11:50-4",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,

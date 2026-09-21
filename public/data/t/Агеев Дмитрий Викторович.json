@@ -2,8 +2,8 @@
   "teacherId": "Агеев Дмитрий Викторович",
   "teacherName": "Агеев Дмитрий Викторович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/21/small/p100005.jpg?token_static=7797ef217f3fa2d77485bc7496014723",
-  "updatedAt": "2026-09-21T15:05:56.016Z",
-  "totalLessons": 2,
+  "updatedAt": "2026-09-21T23:16:07.770Z",
+  "totalLessons": 3,
   "days": [
     {
       "dayName": "Понедельник",
@@ -36,7 +36,26 @@
     {
       "dayName": "Среда",
       "dayIndex": 3,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7746-3-19:00-3",
+          "dayIndex": 3,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Учебное занятие молодежного яхт-клуба 23.09.2026.",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 212",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20221",
+          "weekParity": "down",
+          "dateSpecific": "23.09",
+          "teacher": {
+            "name": "Агеев Дмитрий Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/21/small/p100005.jpg?token_static=7797ef217f3fa2d77485bc7496014723"
+          }
+        }
+      ]
     },
     {
       "dayName": "Четверг",
