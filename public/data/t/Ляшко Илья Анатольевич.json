@@ -1,0 +1,194 @@
+{
+  "teacherId": "Ляшко Илья Анатольевич",
+  "teacherName": "Ляшко Илья Анатольевич",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142860.jpg?token_static=907486e4654f1ee2f4aed90b8d5d2173",
+  "updatedAt": "2026-09-22T07:42:16.231Z",
+  "totalLessons": 9,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7470-4-11:50-2",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Философия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 504",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2201, 2210, 2230",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ляшко Илья Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142860.jpg?token_static=907486e4654f1ee2f4aed90b8d5d2173"
+          }
+        },
+        {
+          "id": "7503-4-10:10-3",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Философия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1250, 1218, 1220, 1284",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ляшко Илья Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142860.jpg?token_static=907486e4654f1ee2f4aed90b8d5d2173"
+          }
+        },
+        {
+          "id": "7554-4-14:00-4",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 531",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1284",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ляшко Илья Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142860.jpg?token_static=907486e4654f1ee2f4aed90b8d5d2173"
+          }
+        },
+        {
+          "id": "7582-4-10:10-1",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2210",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ляшко Илья Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142860.jpg?token_static=907486e4654f1ee2f4aed90b8d5d2173"
+          }
+        },
+        {
+          "id": "7583-4-11:50-5",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2230",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ляшко Илья Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142860.jpg?token_static=907486e4654f1ee2f4aed90b8d5d2173"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7470-5-08:30-1",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2201",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ляшко Илья Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142860.jpg?token_static=907486e4654f1ee2f4aed90b8d5d2173"
+          }
+        },
+        {
+          "id": "7503-5-10:10-2",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1250",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ляшко Илья Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142860.jpg?token_static=907486e4654f1ee2f4aed90b8d5d2173"
+          }
+        },
+        {
+          "id": "7546-5-08:30-1",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1218",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ляшко Илья Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142860.jpg?token_static=907486e4654f1ee2f4aed90b8d5d2173"
+          }
+        },
+        {
+          "id": "7548-5-10:10-2",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1220",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ляшко Илья Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142860.jpg?token_static=907486e4654f1ee2f4aed90b8d5d2173"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

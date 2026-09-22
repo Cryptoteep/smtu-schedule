@@ -1,7 +1,7 @@
 {
   "groupId": "7470",
   "groupName": "2201",
-  "updatedAt": "2026-09-21T23:15:48.573Z",
+  "updatedAt": "2026-09-22T07:41:56.622Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -247,13 +247,13 @@
           "subject": "Технология конструкционных материалов",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "У 245а",
+          "room": "У 245",
           "campus": "Ульянка (Корпус У)",
           "groupName": "2201",
           "weekParity": "down",
           "teacher": {
-            "name": "Юнусов Фируз Абдукадимович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123521.jpg?token_static=0ad0f3727125e27b503247a5b407397f"
+            "name": "Греков Андрей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/19/small/p100295.jpg?token_static=f5a5ab14ddce308e6acfffc82c1721e3"
           }
         },
         {
@@ -264,6 +264,23 @@
           "subject": "Технология конструкционных материалов",
           "type": "lab",
           "rawType": "Лабораторное занятие",
+          "room": "У 245а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2201",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Юнусов Фируз Абдукадимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123521.jpg?token_static=0ad0f3727125e27b503247a5b407397f"
+          }
+        },
+        {
+          "id": "7470-3-17:20-7",
+          "dayIndex": 3,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технология конструкционных материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
           "room": "У 245",
           "campus": "Ульянка (Корпус У)",
           "groupName": "2201",
@@ -274,7 +291,7 @@
           }
         },
         {
-          "id": "7470-3-17:20-7",
+          "id": "7470-3-17:20-8",
           "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -288,23 +305,6 @@
           "teacher": {
             "name": "Юнусов Фируз Абдукадимович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123521.jpg?token_static=0ad0f3727125e27b503247a5b407397f"
-          }
-        },
-        {
-          "id": "7470-3-17:20-8",
-          "dayIndex": 3,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Технология конструкционных материалов",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 245",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "2201",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Греков Андрей Анатольевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/19/small/p100295.jpg?token_static=f5a5ab14ddce308e6acfffc82c1721e3"
           }
         }
       ]
@@ -339,7 +339,8 @@
           "groupName": "2201",
           "weekParity": "up",
           "teacher": {
-            "name": "Ляшко Илья Дмитриевич"
+            "name": "Ляшко Илья Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142860.jpg?token_static=907486e4654f1ee2f4aed90b8d5d2173"
           }
         },
         {
@@ -401,13 +402,13 @@
           "subject": "Материаловедение",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "У 191",
+          "room": "У 191а",
           "campus": "Ульянка (Корпус У)",
           "groupName": "2201",
           "weekParity": "up",
           "teacher": {
-            "name": "Лебедева Надежда Валерьевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
+            "name": "Смирнова Дарья Леонидовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/21/small/p115788.jpg?token_static=dae84bbc10e7606ca1d3d6f5a714fff4"
           }
         },
         {
@@ -418,13 +419,13 @@
           "subject": "Материаловедение",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "У 191а",
+          "room": "У 191",
           "campus": "Ульянка (Корпус У)",
           "groupName": "2201",
           "weekParity": "up",
           "teacher": {
-            "name": "Смирнова Дарья Леонидовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/21/small/p115788.jpg?token_static=dae84bbc10e7606ca1d3d6f5a714fff4"
+            "name": "Лебедева Надежда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
           }
         }
       ]
@@ -446,7 +447,8 @@
           "groupName": "2201",
           "weekParity": "up",
           "teacher": {
-            "name": "Ляшко Илья Дмитриевич"
+            "name": "Ляшко Илья Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142860.jpg?token_static=907486e4654f1ee2f4aed90b8d5d2173"
           }
         },
         {
@@ -508,13 +510,13 @@
           "subject": "Материаловедение",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "У 191а",
+          "room": "У 191",
           "campus": "Ульянка (Корпус У)",
           "groupName": "2201",
           "weekParity": "down",
           "teacher": {
-            "name": "Смирнова Дарья Леонидовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/21/small/p115788.jpg?token_static=dae84bbc10e7606ca1d3d6f5a714fff4"
+            "name": "Лебедева Надежда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
           }
         },
         {
@@ -525,13 +527,13 @@
           "subject": "Материаловедение",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "У 191",
+          "room": "У 191а",
           "campus": "Ульянка (Корпус У)",
           "groupName": "2201",
           "weekParity": "down",
           "teacher": {
-            "name": "Лебедева Надежда Валерьевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/07/small/p100661.jpg?token_static=cfbc0ff5d577b799c7417f4d9c8e7a7c"
+            "name": "Смирнова Дарья Леонидовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/21/small/p115788.jpg?token_static=dae84bbc10e7606ca1d3d6f5a714fff4"
           }
         }
       ]
