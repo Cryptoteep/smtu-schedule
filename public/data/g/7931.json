@@ -1,7 +1,7 @@
 {
   "groupId": "7931",
   "groupName": "12317-33",
-  "updatedAt": "2026-09-22T18:04:32.073Z",
+  "updatedAt": "2026-09-22T22:56:12.100Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -224,10 +224,11 @@
           "subject": "Линейная алгебра, Аналитическая геометрия",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 115",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12317-33",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Крупицкая Ольга Савельевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/08/small/p122711.jpg?token_static=4b97a048cd33a9d92d4dddfeb85d4940"
@@ -465,13 +466,13 @@
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Обучение служением",
-          "type": "practice",
-          "rawType": "Практическое занятие",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "У 101",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12317-33",
           "weekParity": "down",
-          "dateSpecific": "17.11 по 07.12",
+          "dateSpecific": "10.10",
           "teacher": {
             "name": "Березовская Ирина Петровна"
           }
@@ -482,36 +483,19 @@
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Обучение служением",
-          "type": "lecture",
-          "rawType": "Лекция",
+          "type": "practice",
+          "rawType": "Практическое занятие",
           "room": "У 101",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12317-33",
           "weekParity": "down",
-          "dateSpecific": "10.10",
+          "dateSpecific": "17.11 по 07.12",
           "teacher": {
             "name": "Березовская Ирина Петровна"
           }
         },
         {
           "id": "7931-6-17:20-7",
-          "dayIndex": 6,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Обучение служением",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 101",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12317-33",
-          "weekParity": "down",
-          "dateSpecific": "10.10",
-          "teacher": {
-            "name": "Березовская Ирина Петровна"
-          }
-        },
-        {
-          "id": "7931-6-17:20-8",
           "dayIndex": 6,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -523,6 +507,23 @@
           "groupName": "12317-33",
           "weekParity": "down",
           "dateSpecific": "17.11 по 07.12",
+          "teacher": {
+            "name": "Березовская Ирина Петровна"
+          }
+        },
+        {
+          "id": "7931-6-17:20-8",
+          "dayIndex": 6,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Обучение служением",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 101",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-33",
+          "weekParity": "down",
+          "dateSpecific": "10.10",
           "teacher": {
             "name": "Березовская Ирина Петровна"
           }

@@ -1,7 +1,7 @@
 {
   "groupId": "7793",
   "groupName": "12327-02",
-  "updatedAt": "2026-09-22T18:04:32.188Z",
+  "updatedAt": "2026-09-22T22:56:12.777Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -230,13 +230,13 @@
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Социальное взаимодействие в профессиональной деятельности",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 105",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 207",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12327-02",
           "weekParity": "down",
-          "dateSpecific": "01.09 по 26.10",
+          "dateSpecific": "27.10-21.12",
           "teacher": {
             "name": "Ильина Екатерина Владимировна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100466.jpg?token_static=a0d59a7049958518a8966b4eb0c215f2"
@@ -248,13 +248,13 @@
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Социальное взаимодействие в профессиональной деятельности",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 207",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 105",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12327-02",
           "weekParity": "down",
-          "dateSpecific": "27.10-21.12",
+          "dateSpecific": "01.09 по 26.10",
           "teacher": {
             "name": "Ильина Екатерина Владимировна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100466.jpg?token_static=a0d59a7049958518a8966b4eb0c215f2"
@@ -305,10 +305,11 @@
           "subject": "Линейная алгебра, Аналитическая геометрия",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 115",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12327-02",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Крупицкая Ольга Савельевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/08/small/p122711.jpg?token_static=4b97a048cd33a9d92d4dddfeb85d4940"

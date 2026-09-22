@@ -1,7 +1,7 @@
 {
   "groupId": "7837",
   "groupName": "12226-37",
-  "updatedAt": "2026-09-22T18:04:28.133Z",
+  "updatedAt": "2026-09-22T22:56:08.468Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -20,6 +20,25 @@
           "groupName": "12226-37",
           "weekParity": "down",
           "teacher": {
+            "name": "Архипов Георгий Алексеевич",
+            "id": "100053",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100053/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100053.jpg?token_static=04a30d16d5596ca670d3f9cd0ad945fe"
+          }
+        },
+        {
+          "id": "7837-1-10:10-2",
+          "dayIndex": 1,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12226-37",
+          "weekParity": "down",
+          "teacher": {
             "name": "Едуш Наталья Юрьевна",
             "id": "100364",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
@@ -27,7 +46,7 @@
           }
         },
         {
-          "id": "7837-1-10:10-2",
+          "id": "7837-1-10:10-3",
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -44,7 +63,7 @@
           }
         },
         {
-          "id": "7837-1-10:10-3",
+          "id": "7837-1-10:10-4",
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -58,23 +77,6 @@
           "teacher": {
             "name": "Бокатова Анастасия Антоновна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
-          }
-        },
-        {
-          "id": "7837-1-10:10-4",
-          "dayIndex": 1,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б 401",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "12226-37",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Глазырина Диана Олеговна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
           }
         },
         {
@@ -109,10 +111,8 @@
           "groupName": "12226-37",
           "weekParity": "down",
           "teacher": {
-            "name": "Архипов Георгий Алексеевич",
-            "id": "100053",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100053/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100053.jpg?token_static=04a30d16d5596ca670d3f9cd0ad945fe"
+            "name": "Глазырина Диана Олеговна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
           }
         },
         {
@@ -166,8 +166,8 @@
           "groupName": "12226-37",
           "weekParity": "down",
           "teacher": {
-            "name": "Глазырина Диана Олеговна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
           }
         },
         {
@@ -287,8 +287,8 @@
           "groupName": "12226-37",
           "weekParity": "down",
           "teacher": {
-            "name": "Дроздов Владимир Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+            "name": "Глазырина Диана Олеговна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
           }
         },
         {
@@ -488,22 +488,6 @@
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12226-37",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
-          }
-        },
-        {
-          "id": "7837-4-10:10-2",
-          "dayIndex": 4,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Физическая культура и спорт",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 101",
@@ -516,6 +500,22 @@
             "id": "100769",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100769/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/17/small/p100769.jpg?token_static=810e01ea9829abce3a876a0a68ad94ac"
+          }
+        },
+        {
+          "id": "7837-4-10:10-2",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12226-37",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
           }
         },
         {
@@ -583,10 +583,11 @@
           "subject": "Основы российской государственности",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 101",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-37",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Чепель Александр Иванович",
             "id": "101302",

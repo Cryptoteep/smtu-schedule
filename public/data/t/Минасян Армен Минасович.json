@@ -2,8 +2,8 @@
   "teacherId": "Минасян Армен Минасович",
   "teacherName": "Минасян Армен Минасович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea",
-  "updatedAt": "2026-09-22T18:04:43.937Z",
-  "totalLessons": 29,
+  "updatedAt": "2026-09-22T22:56:25.537Z",
+  "totalLessons": 30,
   "days": [
     {
       "dayName": "Понедельник",
@@ -361,6 +361,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20313",
           "weekParity": "up",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "7765-3-11:50-3",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Базовые технологии цифрового проектирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 416",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20313",
+          "weekParity": "down",
           "teacher": {
             "name": "Минасян Армен Минасович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"

@@ -2,7 +2,7 @@
   "teacherId": "Молчановский Василий Максимович",
   "teacherName": "Молчановский Василий Максимович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123187.jpg?token_static=349f98fcb04531802fdc5487080e3847",
-  "updatedAt": "2026-09-22T18:04:43.904Z",
+  "updatedAt": "2026-09-22T22:56:25.512Z",
   "totalLessons": 12,
   "days": [
     {
@@ -13,25 +13,7 @@
     {
       "dayName": "Вторник",
       "dayIndex": 2,
-      "lessons": [
-        {
-          "id": "7507-2-14:00-1",
-          "dayIndex": 2,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 504",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "2101",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Молчановский Василий Максимович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123187.jpg?token_static=349f98fcb04531802fdc5487080e3847"
-          }
-        }
-      ]
+      "lessons": []
     },
     {
       "dayName": "Среда",
@@ -96,6 +78,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "2230",
           "weekParity": "down",
+          "teacher": {
+            "name": "Молчановский Василий Максимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123187.jpg?token_static=349f98fcb04531802fdc5487080e3847"
+          }
+        },
+        {
+          "id": "7507-3-14:00-1",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 504",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2101",
+          "weekParity": "both",
           "teacher": {
             "name": "Молчановский Василий Максимович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/16/small/p123187.jpg?token_static=349f98fcb04531802fdc5487080e3847"

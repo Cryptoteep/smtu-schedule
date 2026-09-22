@@ -1,7 +1,7 @@
 {
   "groupId": "7593",
   "groupName": "2270",
-  "updatedAt": "2026-09-22T18:04:29.071Z",
+  "updatedAt": "2026-09-22T22:56:09.762Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -105,13 +105,13 @@
           "subject": "Технология конструкционных материалов",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "У 245а",
+          "room": "У 245",
           "campus": "Ульянка (Корпус У)",
           "groupName": "2270",
           "weekParity": "down",
           "teacher": {
-            "name": "Щепелина Дарья Дмитриевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106091.jpg?token_static=869fd0be91ffb5f55fa6afaab774cb93"
+            "name": "Юнусов Фируз Абдукадимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123521.jpg?token_static=0ad0f3727125e27b503247a5b407397f"
           }
         },
         {
@@ -122,13 +122,13 @@
           "subject": "Технология конструкционных материалов",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "У 245",
+          "room": "У 245а",
           "campus": "Ульянка (Корпус У)",
           "groupName": "2270",
           "weekParity": "down",
           "teacher": {
-            "name": "Юнусов Фируз Абдукадимович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123521.jpg?token_static=0ad0f3727125e27b503247a5b407397f"
+            "name": "Щепелина Дарья Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106091.jpg?token_static=869fd0be91ffb5f55fa6afaab774cb93"
           }
         }
       ]
@@ -315,10 +315,11 @@
           "subject": "Высшая математика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 103",
           "campus": "Ульянка (Корпус У)",
           "groupName": "2270",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Сегаль Ирина Фридриховна",
             "id": "101045",

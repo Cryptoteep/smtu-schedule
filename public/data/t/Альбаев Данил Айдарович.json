@@ -3,8 +3,8 @@
   "teacherName": "Альбаев Данил Айдарович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p101505.jpg?token_static=e0f44ca0ab3df528b3d17443537a0733",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101505/",
-  "updatedAt": "2026-09-22T18:04:43.906Z",
-  "totalLessons": 16,
+  "updatedAt": "2026-09-22T22:56:25.513Z",
+  "totalLessons": 14,
   "days": [
     {
       "dayName": "Понедельник",
@@ -105,46 +105,7 @@
     {
       "dayName": "Вторник",
       "dayIndex": 2,
-      "lessons": [
-        {
-          "id": "7912-2-17:20-4",
-          "dayIndex": 2,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Математические модели внешних гидрометеорологических возмущений",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б 419",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "1236",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Альбаев Данил Айдарович",
-            "id": "101505",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101505/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p101505.jpg?token_static=e0f44ca0ab3df528b3d17443537a0733"
-          }
-        },
-        {
-          "id": "7912-2-17:20-5",
-          "dayIndex": 2,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Математические модели внешних гидрометеорологических возмущений",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Б 419",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "1236",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Альбаев Данил Айдарович",
-            "id": "101505",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101505/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p101505.jpg?token_static=e0f44ca0ab3df528b3d17443537a0733"
-          }
-        }
-      ]
+      "lessons": []
     },
     {
       "dayName": "Среда",
