@@ -2,8 +2,8 @@
   "teacherId": "Зернин Евгений Александрович",
   "teacherName": "Зернин Евгений Александрович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/05/15/small/p124399.jpg?token_static=acd22df3c9ee08d5b13fa2491c00ae5c",
-  "updatedAt": "2026-09-22T13:24:28.543Z",
-  "totalLessons": 11,
+  "updatedAt": "2026-09-22T18:04:43.941Z",
+  "totalLessons": 12,
   "days": [
     {
       "dayName": "Понедельник",
@@ -124,6 +124,23 @@
           "id": "7756-3-17:20-6",
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
+          "subject": "Комплексный инжиниринг сварочного производства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Зернин Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/05/15/small/p124399.jpg?token_static=acd22df3c9ee08d5b13fa2491c00ae5c"
+          }
+        },
+        {
+          "id": "7756-3-15:40-7",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
           "subject": "Комплексный инжиниринг сварочного производства",
           "type": "lecture",
           "rawType": "Лекция",

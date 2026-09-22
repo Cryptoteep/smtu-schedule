@@ -1,7 +1,7 @@
 {
   "groupId": "7798",
   "groupName": "12226-11",
-  "updatedAt": "2026-09-22T13:24:09.833Z",
+  "updatedAt": "2026-09-22T18:04:27.837Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -88,13 +88,13 @@
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 415",
+          "room": "Конгресс-Центр 306",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-11",
           "weekParity": "both",
           "teacher": {
-            "name": "Гриценко Кристина Вадимовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3"
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
           }
         },
         {
@@ -103,15 +103,15 @@
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Информатика",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 415",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 306",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-11",
           "weekParity": "up",
           "teacher": {
-            "name": "Гриценко Кристина Вадимовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3"
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
           }
         },
         {
@@ -120,9 +120,9 @@
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 415",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 306",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-11",
           "weekParity": "down",
@@ -371,23 +371,6 @@
           "groupName": "12226-11",
           "weekParity": "down",
           "teacher": {
-            "name": "Никущенко Елена Александровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
-          }
-        },
-        {
-          "id": "7798-3-11:50-8",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 407",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12226-11",
-          "weekParity": "down",
-          "teacher": {
             "name": "Вихров Николай Михайлович",
             "id": "100217",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
@@ -395,7 +378,7 @@
           }
         },
         {
-          "id": "7798-3-11:50-9",
+          "id": "7798-3-11:50-8",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -414,7 +397,7 @@
           }
         },
         {
-          "id": "7798-3-11:50-10",
+          "id": "7798-3-11:50-9",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -424,16 +407,14 @@
           "room": "А 407",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "12226-11",
-          "weekParity": "both",
+          "weekParity": "down",
           "teacher": {
-            "name": "Рюмин Сергей Николаевич",
-            "id": "101017",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
+            "name": "Никущенко Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
           }
         },
         {
-          "id": "7798-3-11:50-11",
+          "id": "7798-3-11:50-10",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -450,7 +431,7 @@
           }
         },
         {
-          "id": "7798-3-11:50-12",
+          "id": "7798-3-11:50-11",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -464,6 +445,25 @@
           "teacher": {
             "name": "Бокатова Анастасия Антоновна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
+          }
+        },
+        {
+          "id": "7798-3-11:50-12",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-11",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Рюмин Сергей Николаевич",
+            "id": "101017",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
           }
         }
       ]

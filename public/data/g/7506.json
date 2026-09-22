@@ -1,7 +1,7 @@
 {
   "groupId": "7506",
   "groupName": "20420",
-  "updatedAt": "2026-09-22T13:24:21.262Z",
+  "updatedAt": "2026-09-22T18:04:37.671Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -83,6 +83,23 @@
           "subject": "Приводы мехатронных и робототехнических систем",
           "type": "practice",
           "rawType": "Практическое занятие",
+          "room": "У УЛК-13",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20420",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ложкин Владислав Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89"
+          }
+        },
+        {
+          "id": "7506-1-14:00-6",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Приводы мехатронных и робототехнических систем",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "У УЛК-13",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20420",
@@ -224,24 +241,7 @@
           }
         },
         {
-          "id": "7506-3-08:30-2",
-          "dayIndex": 3,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Приводы мехатронных и робототехнических систем",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У УЛК-13",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20420",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Ложкин Владислав Александрович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89"
-          }
-        },
-        {
-          "id": "7506-3-10:10-3",
+          "id": "7506-3-10:10-2",
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -258,7 +258,7 @@
           }
         },
         {
-          "id": "7506-3-10:10-4",
+          "id": "7506-3-10:10-3",
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -275,7 +275,7 @@
           }
         },
         {
-          "id": "7506-3-11:50-5",
+          "id": "7506-3-11:50-4",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -292,14 +292,14 @@
           }
         },
         {
-          "id": "7506-3-11:50-6",
+          "id": "7506-3-11:50-5",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Виртуальное моделирование и проектирование роботов",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 316",
+          "room": "У 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20420",
           "weekParity": "down",
@@ -309,7 +309,7 @@
           }
         },
         {
-          "id": "7506-3-14:00-7",
+          "id": "7506-3-14:00-6",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

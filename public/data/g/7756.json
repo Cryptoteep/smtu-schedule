@@ -1,7 +1,7 @@
 {
   "groupId": "7756",
   "groupName": "20272",
-  "updatedAt": "2026-09-22T13:24:20.012Z",
+  "updatedAt": "2026-09-22T18:04:36.239Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -71,16 +71,69 @@
           "subject": "Управление проектами",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 530a",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Соколова Софья Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/21/small/p107087.jpg?token_static=5dbc4a0271e02c67e9a8e06c6133bd13"
+          }
+        },
+        {
+          "id": "7756-3-11:50-3",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление проектами",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 420",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20272",
           "weekParity": "down",
           "teacher": {
-            "name": "Кафедра вычислительной техники и информационных технологий"
+            "name": "Соколова Софья Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/21/small/p107087.jpg?token_static=5dbc4a0271e02c67e9a8e06c6133bd13"
           }
         },
         {
-          "id": "7756-3-15:40-3",
+          "id": "7756-3-14:00-4",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Конструктивно-технологическое проектирование сварных конструкций",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Воропаев Артем Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/29/small/p107556.jpg?token_static=1ab1eda115a89fdfeb2445001cc9d0be"
+          }
+        },
+        {
+          "id": "7756-3-14:00-5",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Комплексный инжиниринг сварочного производства",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Воропаев Артем Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/29/small/p107556.jpg?token_static=1ab1eda115a89fdfeb2445001cc9d0be"
+          }
+        },
+        {
+          "id": "7756-3-15:40-6",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -97,24 +150,24 @@
           }
         },
         {
-          "id": "7756-3-15:40-4",
+          "id": "7756-3-15:40-7",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Комплексный инжиниринг сварочного производства",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "У УЛК-12",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20272",
           "weekParity": "down",
           "teacher": {
-            "name": "Воропаев Артем Александрович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/29/small/p107556.jpg?token_static=1ab1eda115a89fdfeb2445001cc9d0be"
+            "name": "Зернин Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/05/15/small/p124399.jpg?token_static=acd22df3c9ee08d5b13fa2491c00ae5c"
           }
         },
         {
-          "id": "7756-3-17:20-5",
+          "id": "7756-3-17:20-8",
           "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -128,23 +181,6 @@
           "teacher": {
             "name": "Блинов Егор Владимирович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/30/small/p128716.jpg?token_static=fe7c2530286b1b1fe505c801384abce5"
-          }
-        },
-        {
-          "id": "7756-3-17:20-6",
-          "dayIndex": 3,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Комплексный инжиниринг сварочного производства",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У УЛК-12",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20272",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Зернин Евгений Александрович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/05/15/small/p124399.jpg?token_static=acd22df3c9ee08d5b13fa2491c00ae5c"
           }
         }
       ]

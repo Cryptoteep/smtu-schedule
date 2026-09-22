@@ -1,8 +1,8 @@
 {
   "teacherId": "Кафедра вычислительной техники и информационных технологий",
   "teacherName": "Кафедра вычислительной техники и информационных технологий",
-  "updatedAt": "2026-09-22T13:24:28.733Z",
-  "totalLessons": 35,
+  "updatedAt": "2026-09-22T18:04:44.018Z",
+  "totalLessons": 34,
   "days": [
     {
       "dayName": "Понедельник",
@@ -213,14 +213,14 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7467-3-10:10-2",
+          "id": "7467-3-14:00-5",
           "dayIndex": 3,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
           "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 416",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 243",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-03",
           "weekParity": "up",
@@ -229,16 +229,16 @@
           }
         },
         {
-          "id": "7467-3-10:10-3",
+          "id": "7468-3-10:10-3",
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "У 414",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-03",
+          "groupName": "12515-01",
           "weekParity": "down",
           "teacher": {
             "name": "Кафедра вычислительной техники и информационных технологий"
@@ -269,22 +269,6 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 435",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20272, 20278",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Кафедра вычислительной техники и информационных технологий"
-          }
-        },
-        {
-          "id": "7756-3-11:50-2",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Управление проектами",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 530a",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20272, 20278",
           "weekParity": "down",

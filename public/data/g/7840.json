@@ -1,7 +1,7 @@
 {
   "groupId": "7840",
   "groupName": "12739-02",
-  "updatedAt": "2026-09-22T13:24:24.337Z",
+  "updatedAt": "2026-09-22T18:04:40.241Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -578,6 +578,24 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12739-02",
           "weekParity": "both",
+          "teacher": {
+            "name": "Игнатенко Сергей Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/05/08/small/p105188.jpg?token_static=50c66911f8b5f89eb1536e2b98f846f1"
+          }
+        },
+        {
+          "id": "7840-5-15:40-6",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 107",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12739-02",
+          "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Игнатенко Сергей Владимирович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/05/08/small/p105188.jpg?token_static=50c66911f8b5f89eb1536e2b98f846f1"

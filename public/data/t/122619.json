@@ -3,8 +3,8 @@
   "teacherName": "Свиркина Лариса Анатольевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
-  "updatedAt": "2026-09-22T13:24:28.536Z",
-  "totalLessons": 26,
+  "updatedAt": "2026-09-22T18:04:43.935Z",
+  "totalLessons": 27,
   "days": [
     {
       "dayName": "Понедельник",
@@ -169,6 +169,25 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
           }
+        },
+        {
+          "id": "7820-3-10:10-3",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Линейная алгебра, Аналитическая геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 507",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-02",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Свиркина Лариса Анатольевна",
+            "id": "122619",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
+          }
         }
       ]
     },
@@ -314,7 +333,7 @@
           }
         },
         {
-          "id": "7468-5-08:30-1",
+          "id": "7468-5-08:30-2",
           "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
@@ -333,7 +352,7 @@
           }
         },
         {
-          "id": "7468-5-10:10-2",
+          "id": "7468-5-10:10-3",
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -390,7 +409,7 @@
           }
         },
         {
-          "id": "7820-5-11:50-2",
+          "id": "7820-5-11:50-3",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,

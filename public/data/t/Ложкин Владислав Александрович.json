@@ -2,7 +2,7 @@
   "teacherId": "Ложкин Владислав Александрович",
   "teacherName": "Ложкин Владислав Александрович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89",
-  "updatedAt": "2026-09-22T13:24:28.541Z",
+  "updatedAt": "2026-09-22T18:04:43.939Z",
   "totalLessons": 19,
   "days": [
     {
@@ -68,6 +68,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20421",
           "weekParity": "down",
+          "teacher": {
+            "name": "Ложкин Владислав Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89"
+          }
+        },
+        {
+          "id": "7506-1-14:00-6",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Приводы мехатронных и робототехнических систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-13",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20420",
+          "weekParity": "up",
           "teacher": {
             "name": "Ложкин Владислав Александрович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89"
@@ -166,23 +183,6 @@
       "dayName": "Среда",
       "dayIndex": 3,
       "lessons": [
-        {
-          "id": "7506-3-08:30-2",
-          "dayIndex": 3,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Приводы мехатронных и робототехнических систем",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У УЛК-13",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20420",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Ложкин Владислав Александрович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89"
-          }
-        },
         {
           "id": "7779-3-10:10-3",
           "dayIndex": 3,

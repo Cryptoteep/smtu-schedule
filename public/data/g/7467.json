@@ -1,7 +1,7 @@
 {
   "groupId": "7467",
   "groupName": "12515-03",
-  "updatedAt": "2026-09-22T13:24:18.993Z",
+  "updatedAt": "2026-09-22T18:04:35.379Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -185,16 +185,16 @@
           "dayIndex": 3,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
-          "subject": "Основы военной подготовки",
-          "type": "military",
-          "rawType": "Практическое занятие",
-          "room": "У ВУЦ",
+          "subject": "Физическая культура и спорт",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 107",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-03",
-          "weekParity": "up",
+          "weekParity": "both",
           "teacher": {
-            "name": "Опарин Александр Николаевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100843.jpg?token_static=97843249d42587ca996716e10bc5f564"
+            "name": "Ефимов Виталий Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/03/24/small/p140415.jpg?token_static=319ace78c868ef14cd26a9014025ed7f"
           }
         },
         {
@@ -210,7 +210,8 @@
           "groupName": "12515-03",
           "weekParity": "up",
           "teacher": {
-            "name": "Кафедра вычислительной техники и информационных технологий"
+            "name": "Козирацкая Карина Константиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
           }
         },
         {
@@ -218,13 +219,47 @@
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Информатика",
-          "type": "practice",
+          "subject": "Основы военной подготовки",
+          "type": "military",
           "rawType": "Практическое занятие",
-          "room": "У 414",
+          "room": "У ВУЦ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-03",
           "weekParity": "down",
+          "teacher": {
+            "name": "Цаплин Виталий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/05/small/p137667.jpg?token_static=a9d73937a075b4e4c1586e3dfc598567"
+          }
+        },
+        {
+          "id": "7467-3-11:50-4",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-03",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Козирацкая Карина Константиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
+          }
+        },
+        {
+          "id": "7467-3-14:00-5",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информатика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 243",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-03",
+          "weekParity": "up",
           "teacher": {
             "name": "Кафедра вычислительной техники и информационных технологий"
           }
@@ -394,7 +429,26 @@
       "dayIndex": 5,
       "lessons": [
         {
-          "id": "7467-5-10:10-1",
+          "id": "7467-5-08:30-1",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Общая и неорганическая химия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-03",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Трусов Валерий Иванович",
+            "id": "101208",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101208/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101208.jpg?token_static=48d2d4be94fc7a8e58a329b1b449f7db"
+          }
+        },
+        {
+          "id": "7467-5-10:10-2",
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -411,7 +465,7 @@
           }
         },
         {
-          "id": "7467-5-10:10-2",
+          "id": "7467-5-10:10-3",
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -428,7 +482,7 @@
           }
         },
         {
-          "id": "7467-5-11:50-3",
+          "id": "7467-5-11:50-4",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -445,7 +499,7 @@
           }
         },
         {
-          "id": "7467-5-14:00-4",
+          "id": "7467-5-14:00-5",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -464,7 +518,7 @@
           }
         },
         {
-          "id": "7467-5-15:40-5",
+          "id": "7467-5-15:40-6",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,

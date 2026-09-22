@@ -2,49 +2,22 @@
   "teacherId": "Юдина Елена Евгеньевна",
   "teacherName": "Юдина Елена Евгеньевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p101386.jpg?token_static=48a634a058697779237d3870e1d68a58",
-  "updatedAt": "2026-09-22T13:24:28.744Z",
-  "totalLessons": 2,
+  "updatedAt": "2026-09-22T18:04:44.029Z",
+  "totalLessons": 1,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": []
-    },
-    {
-      "dayName": "Вторник",
-      "dayIndex": 2,
-      "lessons": []
-    },
-    {
-      "dayName": "Среда",
-      "dayIndex": 3,
       "lessons": [
         {
-          "id": "7468-3-15:40-2",
-          "dayIndex": 3,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
+          "id": "7468-1-08:30-1",
+          "dayIndex": 1,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 316",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-01",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Юдина Елена Евгеньевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p101386.jpg?token_static=48a634a058697779237d3870e1d68a58"
-          }
-        },
-        {
-          "id": "7468-3-17:20-3",
-          "dayIndex": 3,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 316",
+          "room": "У 415",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-01",
           "weekParity": "up",
@@ -54,6 +27,16 @@
           }
         }
       ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
     },
     {
       "dayName": "Четверг",

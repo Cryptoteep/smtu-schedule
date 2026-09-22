@@ -2,8 +2,8 @@
   "teacherId": "Гриценко Кристина Вадимовна",
   "teacherName": "Гриценко Кристина Вадимовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3",
-  "updatedAt": "2026-09-22T13:24:28.554Z",
-  "totalLessons": 23,
+  "updatedAt": "2026-09-22T18:04:43.949Z",
+  "totalLessons": 21,
   "days": [
     {
       "dayName": "Понедельник",
@@ -74,48 +74,14 @@
           }
         },
         {
-          "id": "7798-1-15:40-5",
-          "dayIndex": 1,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 415",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12226-11",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Гриценко Кристина Вадимовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3"
-          }
-        },
-        {
-          "id": "7798-1-17:20-6",
+          "id": "7798-1-17:20-7",
           "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Информатика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 415",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12226-11",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Гриценко Кристина Вадимовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3"
-          }
-        },
-        {
-          "id": "7798-1-17:20-7",
-          "dayIndex": 1,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 415",
+          "room": "Конгресс-Центр 306",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-11",
           "weekParity": "down",

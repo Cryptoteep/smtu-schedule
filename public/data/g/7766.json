@@ -1,7 +1,7 @@
 {
   "groupId": "7766",
   "groupName": "20320",
-  "updatedAt": "2026-09-22T13:24:20.639Z",
+  "updatedAt": "2026-09-22T18:04:36.802Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -63,23 +63,6 @@
           "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
-          "subject": "Информационные элементы робототехнических систем",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У УЛК-13",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20320",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Моисеенко Максим Сергеевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/07/small/p130236.jpg?token_static=853100aed8d87443c55f9e0eb9dfc415"
-          }
-        },
-        {
-          "id": "7766-1-14:00-5",
-          "dayIndex": 1,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
           "subject": "Элементы функциональных устройств систем робототехники",
           "type": "lecture",
           "rawType": "Лекция",
@@ -93,7 +76,7 @@
           }
         },
         {
-          "id": "7766-1-15:40-6",
+          "id": "7766-1-15:40-5",
           "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -110,24 +93,7 @@
           }
         },
         {
-          "id": "7766-1-15:40-7",
-          "dayIndex": 1,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Элементы функциональных устройств систем робототехники",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У УЛК-13",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20320",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Моисеенко Максим Сергеевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/07/small/p130236.jpg?token_static=853100aed8d87443c55f9e0eb9dfc415"
-          }
-        },
-        {
-          "id": "7766-1-15:40-8",
+          "id": "7766-1-15:40-6",
           "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -239,7 +205,24 @@
           }
         },
         {
-          "id": "7766-2-17:20-6",
+          "id": "7766-2-15:40-6",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Элементы функциональных устройств систем робототехники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-13",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Моисеенко Максим Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/07/small/p130236.jpg?token_static=853100aed8d87443c55f9e0eb9dfc415"
+          }
+        },
+        {
+          "id": "7766-2-17:20-7",
           "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -256,7 +239,7 @@
           }
         },
         {
-          "id": "7766-2-19:00-7",
+          "id": "7766-2-19:00-8",
           "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -463,7 +446,24 @@
           }
         },
         {
-          "id": "7766-5-10:10-2",
+          "id": "7766-5-08:30-2",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Информационные элементы робототехнических систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-13",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Моисеенко Максим Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/07/small/p130236.jpg?token_static=853100aed8d87443c55f9e0eb9dfc415"
+          }
+        },
+        {
+          "id": "7766-5-10:10-3",
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -480,7 +480,7 @@
           }
         },
         {
-          "id": "7766-5-10:10-3",
+          "id": "7766-5-10:10-4",
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -497,7 +497,7 @@
           }
         },
         {
-          "id": "7766-5-11:50-4",
+          "id": "7766-5-11:50-5",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -514,7 +514,7 @@
           }
         },
         {
-          "id": "7766-5-11:50-5",
+          "id": "7766-5-11:50-6",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -531,7 +531,7 @@
           }
         },
         {
-          "id": "7766-5-14:00-6",
+          "id": "7766-5-14:00-7",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -548,7 +548,7 @@
           }
         },
         {
-          "id": "7766-5-14:00-7",
+          "id": "7766-5-14:00-8",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

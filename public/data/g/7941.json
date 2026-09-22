@@ -1,7 +1,7 @@
 {
   "groupId": "7941",
   "groupName": "12509-08",
-  "updatedAt": "2026-09-22T13:24:18.181Z",
+  "updatedAt": "2026-09-22T18:04:34.780Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -228,7 +228,10 @@
           "room": "Конгресс-Центр 307",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-08",
-          "weekParity": "up"
+          "weekParity": "up",
+          "teacher": {
+            "name": "Вайнт Никита"
+          }
         },
         {
           "id": "7941-3-11:50-4",
@@ -241,7 +244,10 @@
           "room": "У 435",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-08",
-          "weekParity": "down"
+          "weekParity": "down",
+          "teacher": {
+            "name": "Вайнт Никита"
+          }
         },
         {
           "id": "7941-3-14:00-5",
@@ -254,7 +260,11 @@
           "room": "Конгресс-Центр 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-08",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Андреев Кирилл Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128239.jpg?token_static=181cfcb6185f86a45a92e70dac84e40c"
+          }
         },
         {
           "id": "7941-3-15:40-6",
@@ -450,7 +460,10 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-08",
           "weekParity": "down",
-          "dateSpecific": "21.09"
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Вайнт Никита"
+          }
         },
         {
           "id": "7941-6-14:00-5",

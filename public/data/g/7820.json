@@ -1,7 +1,7 @@
 {
   "groupId": "7820",
   "groupName": "12515-02",
-  "updatedAt": "2026-09-22T13:24:18.643Z",
+  "updatedAt": "2026-09-22T18:04:35.035Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -199,7 +199,24 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7820-3-10:10-1",
+          "id": "7820-3-08:30-1",
+          "dayIndex": 3,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Физическая культура и спорт",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 107",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-02",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ефимов Виталий Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/03/24/small/p140415.jpg?token_static=319ace78c868ef14cd26a9014025ed7f"
+          }
+        },
+        {
+          "id": "7820-3-10:10-2",
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -216,7 +233,43 @@
           }
         },
         {
-          "id": "7820-3-11:50-2",
+          "id": "7820-3-10:10-3",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Линейная алгебра, Аналитическая геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 507",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-02",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Свиркина Лариса Анатольевна",
+            "id": "122619",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
+          }
+        },
+        {
+          "id": "7820-3-11:50-4",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Лабораторные работы по общей и неорганической химии",
+          "type": "lab",
+          "rawType": "Практическое занятие",
+          "room": "У 536(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-02",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Агапов Константин Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101436.jpg?token_static=c82ec886d50eb533db6ecd5bbc9a1a5c"
+          }
+        },
+        {
+          "id": "7820-3-11:50-5",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -376,7 +429,26 @@
       "dayIndex": 5,
       "lessons": [
         {
-          "id": "7820-5-10:10-1",
+          "id": "7820-5-08:30-1",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Общая и неорганическая химия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-02",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Трусов Валерий Иванович",
+            "id": "101208",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101208/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/15/small/p101208.jpg?token_static=48d2d4be94fc7a8e58a329b1b449f7db"
+          }
+        },
+        {
+          "id": "7820-5-10:10-2",
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -393,7 +465,7 @@
           }
         },
         {
-          "id": "7820-5-11:50-2",
+          "id": "7820-5-11:50-3",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -412,7 +484,7 @@
           }
         },
         {
-          "id": "7820-5-14:00-3",
+          "id": "7820-5-14:00-4",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -431,7 +503,7 @@
           }
         },
         {
-          "id": "7820-5-15:40-4",
+          "id": "7820-5-15:40-5",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
