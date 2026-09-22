@@ -1,7 +1,7 @@
 {
   "groupId": "7013",
   "groupName": "1380",
-  "updatedAt": "2026-09-22T07:41:53.322Z",
+  "updatedAt": "2026-09-22T13:24:07.916Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -54,10 +54,7 @@
           "groupName": "1380",
           "weekParity": "up",
           "teacher": {
-            "name": "Вишневский Леонид Иосифович",
-            "id": "123867",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/123867/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/06/small/p123867.jpg?token_static=cecbbd44160bd5a0c80440f28da4a900"
+            "name": "Кафедра гидроаэромеханики и морской акустики"
           }
         },
         {
@@ -149,7 +146,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "1380",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7013-2-10:10-2",
@@ -162,7 +162,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "1380",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7013-2-11:50-3",
@@ -175,7 +178,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "1380",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7013-2-14:00-4",
@@ -188,7 +194,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "1380",
-          "weekParity": "down"
+          "weekParity": "down",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         }
       ]
     },

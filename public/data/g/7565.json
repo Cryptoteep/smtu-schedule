@@ -1,7 +1,7 @@
 {
   "groupId": "7565",
   "groupName": "1411",
-  "updatedAt": "2026-09-22T07:41:54.041Z",
+  "updatedAt": "2026-09-22T13:24:07.736Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -298,7 +298,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "1411",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7565-4-10:10-2",
@@ -311,7 +314,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "1411",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         }
       ]
     },

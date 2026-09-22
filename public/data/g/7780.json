@@ -1,7 +1,7 @@
 {
   "groupId": "7780",
   "groupName": "20490",
-  "updatedAt": "2026-09-22T07:42:08.113Z",
+  "updatedAt": "2026-09-22T13:24:21.696Z",
   "days": [
     {
       "dayName": "Вторник",
@@ -218,25 +218,6 @@
             "name": "Акуленок Ирина Николаевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"
           }
-        },
-        {
-          "id": "7780-3-15:40-9",
-          "dayIndex": 3,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Защита информации",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У УЛК-06",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20490",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Гарькушев Александр Юрьевич",
-            "id": "122911",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
-          }
         }
       ]
     },
@@ -418,7 +399,24 @@
           }
         },
         {
-          "id": "7780-6-10:10-2",
+          "id": "7780-6-08:30-2",
+          "dayIndex": 6,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Инженерная психология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20490",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сидоренко Светлана Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
+          }
+        },
+        {
+          "id": "7780-6-10:10-3",
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -437,7 +435,7 @@
           }
         },
         {
-          "id": "7780-6-10:10-3",
+          "id": "7780-6-10:10-4",
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -455,7 +453,7 @@
           }
         },
         {
-          "id": "7780-6-11:50-4",
+          "id": "7780-6-11:50-5",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -474,7 +472,7 @@
           }
         },
         {
-          "id": "7780-6-11:50-5",
+          "id": "7780-6-11:50-6",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -492,7 +490,7 @@
           }
         },
         {
-          "id": "7780-6-14:00-6",
+          "id": "7780-6-14:00-7",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -511,7 +509,7 @@
           }
         },
         {
-          "id": "7780-6-14:00-7",
+          "id": "7780-6-14:00-8",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

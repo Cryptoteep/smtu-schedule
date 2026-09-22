@@ -1,7 +1,7 @@
 {
   "groupId": "7776",
   "groupName": "20450",
-  "updatedAt": "2026-09-22T07:42:07.807Z",
+  "updatedAt": "2026-09-22T13:24:21.322Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -25,20 +25,7 @@
           }
         },
         {
-          "id": "7776-1-14:00-2",
-          "dayIndex": 1,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Инженерная психология",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 319",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20450",
-          "weekParity": "up"
-        },
-        {
-          "id": "7776-1-15:40-3",
+          "id": "7776-1-15:40-2",
           "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -55,7 +42,7 @@
           }
         },
         {
-          "id": "7776-1-15:40-4",
+          "id": "7776-1-15:40-3",
           "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -72,7 +59,7 @@
           }
         },
         {
-          "id": "7776-1-17:20-5",
+          "id": "7776-1-17:20-4",
           "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -89,7 +76,7 @@
           }
         },
         {
-          "id": "7776-1-17:20-6",
+          "id": "7776-1-17:20-5",
           "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -109,7 +96,7 @@
           }
         },
         {
-          "id": "7776-1-19:00-7",
+          "id": "7776-1-19:00-6",
           "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -156,23 +143,6 @@
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Инженерная психология",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 438",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20450",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Сидоренко Светлана Анатольевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
-          }
-        },
-        {
-          "id": "7776-2-10:10-3",
-          "dayIndex": 2,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
           "subject": "Функциональное и логическое программирование",
           "type": "lecture",
           "rawType": "Лекция",
@@ -189,7 +159,7 @@
           }
         },
         {
-          "id": "7776-2-14:00-4",
+          "id": "7776-2-14:00-3",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -206,7 +176,7 @@
           }
         },
         {
-          "id": "7776-2-14:00-5",
+          "id": "7776-2-14:00-4",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -223,7 +193,7 @@
           }
         },
         {
-          "id": "7776-2-15:40-6",
+          "id": "7776-2-15:40-5",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -240,7 +210,7 @@
           }
         },
         {
-          "id": "7776-2-17:20-7",
+          "id": "7776-2-17:20-6",
           "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -513,7 +483,41 @@
       "dayIndex": 6,
       "lessons": [
         {
-          "id": "7776-6-11:50-1",
+          "id": "7776-6-08:30-1",
+          "dayIndex": 6,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Инженерная психология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сидоренко Светлана Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
+          }
+        },
+        {
+          "id": "7776-6-10:10-2",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Инженерная психология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сидоренко Светлана Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
+          }
+        },
+        {
+          "id": "7776-6-11:50-3",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,

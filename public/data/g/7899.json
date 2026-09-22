@@ -1,7 +1,7 @@
 {
   "groupId": "7899",
   "groupName": "12638-52",
-  "updatedAt": "2026-09-22T07:42:09.168Z",
+  "updatedAt": "2026-09-22T13:24:22.261Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -101,7 +101,10 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12638-52",
           "weekParity": "both",
-          "dateSpecific": "03.11"
+          "dateSpecific": "03.11",
+          "teacher": {
+            "name": "Кафедра иностранных языков"
+          }
         },
         {
           "id": "7899-2-17:20-2",
@@ -115,7 +118,10 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12638-52",
           "weekParity": "both",
-          "dateSpecific": "03.11"
+          "dateSpecific": "03.11",
+          "teacher": {
+            "name": "Кафедра иностранных языков"
+          }
         },
         {
           "id": "7899-2-19:00-3",
@@ -131,8 +137,7 @@
           "weekParity": "both",
           "dateSpecific": "8.09",
           "teacher": {
-            "name": "Смирнова Ольга Александровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/18/small/p122081.jpg?token_static=ee7fd0b30c811206d623577d4823de24"
+            "name": "Кафедра &quot;Инновационная экономика&quot;"
           }
         },
         {
@@ -149,8 +154,7 @@
           "weekParity": "both",
           "dateSpecific": "8.09",
           "teacher": {
-            "name": "Смирнова Ольга Александровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/18/small/p122081.jpg?token_static=ee7fd0b30c811206d623577d4823de24"
+            "name": "Кафедра &quot;Инновационная экономика&quot;"
           }
         }
       ]

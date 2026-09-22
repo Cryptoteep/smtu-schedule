@@ -1,7 +1,7 @@
 {
   "groupId": "7593",
   "groupName": "2270",
-  "updatedAt": "2026-09-22T07:41:58.239Z",
+  "updatedAt": "2026-09-22T13:24:11.710Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -92,7 +92,10 @@
           "room": "У Спортзал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "2270",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
         },
         {
           "id": "7593-1-17:20-6",
@@ -145,7 +148,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2270",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7593-2-10:10-2",
@@ -158,7 +164,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2270",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         }
       ]
     },
@@ -251,7 +260,10 @@
           "room": "А Спортзал",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2270",
-          "weekParity": "down"
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
         },
         {
           "id": "7593-3-15:40-6",
@@ -526,7 +538,10 @@
           "room": "У Спортзал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "2270",
-          "weekParity": "up"
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
         },
         {
           "id": "7593-6-10:10-2",

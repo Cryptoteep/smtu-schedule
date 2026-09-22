@@ -1,7 +1,7 @@
 {
   "groupId": "7739",
   "groupName": "10277",
-  "updatedAt": "2026-09-22T07:42:12.984Z",
+  "updatedAt": "2026-09-22T13:24:26.252Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -18,7 +18,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "10277",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7739-1-10:10-2",
@@ -31,7 +34,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "10277",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         }
       ]
     },
@@ -257,7 +263,10 @@
           "room": "У Спортзал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
-          "weekParity": "up"
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
         },
         {
           "id": "7739-4-14:00-2",
@@ -321,7 +330,10 @@
           "room": "У Спортзал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
-          "weekParity": "down"
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
         },
         {
           "id": "7739-4-17:20-6",
@@ -503,7 +515,10 @@
           "room": "У 314",
           "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
-          "weekParity": "up"
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра философии и социологии"
+          }
         },
         {
           "id": "7739-6-10:10-2",
@@ -516,7 +531,10 @@
           "room": "У 314",
           "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
-          "weekParity": "down"
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра философии и социологии"
+          }
         },
         {
           "id": "7739-6-11:50-3",
@@ -529,7 +547,10 @@
           "room": "У Спортзал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "10277",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
         }
       ]
     }

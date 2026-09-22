@@ -1,7 +1,7 @@
 {
   "groupId": "7738",
   "groupName": "10274",
-  "updatedAt": "2026-09-22T07:42:12.970Z",
+  "updatedAt": "2026-09-22T13:24:25.926Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -18,7 +18,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "10274",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7738-1-10:10-2",
@@ -31,7 +34,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "10274",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7738-1-14:00-3",
@@ -155,7 +161,7 @@
           "subject": "Экология",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 340(1)",
+          "room": "У 340(2)",
           "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "up",
@@ -174,7 +180,7 @@
           "subject": "Экология",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 340(2)",
+          "room": "У 340(1)",
           "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
           "weekParity": "up",
@@ -422,24 +428,9 @@
           "room": "У Спортзал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
-          "weekParity": "both"
-        },
-        {
-          "id": "7738-4-19:00-7",
-          "dayIndex": 4,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "24.09.2026 с 19 до 21 Молодежный яхт-клуб",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 154",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "10274",
           "weekParity": "both",
-          "dateSpecific": "24.09",
           "teacher": {
-            "name": "Агеев Дмитрий Викторович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/21/small/p100005.jpg?token_static=7797ef217f3fa2d77485bc7496014723"
+            "name": "Кафедра физического воспитания"
           }
         }
       ]
@@ -497,7 +488,10 @@
           "room": "У Спортзал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "10274",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
         },
         {
           "id": "7738-5-15:40-4",

@@ -1,0 +1,56 @@
+{
+  "teacherId": "Кафедра государственно-правовых дисциплин",
+  "teacherName": "Кафедра государственно-правовых дисциплин",
+  "updatedAt": "2026-09-22T13:24:28.757Z",
+  "totalLessons": 1,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7813-5-14:00-6",
+          "dayIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Актуальные проблемы политико-правовых теорий",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 304ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-52",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 12.10",
+          "teacher": {
+            "name": "Кафедра государственно-правовых дисциплин"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

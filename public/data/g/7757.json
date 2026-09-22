@@ -1,7 +1,7 @@
 {
   "groupId": "7757",
   "groupName": "20275",
-  "updatedAt": "2026-09-22T07:42:06.985Z",
+  "updatedAt": "2026-09-22T13:24:20.063Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -230,7 +230,10 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20275",
           "weekParity": "down",
-          "dateSpecific": "07.09 по 19.10"
+          "dateSpecific": "07.09 по 19.10",
+          "teacher": {
+            "name": "Кафедра философии и социологии"
+          }
         }
       ]
     },

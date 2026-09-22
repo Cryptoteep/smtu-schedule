@@ -2,8 +2,8 @@
   "teacherId": "Еремеева Дарья Дмитриевна",
   "teacherName": "Еремеева Дарья Дмитриевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p127344.jpg?token_static=fb97232ff487c8a37f6a93eb8fededeb",
-  "updatedAt": "2026-09-22T07:42:16.185Z",
-  "totalLessons": 21,
+  "updatedAt": "2026-09-22T13:24:28.593Z",
+  "totalLessons": 23,
   "days": [
     {
       "dayName": "Понедельник",
@@ -328,6 +328,40 @@
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "2490",
           "weekParity": "both",
+          "teacher": {
+            "name": "Еремеева Дарья Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p127344.jpg?token_static=fb97232ff487c8a37f6a93eb8fededeb"
+          }
+        },
+        {
+          "id": "7779-4-14:00-6",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Экономика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 503",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20480",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Еремеева Дарья Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p127344.jpg?token_static=fb97232ff487c8a37f6a93eb8fededeb"
+          }
+        },
+        {
+          "id": "7779-4-15:40-7",
+          "dayIndex": 4,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Экономика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 503",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20480",
+          "weekParity": "up",
           "teacher": {
             "name": "Еремеева Дарья Дмитриевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p127344.jpg?token_static=fb97232ff487c8a37f6a93eb8fededeb"

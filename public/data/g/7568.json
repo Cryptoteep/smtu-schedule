@@ -1,7 +1,7 @@
 {
   "groupId": "7568",
   "groupName": "1416",
-  "updatedAt": "2026-09-22T07:41:53.709Z",
+  "updatedAt": "2026-09-22T13:24:08.039Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -252,10 +252,7 @@
           "groupName": "1416",
           "weekParity": "both",
           "teacher": {
-            "name": "Дубинка Владимир Витальевич",
-            "id": "104364",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/104364/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/21/small/p104364.jpg?token_static=7cdd18b71313b7a65afe2c9f68ad117b"
+            "name": "Кафедра технологии судостроения"
           }
         },
         {
@@ -290,10 +287,7 @@
           "groupName": "1416",
           "weekParity": "down",
           "teacher": {
-            "name": "Дубинка Владимир Витальевич",
-            "id": "104364",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/104364/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/21/small/p104364.jpg?token_static=7cdd18b71313b7a65afe2c9f68ad117b"
+            "name": "Кафедра технологии судостроения"
           }
         },
         {
@@ -347,7 +341,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "1416",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7568-4-10:10-2",
@@ -360,7 +357,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "1416",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         }
       ]
     },

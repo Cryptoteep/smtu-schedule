@@ -1,0 +1,137 @@
+{
+  "teacherId": "Кафедра гражданско-правовых дисциплин",
+  "teacherName": "Кафедра гражданско-правовых дисциплин",
+  "updatedAt": "2026-09-22T13:24:28.750Z",
+  "totalLessons": 6,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7717-1-14:00-4",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Финансовое право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 01Ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7461",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра гражданско-правовых дисциплин"
+          }
+        },
+        {
+          "id": "7719-1-11:50-2",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Финансовое право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 01Ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7463",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра гражданско-правовых дисциплин"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7717-4-14:00-3",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Финансовое право",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7461, 7462, 7463",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра гражданско-правовых дисциплин"
+          }
+        },
+        {
+          "id": "7718-4-15:40-4",
+          "dayIndex": 4,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Финансовое право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 440",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7462",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра гражданско-правовых дисциплин"
+          }
+        },
+        {
+          "id": "7718-4-17:20-6",
+          "dayIndex": 4,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Финансовое право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 440",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7462",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра гражданско-правовых дисциплин"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7717-5-15:40-4",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Жилищное право",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7461, 7463",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра гражданско-правовых дисциплин"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

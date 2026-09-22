@@ -1,7 +1,7 @@
 {
   "groupId": "7748",
   "groupName": "20223",
-  "updatedAt": "2026-09-22T07:42:06.707Z",
+  "updatedAt": "2026-09-22T13:24:19.487Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -18,7 +18,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20223",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7748-1-10:10-2",
@@ -31,7 +34,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20223",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         }
       ]
     },
@@ -195,8 +201,8 @@
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Теория вероятностей и математическая статистика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "У 115",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20223",
@@ -217,7 +223,7 @@
           "subject": "Программирование",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 304",
+          "room": "У 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20223",
           "weekParity": "up",
@@ -244,37 +250,37 @@
           }
         },
         {
-          "id": "7748-3-10:10-4",
-          "dayIndex": 3,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Программирование",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 318",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20223",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Фатьков Тимур Васильевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/06/small/p134239.jpg?token_static=694c5177899da875156abdefbe3e8a53"
-          }
-        },
-        {
-          "id": "7748-3-11:50-5",
+          "id": "7748-3-11:50-4",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Программирование",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 318",
+          "room": "У 414",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20223",
-          "weekParity": "down",
+          "weekParity": "up",
           "teacher": {
             "name": "Фатьков Тимур Васильевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/06/small/p134239.jpg?token_static=694c5177899da875156abdefbe3e8a53"
+          }
+        },
+        {
+          "id": "7748-3-14:00-5",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информационная безопасность и защита информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-06",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20223",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Федорова Анастасия Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
           }
         }
       ]

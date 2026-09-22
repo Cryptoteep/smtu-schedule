@@ -1,7 +1,7 @@
 {
   "groupId": "7655",
   "groupName": "3425",
-  "updatedAt": "2026-09-22T07:42:04.891Z",
+  "updatedAt": "2026-09-22T13:24:16.872Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -39,8 +39,7 @@
           "groupName": "3425",
           "weekParity": "up",
           "teacher": {
-            "name": "Курносов Андрей Алексеевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/29/small/p100631.jpg?token_static=dd824566da6675ac7bc672dec0c83401"
+            "name": "Кафедра корабельных автоматизированных комплексов и информационно-управляющих систем"
           }
         },
         {
@@ -56,8 +55,7 @@
           "groupName": "3425",
           "weekParity": "up",
           "teacher": {
-            "name": "Курносов Андрей Алексеевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/29/small/p100631.jpg?token_static=dd824566da6675ac7bc672dec0c83401"
+            "name": "Кафедра корабельных автоматизированных комплексов и информационно-управляющих систем"
           }
         },
         {
@@ -134,7 +132,10 @@
           "room": "Г 216",
           "campus": "Горьковская (Корпус Г)",
           "groupName": "3425",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7655-2-10:10-2",
@@ -147,7 +148,10 @@
           "room": "Г 216",
           "campus": "Горьковская (Корпус Г)",
           "groupName": "3425",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7655-2-11:50-3",
@@ -160,7 +164,10 @@
           "room": "Г 216",
           "campus": "Горьковская (Корпус Г)",
           "groupName": "3425",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         }
       ]
     },

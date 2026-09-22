@@ -1,7 +1,7 @@
 {
   "groupId": "7586",
   "groupName": "2250",
-  "updatedAt": "2026-09-22T07:41:57.296Z",
+  "updatedAt": "2026-09-22T13:24:11.027Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -18,7 +18,10 @@
           "room": "А Спортзал",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2250",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
         },
         {
           "id": "7586-1-14:00-2",
@@ -31,7 +34,10 @@
           "room": "А 319",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2250",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра электротехники и электрооборудования судов"
+          }
         },
         {
           "id": "7586-1-15:40-3",
@@ -44,7 +50,10 @@
           "room": "А 319",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2250",
-          "weekParity": "up"
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра электротехники и электрооборудования судов"
+          }
         },
         {
           "id": "7586-1-15:40-4",
@@ -57,7 +66,10 @@
           "room": "А 319",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2250",
-          "weekParity": "down"
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра электротехники и электрооборудования судов"
+          }
         },
         {
           "id": "7586-1-17:20-5",
@@ -110,7 +122,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2250",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7586-2-10:10-2",
@@ -123,13 +138,42 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2250",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7586-3-08:30-1",
+          "dayIndex": 3,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 115",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2250",
+          "weekParity": "up",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Пак Элла Ефимовна",
+            "id": "123073",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc"
+          }
         },
         {
-          "id": "7586-2-14:00-3",
-          "dayIndex": 2,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
+          "id": "7586-3-08:30-2",
+          "dayIndex": 3,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
           "subject": "Теория вероятностей и математическая статистика",
           "type": "lecture",
           "rawType": "Лекция",
@@ -145,33 +189,7 @@
           }
         },
         {
-          "id": "7586-2-14:00-4",
-          "dayIndex": 2,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Теория вероятностей и математическая статистика",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 313",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "2250",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Пак Элла Ефимовна",
-            "id": "123073",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc"
-          }
-        }
-      ]
-    },
-    {
-      "dayName": "Среда",
-      "dayIndex": 3,
-      "lessons": [
-        {
-          "id": "7586-3-10:10-1",
+          "id": "7586-3-10:10-3",
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -190,7 +208,7 @@
           }
         },
         {
-          "id": "7586-3-10:10-2",
+          "id": "7586-3-10:10-4",
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -209,7 +227,7 @@
           }
         },
         {
-          "id": "7586-3-11:50-3",
+          "id": "7586-3-11:50-5",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -228,7 +246,7 @@
           }
         },
         {
-          "id": "7586-3-11:50-4",
+          "id": "7586-3-11:50-6",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -245,42 +263,6 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
           }
-        },
-        {
-          "id": "7586-3-14:00-5",
-          "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Теория вероятностей и математическая статистика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 150",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "2250",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Мавлютов Айдар Марселевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/03/small/142859.jpg?token_static=99b29fb7edbcbfb2e897d7733bbab92b"
-          }
-        },
-        {
-          "id": "7586-3-15:40-6",
-          "dayIndex": 3,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Теория вероятностей и математическая статистика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 150",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "2250",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Мавлютов Айдар Марселевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/03/small/142859.jpg?token_static=99b29fb7edbcbfb2e897d7733bbab92b"
-          }
         }
       ]
     },
@@ -296,13 +278,13 @@
           "subject": "Информационные технологии",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "А 517",
+          "room": "А 413",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2250",
           "weekParity": "both",
           "teacher": {
-            "name": "Кардакова Мария Владимировна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113895.jpg?token_static=1d8f08bfc448673b3f930e9bbddfc1d9"
+            "name": "Куприянов Дмитрий Олегович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p128882.jpg?token_static=5e44748c4db63195b0147d0621dba7a0"
           }
         },
         {
@@ -313,13 +295,13 @@
           "subject": "Информационные технологии",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "А 413",
+          "room": "А 517",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2250",
           "weekParity": "both",
           "teacher": {
-            "name": "Куприянов Дмитрий Олегович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p128882.jpg?token_static=5e44748c4db63195b0147d0621dba7a0"
+            "name": "Кардакова Мария Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113895.jpg?token_static=1d8f08bfc448673b3f930e9bbddfc1d9"
           }
         },
         {
@@ -407,8 +389,7 @@
           "groupName": "2250",
           "weekParity": "both",
           "teacher": {
-            "name": "Михальчук Андрей Васильевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123157.jpg?token_static=63488b3f2309f0745026e917d4fd1367"
+            "name": "Кафедра судовой автоматики и измерений"
           }
         }
       ]
@@ -479,7 +460,10 @@
           "room": "А Спортзал",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2250",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
         }
       ]
     },

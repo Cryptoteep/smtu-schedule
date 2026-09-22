@@ -1,7 +1,7 @@
 {
   "groupId": "7469",
   "groupName": "20371",
-  "updatedAt": "2026-09-22T07:42:07.470Z",
+  "updatedAt": "2026-09-22T13:24:20.555Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -437,15 +437,17 @@
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Электроника",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У УЛК-03",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20371",
           "weekParity": "up",
           "teacher": {
-            "name": "Гриценко Кристина Вадимовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3"
+            "name": "Ветров Борис Георгиевич",
+            "id": "100209",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100209/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/26/small/p100209.jpg?token_static=009872370c283ae287618e9ec0a5c72d"
           }
         },
         {
@@ -473,17 +475,15 @@
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Электроника",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 318",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-03",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20371",
-          "weekParity": "down",
+          "weekParity": "up",
           "teacher": {
-            "name": "Ветров Борис Георгиевич",
-            "id": "100209",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100209/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/26/small/p100209.jpg?token_static=009872370c283ae287618e9ec0a5c72d"
+            "name": "Гриценко Кристина Вадимовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3"
           }
         }
       ]

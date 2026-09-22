@@ -1,7 +1,7 @@
 {
   "groupId": "7785",
   "groupName": "12213-02",
-  "updatedAt": "2026-09-22T07:41:55.617Z",
+  "updatedAt": "2026-09-22T13:24:09.490Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -19,7 +19,10 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12213-02",
           "weekParity": "both",
-          "dateSpecific": "26.10 по 14.12"
+          "dateSpecific": "26.10 по 14.12",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
         },
         {
           "id": "7785-1-10:10-2",
@@ -327,10 +330,10 @@
           "groupName": "12213-02",
           "weekParity": "up",
           "teacher": {
-            "name": "Телегин Василий Валерьевич",
-            "id": "101173",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101173/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101173.jpg?token_static=752338f2386a125b0837a1a0228a4b50"
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
           }
         },
         {
@@ -346,10 +349,10 @@
           "groupName": "12213-02",
           "weekParity": "down",
           "teacher": {
-            "name": "Телегин Василий Валерьевич",
-            "id": "101173",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101173/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101173.jpg?token_static=752338f2386a125b0837a1a0228a4b50"
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
           }
         },
         {
@@ -365,10 +368,10 @@
           "groupName": "12213-02",
           "weekParity": "both",
           "teacher": {
-            "name": "Телегин Василий Валерьевич",
-            "id": "101173",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101173/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101173.jpg?token_static=752338f2386a125b0837a1a0228a4b50"
+            "name": "Столяров Андрей Сергеевич",
+            "id": "101147",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
           }
         }
       ]

@@ -1,7 +1,7 @@
 {
   "groupId": "7759",
   "groupName": "20280",
-  "updatedAt": "2026-09-22T07:42:07.104Z",
+  "updatedAt": "2026-09-22T13:24:20.293Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -18,7 +18,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20280",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7759-1-10:10-2",
@@ -31,7 +34,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20280",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         }
       ]
     },
@@ -116,11 +122,10 @@
           "subject": "Документоведение и конфиденциальное делопроизводство",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 438",
+          "room": "Конгресс-Центр 243",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20280",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Беляцкая Анастасия Станиславовна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
@@ -134,10 +139,11 @@
           "subject": "Документоведение и конфиденциальное делопроизводство",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 243",
+          "room": "У 438",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20280",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Беляцкая Анастасия Станиславовна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
@@ -162,10 +168,8 @@
           "groupName": "20280",
           "weekParity": "up",
           "teacher": {
-            "name": "Бунас Ирина Леонидовна",
-            "id": "123207",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/123207/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/17/small/p123207.jpg?token_static=cf17586d91e520ee75406fda4498fa5b"
+            "name": "Беляцкая Анастасия Станиславовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
           }
         },
         {
@@ -196,7 +200,7 @@
           "subject": "Документоведение и конфиденциальное делопроизводство",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 319а",
+          "room": "У 308",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20280",
           "weekParity": "up",

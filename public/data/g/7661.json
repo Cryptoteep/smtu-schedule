@@ -1,7 +1,7 @@
 {
   "groupId": "7661",
   "groupName": "3490",
-  "updatedAt": "2026-09-22T07:42:05.321Z",
+  "updatedAt": "2026-09-22T13:24:17.547Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -117,7 +117,10 @@
           "room": "Г 216",
           "campus": "Горьковская (Корпус Г)",
           "groupName": "3490",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7661-2-10:10-2",
@@ -130,7 +133,10 @@
           "room": "Г 216",
           "campus": "Горьковская (Корпус Г)",
           "groupName": "3490",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7661-2-11:50-3",
@@ -143,7 +149,10 @@
           "room": "Г 216",
           "campus": "Горьковская (Корпус Г)",
           "groupName": "3490",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         }
       ]
     },

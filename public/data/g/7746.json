@@ -1,7 +1,7 @@
 {
   "groupId": "7746",
   "groupName": "20221",
-  "updatedAt": "2026-09-22T07:42:06.656Z",
+  "updatedAt": "2026-09-22T13:24:19.452Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -18,7 +18,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20221",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7746-1-10:10-2",
@@ -31,7 +34,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20221",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         }
       ]
     },
@@ -206,21 +212,70 @@
           }
         },
         {
-          "id": "7746-3-19:00-3",
+          "id": "7746-3-10:10-3",
           "dayIndex": 3,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Учебное занятие молодежного яхт-клуба 23.09.2026.",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 212",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 307",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20221",
           "weekParity": "down",
-          "dateSpecific": "23.09",
           "teacher": {
-            "name": "Агеев Дмитрий Викторович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/21/small/p100005.jpg?token_static=7797ef217f3fa2d77485bc7496014723"
+            "name": "Савченко Анна Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041"
+          }
+        },
+        {
+          "id": "7746-3-11:50-4",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 439",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20221",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Савченко Анна Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041"
+          }
+        },
+        {
+          "id": "7746-3-11:50-5",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20221",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Савченко Анна Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041"
+          }
+        },
+        {
+          "id": "7746-3-14:00-6",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20221",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
           }
         }
       ]

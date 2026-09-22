@@ -1,7 +1,7 @@
 {
   "groupId": "7618",
   "groupName": "2494",
-  "updatedAt": "2026-09-22T07:42:00.274Z",
+  "updatedAt": "2026-09-22T13:24:13.272Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -117,8 +117,7 @@
           "groupName": "2494",
           "weekParity": "both",
           "teacher": {
-            "name": "Баглюк Юрий Васильевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/13/small/p122974.jpg?token_static=dce14fc82306cb531f010abd0e1bd962"
+            "name": "Кафедра судовой автоматики и измерений"
           }
         },
         {
@@ -151,8 +150,7 @@
           "groupName": "2494",
           "weekParity": "down",
           "teacher": {
-            "name": "Баглюк Юрий Васильевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/13/small/p122974.jpg?token_static=dce14fc82306cb531f010abd0e1bd962"
+            "name": "Кафедра судовой автоматики и измерений"
           }
         },
         {
@@ -345,7 +343,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2494",
-          "weekParity": "up"
+          "weekParity": "up",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7618-5-08:30-2",
@@ -358,7 +359,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2494",
-          "weekParity": "down"
+          "weekParity": "down",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7618-5-10:10-3",
@@ -371,7 +375,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2494",
-          "weekParity": "up"
+          "weekParity": "up",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7618-5-10:10-4",
@@ -384,7 +391,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2494",
-          "weekParity": "down"
+          "weekParity": "down",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7618-5-11:50-5",
@@ -397,7 +407,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2494",
-          "weekParity": "up"
+          "weekParity": "up",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7618-5-11:50-6",
@@ -410,7 +423,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2494",
-          "weekParity": "down"
+          "weekParity": "down",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7618-5-14:00-7",
@@ -423,7 +439,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2494",
-          "weekParity": "down"
+          "weekParity": "down",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "groupId": "7624",
   "groupName": "3210",
-  "updatedAt": "2026-09-22T07:42:02.294Z",
+  "updatedAt": "2026-09-22T13:24:14.757Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -130,7 +130,10 @@
           "room": "Г 216",
           "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7624-2-10:10-2",
@@ -143,7 +146,10 @@
           "room": "Г 216",
           "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7624-2-11:50-3",
@@ -156,7 +162,10 @@
           "room": "Г 216",
           "campus": "Горьковская (Корпус Г)",
           "groupName": "3210",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         }
       ]
     },
@@ -365,8 +374,7 @@
           "groupName": "3210",
           "weekParity": "up",
           "teacher": {
-            "name": "Телятник Сергей Георгиевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/02/06/small/p123467.jpg?token_static=1f48c01d0ea9e9d47fb78f52f00d704a"
+            "name": "Кафедра систем автоматического управления и бортовой вычислительной техники"
           }
         },
         {
@@ -382,8 +390,7 @@
           "groupName": "3210",
           "weekParity": "down",
           "teacher": {
-            "name": "Телятник Сергей Георгиевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/02/06/small/p123467.jpg?token_static=1f48c01d0ea9e9d47fb78f52f00d704a"
+            "name": "Кафедра систем автоматического управления и бортовой вычислительной техники"
           }
         },
         {
@@ -399,8 +406,7 @@
           "groupName": "3210",
           "weekParity": "up",
           "teacher": {
-            "name": "Телятник Сергей Георгиевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/02/06/small/p123467.jpg?token_static=1f48c01d0ea9e9d47fb78f52f00d704a"
+            "name": "Кафедра систем автоматического управления и бортовой вычислительной техники"
           }
         },
         {
@@ -416,8 +422,7 @@
           "groupName": "3210",
           "weekParity": "down",
           "teacher": {
-            "name": "Телятник Сергей Георгиевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/02/06/small/p123467.jpg?token_static=1f48c01d0ea9e9d47fb78f52f00d704a"
+            "name": "Кафедра систем автоматического управления и бортовой вычислительной техники"
           }
         },
         {

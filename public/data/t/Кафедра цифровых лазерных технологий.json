@@ -1,0 +1,71 @@
+{
+  "teacherId": "Кафедра цифровых лазерных технологий",
+  "teacherName": "Кафедра цифровых лазерных технологий",
+  "updatedAt": "2026-09-22T13:24:28.755Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7758-3-15:40-4",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технологии ремонта и восстановления изделий",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-15",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20278",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра цифровых лазерных технологий"
+          }
+        },
+        {
+          "id": "7758-3-17:20-5",
+          "dayIndex": 3,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технологии ремонта и восстановления изделий",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-15",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20278",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра цифровых лазерных технологий"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

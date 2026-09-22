@@ -1,7 +1,7 @@
 {
   "groupId": "7829",
   "groupName": "12126-33",
-  "updatedAt": "2026-09-22T07:41:48.677Z",
+  "updatedAt": "2026-09-22T13:24:05.701Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -35,7 +35,10 @@
           "room": "У 443",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-33",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра математики"
+          }
         },
         {
           "id": "7829-1-11:50-3",
@@ -145,8 +148,7 @@
           "groupName": "12126-33",
           "weekParity": "down",
           "teacher": {
-            "name": "Якупов Сергей Харисович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128433.jpg?token_static=ea7b1c60a6effb29e6aba9c09a680be5"
+            "name": "Кафедра вычислительной техники и информационных технологий"
           }
         }
       ]
@@ -204,7 +206,10 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-33",
           "weekParity": "both",
-          "dateSpecific": "28.10 по 16.12"
+          "dateSpecific": "28.10 по 16.12",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
         },
         {
           "id": "7829-3-11:50-4",
@@ -494,7 +499,10 @@
           "room": "У 161",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-33",
-          "weekParity": "up"
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра вычислительной техники и информационных технологий"
+          }
         },
         {
           "id": "7829-5-10:10-2",

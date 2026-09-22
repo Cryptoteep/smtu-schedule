@@ -1,7 +1,7 @@
 {
   "groupId": "7761",
   "groupName": "20291",
-  "updatedAt": "2026-09-22T07:42:07.188Z",
+  "updatedAt": "2026-09-22T13:24:19.981Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -18,7 +18,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20291",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7761-1-10:10-2",
@@ -31,7 +34,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20291",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         }
       ]
     },
@@ -136,63 +142,58 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7761-3-14:00-1",
+          "id": "7761-3-08:30-1",
           "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Технологии разработки информационных ресурсов",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 205-ИИТ",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 115",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20291",
-          "weekParity": "down",
+          "weekParity": "up",
           "dateSpecific": "21.09",
           "teacher": {
-            "name": "Горавнева Татьяна Сергеевна",
-            "id": "100281",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec"
+            "name": "Пак Элла Ефимовна",
+            "id": "123073",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc"
           }
         },
         {
-          "id": "7761-3-15:40-2",
+          "id": "7761-3-08:30-2",
           "dayIndex": 3,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Технологии разработки информационных ресурсов",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 436",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20291",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
+          "weekParity": "up",
           "teacher": {
-            "name": "Горавнева Татьяна Сергеевна",
-            "id": "100281",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec"
+            "name": "Пак Элла Ефимовна",
+            "id": "123073",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc"
           }
         },
         {
-          "id": "7761-3-17:20-3",
+          "id": "7761-3-11:50-3",
           "dayIndex": 3,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Технологии разработки информационных ресурсов",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт (элективная)",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 202-ИИТ",
+          "room": "У Спортзал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20291",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
+          "weekParity": "both",
           "teacher": {
-            "name": "Горавнева Татьяна Сергеевна",
-            "id": "100281",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec"
+            "name": "Кафедра физического воспитания"
           }
         }
       ]

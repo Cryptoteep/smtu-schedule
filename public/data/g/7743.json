@@ -1,7 +1,7 @@
 {
   "groupId": "7743",
   "groupName": "20200",
-  "updatedAt": "2026-09-22T07:42:06.456Z",
+  "updatedAt": "2026-09-22T13:24:19.077Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -18,7 +18,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20200",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7743-1-10:10-2",
@@ -31,7 +34,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20200",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         }
       ]
     },
@@ -85,7 +91,7 @@
           "subject": "Философия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 440",
+          "room": "У 209",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20200",
           "weekParity": "down",
@@ -121,11 +127,10 @@
           "subject": "Программирование для ЭВМ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 439",
+          "room": "Конгресс-Центр 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20200",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Глускер Михаил Яковлевич",
             "id": "122623",
@@ -141,10 +146,11 @@
           "subject": "Программирование для ЭВМ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр 318",
+          "room": "У 439",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20200",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Глускер Михаил Яковлевич",
             "id": "122623",

@@ -1,0 +1,136 @@
+{
+  "teacherId": "Кафедра &quot;Медицинской техники и робототехники&quot;",
+  "teacherName": "Кафедра &quot;Медицинской техники и робототехники&quot;",
+  "updatedAt": "2026-09-22T13:24:28.758Z",
+  "totalLessons": 6,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7843-2-15:40-1",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория эксперимента в исследованиях систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "12815-55",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра &quot;Медицинской техники и робототехники&quot;"
+          }
+        },
+        {
+          "id": "7843-2-15:40-2",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Управление проектами и инновациями",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "12815-55",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра &quot;Медицинской техники и робототехники&quot;"
+          }
+        },
+        {
+          "id": "7843-2-17:20-3",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Теория эксперимента в исследованиях систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "12815-55",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра &quot;Медицинской техники и робототехники&quot;"
+          }
+        },
+        {
+          "id": "7843-2-17:20-4",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Управление проектами и инновациями",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "12815-55",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра &quot;Медицинской техники и робототехники&quot;"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7843-5-15:40-1",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Методы принятия решений в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "12815-55",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра &quot;Медицинской техники и робототехники&quot;"
+          }
+        },
+        {
+          "id": "7843-5-15:40-2",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Методы принятия решений в профессиональной деятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 509",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "12815-55",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра &quot;Медицинской техники и робототехники&quot;"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

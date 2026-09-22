@@ -1,7 +1,7 @@
 {
   "groupId": "7881",
   "groupName": "12829-01",
-  "updatedAt": "2026-09-22T07:42:14.072Z",
+  "updatedAt": "2026-09-22T13:24:26.932Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -340,7 +340,10 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12829-01",
           "weekParity": "both",
-          "dateSpecific": "09.10"
+          "dateSpecific": "09.10",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
         },
         {
           "id": "7881-5-10:10-2",

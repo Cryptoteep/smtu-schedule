@@ -2,8 +2,8 @@
   "teacherId": "Козирацкая Карина Константиновна",
   "teacherName": "Козирацкая Карина Константиновна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4",
-  "updatedAt": "2026-09-22T07:42:16.164Z",
-  "totalLessons": 21,
+  "updatedAt": "2026-09-22T13:24:28.540Z",
+  "totalLessons": 23,
   "days": [
     {
       "dayName": "Понедельник",
@@ -259,7 +259,42 @@
     {
       "dayName": "Четверг",
       "dayIndex": 4,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7787-4-15:40-2",
+          "dayIndex": 4,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12215-05",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Козирацкая Карина Константиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
+          }
+        },
+        {
+          "id": "7787-4-17:20-3",
+          "dayIndex": 4,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12215-05",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Козирацкая Карина Константиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
+          }
+        }
+      ]
     },
     {
       "dayName": "Пятница",

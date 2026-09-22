@@ -1,7 +1,7 @@
 {
   "groupId": "7882",
   "groupName": "1302",
-  "updatedAt": "2026-09-22T07:41:52.162Z",
+  "updatedAt": "2026-09-22T13:24:06.884Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -37,7 +37,10 @@
           "room": "Б 414",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "1302",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра технологии судостроения"
+          }
         },
         {
           "id": "7882-1-19:00-3",
@@ -50,7 +53,10 @@
           "room": "Б 414",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "1302",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра технологии судостроения"
+          }
         },
         {
           "id": "7882-1-20:40-4",
@@ -103,7 +109,10 @@
           "room": "Б 414",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "1302",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра технологии судостроения"
+          }
         },
         {
           "id": "7882-2-19:00-3",
@@ -116,7 +125,10 @@
           "room": "Б 414",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "1302",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра технологии судостроения"
+          }
         },
         {
           "id": "7882-2-20:40-4",

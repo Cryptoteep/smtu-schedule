@@ -1,7 +1,7 @@
 {
   "groupId": "7765",
   "groupName": "20313",
-  "updatedAt": "2026-09-22T07:42:07.253Z",
+  "updatedAt": "2026-09-22T13:24:20.585Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -77,7 +77,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20313",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7765-2-10:10-2",
@@ -90,7 +93,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20313",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7765-2-11:50-3",
@@ -103,7 +109,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20313",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7765-2-14:00-4",
@@ -135,7 +144,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20313",
-          "weekParity": "down"
+          "weekParity": "down",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7765-2-19:00-6",
@@ -421,8 +433,7 @@
           "weekParity": "down",
           "dateSpecific": "21.09",
           "teacher": {
-            "name": "Деулин Андрей Викторович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100332.jpg?token_static=5e220d85b97aa12c3b7137b39d46d30b"
+            "name": "Кафедра вычислительной техники и информационных технологий"
           }
         },
         {
@@ -439,8 +450,7 @@
           "weekParity": "down",
           "dateSpecific": "21.09",
           "teacher": {
-            "name": "Деулин Андрей Викторович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100332.jpg?token_static=5e220d85b97aa12c3b7137b39d46d30b"
+            "name": "Кафедра вычислительной техники и информационных технологий"
           }
         }
       ]

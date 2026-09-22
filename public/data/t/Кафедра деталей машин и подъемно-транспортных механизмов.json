@@ -1,0 +1,55 @@
+{
+  "teacherId": "Кафедра деталей машин и подъемно-транспортных механизмов",
+  "teacherName": "Кафедра деталей машин и подъемно-транспортных механизмов",
+  "updatedAt": "2026-09-22T13:24:28.755Z",
+  "totalLessons": 1,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7755-2-11:50-6",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Детали машин",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 518",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра деталей машин и подъемно-транспортных механизмов"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

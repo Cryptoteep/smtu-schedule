@@ -3,8 +3,8 @@
   "teacherName": "Евграфова Ирина Владимировна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100356/",
-  "updatedAt": "2026-09-22T07:42:16.132Z",
-  "totalLessons": 35,
+  "updatedAt": "2026-09-22T13:24:28.485Z",
+  "totalLessons": 36,
   "days": [
     {
       "dayName": "Понедельник",
@@ -424,7 +424,7 @@
           }
         },
         {
-          "id": "7747-3-11:50-3",
+          "id": "7747-3-11:50-4",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -434,6 +434,25 @@
           "room": "У 450",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20222",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Евграфова Ирина Владимировна",
+            "id": "100356",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100356/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
+          }
+        },
+        {
+          "id": "7760-3-14:00-5",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 421",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20290",
           "weekParity": "up",
           "teacher": {
             "name": "Евграфова Ирина Владимировна",

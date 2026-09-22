@@ -1,7 +1,7 @@
 {
   "groupId": "7449",
   "groupName": "4204",
-  "updatedAt": "2026-09-22T07:42:09.534Z",
+  "updatedAt": "2026-09-22T13:24:22.537Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -18,7 +18,10 @@
           "room": "А Спортзал",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "4204",
-          "weekParity": "up"
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
         },
         {
           "id": "7449-1-08:30-2",
@@ -126,7 +129,10 @@
           "room": "У Спортзал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "4204",
-          "weekParity": "down"
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
         }
       ]
     },
@@ -339,7 +345,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "4204",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7449-4-10:10-2",
@@ -352,7 +361,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "4204",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         }
       ]
     },
@@ -450,7 +462,10 @@
           "room": "У Спортзал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "4204",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
         },
         {
           "id": "7449-6-10:10-2",
@@ -463,7 +478,10 @@
           "room": "У каф.ИЯ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "4204",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра иностранных языков"
+          }
         },
         {
           "id": "7449-6-11:50-3",
@@ -476,7 +494,10 @@
           "room": "У каф.ИЯ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "4204",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра иностранных языков"
+          }
         }
       ]
     }

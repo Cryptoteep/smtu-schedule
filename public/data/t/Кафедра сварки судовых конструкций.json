@@ -1,0 +1,202 @@
+{
+  "teacherId": "Кафедра сварки судовых конструкций",
+  "teacherName": "Кафедра сварки судовых конструкций",
+  "updatedAt": "2026-09-22T13:24:28.755Z",
+  "totalLessons": 10,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7880-1-19:00-1",
+          "dayIndex": 1,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Технология роботизированного производства",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 410",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20575",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра сварки судовых конструкций"
+          }
+        },
+        {
+          "id": "7918-1-10:10-1",
+          "dayIndex": 1,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Сварка судовых конструкций",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ НПК207",
+          "campus": "СПбГМТУ",
+          "groupName": "1431",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра сварки судовых конструкций"
+          }
+        },
+        {
+          "id": "7918-1-10:10-2",
+          "dayIndex": 1,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Сварка судовых конструкций",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ НПК207",
+          "campus": "СПбГМТУ",
+          "groupName": "1431",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра сварки судовых конструкций"
+          }
+        },
+        {
+          "id": "7918-1-11:50-3",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Сварка судовых конструкций",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ НПК207",
+          "campus": "СПбГМТУ",
+          "groupName": "1431",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра сварки судовых конструкций"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7880-2-19:00-2",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Технология сварки конструкционных материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20575",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра сварки судовых конструкций"
+          }
+        },
+        {
+          "id": "7880-2-20:40-3",
+          "dayIndex": 2,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Технология сварки конструкционных материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20575",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра сварки судовых конструкций"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7879-4-20:40-4",
+          "dayIndex": 4,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Тепловые основы сварки",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20375",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра сварки судовых конструкций"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7777-6-10:10-1",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Расчет и проектирование сварных конструкций",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра сварки судовых конструкций"
+          }
+        },
+        {
+          "id": "7777-6-11:50-3",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Расчет и проектирование сварных конструкций",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра сварки судовых конструкций"
+          }
+        },
+        {
+          "id": "7777-6-14:00-5",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Расчет и проектирование сварных конструкций",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра сварки судовых конструкций"
+          }
+        }
+      ]
+    }
+  ]
+}

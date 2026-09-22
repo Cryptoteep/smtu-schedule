@@ -1,7 +1,7 @@
 {
   "groupId": "7897",
   "groupName": "12638-50",
-  "updatedAt": "2026-09-22T07:42:08.977Z",
+  "updatedAt": "2026-09-22T13:24:22.313Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -393,7 +393,10 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12638-50",
           "weekParity": "both",
-          "dateSpecific": "12.09 по 31.10"
+          "dateSpecific": "12.09 по 31.10",
+          "teacher": {
+            "name": "Кафедра иностранных языков"
+          }
         },
         {
           "id": "7897-6-14:00-4",
@@ -407,7 +410,10 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12638-50",
           "weekParity": "both",
-          "dateSpecific": "12.09 по 31.10"
+          "dateSpecific": "12.09 по 31.10",
+          "teacher": {
+            "name": "Кафедра иностранных языков"
+          }
         }
       ]
     }

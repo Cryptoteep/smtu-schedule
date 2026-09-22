@@ -1,7 +1,7 @@
 {
   "groupId": "7506",
   "groupName": "20420",
-  "updatedAt": "2026-09-22T07:42:07.805Z",
+  "updatedAt": "2026-09-22T13:24:21.262Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -189,25 +189,8 @@
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Методы искусственного интеллекта и машинное обучение",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 318",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20420",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Кайнова Татьяна Денисовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p106561.jpg?token_static=5d5e274a03861a0352c1c0592f368171"
-          }
-        },
-        {
-          "id": "7506-2-17:20-7",
-          "dayIndex": 2,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Методы искусственного интеллекта и машинное обучение",
-          "type": "practice",
-          "rawType": "Практическое занятие",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
           "room": "У 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20420",
@@ -456,23 +439,6 @@
         },
         {
           "id": "7506-4-14:00-7",
-          "dayIndex": 4,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Методы искусственного интеллекта и машинное обучение",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 318",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20420",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Кайнова Татьяна Денисовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p106561.jpg?token_static=5d5e274a03861a0352c1c0592f368171"
-          }
-        },
-        {
-          "id": "7506-4-14:00-8",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

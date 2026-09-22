@@ -1,25 +1,25 @@
 {
   "groupId": "7676",
   "groupName": "4262",
-  "updatedAt": "2026-09-22T07:42:10.266Z",
+  "updatedAt": "2026-09-22T13:24:23.177Z",
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
       "lessons": [
         {
-          "id": "7676-1-17:20-1",
+          "id": "7676-1-14:00-1",
           "dayIndex": 1,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
           "subject": "Корпоративные финансы",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Б 508",
-          "campus": "Лоцманская (Корпус Б)",
+          "room": "М 12",
+          "campus": "Псковская (Корпус М)",
           "groupName": "4262",
-          "weekParity": "both",
-          "dateSpecific": "02.11 по 21.12",
+          "weekParity": "up",
+          "dateSpecific": "28.09 по 07.12",
           "teacher": {
             "name": "Ткачук Наталья Викторовна",
             "id": "122749",
@@ -28,7 +28,67 @@
           }
         },
         {
-          "id": "7676-1-17:20-2",
+          "id": "7676-1-14:00-2",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Мировые финансовые рынки",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 12",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4262",
+          "weekParity": "both",
+          "dateSpecific": "21.12",
+          "teacher": {
+            "name": "Ткачук Наталья Викторовна",
+            "id": "122749",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122749/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/08/small/p122749.jpg?token_static=f00ba7dba205e5cb1bdfddf9ef8c4bc3"
+          }
+        },
+        {
+          "id": "7676-1-15:40-3",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Корпоративные финансы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 12",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4262",
+          "weekParity": "up",
+          "dateSpecific": "28.09 по 07.12",
+          "teacher": {
+            "name": "Ткачук Наталья Викторовна",
+            "id": "122749",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122749/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/08/small/p122749.jpg?token_static=f00ba7dba205e5cb1bdfddf9ef8c4bc3"
+          }
+        },
+        {
+          "id": "7676-1-15:40-4",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Мировые финансовые рынки",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 12",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4262",
+          "weekParity": "both",
+          "dateSpecific": "21.12",
+          "teacher": {
+            "name": "Ткачук Наталья Викторовна",
+            "id": "122749",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122749/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/08/small/p122749.jpg?token_static=f00ba7dba205e5cb1bdfddf9ef8c4bc3"
+          }
+        },
+        {
+          "id": "7676-1-17:20-5",
           "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -48,7 +108,67 @@
           }
         },
         {
-          "id": "7676-1-19:00-3",
+          "id": "7676-1-17:20-6",
+          "dayIndex": 1,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Мировые финансовые рынки",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 12",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4262",
+          "weekParity": "both",
+          "dateSpecific": "14.12 по 21.12",
+          "teacher": {
+            "name": "Ткачук Наталья Викторовна",
+            "id": "122749",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122749/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/08/small/p122749.jpg?token_static=f00ba7dba205e5cb1bdfddf9ef8c4bc3"
+          }
+        },
+        {
+          "id": "7676-1-17:20-7",
+          "dayIndex": 1,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Корпоративные финансы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 12",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4262",
+          "weekParity": "both",
+          "dateSpecific": "02.11 по 07.12",
+          "teacher": {
+            "name": "Ткачук Наталья Викторовна",
+            "id": "122749",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122749/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/08/small/p122749.jpg?token_static=f00ba7dba205e5cb1bdfddf9ef8c4bc3"
+          }
+        },
+        {
+          "id": "7676-1-19:00-8",
+          "dayIndex": 1,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Корпоративные финансы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 12",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4262",
+          "weekParity": "both",
+          "dateSpecific": "02.11 по 07.12",
+          "teacher": {
+            "name": "Ткачук Наталья Викторовна",
+            "id": "122749",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122749/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/08/small/p122749.jpg?token_static=f00ba7dba205e5cb1bdfddf9ef8c4bc3"
+          }
+        },
+        {
+          "id": "7676-1-19:00-9",
           "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -68,38 +188,18 @@
           }
         },
         {
-          "id": "7676-1-19:00-4",
+          "id": "7676-1-19:00-10",
           "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
-          "subject": "Корпоративные финансы",
+          "subject": "Мировые финансовые рынки",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Б 508",
-          "campus": "Лоцманская (Корпус Б)",
+          "room": "М 12",
+          "campus": "Псковская (Корпус М)",
           "groupName": "4262",
           "weekParity": "both",
-          "dateSpecific": "02.11 по 21.12",
-          "teacher": {
-            "name": "Ткачук Наталья Викторовна",
-            "id": "122749",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122749/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/08/small/p122749.jpg?token_static=f00ba7dba205e5cb1bdfddf9ef8c4bc3"
-          }
-        },
-        {
-          "id": "7676-1-20:40-5",
-          "dayIndex": 1,
-          "time": "20:40-22:10",
-          "timeSlotIndex": 6,
-          "subject": "Корпоративные финансы",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Б 508",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "4262",
-          "weekParity": "both",
-          "dateSpecific": "02.11 по 21.12",
+          "dateSpecific": "14.12 по 21.12",
           "teacher": {
             "name": "Ткачук Наталья Викторовна",
             "id": "122749",

@@ -1,7 +1,7 @@
 {
   "groupId": "7768",
   "groupName": "20350",
-  "updatedAt": "2026-09-22T07:42:07.468Z",
+  "updatedAt": "2026-09-22T13:24:20.502Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -18,7 +18,10 @@
           "room": "У ВУЦ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20350",
-          "weekParity": "down"
+          "weekParity": "down",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7768-1-14:00-2",
@@ -229,8 +232,7 @@
           "groupName": "20350",
           "weekParity": "up",
           "teacher": {
-            "name": "Карышев Игорь Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/12/03/small/p112387.jpg?token_static=c03f98d3b985dc353cfa990636511961"
+            "name": "Кафедра вычислительной техники и информационных технологий"
           }
         },
         {
@@ -263,8 +265,7 @@
           "groupName": "20350",
           "weekParity": "up",
           "teacher": {
-            "name": "Карышев Игорь Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/12/03/small/p112387.jpg?token_static=c03f98d3b985dc353cfa990636511961"
+            "name": "Кафедра вычислительной техники и информационных технологий"
           }
         }
       ]

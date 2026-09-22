@@ -1,7 +1,7 @@
 {
   "groupId": "7755",
   "groupName": "20271",
-  "updatedAt": "2026-09-22T07:42:06.936Z",
+  "updatedAt": "2026-09-22T13:24:19.917Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -18,7 +18,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20271",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         },
         {
           "id": "7755-1-10:10-2",
@@ -31,7 +34,10 @@
           "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20271",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
         }
       ]
     },
@@ -137,8 +143,7 @@
           "groupName": "20271",
           "weekParity": "down",
           "teacher": {
-            "name": "Протасов Алексей Вячеславович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/03/small/p126851.jpg?token_static=ba7785d7b0057e0db276340b78bf6a1e"
+            "name": "Кафедра деталей машин и подъемно-транспортных механизмов"
           }
         }
       ]

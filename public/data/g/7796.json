@@ -1,7 +1,7 @@
 {
   "groupId": "7796",
   "groupName": "12740-01",
-  "updatedAt": "2026-09-22T07:42:11.567Z",
+  "updatedAt": "2026-09-22T13:24:24.342Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -197,7 +197,10 @@
           "room": "У каф.ИЯ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12740-01",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра иностранных языков"
+          }
         },
         {
           "id": "7796-2-11:50-4",
@@ -251,7 +254,10 @@
           "room": "У каф.ИЯ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12740-01",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра иностранных языков"
+          }
         },
         {
           "id": "7796-3-14:00-2",
@@ -436,7 +442,10 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12740-01",
           "weekParity": "down",
-          "dateSpecific": "06.10"
+          "dateSpecific": "06.10",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
         },
         {
           "id": "7796-5-11:50-2",

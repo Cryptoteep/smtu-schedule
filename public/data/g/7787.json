@@ -1,7 +1,7 @@
 {
   "groupId": "7787",
   "groupName": "12215-05",
-  "updatedAt": "2026-09-22T07:41:55.888Z",
+  "updatedAt": "2026-09-22T13:24:09.683Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -39,7 +39,10 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12215-05",
           "weekParity": "both",
-          "dateSpecific": "26.10 по 14.12"
+          "dateSpecific": "26.10 по 14.12",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
         },
         {
           "id": "7787-1-11:50-3",
@@ -319,10 +322,8 @@
           "groupName": "12215-05",
           "weekParity": "up",
           "teacher": {
-            "name": "Столяров Андрей Сергеевич",
-            "id": "101147",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+            "name": "Минин Максим Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p130347.jpg?token_static=99e337925833409623025853d6963cd3"
           }
         },
         {
@@ -338,10 +339,8 @@
           "groupName": "12215-05",
           "weekParity": "down",
           "teacher": {
-            "name": "Столяров Андрей Сергеевич",
-            "id": "101147",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+            "name": "Козирацкая Карина Константиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
           }
         },
         {
@@ -357,10 +356,8 @@
           "groupName": "12215-05",
           "weekParity": "both",
           "teacher": {
-            "name": "Столяров Андрей Сергеевич",
-            "id": "101147",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101147/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101147.jpg?token_static=759627d678e90cf735f677e5b85fd782"
+            "name": "Козирацкая Карина Константиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
           }
         }
       ]
