@@ -3,8 +3,8 @@
   "teacherName": "Сегаль Ирина Фридриховна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101045.jpg?token_static=6022d087974e1b759c0d1084f6153a41",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101045/",
-  "updatedAt": "2026-09-23T07:44:38.375Z",
-  "totalLessons": 11,
+  "updatedAt": "2026-09-23T13:38:08.607Z",
+  "totalLessons": 12,
   "days": [
     {
       "dayName": "Понедельник",
@@ -86,6 +86,25 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "4205",
           "weekParity": "both",
+          "teacher": {
+            "name": "Сегаль Ирина Фридриховна",
+            "id": "101045",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101045/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101045.jpg?token_static=6022d087974e1b759c0d1084f6153a41"
+          }
+        },
+        {
+          "id": "7745-3-15:40-4",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 313",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20220",
+          "weekParity": "down",
           "teacher": {
             "name": "Сегаль Ирина Фридриховна",
             "id": "101045",

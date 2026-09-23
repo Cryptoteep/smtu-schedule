@@ -2,8 +2,8 @@
   "teacherId": "Шестаков Михаил Николаевич",
   "teacherName": "Шестаков Михаил Николаевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/29/small/p126417.jpg?token_static=573c19622435f93a73655ad0fa4d26f5",
-  "updatedAt": "2026-09-23T07:44:38.373Z",
-  "totalLessons": 12,
+  "updatedAt": "2026-09-23T13:38:08.605Z",
+  "totalLessons": 13,
   "days": [
     {
       "dayName": "Понедельник",
@@ -157,6 +157,23 @@
           "id": "7767-4-11:50-4",
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
+          "subject": "ЭВМ и периферийные устройства",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20321",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шестаков Михаил Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/29/small/p126417.jpg?token_static=573c19622435f93a73655ad0fa4d26f5"
+          }
+        },
+        {
+          "id": "7767-4-17:20-8",
+          "dayIndex": 4,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
           "subject": "ЭВМ и периферийные устройства",
           "type": "lab",
           "rawType": "Лабораторное занятие",

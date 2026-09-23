@@ -2,8 +2,8 @@
   "teacherId": "Акуленок Ирина Николаевна",
   "teacherName": "Акуленок Ирина Николаевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7",
-  "updatedAt": "2026-09-23T07:44:38.385Z",
-  "totalLessons": 34,
+  "updatedAt": "2026-09-23T13:38:08.627Z",
+  "totalLessons": 35,
   "days": [
     {
       "dayName": "Понедельник",
@@ -517,6 +517,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20490",
           "weekParity": "down",
+          "teacher": {
+            "name": "Акуленок Ирина Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"
+          }
+        },
+        {
+          "id": "7773-4-11:50-3",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Сети и телекоммуникации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20402",
+          "weekParity": "up",
           "teacher": {
             "name": "Акуленок Ирина Николаевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"

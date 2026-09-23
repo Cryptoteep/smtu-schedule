@@ -2,8 +2,8 @@
   "teacherId": "Кайнова Татьяна Денисовна",
   "teacherName": "Кайнова Татьяна Денисовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p106561.jpg?token_static=5d5e274a03861a0352c1c0592f368171",
-  "updatedAt": "2026-09-23T07:44:38.385Z",
-  "totalLessons": 14,
+  "updatedAt": "2026-09-23T13:38:08.627Z",
+  "totalLessons": 16,
   "days": [
     {
       "dayName": "Понедельник",
@@ -206,6 +206,40 @@
           "room": "У 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20420",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кайнова Татьяна Денисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p106561.jpg?token_static=5d5e274a03861a0352c1c0592f368171"
+          }
+        },
+        {
+          "id": "7745-4-08:30-1",
+          "dayIndex": 4,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20220",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кайнова Татьяна Денисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p106561.jpg?token_static=5d5e274a03861a0352c1c0592f368171"
+          }
+        },
+        {
+          "id": "7745-4-14:00-5",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информационные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20220",
           "weekParity": "up",
           "teacher": {
             "name": "Кайнова Татьяна Денисовна",

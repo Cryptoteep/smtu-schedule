@@ -3,8 +3,8 @@
   "teacherName": "Семенова-Тян-Шанская Вера Александровна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
-  "updatedAt": "2026-09-23T07:44:38.373Z",
-  "totalLessons": 19,
+  "updatedAt": "2026-09-23T13:38:08.605Z",
+  "totalLessons": 21,
   "days": [
     {
       "dayName": "Понедельник",
@@ -258,6 +258,44 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20290",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Семенова-Тян-Шанская Вера Александровна",
+            "id": "101056",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9"
+          }
+        },
+        {
+          "id": "7748-4-14:00-7",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 439",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20223, 20290",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Семенова-Тян-Шанская Вера Александровна",
+            "id": "101056",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9"
+          }
+        },
+        {
+          "id": "7760-4-11:50-5",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20290",
           "weekParity": "down",

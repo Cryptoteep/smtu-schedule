@@ -1,7 +1,7 @@
 {
   "groupId": "7767",
   "groupName": "20321",
-  "updatedAt": "2026-09-23T07:44:31.370Z",
+  "updatedAt": "2026-09-23T13:37:59.485Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -385,17 +385,17 @@
           }
         },
         {
-          "id": "7767-4-10:10-2",
+          "id": "7767-4-11:50-2",
           "dayIndex": 4,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
           "subject": "ЭВМ и периферийные устройства",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "У 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20321",
-          "weekParity": "down",
+          "weekParity": "up",
           "teacher": {
             "name": "Шестаков Михаил Николаевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/29/small/p126417.jpg?token_static=573c19622435f93a73655ad0fa4d26f5"
@@ -407,23 +407,6 @@
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "ЭВМ и периферийные устройства",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 318",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20321",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Шестаков Михаил Николаевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/29/small/p126417.jpg?token_static=573c19622435f93a73655ad0fa4d26f5"
-          }
-        },
-        {
-          "id": "7767-4-11:50-4",
-          "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "ЭВМ и периферийные устройства",
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 318",
@@ -436,7 +419,7 @@
           }
         },
         {
-          "id": "7767-4-14:00-5",
+          "id": "7767-4-14:00-4",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -453,7 +436,7 @@
           }
         },
         {
-          "id": "7767-4-14:00-6",
+          "id": "7767-4-14:00-5",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -464,6 +447,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20321",
           "weekParity": "down",
+          "teacher": {
+            "name": "Моисеев Илья Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107668.jpg?token_static=cc6d2602d86c6382697c2928afb128bd"
+          }
+        },
+        {
+          "id": "7767-4-15:40-6",
+          "dayIndex": 4,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информационные технологии в прогнозировании и экспертизе",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20321",
+          "weekParity": "up",
           "teacher": {
             "name": "Моисеев Илья Сергеевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107668.jpg?token_static=cc6d2602d86c6382697c2928afb128bd"
@@ -475,23 +475,6 @@
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Информационные технологии в прогнозировании и экспертизе",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 319",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20321",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Моисеев Илья Сергеевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107668.jpg?token_static=cc6d2602d86c6382697c2928afb128bd"
-          }
-        },
-        {
-          "id": "7767-4-15:40-8",
-          "dayIndex": 4,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Информационные технологии в прогнозировании и экспертизе",
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 319",
@@ -501,6 +484,23 @@
           "teacher": {
             "name": "Моисеев Илья Сергеевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107668.jpg?token_static=cc6d2602d86c6382697c2928afb128bd"
+          }
+        },
+        {
+          "id": "7767-4-17:20-8",
+          "dayIndex": 4,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "ЭВМ и периферийные устройства",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20321",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шестаков Михаил Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/29/small/p126417.jpg?token_static=573c19622435f93a73655ad0fa4d26f5"
           }
         }
       ]

@@ -3,8 +3,8 @@
   "teacherName": "Пак Элла Ефимовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
-  "updatedAt": "2026-09-23T07:44:38.352Z",
-  "totalLessons": 20,
+  "updatedAt": "2026-09-23T13:38:08.562Z",
+  "totalLessons": 21,
   "days": [
     {
       "dayName": "Понедельник",
@@ -133,7 +133,7 @@
           "subject": "Теория вероятностей и математическая статистика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 313",
+          "room": "У 450",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20291",
           "weekParity": "up",
@@ -196,7 +196,7 @@
           "rawType": "Лекция",
           "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "2250, 20291",
+          "groupName": "2250",
           "weekParity": "up",
           "teacher": {
             "name": "Пак Элла Ефимовна",
@@ -215,7 +215,7 @@
           "rawType": "Лекция",
           "room": "У 115",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "20202, 20221, 20222, 20223, 20250, 20290",
+          "groupName": "20202, 20221, 20222, 20223, 20250, 20290, 20291",
           "weekParity": "both",
           "dateSpecific": "21.09",
           "teacher": {
@@ -320,6 +320,25 @@
           "room": "Конгресс-Центр 207",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20250",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пак Элла Ефимовна",
+            "id": "123073",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc"
+          }
+        },
+        {
+          "id": "7761-5-14:00-6",
+          "dayIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Дифференциальные уравнения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 507",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20291",
           "weekParity": "up",
           "teacher": {
             "name": "Пак Элла Ефимовна",

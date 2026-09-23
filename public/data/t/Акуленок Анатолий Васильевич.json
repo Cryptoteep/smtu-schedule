@@ -2,8 +2,8 @@
   "teacherId": "Акуленок Анатолий Васильевич",
   "teacherName": "Акуленок Анатолий Васильевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100011.jpg?token_static=d39bd00560048560c5618c7e5ca584ab",
-  "updatedAt": "2026-09-23T07:44:38.343Z",
-  "totalLessons": 14,
+  "updatedAt": "2026-09-23T13:38:08.547Z",
+  "totalLessons": 15,
   "days": [
     {
       "dayName": "Понедельник",
@@ -217,6 +217,23 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Конгресс-Центр 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20280",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Акуленок Анатолий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100011.jpg?token_static=d39bd00560048560c5618c7e5ca584ab"
+          }
+        },
+        {
+          "id": "7759-4-11:50-3",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 436",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20280",
           "weekParity": "up",

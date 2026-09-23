@@ -1,7 +1,7 @@
 {
   "groupId": "7754",
   "groupName": "20270",
-  "updatedAt": "2026-09-23T07:44:30.354Z",
+  "updatedAt": "2026-09-23T13:37:58.736Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -215,25 +215,6 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
           }
-        },
-        {
-          "id": "7754-3-15:40-7",
-          "dayIndex": 3,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Теоретическая механика",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 504",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20270",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Мелконян Армен Левонович",
-            "id": "100749",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100749/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100749.jpg?token_static=a604f7cb24d29165ccbd7d74ed7372ee"
-          }
         }
       ]
     },
@@ -280,14 +261,33 @@
           }
         },
         {
-          "id": "7754-4-15:40-3",
+          "id": "7754-4-14:00-3",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Экология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 340(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чихонадских Елена Александровна",
+            "id": "101326",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+          }
+        },
+        {
+          "id": "7754-4-15:40-4",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Физика",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "У 301",
+          "room": "У 326",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20270",
           "weekParity": "down",
@@ -296,6 +296,40 @@
             "id": "122535",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122535/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p122535.jpg?token_static=463a6f73b30879b419c62a9fc5283b73"
+          }
+        },
+        {
+          "id": "7754-4-17:20-5",
+          "dayIndex": 4,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Материаловедение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тихонова Марина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/11/small/p124275.jpg?token_static=4c8e10fdb65c96672e498dce8d6bed82"
+          }
+        },
+        {
+          "id": "7754-4-19:00-6",
+          "dayIndex": 4,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Материаловедение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тихонова Марина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/11/small/p124275.jpg?token_static=4c8e10fdb65c96672e498dce8d6bed82"
           }
         }
       ]

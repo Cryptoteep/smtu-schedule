@@ -2,8 +2,8 @@
   "teacherId": "Сидоренко Светлана Анатольевна",
   "teacherName": "Сидоренко Светлана Анатольевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b",
-  "updatedAt": "2026-09-23T07:44:38.349Z",
-  "totalLessons": 43,
+  "updatedAt": "2026-09-23T13:38:08.556Z",
+  "totalLessons": 44,
   "days": [
     {
       "dayName": "Понедельник",
@@ -385,6 +385,23 @@
       "dayName": "Четверг",
       "dayIndex": 4,
       "lessons": [
+        {
+          "id": "7443-4-08:30-1",
+          "dayIndex": 4,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Социальное взаимодействие в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 438",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-07",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сидоренко Светлана Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
+          }
+        },
         {
           "id": "7797-4-10:10-1",
           "dayIndex": 4,

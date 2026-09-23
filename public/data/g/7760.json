@@ -1,7 +1,7 @@
 {
   "groupId": "7760",
   "groupName": "20290",
-  "updatedAt": "2026-09-23T07:44:30.739Z",
+  "updatedAt": "2026-09-23T13:37:59.295Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -300,18 +300,15 @@
           "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Жизненный цикл программного обеспечения",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 318",
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У Спортзал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20290",
-          "weekParity": "up",
+          "weekParity": "both",
           "teacher": {
-            "name": "Глускер Михаил Яковлевич",
-            "id": "122623",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+            "name": "Кафедра физического воспитания"
           }
         },
         {
@@ -338,18 +335,18 @@
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
-          "subject": "Жизненный цикл программного обеспечения",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 504",
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20290",
           "weekParity": "down",
           "teacher": {
-            "name": "Глускер Михаил Яковлевич",
-            "id": "122623",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+            "name": "Семенова-Тян-Шанская Вера Александровна",
+            "id": "101056",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9"
           }
         },
         {
@@ -372,33 +369,14 @@
           }
         },
         {
-          "id": "7760-4-15:40-7",
+          "id": "7760-4-14:00-7",
           "dayIndex": 4,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
           "subject": "Базы данных",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 435",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20290",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Семенова-Тян-Шанская Вера Александровна",
-            "id": "101056",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9"
-          }
-        },
-        {
-          "id": "7760-4-17:20-8",
-          "dayIndex": 4,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Базы данных",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 435",
+          "room": "Конгресс-Центр 307",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20290",
           "weekParity": "down",

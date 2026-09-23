@@ -1,7 +1,7 @@
 {
   "groupId": "7743",
   "groupName": "20200",
-  "updatedAt": "2026-09-23T07:44:29.609Z",
+  "updatedAt": "2026-09-23T13:37:58.296Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -144,11 +144,10 @@
           "subject": "Программирование для ЭВМ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 439",
+          "room": "Конгресс-Центр 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20200",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Глускер Михаил Яковлевич",
             "id": "122623",
@@ -164,10 +163,11 @@
           "subject": "Программирование для ЭВМ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр 318",
+          "room": "У 439",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20200",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Глускер Михаил Яковлевич",
             "id": "122623",
@@ -652,7 +652,24 @@
           }
         },
         {
-          "id": "7743-6-15:40-6",
+          "id": "7743-6-14:00-6",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Философия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20200",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
+          }
+        },
+        {
+          "id": "7743-6-15:40-7",
           "dayIndex": 6,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -669,7 +686,7 @@
           }
         },
         {
-          "id": "7743-6-17:20-7",
+          "id": "7743-6-17:20-8",
           "dayIndex": 6,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,

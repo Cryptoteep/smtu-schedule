@@ -1,7 +1,7 @@
 {
   "groupId": "7941",
   "groupName": "12509-08",
-  "updatedAt": "2026-09-23T07:44:29.099Z",
+  "updatedAt": "2026-09-23T13:37:57.415Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -392,26 +392,7 @@
       "dayIndex": 6,
       "lessons": [
         {
-          "id": "7941-6-08:30-1",
-          "dayIndex": 6,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Дискретная математика для инженера-программиста",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 161",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-08",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Пономарёв Алексей Александрович",
-            "id": "122756",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122756/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/06/19/small/p122756.jpg?token_static=1cbedd5cfab898a1b2f0c78dd2522591"
-          }
-        },
-        {
-          "id": "7941-6-10:10-2",
+          "id": "7941-6-10:10-1",
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -430,7 +411,7 @@
           }
         },
         {
-          "id": "7941-6-11:50-3",
+          "id": "7941-6-11:50-2",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -449,7 +430,7 @@
           }
         },
         {
-          "id": "7941-6-11:50-4",
+          "id": "7941-6-11:50-3",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -466,7 +447,7 @@
           }
         },
         {
-          "id": "7941-6-14:00-5",
+          "id": "7941-6-14:00-4",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -480,6 +461,25 @@
           "teacher": {
             "name": "Бугашев Сергей Иванович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"
+          }
+        },
+        {
+          "id": "7941-6-15:40-5",
+          "dayIndex": 6,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Дискретная математика для инженера-программиста",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-08",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Пономарёв Алексей Александрович",
+            "id": "122756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/06/19/small/p122756.jpg?token_static=1cbedd5cfab898a1b2f0c78dd2522591"
           }
         }
       ]

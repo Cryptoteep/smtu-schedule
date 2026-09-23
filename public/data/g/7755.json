@@ -1,7 +1,7 @@
 {
   "groupId": "7755",
   "groupName": "20271",
-  "updatedAt": "2026-09-23T07:44:30.492Z",
+  "updatedAt": "2026-09-23T13:37:59.161Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -284,6 +284,25 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100749/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100749.jpg?token_static=a604f7cb24d29165ccbd7d74ed7372ee"
           }
+        },
+        {
+          "id": "7755-3-15:40-8",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теоретическая механика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 504",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мелконян Армен Левонович",
+            "id": "100749",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100749/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100749.jpg?token_static=a604f7cb24d29165ccbd7d74ed7372ee"
+          }
         }
       ]
     },
@@ -327,6 +346,40 @@
             "id": "100060",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100060/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100060.jpg?token_static=6983cf54ef4c5f9ccf1992c4ec056dd0"
+          }
+        },
+        {
+          "id": "7755-4-17:20-3",
+          "dayIndex": 4,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Материаловедение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тихонова Марина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/11/small/p124275.jpg?token_static=4c8e10fdb65c96672e498dce8d6bed82"
+          }
+        },
+        {
+          "id": "7755-4-19:00-4",
+          "dayIndex": 4,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Материаловедение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тихонова Марина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/11/small/p124275.jpg?token_static=4c8e10fdb65c96672e498dce8d6bed82"
           }
         }
       ]
