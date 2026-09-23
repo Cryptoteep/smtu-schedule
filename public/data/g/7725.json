@@ -1,7 +1,7 @@
 {
   "groupId": "7725",
   "groupName": "8260",
-  "updatedAt": "2026-09-22T22:56:24.712Z",
+  "updatedAt": "2026-09-23T07:44:37.558Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -234,6 +234,19 @@
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
+          "subject": "ВПР 24 сентября",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 421",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8260",
+          "weekParity": "down"
+        },
+        {
+          "id": "7725-4-14:00-2",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
           "subject": "Инженерная графика",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -247,7 +260,7 @@
           }
         },
         {
-          "id": "7725-4-15:40-2",
+          "id": "7725-4-15:40-3",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -264,7 +277,7 @@
           }
         },
         {
-          "id": "7725-4-17:20-3",
+          "id": "7725-4-17:20-4",
           "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,

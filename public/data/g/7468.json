@@ -1,7 +1,7 @@
 {
   "groupId": "7468",
   "groupName": "12515-01",
-  "updatedAt": "2026-09-22T22:56:16.106Z",
+  "updatedAt": "2026-09-23T07:44:29.723Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -46,25 +46,6 @@
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Начертательная геометрия",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 161",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-01",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Чехович Сергей Владиславович",
-            "id": "101320",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101320/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101320.jpg?token_static=c1b4269032a4a13d778acc3f4ef7b1a6"
-          }
-        },
-        {
-          "id": "7468-1-10:10-4",
-          "dayIndex": 1,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
           "subject": "Иностранный язык",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -78,7 +59,7 @@
           }
         },
         {
-          "id": "7468-1-10:10-5",
+          "id": "7468-1-10:10-4",
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -95,7 +76,7 @@
           }
         },
         {
-          "id": "7468-1-11:50-6",
+          "id": "7468-1-11:50-5",
           "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -114,7 +95,7 @@
           }
         },
         {
-          "id": "7468-1-11:50-7",
+          "id": "7468-1-11:50-6",
           "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -274,8 +255,8 @@
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Информатика",
-          "type": "lecture",
-          "rawType": "Лекция",
+          "type": "practice",
+          "rawType": "Практическое занятие",
           "room": "У 414",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-01",
@@ -389,7 +370,7 @@
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 435",
+          "room": "У 416",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-01",
           "weekParity": "down",

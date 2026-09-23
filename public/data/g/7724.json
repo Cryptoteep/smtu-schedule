@@ -1,7 +1,7 @@
 {
   "groupId": "7724",
   "groupName": "8250",
-  "updatedAt": "2026-09-22T22:56:24.696Z",
+  "updatedAt": "2026-09-23T07:44:37.383Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -200,6 +200,19 @@
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
+          "subject": "ВПР 24 сентября",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 421",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8250",
+          "weekParity": "down"
+        },
+        {
+          "id": "7724-4-11:50-2",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
           "subject": "Иностранный язык в профессиональной деятельности",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -213,7 +226,7 @@
           }
         },
         {
-          "id": "7724-4-14:00-2",
+          "id": "7724-4-14:00-3",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -230,23 +243,20 @@
           }
         },
         {
-          "id": "7724-4-15:40-3",
+          "id": "7724-4-15:40-4",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
-          "subject": "История России",
+          "subject": "ВПР 1 октября",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Конгресс-Центр 306",
           "campus": "Ульянка (Корпус У)",
           "groupName": "8250",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Колледж СПбГМТУ (СТФ)"
-          }
+          "weekParity": "up"
         },
         {
-          "id": "7724-4-15:40-4",
+          "id": "7724-4-15:40-5",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -259,7 +269,7 @@
           "weekParity": "up"
         },
         {
-          "id": "7724-4-15:40-5",
+          "id": "7724-4-15:40-6",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -276,7 +286,7 @@
           }
         },
         {
-          "id": "7724-4-17:20-6",
+          "id": "7724-4-17:20-7",
           "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,

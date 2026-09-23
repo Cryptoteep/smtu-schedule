@@ -3,8 +3,8 @@
   "teacherName": "Кротов Евгений Алексеевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100590.jpg?token_static=1cbe8e55b144f037405332a10de60893",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100590/",
-  "updatedAt": "2026-09-22T22:56:25.597Z",
-  "totalLessons": 17,
+  "updatedAt": "2026-09-23T07:44:38.437Z",
+  "totalLessons": 18,
   "days": [
     {
       "dayName": "Понедельник",
@@ -317,6 +317,25 @@
       "dayName": "Четверг",
       "dayIndex": 4,
       "lessons": [
+        {
+          "id": "7746-4-11:50-6",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Дифференциальные уравнения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 451",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20221",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кротов Евгений Алексеевич",
+            "id": "100590",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100590/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100590.jpg?token_static=1cbe8e55b144f037405332a10de60893"
+          }
+        },
         {
           "id": "7941-4-10:10-2",
           "dayIndex": 4,

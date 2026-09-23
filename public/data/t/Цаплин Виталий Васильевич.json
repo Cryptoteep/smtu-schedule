@@ -2,8 +2,8 @@
   "teacherId": "Цаплин Виталий Васильевич",
   "teacherName": "Цаплин Виталий Васильевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/05/small/p137667.jpg?token_static=a9d73937a075b4e4c1586e3dfc598567",
-  "updatedAt": "2026-09-22T22:56:25.505Z",
-  "totalLessons": 9,
+  "updatedAt": "2026-09-23T07:44:38.346Z",
+  "totalLessons": 8,
   "days": [
     {
       "dayName": "Понедельник",
@@ -31,23 +31,6 @@
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Основы военной подготовки",
-          "type": "military",
-          "rawType": "Практическое занятие",
-          "room": "У ВУЦ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-07",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Цаплин Виталий Васильевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/05/small/p137667.jpg?token_static=a9d73937a075b4e4c1586e3dfc598567"
-          }
-        },
-        {
-          "id": "7443-1-08:30-2",
-          "dayIndex": 1,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Основы военной подготовки",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У ВУЦ",
@@ -71,6 +54,23 @@
       "dayIndex": 3,
       "lessons": [
         {
+          "id": "7443-3-10:10-2",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У ВУЦ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-07",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цаплин Виталий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/05/small/p137667.jpg?token_static=a9d73937a075b4e4c1586e3dfc598567"
+          }
+        },
+        {
           "id": "7467-3-10:10-3",
           "dayIndex": 3,
           "time": "10:10-11:40",
@@ -82,23 +82,6 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-03",
           "weekParity": "down",
-          "teacher": {
-            "name": "Цаплин Виталий Васильевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/05/small/p137667.jpg?token_static=a9d73937a075b4e4c1586e3dfc598567"
-          }
-        },
-        {
-          "id": "7820-3-10:10-2",
-          "dayIndex": 3,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Основы военной подготовки",
-          "type": "military",
-          "rawType": "Практическое занятие",
-          "room": "У ВУЦ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-02",
-          "weekParity": "up",
           "teacher": {
             "name": "Цаплин Виталий Васильевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/05/small/p137667.jpg?token_static=a9d73937a075b4e4c1586e3dfc598567"

@@ -1,7 +1,7 @@
 {
   "groupId": "7744",
   "groupName": "20202",
-  "updatedAt": "2026-09-22T22:56:16.730Z",
+  "updatedAt": "2026-09-23T07:44:29.765Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -70,23 +70,6 @@
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Базы данных",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 306",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20202",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Фомченко Андрей Андреевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
-          }
-        },
-        {
-          "id": "7744-2-10:10-3",
-          "dayIndex": 2,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
           "subject": "Технологии разработки информационных ресурсов",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -103,7 +86,7 @@
           }
         },
         {
-          "id": "7744-2-11:50-4",
+          "id": "7744-2-11:50-3",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -120,7 +103,7 @@
           }
         },
         {
-          "id": "7744-2-11:50-5",
+          "id": "7744-2-11:50-4",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -137,6 +120,23 @@
             "id": "100281",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec"
+          }
+        },
+        {
+          "id": "7744-2-15:40-5",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20202",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Фомченко Андрей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
           }
         }
       ]
@@ -315,16 +315,16 @@
           "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Программирование",
+          "subject": "Информационная безопасность и защита информации",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 304",
+          "room": "У 416",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20202",
           "weekParity": "up",
           "teacher": {
-            "name": "Шестаков Михаил Николаевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/29/small/p126417.jpg?token_static=573c19622435f93a73655ad0fa4d26f5"
+            "name": "Федорова Анастасия Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
           }
         },
         {
@@ -343,44 +343,6 @@
           "teacher": {
             "name": "Шестаков Михаил Николаевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/29/small/p126417.jpg?token_static=573c19622435f93a73655ad0fa4d26f5"
-          }
-        },
-        {
-          "id": "7744-4-14:00-5",
-          "dayIndex": 4,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Программирование",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 504",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20202",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Глускер Михаил Яковлевич",
-            "id": "122623",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
-          }
-        },
-        {
-          "id": "7744-4-15:40-6",
-          "dayIndex": 4,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Программирование",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 504",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20202",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Глускер Михаил Яковлевич",
-            "id": "122623",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
           }
         }
       ]

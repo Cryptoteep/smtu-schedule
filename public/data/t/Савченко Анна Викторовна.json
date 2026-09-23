@@ -2,15 +2,15 @@
   "teacherId": "Савченко Анна Викторовна",
   "teacherName": "Савченко Анна Викторовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041",
-  "updatedAt": "2026-09-22T22:56:25.536Z",
-  "totalLessons": 24,
+  "updatedAt": "2026-09-23T07:44:38.375Z",
+  "totalLessons": 22,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
       "lessons": [
         {
-          "id": "7820-1-10:10-1",
+          "id": "7820-1-10:10-2",
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -28,7 +28,7 @@
           }
         },
         {
-          "id": "7820-1-14:00-4",
+          "id": "7820-1-14:00-5",
           "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -157,23 +157,6 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7443-3-10:10-2",
-          "dayIndex": 3,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 318",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-07",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Савченко Анна Викторовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041"
-          }
-        },
-        {
           "id": "7746-3-10:10-2",
           "dayIndex": 3,
           "time": "10:10-11:40",
@@ -250,41 +233,6 @@
       "dayIndex": 4,
       "lessons": [
         {
-          "id": "7443-4-10:10-2",
-          "dayIndex": 4,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Информатика",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 439",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-07, 12126-05",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Савченко Анна Викторовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041"
-          }
-        },
-        {
-          "id": "7443-4-10:10-3",
-          "dayIndex": 4,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 217",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-07",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Савченко Анна Викторовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041"
-          }
-        },
-        {
           "id": "7463-4-14:00-5",
           "dayIndex": 4,
           "time": "14:00-15:30",
@@ -313,6 +261,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-50",
           "weekParity": "down",
+          "teacher": {
+            "name": "Савченко Анна Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041"
+          }
+        },
+        {
+          "id": "7502-4-10:10-2",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 415",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12126-05",
+          "weekParity": "up",
           "teacher": {
             "name": "Савченко Анна Викторовна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041"

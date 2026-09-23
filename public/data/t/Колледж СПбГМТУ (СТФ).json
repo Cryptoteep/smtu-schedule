@@ -1,8 +1,8 @@
 {
   "teacherId": "Колледж СПбГМТУ (СТФ)",
   "teacherName": "Колледж СПбГМТУ (СТФ)",
-  "updatedAt": "2026-09-22T22:56:25.608Z",
-  "totalLessons": 7,
+  "updatedAt": "2026-09-23T07:44:38.448Z",
+  "totalLessons": 6,
   "days": [
     {
       "dayName": "Понедельник",
@@ -71,24 +71,7 @@
     {
       "dayName": "Четверг",
       "dayIndex": 4,
-      "lessons": [
-        {
-          "id": "7724-4-15:40-3",
-          "dayIndex": 4,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "История России",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр 306",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "8250",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Колледж СПбГМТУ (СТФ)"
-          }
-        }
-      ]
+      "lessons": []
     },
     {
       "dayName": "Пятница",
