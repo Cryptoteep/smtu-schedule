@@ -2,8 +2,8 @@
   "teacherId": "Бояринцев Дмитрий Константинович",
   "teacherName": "Бояринцев Дмитрий Константинович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/03/small/p122101.jpg?token_static=ca1f3d42e109e9966d982de5240130be",
-  "updatedAt": "2026-09-23T18:24:10.170Z",
-  "totalLessons": 40,
+  "updatedAt": "2026-09-23T22:56:53.681Z",
+  "totalLessons": 41,
   "days": [
     {
       "dayName": "Понедельник",
@@ -505,7 +505,7 @@
           }
         },
         {
-          "id": "7820-4-14:00-8",
+          "id": "7820-4-14:00-7",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -662,7 +662,24 @@
           "rawType": "Практическое занятие",
           "room": "У 531",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "12213-01, 12515-03",
+          "groupName": "12213-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бояринцев Дмитрий Константинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/03/small/p122101.jpg?token_static=ca1f3d42e109e9966d982de5240130be"
+          }
+        },
+        {
+          "id": "7467-6-14:00-5",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "История России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 531",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-03",
           "weekParity": "up",
           "teacher": {
             "name": "Бояринцев Дмитрий Константинович",

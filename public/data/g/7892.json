@@ -1,7 +1,7 @@
 {
   "groupId": "7892",
   "groupName": "12638-01",
-  "updatedAt": "2026-09-23T18:24:03.586Z",
+  "updatedAt": "2026-09-23T22:56:46.811Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -370,10 +370,11 @@
           "subject": "Информационные технологии в экономике и менеджменте",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 115",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12638-01",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Иванова Любовь Николаевна",
             "id": "122492",
@@ -500,23 +501,6 @@
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12638-01",
-          "weekParity": "down",
-          "dateSpecific": "26.10",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
-          }
-        },
-        {
-          "id": "7892-6-10:10-3",
-          "dayIndex": 6,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Физическая культура и спорт",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 115",
@@ -529,6 +513,23 @@
             "id": "122733",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122733/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/07/27/small/p122733.jpg?token_static=27d92051d1cfd5ee9dff8d2cd1b2ecd4"
+          }
+        },
+        {
+          "id": "7892-6-10:10-3",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-01",
+          "weekParity": "down",
+          "dateSpecific": "26.10",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
           }
         },
         {
@@ -555,23 +556,6 @@
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12638-01",
-          "weekParity": "down",
-          "dateSpecific": "26.10",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
-          }
-        },
-        {
-          "id": "7892-6-11:50-6",
-          "dayIndex": 6,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Физическая культура и спорт",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 115",
@@ -584,6 +568,23 @@
             "id": "122733",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122733/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/07/27/small/p122733.jpg?token_static=27d92051d1cfd5ee9dff8d2cd1b2ecd4"
+          }
+        },
+        {
+          "id": "7892-6-11:50-6",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-01",
+          "weekParity": "down",
+          "dateSpecific": "26.10",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
           }
         }
       ]

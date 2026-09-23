@@ -1,7 +1,7 @@
 {
   "groupId": "7780",
   "groupName": "20490",
-  "updatedAt": "2026-09-23T18:24:03.512Z",
+  "updatedAt": "2026-09-23T22:56:46.612Z",
   "days": [
     {
       "dayName": "Вторник",
@@ -303,26 +303,7 @@
           }
         },
         {
-          "id": "7780-4-14:00-5",
-          "dayIndex": 4,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Защита информации",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр 207",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20490",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Гарькушев Александр Юрьевич",
-            "id": "122911",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
-          }
-        },
-        {
-          "id": "7780-4-15:40-6",
+          "id": "7780-4-15:40-5",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -341,7 +322,7 @@
           }
         },
         {
-          "id": "7780-4-15:40-7",
+          "id": "7780-4-15:40-6",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -358,7 +339,7 @@
           }
         },
         {
-          "id": "7780-4-17:20-8",
+          "id": "7780-4-17:20-7",
           "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -372,6 +353,26 @@
           "teacher": {
             "name": "Акуленок Ирина Николаевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"
+          }
+        },
+        {
+          "id": "7780-4-19:00-8",
+          "dayIndex": 4,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Защита информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "ЦДО Дистанционно",
+          "campus": "СПбГМТУ",
+          "groupName": "20490",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Гарькушев Александр Юрьевич",
+            "id": "122911",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
           }
         }
       ]

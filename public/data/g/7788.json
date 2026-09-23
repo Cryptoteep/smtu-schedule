@@ -1,7 +1,7 @@
 {
   "groupId": "7788",
   "groupName": "12226-09",
-  "updatedAt": "2026-09-23T18:23:52.977Z",
+  "updatedAt": "2026-09-23T22:56:35.469Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -271,23 +271,6 @@
           "groupName": "12226-09",
           "weekParity": "up",
           "teacher": {
-            "name": "Дроздов Владимир Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
-          }
-        },
-        {
-          "id": "7788-3-11:50-5",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 407",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12226-09",
-          "weekParity": "up",
-          "teacher": {
             "name": "Яковлев Алексей Юрьевич",
             "id": "101392",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
@@ -295,24 +278,7 @@
           }
         },
         {
-          "id": "7788-3-11:50-6",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 407",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12226-09",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Павлов Павел Валентинович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
-          }
-        },
-        {
-          "id": "7788-3-11:50-7",
+          "id": "7788-3-11:50-5",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -331,6 +297,40 @@
           }
         },
         {
+          "id": "7788-3-11:50-6",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-09",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+          }
+        },
+        {
+          "id": "7788-3-11:50-7",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-09",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Павлов Павел Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
+          }
+        },
+        {
           "id": "7788-3-11:50-8",
           "dayIndex": 3,
           "time": "11:50-13:20",
@@ -343,8 +343,10 @@
           "groupName": "12226-09",
           "weekParity": "down",
           "teacher": {
-            "name": "Никущенко Елена Александровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+            "name": "Вихров Николай Михайлович",
+            "id": "100217",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
           }
         },
         {
@@ -379,10 +381,8 @@
           "groupName": "12226-09",
           "weekParity": "down",
           "teacher": {
-            "name": "Вихров Николай Михайлович",
-            "id": "100217",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
+            "name": "Никущенко Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
           }
         },
         {
@@ -398,10 +398,8 @@
           "groupName": "12226-09",
           "weekParity": "both",
           "teacher": {
-            "name": "Рюмин Сергей Николаевич",
-            "id": "101017",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
+            "name": "Бокатова Анастасия Антоновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
           }
         },
         {
@@ -434,8 +432,10 @@
           "groupName": "12226-09",
           "weekParity": "both",
           "teacher": {
-            "name": "Бокатова Анастасия Антоновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
+            "name": "Рюмин Сергей Николаевич",
+            "id": "101017",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
           }
         },
         {
@@ -563,7 +563,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 215",
+          "room": "У 414",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-09",
           "weekParity": "down",
@@ -580,7 +580,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 414",
+          "room": "У 215",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-09",
           "weekParity": "down",
@@ -622,10 +622,11 @@
           "subject": "История России",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 107",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-09",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Бугашев Сергей Иванович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"

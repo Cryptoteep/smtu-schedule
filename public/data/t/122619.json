@@ -3,8 +3,8 @@
   "teacherName": "Свиркина Лариса Анатольевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
-  "updatedAt": "2026-09-23T18:24:10.048Z",
-  "totalLessons": 27,
+  "updatedAt": "2026-09-23T22:56:53.624Z",
+  "totalLessons": 25,
   "days": [
     {
       "dayName": "Понедельник",
@@ -89,7 +89,7 @@
           }
         },
         {
-          "id": "7467-2-11:50-5",
+          "id": "7467-2-11:50-2",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -333,36 +333,17 @@
           }
         },
         {
-          "id": "7468-5-08:30-1",
+          "id": "7468-5-15:40-4",
           "dayIndex": 5,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
           "subject": "Линейная алгебра, Аналитическая геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 109",
+          "room": "У 212",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-01",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Свиркина Лариса Анатольевна",
-            "id": "122619",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
-          }
-        },
-        {
-          "id": "7468-5-10:10-3",
-          "dayIndex": 5,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Линейная алгебра, Аналитическая геометрия",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 109",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-01",
-          "weekParity": "down",
+          "weekParity": "up",
           "teacher": {
             "name": "Свиркина Лариса Анатольевна",
             "id": "122619",
@@ -409,14 +390,14 @@
           }
         },
         {
-          "id": "7820-5-11:50-3",
+          "id": "7820-5-08:30-1",
           "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
           "subject": "Линейная алгебра, Аналитическая геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 154",
+          "room": "У 313",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-02",
           "weekParity": "up",
@@ -520,25 +501,6 @@
           "room": "У 410",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12315-06",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Свиркина Лариса Анатольевна",
-            "id": "122619",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
-          }
-        },
-        {
-          "id": "7820-6-17:20-4",
-          "dayIndex": 6,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Линейная алгебра, Аналитическая геометрия",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 410",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-02",
           "weekParity": "up",
           "teacher": {
             "name": "Свиркина Лариса Анатольевна",

@@ -1,7 +1,7 @@
 {
   "groupId": "7443",
   "groupName": "12515-07",
-  "updatedAt": "2026-09-23T18:24:01.467Z",
+  "updatedAt": "2026-09-23T22:56:44.219Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,22 @@
       "lessons": [
         {
           "id": "7443-1-08:30-1",
+          "dayIndex": 1,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Информатика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-07",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра вычислительной техники и информационных технологий"
+          }
+        },
+        {
+          "id": "7443-1-08:30-2",
           "dayIndex": 1,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
@@ -25,7 +41,7 @@
           }
         },
         {
-          "id": "7443-1-10:10-2",
+          "id": "7443-1-10:10-3",
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -44,7 +60,7 @@
           }
         },
         {
-          "id": "7443-1-10:10-3",
+          "id": "7443-1-10:10-4",
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -61,7 +77,7 @@
           }
         },
         {
-          "id": "7443-1-11:50-4",
+          "id": "7443-1-11:50-5",
           "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -80,7 +96,7 @@
           }
         },
         {
-          "id": "7443-1-11:50-5",
+          "id": "7443-1-11:50-6",
           "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -416,16 +432,16 @@
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Информатика",
+          "subject": "Лабораторные работы по общей и неорганической химии",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 435",
+          "room": "У 536(2)",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-07",
-          "weekParity": "up",
+          "weekParity": "down",
           "teacher": {
-            "name": "Савченко Анна Викторовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041"
+            "name": "Агапов Константин Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101436.jpg?token_static=c82ec886d50eb533db6ecd5bbc9a1a5c"
           }
         },
         {
@@ -433,68 +449,17 @@
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
-          "subject": "Социальное взаимодействие в профессиональной деятельности",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 243",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-07",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Сидоренко Светлана Анатольевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
-          }
-        },
-        {
-          "id": "7443-5-14:00-4",
-          "dayIndex": 5,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
           "subject": "Обучение служением",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 02ю",
+          "room": "У 313",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-07",
-          "weekParity": "up",
+          "weekParity": "down",
           "dateSpecific": "1.10 по 21.10",
           "teacher": {
             "name": "Березовская Ирина Петровна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
-          }
-        },
-        {
-          "id": "7443-5-14:00-5",
-          "dayIndex": 5,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 416",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-07",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Савченко Анна Викторовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041"
-          }
-        },
-        {
-          "id": "7443-5-15:40-6",
-          "dayIndex": 5,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Социальное взаимодействие в профессиональной деятельности",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 101",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-07",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Сидоренко Светлана Анатольевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
           }
         }
       ]
@@ -504,34 +469,18 @@
       "dayIndex": 6,
       "lessons": [
         {
-          "id": "7443-6-08:30-1",
-          "dayIndex": 6,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Обучение служением",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 451",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-07",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Березовская Ирина Петровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
-          }
-        },
-        {
-          "id": "7443-6-10:10-2",
+          "id": "7443-6-10:10-1",
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "История России",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 105",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-07",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Прудникова Татьяна Юрьевна",
             "id": "100952",
@@ -540,22 +489,88 @@
           }
         },
         {
-          "id": "7443-6-11:50-3",
+          "id": "7443-6-11:50-2",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
-          "subject": "История России",
+          "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-07",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра вычислительной техники и информационных технологий"
+          }
+        },
+        {
+          "id": "7443-6-14:00-3",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-07",
           "weekParity": "up",
           "teacher": {
-            "name": "Прудникова Татьяна Юрьевна",
-            "id": "100952",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100952/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100952.jpg?token_static=247ccf183881448ad446f44fe6ce2653"
+            "name": "Кафедра вычислительной техники и информационных технологий"
+          }
+        },
+        {
+          "id": "7443-6-14:00-4",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Социальное взаимодействие в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-07",
+          "weekParity": "down",
+          "dateSpecific": "27.10 по 23.12",
+          "teacher": {
+            "name": "Сидоренко Светлана Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
+          }
+        },
+        {
+          "id": "7443-6-14:00-5",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Социальное взаимодействие в профессиональной деятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-07",
+          "weekParity": "down",
+          "dateSpecific": "01.09 по 21.10",
+          "teacher": {
+            "name": "Сидоренко Светлана Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
+          }
+        },
+        {
+          "id": "7443-6-15:40-6",
+          "dayIndex": 6,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Социальное взаимодействие в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-07",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сидоренко Светлана Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
           }
         }
       ]

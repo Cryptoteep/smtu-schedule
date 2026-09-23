@@ -3,8 +3,8 @@
   "teacherName": "Семенова-Тян-Шанская Вера Александровна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
-  "updatedAt": "2026-09-23T18:24:10.048Z",
-  "totalLessons": 21,
+  "updatedAt": "2026-09-23T22:56:53.624Z",
+  "totalLessons": 22,
   "days": [
     {
       "dayName": "Понедельник",
@@ -395,6 +395,25 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20291",
           "weekParity": "up",
+          "teacher": {
+            "name": "Семенова-Тян-Шанская Вера Александровна",
+            "id": "101056",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9"
+          }
+        },
+        {
+          "id": "7760-5-11:50-4",
+          "dayIndex": 5,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20290",
+          "weekParity": "down",
           "teacher": {
             "name": "Семенова-Тян-Шанская Вера Александровна",
             "id": "101056",

@@ -1,7 +1,7 @@
 {
   "groupId": "7893",
   "groupName": "12638-03",
-  "updatedAt": "2026-09-23T18:24:03.607Z",
+  "updatedAt": "2026-09-23T22:56:46.781Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -347,6 +347,23 @@
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-03",
+          "weekParity": "both",
+          "dateSpecific": "26.10",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
+        },
+        {
+          "id": "7893-4-11:50-3",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 107",
@@ -359,23 +376,6 @@
             "id": "122733",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122733/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/07/27/small/p122733.jpg?token_static=27d92051d1cfd5ee9dff8d2cd1b2ecd4"
-          }
-        },
-        {
-          "id": "7893-4-11:50-3",
-          "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12638-03",
-          "weekParity": "both",
-          "dateSpecific": "26.10",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
           }
         },
         {
@@ -427,10 +427,11 @@
           "subject": "Информационные технологии в экономике и менеджменте",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 115",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12638-03",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Иванова Любовь Николаевна",
             "id": "122492",

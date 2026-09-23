@@ -1,7 +1,7 @@
 {
   "groupId": "7796",
   "groupName": "12740-01",
-  "updatedAt": "2026-09-23T18:24:06.248Z",
+  "updatedAt": "2026-09-23T22:56:49.398Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -309,23 +309,6 @@
           "subject": "Основы военной подготовки",
           "type": "military",
           "rawType": "Практическое занятие",
-          "room": "У ВУЦ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12740-01",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Величко Борис Валерьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
-          }
-        },
-        {
-          "id": "7796-4-11:50-2",
-          "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Основы военной подготовки",
-          "type": "military",
-          "rawType": "Практическое занятие",
           "room": "У 511",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12740-01",
@@ -338,6 +321,23 @@
           }
         },
         {
+          "id": "7796-4-11:50-2",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У ВУЦ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
+        },
+        {
           "id": "7796-4-14:00-3",
           "dayIndex": 4,
           "time": "14:00-15:30",
@@ -345,10 +345,11 @@
           "subject": "Введение в специальность",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр 207",
+          "room": "У 209",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12740-01",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Игнатенко Сергей Владимирович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/05/08/small/p105188.jpg?token_static=50c66911f8b5f89eb1536e2b98f846f1"
@@ -525,24 +526,7 @@
           }
         },
         {
-          "id": "7796-5-15:40-6",
-          "dayIndex": 5,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "История России",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12740-01",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Игнатенко Сергей Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/05/08/small/p105188.jpg?token_static=50c66911f8b5f89eb1536e2b98f846f1"
-          }
-        },
-        {
-          "id": "7796-5-17:20-7",
+          "id": "7796-5-17:20-6",
           "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,

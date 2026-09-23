@@ -1,7 +1,7 @@
 {
   "groupId": "7800",
   "groupName": "12822-01",
-  "updatedAt": "2026-09-23T18:24:08.140Z",
+  "updatedAt": "2026-09-23T22:56:51.696Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -334,10 +334,11 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 211",
+          "room": "У 150",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12822-01",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Фролов Иван Сергеевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/11/22/small/p128071.jpg?token_static=8512db7f495750010ba451ad50c25648"
@@ -351,11 +352,10 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 150",
+          "room": "У 211",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12822-01",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Фролов Иван Сергеевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/11/22/small/p128071.jpg?token_static=8512db7f495750010ba451ad50c25648"
@@ -445,6 +445,26 @@
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Физическая культура и спорт",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 322-322а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12822-01",
+          "weekParity": "both",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Богданова Татьяна Владимировна",
+            "id": "100122",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100122/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/05/small/p100122.jpg?token_static=647755b070c41d931bb0b14a2a82dec3"
+          }
+        },
+        {
+          "id": "7800-5-14:00-4",
+          "dayIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физическая культура и спорт",
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У Спортзал",
@@ -454,26 +474,6 @@
           "dateSpecific": "30.10 по 18.12",
           "teacher": {
             "name": "Кафедра физического воспитания"
-          }
-        },
-        {
-          "id": "7800-5-14:00-4",
-          "dayIndex": 5,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Физическая культура и спорт",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 101",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12822-01",
-          "weekParity": "both",
-          "dateSpecific": "04.09",
-          "teacher": {
-            "name": "Богданова Татьяна Владимировна",
-            "id": "100122",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100122/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/05/small/p100122.jpg?token_static=647755b070c41d931bb0b14a2a82dec3"
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "groupId": "7789",
   "groupName": "12226-10",
-  "updatedAt": "2026-09-23T18:23:52.987Z",
+  "updatedAt": "2026-09-23T22:56:35.441Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -227,7 +227,7 @@
           "subject": "Информатика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Б 301б",
+          "room": "Б 301а",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12226-10",
           "weekParity": "up",
@@ -244,7 +244,7 @@
           "subject": "Информатика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Б 301а",
+          "room": "Б 301б",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12226-10",
           "weekParity": "up",
@@ -334,42 +334,6 @@
           "groupName": "12226-10",
           "weekParity": "up",
           "teacher": {
-            "name": "Яковлев Алексей Юрьевич",
-            "id": "101392",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
-          }
-        },
-        {
-          "id": "7789-3-11:50-8",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 407",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12226-10",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Павлов Павел Валентинович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
-          }
-        },
-        {
-          "id": "7789-3-11:50-9",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 407",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12226-10",
-          "weekParity": "up",
-          "teacher": {
             "name": "Едуш Наталья Юрьевна",
             "id": "100364",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
@@ -377,7 +341,7 @@
           }
         },
         {
-          "id": "7789-3-11:50-10",
+          "id": "7789-3-11:50-8",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -394,7 +358,7 @@
           }
         },
         {
-          "id": "7789-3-11:50-11",
+          "id": "7789-3-11:50-9",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -404,14 +368,33 @@
           "room": "А 407",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "12226-10",
-          "weekParity": "down",
+          "weekParity": "up",
           "teacher": {
-            "name": "Никущенко Елена Александровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+            "name": "Павлов Павел Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
           }
         },
         {
-          "id": "7789-3-11:50-12",
+          "id": "7789-3-11:50-10",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-10",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Яковлев Алексей Юрьевич",
+            "id": "101392",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
+          }
+        },
+        {
+          "id": "7789-3-11:50-11",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -430,7 +413,7 @@
           }
         },
         {
-          "id": "7789-3-11:50-13",
+          "id": "7789-3-11:50-12",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -449,6 +432,23 @@
           }
         },
         {
+          "id": "7789-3-11:50-13",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-10",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Никущенко Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+          }
+        },
+        {
           "id": "7789-3-11:50-14",
           "dayIndex": 3,
           "time": "11:50-13:20",
@@ -461,8 +461,10 @@
           "groupName": "12226-10",
           "weekParity": "both",
           "teacher": {
-            "name": "Глазырина Диана Олеговна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
+            "name": "Рюмин Сергей Николаевич",
+            "id": "101017",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
           }
         },
         {
@@ -495,10 +497,8 @@
           "groupName": "12226-10",
           "weekParity": "both",
           "teacher": {
-            "name": "Рюмин Сергей Николаевич",
-            "id": "101017",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
+            "name": "Глазырина Диана Олеговна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
           }
         }
       ]
@@ -611,10 +611,11 @@
           "subject": "История России",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 107",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-10",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Бугашев Сергей Иванович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"

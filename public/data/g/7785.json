@@ -1,7 +1,7 @@
 {
   "groupId": "7785",
   "groupName": "12213-02",
-  "updatedAt": "2026-09-23T18:23:52.433Z",
+  "updatedAt": "2026-09-23T22:56:34.787Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -288,10 +288,8 @@
           "groupName": "12213-02",
           "weekParity": "down",
           "teacher": {
-            "name": "Скоморовский Станислав Альбинович",
-            "id": "101084",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101084/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/27/small/p101084.jpg?token_static=7839ff5ef6b2266b532942f6153ed56d"
+            "name": "Павлов Павел Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
           }
         },
         {
@@ -307,8 +305,10 @@
           "groupName": "12213-02",
           "weekParity": "down",
           "teacher": {
-            "name": "Павлов Павел Валентинович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
+            "name": "Скоморовский Станислав Альбинович",
+            "id": "101084",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101084/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/27/small/p101084.jpg?token_static=7839ff5ef6b2266b532942f6153ed56d"
           }
         }
       ]
@@ -388,10 +388,11 @@
           "subject": "Математический анализ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 101",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12213-02",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Ипатова Лариса Петровна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/20/small/p100477.jpg?token_static=3f083cda02d9de8d91d05e27883d5125"
@@ -469,10 +470,8 @@
           "groupName": "12213-02",
           "weekParity": "down",
           "teacher": {
-            "name": "Силина Екатерина Кузьминична",
-            "id": "101075",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101075/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/12/small/p101075.jpg?token_static=069007c8e0d264f2a44a67dc923db9ce"
+            "name": "Гаранина Евгения Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
           }
         },
         {
@@ -488,8 +487,10 @@
           "groupName": "12213-02",
           "weekParity": "down",
           "teacher": {
-            "name": "Гаранина Евгения Алексеевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
+            "name": "Силина Екатерина Кузьминична",
+            "id": "101075",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101075/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/12/small/p101075.jpg?token_static=069007c8e0d264f2a44a67dc923db9ce"
           }
         },
         {
@@ -505,8 +506,10 @@
           "groupName": "12213-02",
           "weekParity": "both",
           "teacher": {
-            "name": "Гаранина Евгения Алексеевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
+            "name": "Силина Екатерина Кузьминична",
+            "id": "101075",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101075/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/12/small/p101075.jpg?token_static=069007c8e0d264f2a44a67dc923db9ce"
           }
         },
         {
@@ -522,10 +525,8 @@
           "groupName": "12213-02",
           "weekParity": "both",
           "teacher": {
-            "name": "Силина Екатерина Кузьминична",
-            "id": "101075",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101075/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/12/small/p101075.jpg?token_static=069007c8e0d264f2a44a67dc923db9ce"
+            "name": "Гаранина Евгения Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
           }
         },
         {
@@ -553,7 +554,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 414",
+          "room": "У 211",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12213-02",
           "weekParity": "down",
@@ -570,7 +571,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 211",
+          "room": "У 414",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12213-02",
           "weekParity": "down",
