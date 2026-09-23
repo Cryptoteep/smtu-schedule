@@ -2,8 +2,8 @@
   "teacherId": "Луганская Анастасия Сергеевна",
   "teacherName": "Луганская Анастасия Сергеевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p129661.jpg?token_static=784e830c74e01b80dc74eb73e64706fe",
-  "updatedAt": "2026-09-23T13:38:08.728Z",
-  "totalLessons": 10,
+  "updatedAt": "2026-09-23T18:24:10.192Z",
+  "totalLessons": 11,
   "days": [
     {
       "dayName": "Понедельник",
@@ -33,8 +33,24 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7498-2-19:00-4",
+          "id": "7498-2-11:50-1",
           "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы экономики и организации судостроительного производства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8370",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Луганская Анастасия Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p129661.jpg?token_static=784e830c74e01b80dc74eb73e64706fe"
+          }
+        },
+        {
+          "id": "7498-2-19:00-4",
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Основы экономики и организации судостроительного производства",
