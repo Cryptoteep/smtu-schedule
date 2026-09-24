@@ -1,7 +1,7 @@
 {
   "groupId": "7806",
   "groupName": "12509-07",
-  "updatedAt": "2026-09-24T07:35:20.387Z",
+  "updatedAt": "2026-09-24T13:32:43.093Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -152,11 +152,10 @@
           "subject": "Дискретная математика для инженера-программиста",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 326",
+          "room": "Конгресс-Центр 421",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-07",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Петухова Нина Дмитриевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/30/small/p100896.jpg?token_static=7351a0863365112378e08001c637a4cb"
@@ -170,10 +169,11 @@
           "subject": "Дискретная математика для инженера-программиста",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 421",
+          "room": "У 326",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-07",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Петухова Нина Дмитриевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/30/small/p100896.jpg?token_static=7351a0863365112378e08001c637a4cb"
@@ -325,6 +325,24 @@
           "subject": "Основы российской государственности",
           "type": "practice",
           "rawType": "Практическое занятие",
+          "room": "У 303ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-07",
+          "weekParity": "down",
+          "dateSpecific": "24.09",
+          "teacher": {
+            "name": "Бугашев Сергей Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"
+          }
+        },
+        {
+          "id": "7806-4-11:50-5",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
           "room": "Конгресс-Центр 243",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-07",
@@ -335,7 +353,7 @@
           }
         },
         {
-          "id": "7806-4-14:00-5",
+          "id": "7806-4-14:00-6",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -407,44 +425,6 @@
             "name": "Высицкий Анатолий Федорович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100242.jpg?token_static=b9428d49bd30bd62760e23d86635f21e"
           }
-        },
-        {
-          "id": "7806-5-14:00-4",
-          "dayIndex": 5,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Дискретная математика для инженера-программиста",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 107",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-07",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Пономарёв Алексей Александрович",
-            "id": "122756",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122756/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/06/19/small/p122756.jpg?token_static=1cbedd5cfab898a1b2f0c78dd2522591"
-          }
-        },
-        {
-          "id": "7806-5-14:00-5",
-          "dayIndex": 5,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Дискретная математика для инженера-программиста",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 107",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-07",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Пономарёв Алексей Александрович",
-            "id": "122756",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122756/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/06/19/small/p122756.jpg?token_static=1cbedd5cfab898a1b2f0c78dd2522591"
-          }
         }
       ]
     },
@@ -490,7 +470,45 @@
           }
         },
         {
-          "id": "7806-6-11:50-3",
+          "id": "7806-6-10:10-3",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Дискретная математика для инженера-программиста",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-07",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пономарёв Алексей Александрович",
+            "id": "122756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/06/19/small/p122756.jpg?token_static=1cbedd5cfab898a1b2f0c78dd2522591"
+          }
+        },
+        {
+          "id": "7806-6-11:50-4",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Дискретная математика для инженера-программиста",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-07",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пономарёв Алексей Александрович",
+            "id": "122756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/06/19/small/p122756.jpg?token_static=1cbedd5cfab898a1b2f0c78dd2522591"
+          }
+        },
+        {
+          "id": "7806-6-11:50-5",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -507,7 +525,7 @@
           }
         },
         {
-          "id": "7806-6-14:00-4",
+          "id": "7806-6-14:00-6",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -524,7 +542,7 @@
           }
         },
         {
-          "id": "7806-6-14:00-5",
+          "id": "7806-6-14:00-7",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

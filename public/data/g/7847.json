@@ -1,7 +1,7 @@
 {
   "groupId": "7847",
   "groupName": "4411",
-  "updatedAt": "2026-09-24T07:35:26.670Z",
+  "updatedAt": "2026-09-24T13:32:47.849Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -12,19 +12,19 @@
           "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
-          "subject": "Экономика малого бизнеса",
+          "subject": "Международный бизнес",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Б 500",
-          "campus": "Лоцманская (Корпус Б)",
+          "room": "М 32",
+          "campus": "Псковская (Корпус М)",
           "groupName": "4411",
           "weekParity": "both",
-          "dateSpecific": "07.09 по 26.10",
+          "dateSpecific": "02.11 по 14.12",
           "teacher": {
-            "name": "Кох Юрий Валентинович",
-            "id": "126005",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/126005/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/24/small/p126005.jpg?token_static=9923f8c7a7a965edcc330a7c7e2d76e5"
+            "name": "Гельфонд Даниил Владиславович",
+            "id": "131274",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/131274/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/11/28/small/p131274.jpg?token_static=89f8f72682526eae07b78f61501850a3"
           }
         },
         {
@@ -32,19 +32,19 @@
           "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
-          "subject": "Международный бизнес",
+          "subject": "Экономика малого бизнеса",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "М 32",
-          "campus": "Псковская (Корпус М)",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
           "groupName": "4411",
           "weekParity": "both",
-          "dateSpecific": "02.11 по 14.12",
+          "dateSpecific": "07.09 по 26.10",
           "teacher": {
-            "name": "Гельфонд Даниил Владиславович",
-            "id": "131274",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/131274/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/11/28/small/p131274.jpg?token_static=89f8f72682526eae07b78f61501850a3"
+            "name": "Кох Юрий Валентинович",
+            "id": "126005",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/126005/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/24/small/p126005.jpg?token_static=9923f8c7a7a965edcc330a7c7e2d76e5"
           }
         },
         {
@@ -52,26 +52,6 @@
           "dayIndex": 1,
           "time": "20:40-22:10",
           "timeSlotIndex": 4,
-          "subject": "Международный бизнес",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "М 32",
-          "campus": "Псковская (Корпус М)",
-          "groupName": "4411",
-          "weekParity": "both",
-          "dateSpecific": "02.11 по 14.12",
-          "teacher": {
-            "name": "Гельфонд Даниил Владиславович",
-            "id": "131274",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/131274/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/11/28/small/p131274.jpg?token_static=89f8f72682526eae07b78f61501850a3"
-          }
-        },
-        {
-          "id": "7847-1-20:40-4",
-          "dayIndex": 1,
-          "time": "20:40-22:10",
-          "timeSlotIndex": 5,
           "subject": "Экономика малого бизнеса",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -85,6 +65,26 @@
             "id": "126005",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/126005/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/24/small/p126005.jpg?token_static=9923f8c7a7a965edcc330a7c7e2d76e5"
+          }
+        },
+        {
+          "id": "7847-1-20:40-4",
+          "dayIndex": 1,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Международный бизнес",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "М 32",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "4411",
+          "weekParity": "both",
+          "dateSpecific": "02.11 по 14.12",
+          "teacher": {
+            "name": "Гельфонд Даниил Владиславович",
+            "id": "131274",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/131274/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/11/28/small/p131274.jpg?token_static=89f8f72682526eae07b78f61501850a3"
           }
         }
       ]
@@ -185,13 +185,13 @@
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Риск-менеджмент",
-          "type": "practice",
-          "rawType": "Практическое занятие",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "М 32",
           "campus": "Псковская (Корпус М)",
           "groupName": "4411",
           "weekParity": "both",
-          "dateSpecific": "04.11 по 25.11",
+          "dateSpecific": "09.09 по 28.10",
           "teacher": {
             "name": "Майорова Ксения Сергеевна",
             "id": "102450",
@@ -204,13 +204,13 @@
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Риск-менеджмент",
-          "type": "lecture",
-          "rawType": "Лекция",
+          "type": "practice",
+          "rawType": "Практическое занятие",
           "room": "М 32",
           "campus": "Псковская (Корпус М)",
           "groupName": "4411",
           "weekParity": "both",
-          "dateSpecific": "09.09 по 28.10",
+          "dateSpecific": "04.11 по 25.11",
           "teacher": {
             "name": "Майорова Ксения Сергеевна",
             "id": "102450",
@@ -269,8 +269,8 @@
           "subject": "Управление персоналом",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Б 101",
-          "campus": "Лоцманская (Корпус Б)",
+          "room": "М 12",
+          "campus": "Псковская (Корпус М)",
           "groupName": "4411",
           "weekParity": "both",
           "dateSpecific": "10.09 по 29.10",
@@ -289,7 +289,7 @@
           "subject": "Управление персоналом",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "М 33",
+          "room": "М 12",
           "campus": "Псковская (Корпус М)",
           "groupName": "4411",
           "weekParity": "both",
@@ -312,19 +312,18 @@
           "dayIndex": 5,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
-          "subject": "Управление проектами",
+          "subject": "Государственное и муниципальное управление",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Б 500",
-          "campus": "Лоцманская (Корпус Б)",
+          "room": "М 11",
+          "campus": "Псковская (Корпус М)",
           "groupName": "4411",
           "weekParity": "both",
-          "dateSpecific": "06.11 по 25.12",
+          "dateSpecific": "11.09 по 30.10",
           "teacher": {
-            "name": "Кох Юрий Валентинович",
-            "id": "126005",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/126005/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/24/small/p126005.jpg?token_static=9923f8c7a7a965edcc330a7c7e2d76e5"
+            "name": "Майорова Ксения Сергеевна",
+            "id": "102450",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102450/"
           }
         },
         {
@@ -351,18 +350,19 @@
           "dayIndex": 5,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
-          "subject": "Государственное и муниципальное управление",
+          "subject": "Управление проектами",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "М 11",
-          "campus": "Псковская (Корпус М)",
+          "room": "Б 500",
+          "campus": "Лоцманская (Корпус Б)",
           "groupName": "4411",
           "weekParity": "both",
-          "dateSpecific": "11.09 по 30.10",
+          "dateSpecific": "06.11 по 25.12",
           "teacher": {
-            "name": "Майорова Ксения Сергеевна",
-            "id": "102450",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/102450/"
+            "name": "Кох Юрий Валентинович",
+            "id": "126005",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/126005/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/24/small/p126005.jpg?token_static=9923f8c7a7a965edcc330a7c7e2d76e5"
           }
         },
         {

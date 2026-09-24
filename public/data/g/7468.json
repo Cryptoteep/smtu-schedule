@@ -1,7 +1,7 @@
 {
   "groupId": "7468",
   "groupName": "12515-01",
-  "updatedAt": "2026-09-24T07:35:20.652Z",
+  "updatedAt": "2026-09-24T13:32:43.679Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -115,6 +115,23 @@
             "name": "Тельнова Алина Андреевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p127996.jpg?token_static=6cfe9ed639541d3396ea2c9abd56717c"
           }
+        },
+        {
+          "id": "7468-1-14:00-7",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Лабораторные работы по общей и неорганической химии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 536(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гайдым Марина Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/14/small/p122706.jpg?token_static=31d4b9a4cc6765a4a7b120a15c9428c0"
+          }
         }
       ]
     },
@@ -163,6 +180,25 @@
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
+          "subject": "Начертательная геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 211",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чехович Сергей Владиславович",
+            "id": "101320",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101320/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101320.jpg?token_static=c1b4269032a4a13d778acc3f4ef7b1a6"
+          }
+        },
+        {
+          "id": "7468-2-11:50-4",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
           "subject": "Математический анализ",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -178,7 +214,7 @@
           }
         },
         {
-          "id": "7468-2-14:00-4",
+          "id": "7468-2-14:00-5",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -195,7 +231,7 @@
           }
         },
         {
-          "id": "7468-2-15:40-5",
+          "id": "7468-2-15:40-6",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -419,23 +455,6 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
           }
-        },
-        {
-          "id": "7468-4-15:40-7",
-          "dayIndex": 4,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Лабораторные работы по общей и неорганической химии",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 535(1)",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-01",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Гайдым Марина Андреевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/14/small/p122706.jpg?token_static=31d4b9a4cc6765a4a7b120a15c9428c0"
-          }
         }
       ]
     },
@@ -480,7 +499,43 @@
           }
         },
         {
-          "id": "7468-5-14:00-3",
+          "id": "7468-5-11:50-3",
+          "dayIndex": 5,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Социальное взаимодействие в профессиональной деятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 243",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-01",
+          "weekParity": "up",
+          "dateSpecific": "01.09 по 26.10",
+          "teacher": {
+            "name": "Сидоренко Светлана Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
+          }
+        },
+        {
+          "id": "7468-5-11:50-4",
+          "dayIndex": 5,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Социальное взаимодействие в профессиональной деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-01",
+          "weekParity": "up",
+          "dateSpecific": "27.10 по 23.12",
+          "teacher": {
+            "name": "Сидоренко Светлана Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
+          }
+        },
+        {
+          "id": "7468-5-14:00-5",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -496,7 +551,7 @@
           }
         },
         {
-          "id": "7468-5-15:40-4",
+          "id": "7468-5-15:40-6",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -525,39 +580,20 @@
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
-          "subject": "Социальное взаимодействие в профессиональной деятельности",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр 427",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-01",
-          "weekParity": "up",
-          "dateSpecific": "01.09 по 26.10",
-          "teacher": {
-            "name": "Сидоренко Светлана Анатольевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
-          }
-        },
-        {
-          "id": "7468-6-14:00-2",
-          "dayIndex": 6,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Социальное взаимодействие в профессиональной деятельности",
+          "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 427",
+          "room": "У 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-01",
           "weekParity": "up",
-          "dateSpecific": "27.10 по 23.12",
           "teacher": {
-            "name": "Сидоренко Светлана Анатольевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
+            "name": "Гиль Максим Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/06/small/p124850.jpg?token_static=d64aaadc32bf0e7484d2aa7b252e5950"
           }
         },
         {
-          "id": "7468-6-15:40-3",
+          "id": "7468-6-15:40-2",
           "dayIndex": 6,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,

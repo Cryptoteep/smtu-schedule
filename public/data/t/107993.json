@@ -3,8 +3,8 @@
   "teacherName": "Франтов Андрей Анатольевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p107993.jpg?token_static=f87ada0759fa8b05063b0b5c70c2b166",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/107993/",
-  "updatedAt": "2026-09-24T07:35:31.747Z",
-  "totalLessons": 4,
+  "updatedAt": "2026-09-24T13:32:52.174Z",
+  "totalLessons": 5,
   "days": [
     {
       "dayName": "Понедельник",
@@ -100,6 +100,25 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20200, 20280",
           "weekParity": "up",
+          "teacher": {
+            "name": "Франтов Андрей Анатольевич",
+            "id": "107993",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107993/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p107993.jpg?token_static=f87ada0759fa8b05063b0b5c70c2b166"
+          }
+        },
+        {
+          "id": "7759-6-08:30-2",
+          "dayIndex": 6,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 320 -320а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20280",
+          "weekParity": "down",
           "teacher": {
             "name": "Франтов Андрей Анатольевич",
             "id": "107993",

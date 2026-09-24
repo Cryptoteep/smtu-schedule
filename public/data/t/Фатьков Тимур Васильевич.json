@@ -2,7 +2,7 @@
   "teacherId": "Фатьков Тимур Васильевич",
   "teacherName": "Фатьков Тимур Васильевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/06/small/p134239.jpg?token_static=694c5177899da875156abdefbe3e8a53",
-  "updatedAt": "2026-09-24T07:35:31.750Z",
+  "updatedAt": "2026-09-24T13:32:52.179Z",
   "totalLessons": 10,
   "days": [
     {
@@ -55,23 +55,6 @@
           "rawType": "Практическое занятие",
           "room": "У 318",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "20223, 20221",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Фатьков Тимур Васильевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/06/small/p134239.jpg?token_static=694c5177899da875156abdefbe3e8a53"
-          }
-        },
-        {
-          "id": "7748-2-08:30-2",
-          "dayIndex": 2,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Программирование",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 319",
-          "campus": "Ульянка (Корпус У)",
           "groupName": "20223",
           "weekParity": "down",
           "teacher": {
@@ -103,7 +86,7 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7748-3-10:10-2",
+          "id": "7748-3-10:10-1",
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -120,7 +103,7 @@
           }
         },
         {
-          "id": "7748-3-10:10-3",
+          "id": "7748-3-10:10-2",
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -143,7 +126,7 @@
       "dayIndex": 4,
       "lessons": [
         {
-          "id": "7748-4-14:00-6",
+          "id": "7748-4-14:00-5",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -178,6 +161,23 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20221",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Фатьков Тимур Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/06/small/p134239.jpg?token_static=694c5177899da875156abdefbe3e8a53"
+          }
+        },
+        {
+          "id": "7746-6-10:10-2",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20221",
           "weekParity": "up",

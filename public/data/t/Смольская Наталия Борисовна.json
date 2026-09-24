@@ -2,8 +2,8 @@
   "teacherId": "Смольская Наталия Борисовна",
   "teacherName": "Смольская Наталия Борисовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/18/small/p128122.jpg?token_static=0409021b5f3f412cbd77cd16af1f493c",
-  "updatedAt": "2026-09-24T07:35:31.822Z",
-  "totalLessons": 6,
+  "updatedAt": "2026-09-24T13:32:52.281Z",
+  "totalLessons": 8,
   "days": [
     {
       "dayName": "Понедельник",
@@ -133,7 +133,44 @@
     {
       "dayName": "Пятница",
       "dayIndex": 5,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7811-5-15:40-2",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Иностранный язык в профессиональной и академической коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12739-51",
+          "weekParity": "both",
+          "dateSpecific": "20.10 по 07.12",
+          "teacher": {
+            "name": "Смольская Наталия Борисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/18/small/p128122.jpg?token_static=0409021b5f3f412cbd77cd16af1f493c"
+          }
+        },
+        {
+          "id": "7811-5-17:20-4",
+          "dayIndex": 5,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Иностранный язык в профессиональной и академической коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12739-51",
+          "weekParity": "both",
+          "dateSpecific": "20.10 по 07.12",
+          "teacher": {
+            "name": "Смольская Наталия Борисовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/18/small/p128122.jpg?token_static=0409021b5f3f412cbd77cd16af1f493c"
+          }
+        }
+      ]
     },
     {
       "dayName": "Суббота",

@@ -1,8 +1,71 @@
 {
   "groupId": "7780",
   "groupName": "20490",
-  "updatedAt": "2026-09-24T07:35:24.354Z",
+  "updatedAt": "2026-09-24T13:32:45.667Z",
   "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7780-1-14:00-1",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 243",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20490",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Марченко Сергей Сергеевич",
+            "id": "100733",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100733/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100733.jpg?token_static=ad8ce444af017c0dcbefaf3f17969b58"
+          }
+        },
+        {
+          "id": "7780-1-15:40-2",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Функциональное и логическое программирование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20490",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Петров Олег Николаевич",
+            "id": "100888",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8"
+          }
+        },
+        {
+          "id": "7780-1-17:20-3",
+          "dayIndex": 1,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 206",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20490",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Марченко Сергей Сергеевич",
+            "id": "100733",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100733/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100733.jpg?token_static=ad8ce444af017c0dcbefaf3f17969b58"
+          }
+        }
+      ]
+    },
     {
       "dayName": "Вторник",
       "dayIndex": 2,
@@ -496,18 +559,16 @@
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
-          "subject": "Функциональное и логическое программирование",
+          "subject": "Инженерная психология",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр 304",
+          "room": "У 101",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20490",
           "weekParity": "up",
           "teacher": {
-            "name": "Петров Олег Николаевич",
-            "id": "100888",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8"
+            "name": "Сидоренко Светлана Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
           }
         },
         {

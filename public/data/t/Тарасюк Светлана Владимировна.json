@@ -2,8 +2,8 @@
   "teacherId": "Тарасюк Светлана Владимировна",
   "teacherName": "Тарасюк Светлана Владимировна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/09/small/142870.jpg?token_static=37506ce12e86b664c1dc2472776c1947",
-  "updatedAt": "2026-09-24T07:35:31.790Z",
-  "totalLessons": 4,
+  "updatedAt": "2026-09-24T13:32:52.234Z",
+  "totalLessons": 7,
   "days": [
     {
       "dayName": "Понедельник",
@@ -76,7 +76,61 @@
     {
       "dayName": "Четверг",
       "dayIndex": 4,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7543-4-14:00-4",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 303ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1214",
+          "weekParity": "both",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Тарасюк Светлана Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/09/small/142870.jpg?token_static=37506ce12e86b664c1dc2472776c1947"
+          }
+        },
+        {
+          "id": "7544-4-11:50-3",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 212",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1216",
+          "weekParity": "both",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Тарасюк Светлана Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/09/small/142870.jpg?token_static=37506ce12e86b664c1dc2472776c1947"
+          }
+        },
+        {
+          "id": "7891-4-15:40-5",
+          "dayIndex": 4,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-02",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Тарасюк Светлана Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/09/small/142870.jpg?token_static=37506ce12e86b664c1dc2472776c1947"
+          }
+        }
+      ]
     },
     {
       "dayName": "Пятница",

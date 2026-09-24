@@ -2,8 +2,8 @@
   "teacherId": "Савченко Анна Викторовна",
   "teacherName": "Савченко Анна Викторовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041",
-  "updatedAt": "2026-09-24T07:35:31.749Z",
-  "totalLessons": 18,
+  "updatedAt": "2026-09-24T13:32:52.178Z",
+  "totalLessons": 16,
   "days": [
     {
       "dayName": "Понедельник",
@@ -121,7 +121,7 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7746-3-10:10-2",
+          "id": "7746-3-10:10-1",
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -138,25 +138,7 @@
           }
         },
         {
-          "id": "7746-3-10:10-3",
-          "dayIndex": 3,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Базы данных",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 217",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20221",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Савченко Анна Викторовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041"
-          }
-        },
-        {
-          "id": "7746-3-11:50-4",
+          "id": "7746-3-11:50-2",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -167,24 +149,6 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20221",
           "weekParity": "up",
-          "teacher": {
-            "name": "Савченко Анна Викторовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041"
-          }
-        },
-        {
-          "id": "7746-3-11:50-5",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Базы данных",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 218",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20221",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Савченко Анна Викторовна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041"

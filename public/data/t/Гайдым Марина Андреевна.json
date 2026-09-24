@@ -2,13 +2,31 @@
   "teacherId": "Гайдым Марина Андреевна",
   "teacherName": "Гайдым Марина Андреевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/14/small/p122706.jpg?token_static=31d4b9a4cc6765a4a7b120a15c9428c0",
-  "updatedAt": "2026-09-24T07:35:31.816Z",
+  "updatedAt": "2026-09-24T13:32:52.273Z",
   "totalLessons": 10,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7468-1-14:00-7",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Лабораторные работы по общей и неорганической химии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 536(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гайдым Марина Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/14/small/p122706.jpg?token_static=31d4b9a4cc6765a4a7b120a15c9428c0"
+          }
+        }
+      ]
     },
     {
       "dayName": "Вторник",
@@ -123,23 +141,6 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-06",
           "weekParity": "up",
-          "teacher": {
-            "name": "Гайдым Марина Андреевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/14/small/p122706.jpg?token_static=31d4b9a4cc6765a4a7b120a15c9428c0"
-          }
-        },
-        {
-          "id": "7468-4-15:40-7",
-          "dayIndex": 4,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Лабораторные работы по общей и неорганической химии",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 535(1)",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-01",
-          "weekParity": "down",
           "teacher": {
             "name": "Гайдым Марина Андреевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/14/small/p122706.jpg?token_static=31d4b9a4cc6765a4a7b120a15c9428c0"

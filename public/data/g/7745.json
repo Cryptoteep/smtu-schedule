@@ -1,7 +1,7 @@
 {
   "groupId": "7745",
   "groupName": "20220",
-  "updatedAt": "2026-09-24T07:35:21.547Z",
+  "updatedAt": "2026-09-24T13:32:43.884Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -212,27 +212,7 @@
           }
         },
         {
-          "id": "7745-3-14:00-2",
-          "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Высшая математика",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 107",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20220",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Свиркина Лариса Анатольевна",
-            "id": "122619",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
-          }
-        },
-        {
-          "id": "7745-3-15:40-3",
+          "id": "7745-3-15:40-2",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -251,7 +231,7 @@
           }
         },
         {
-          "id": "7745-3-15:40-4",
+          "id": "7745-3-15:40-3",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -565,7 +545,7 @@
           "subject": "Философия",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 163",
+          "room": "У 165",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20220",
           "weekParity": "down",

@@ -1,7 +1,7 @@
 {
   "groupId": "7744",
   "groupName": "20202",
-  "updatedAt": "2026-09-24T07:35:21.200Z",
+  "updatedAt": "2026-09-24T13:32:43.808Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -46,47 +46,7 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7744-2-08:30-1",
-          "dayIndex": 2,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Технологии разработки информационных ресурсов",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 435",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20202",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Горавнева Татьяна Сергеевна",
-            "id": "100281",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec"
-          }
-        },
-        {
-          "id": "7744-2-10:10-2",
-          "dayIndex": 2,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Технологии разработки информационных ресурсов",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 304",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20202",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Горавнева Татьяна Сергеевна",
-            "id": "100281",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec"
-          }
-        },
-        {
-          "id": "7744-2-11:50-3",
+          "id": "7744-2-11:50-1",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -103,27 +63,7 @@
           }
         },
         {
-          "id": "7744-2-11:50-4",
-          "dayIndex": 2,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Технологии разработки информационных ресурсов",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 304",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20202",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Горавнева Татьяна Сергеевна",
-            "id": "100281",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec"
-          }
-        },
-        {
-          "id": "7744-2-15:40-5",
+          "id": "7744-2-15:40-2",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -133,10 +73,29 @@
           "room": "Конгресс-Центр 306",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20202",
-          "weekParity": "down",
+          "weekParity": "up",
           "teacher": {
             "name": "Фомченко Андрей Андреевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
+          }
+        },
+        {
+          "id": "7744-2-15:40-3",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технологии разработки информационных ресурсов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20202",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Горавнева Татьяна Сергеевна",
+            "id": "100281",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec"
           }
         }
       ]
@@ -326,24 +285,6 @@
             "name": "Федорова Анастасия Валерьевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
           }
-        },
-        {
-          "id": "7744-4-10:10-4",
-          "dayIndex": 4,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Программирование",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 436",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20202",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Шестаков Михаил Николаевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/29/small/p126417.jpg?token_static=573c19622435f93a73655ad0fa4d26f5"
-          }
         }
       ]
     },
@@ -352,7 +293,41 @@
       "dayIndex": 5,
       "lessons": [
         {
-          "id": "7744-5-10:10-1",
+          "id": "7744-5-08:30-1",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20202",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шестаков Михаил Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/29/small/p126417.jpg?token_static=573c19622435f93a73655ad0fa4d26f5"
+          }
+        },
+        {
+          "id": "7744-5-08:30-2",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20202",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шестаков Михаил Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/29/small/p126417.jpg?token_static=573c19622435f93a73655ad0fa4d26f5"
+          }
+        },
+        {
+          "id": "7744-5-10:10-3",
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -369,7 +344,7 @@
           }
         },
         {
-          "id": "7744-5-10:10-2",
+          "id": "7744-5-10:10-4",
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -389,7 +364,7 @@
           }
         },
         {
-          "id": "7744-5-11:50-3",
+          "id": "7744-5-11:50-5",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -408,37 +383,36 @@
           }
         },
         {
-          "id": "7744-5-14:00-4",
+          "id": "7744-5-11:50-6",
           "dayIndex": 5,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
           "subject": "Теория вероятностей и математическая статистика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 105",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20202",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Мавлютов Айдар Марселевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/03/small/142859.jpg?token_static=99b29fb7edbcbfb2e897d7733bbab92b"
-          }
-        },
-        {
-          "id": "7744-5-14:00-5",
-          "dayIndex": 5,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Теория вероятностей и математическая статистика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 105",
+          "room": "У 212",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20202",
           "weekParity": "down",
           "teacher": {
             "name": "Мавлютов Айдар Марселевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/03/small/142859.jpg?token_static=99b29fb7edbcbfb2e897d7733bbab92b"
+          }
+        },
+        {
+          "id": "7744-5-14:00-7",
+          "dayIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20202",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
           }
         }
       ]
@@ -483,6 +457,23 @@
             "id": "123073",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc"
+          }
+        },
+        {
+          "id": "7744-6-11:50-3",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 439",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20202",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Фомченко Андрей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
           }
         }
       ]

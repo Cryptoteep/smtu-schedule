@@ -1,7 +1,7 @@
 {
   "groupId": "7759",
   "groupName": "20280",
-  "updatedAt": "2026-09-24T07:35:22.357Z",
+  "updatedAt": "2026-09-24T13:32:44.741Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -122,10 +122,11 @@
           "subject": "Документоведение и конфиденциальное делопроизводство",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 243",
+          "room": "У 438",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20280",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Беляцкая Анастасия Станиславовна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
@@ -139,11 +140,10 @@
           "subject": "Документоведение и конфиденциальное делопроизводство",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 438",
+          "room": "Конгресс-Центр 243",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20280",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Беляцкая Анастасия Станиславовна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
@@ -267,7 +267,23 @@
           }
         },
         {
-          "id": "7759-4-10:10-2",
+          "id": "7759-4-08:30-2",
+          "dayIndex": 4,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20280",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
+        },
+        {
+          "id": "7759-4-10:10-3",
           "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -284,7 +300,23 @@
           }
         },
         {
-          "id": "7759-4-11:50-3",
+          "id": "7759-4-10:10-4",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20280",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
+        },
+        {
+          "id": "7759-4-11:50-5",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -301,7 +333,7 @@
           }
         },
         {
-          "id": "7759-4-11:50-4",
+          "id": "7759-4-11:50-6",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -317,7 +349,7 @@
           }
         },
         {
-          "id": "7759-4-14:00-5",
+          "id": "7759-4-14:00-7",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -344,8 +376,8 @@
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Техническая диагностика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "А 517",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20280",
@@ -451,16 +483,18 @@
           "dayIndex": 6,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
-          "subject": "Философия",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 163",
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 320 -320а",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20280",
           "weekParity": "down",
           "teacher": {
-            "name": "Кленин Петр Владиславович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
+            "name": "Франтов Андрей Анатольевич",
+            "id": "107993",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107993/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p107993.jpg?token_static=f87ada0759fa8b05063b0b5c70c2b166"
           }
         },
         {
@@ -490,13 +524,15 @@
           "subject": "Документоведение и конфиденциальное делопроизводство",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 437",
+          "room": "У 451",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20280",
           "weekParity": "down",
           "teacher": {
-            "name": "Беляцкая Анастасия Станиславовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
+            "name": "Гарькушев Александр Юрьевич",
+            "id": "122911",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
           }
         },
         {
@@ -504,25 +540,6 @@
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
-          "subject": "Физика",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 301",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20280",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Франтов Андрей Анатольевич",
-            "id": "107993",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/107993/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p107993.jpg?token_static=f87ada0759fa8b05063b0b5c70c2b166"
-          }
-        },
-        {
-          "id": "7759-6-14:00-6",
-          "dayIndex": 6,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
           "subject": "Физика",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -535,6 +552,55 @@
             "id": "107993",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/107993/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p107993.jpg?token_static=f87ada0759fa8b05063b0b5c70c2b166"
+          }
+        },
+        {
+          "id": "7759-6-11:50-6",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20280",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
+        },
+        {
+          "id": "7759-6-14:00-7",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20280",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
+        },
+        {
+          "id": "7759-6-14:00-8",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Философия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20280",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
           }
         }
       ]

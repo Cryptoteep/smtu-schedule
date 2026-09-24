@@ -2,8 +2,8 @@
   "teacherId": "Тельнова Алина Андреевна",
   "teacherName": "Тельнова Алина Андреевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p127996.jpg?token_static=6cfe9ed639541d3396ea2c9abd56717c",
-  "updatedAt": "2026-09-24T07:35:31.823Z",
-  "totalLessons": 11,
+  "updatedAt": "2026-09-24T13:32:52.282Z",
+  "totalLessons": 13,
   "days": [
     {
       "dayName": "Понедельник",
@@ -55,6 +55,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-01",
           "weekParity": "up",
+          "teacher": {
+            "name": "Тельнова Алина Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p127996.jpg?token_static=6cfe9ed639541d3396ea2c9abd56717c"
+          }
+        },
+        {
+          "id": "7940-1-14:00-5",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12739-03",
+          "weekParity": "down",
           "teacher": {
             "name": "Тельнова Алина Андреевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p127996.jpg?token_static=6cfe9ed639541d3396ea2c9abd56717c"
@@ -133,6 +150,23 @@
           "room": "У 452",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Тельнова Алина Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p127996.jpg?token_static=6cfe9ed639541d3396ea2c9abd56717c"
+          }
+        },
+        {
+          "id": "7940-3-15:40-3",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12739-03",
           "weekParity": "down",
           "teacher": {
             "name": "Тельнова Алина Андреевна",

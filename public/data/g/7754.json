@@ -1,7 +1,7 @@
 {
   "groupId": "7754",
   "groupName": "20270",
-  "updatedAt": "2026-09-24T07:35:22.389Z",
+  "updatedAt": "2026-09-24T13:32:44.436Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -107,23 +107,6 @@
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Философия",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 163",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20270",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Кленин Петр Владиславович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
-          }
-        },
-        {
-          "id": "7754-3-10:10-2",
-          "dayIndex": 3,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
           "subject": "Физика",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -136,6 +119,23 @@
             "id": "122535",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122535/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p122535.jpg?token_static=463a6f73b30879b419c62a9fc5283b73"
+          }
+        },
+        {
+          "id": "7754-3-10:10-2",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Философия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
           }
         },
         {
@@ -214,6 +214,25 @@
             "id": "122619",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
+          }
+        },
+        {
+          "id": "7754-3-15:40-7",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теоретическая механика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 504",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Мелконян Армен Левонович",
+            "id": "100749",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100749/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100749.jpg?token_static=a604f7cb24d29165ccbd7d74ed7372ee"
           }
         }
       ]

@@ -1,7 +1,7 @@
 {
   "groupId": "7776",
   "groupName": "20450",
-  "updatedAt": "2026-09-24T07:35:23.461Z",
+  "updatedAt": "2026-09-24T13:32:45.558Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -481,6 +481,50 @@
       ]
     },
     {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7776-5-08:30-1",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 451",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Марченко Сергей Сергеевич",
+            "id": "100733",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100733/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100733.jpg?token_static=ad8ce444af017c0dcbefaf3f17969b58"
+          }
+        },
+        {
+          "id": "7776-5-10:10-2",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Технико-экономическое обоснование проектов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 451",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Марченко Сергей Сергеевич",
+            "id": "100733",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100733/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p100733.jpg?token_static=ad8ce444af017c0dcbefaf3f17969b58"
+          }
+        }
+      ]
+    },
+    {
       "dayName": "Суббота",
       "dayIndex": 6,
       "lessons": [
@@ -535,6 +579,23 @@
             "id": "122911",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
+          }
+        },
+        {
+          "id": "7776-6-14:00-4",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Инженерная психология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 101",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сидоренко Светлана Анатольевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
           }
         }
       ]

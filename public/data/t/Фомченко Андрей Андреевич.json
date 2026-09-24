@@ -2,8 +2,8 @@
   "teacherId": "Фомченко Андрей Андреевич",
   "teacherName": "Фомченко Андрей Андреевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p132126.jpg?token_static=13600721e1ba8e852cd4c1abd0b14f92",
-  "updatedAt": "2026-09-24T07:35:31.759Z",
-  "totalLessons": 15,
+  "updatedAt": "2026-09-24T13:32:52.191Z",
+  "totalLessons": 16,
   "days": [
     {
       "dayName": "Понедельник",
@@ -83,7 +83,7 @@
           }
         },
         {
-          "id": "7744-2-15:40-5",
+          "id": "7744-2-15:40-2",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -93,7 +93,7 @@
           "room": "Конгресс-Центр 306",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20202",
-          "weekParity": "down",
+          "weekParity": "up",
           "teacher": {
             "name": "Фомченко Андрей Андреевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
@@ -295,7 +295,25 @@
     {
       "dayName": "Суббота",
       "dayIndex": 6,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7744-6-11:50-3",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 439",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20202",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Фомченко Андрей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
+          }
+        }
+      ]
     }
   ]
 }

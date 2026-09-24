@@ -2,8 +2,8 @@
   "teacherId": "Шестаков Михаил Николаевич",
   "teacherName": "Шестаков Михаил Николаевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/29/small/p126417.jpg?token_static=573c19622435f93a73655ad0fa4d26f5",
-  "updatedAt": "2026-09-24T07:35:31.747Z",
-  "totalLessons": 13,
+  "updatedAt": "2026-09-24T13:32:52.175Z",
+  "totalLessons": 15,
   "days": [
     {
       "dayName": "Понедельник",
@@ -202,6 +202,40 @@
           "room": "У 316",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20227",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шестаков Михаил Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/29/small/p126417.jpg?token_static=573c19622435f93a73655ad0fa4d26f5"
+          }
+        },
+        {
+          "id": "7744-5-08:30-1",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20202",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шестаков Михаил Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/29/small/p126417.jpg?token_static=573c19622435f93a73655ad0fa4d26f5"
+          }
+        },
+        {
+          "id": "7744-5-08:30-2",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20202",
           "weekParity": "down",
           "teacher": {
             "name": "Шестаков Михаил Николаевич",

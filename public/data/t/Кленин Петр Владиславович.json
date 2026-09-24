@@ -2,8 +2,8 @@
   "teacherId": "Кленин Петр Владиславович",
   "teacherName": "Кленин Петр Владиславович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9",
-  "updatedAt": "2026-09-24T07:35:31.724Z",
-  "totalLessons": 26,
+  "updatedAt": "2026-09-24T13:32:52.136Z",
+  "totalLessons": 25,
   "days": [
     {
       "dayName": "Понедельник",
@@ -48,7 +48,7 @@
           }
         },
         {
-          "id": "7744-2-11:50-3",
+          "id": "7744-2-11:50-1",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -139,7 +139,7 @@
           }
         },
         {
-          "id": "7754-3-10:10-1",
+          "id": "7754-3-10:10-2",
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -219,7 +219,7 @@
           "rawType": "Лекция",
           "room": "У 115",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "20202, 20221, 20222, 20223, 20250, 20290, 20291",
+          "groupName": "20202, 20250, 20290, 20291",
           "weekParity": "down",
           "dateSpecific": "21.09",
           "teacher": {
@@ -439,33 +439,16 @@
       "dayIndex": 6,
       "lessons": [
         {
-          "id": "7743-6-14:00-6",
+          "id": "7743-6-14:00-5",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Философия",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 163",
+          "room": "У 165",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "20200, 20220",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Кленин Петр Владиславович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
-          }
-        },
-        {
-          "id": "7759-6-08:30-2",
-          "dayIndex": 6,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Философия",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 163",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20280",
+          "groupName": "20200, 20220, 20280",
           "weekParity": "down",
           "teacher": {
             "name": "Кленин Петр Владиславович",

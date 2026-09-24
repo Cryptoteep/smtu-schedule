@@ -3,8 +3,8 @@
   "teacherName": "Стрельникова Лариса Анатольевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/06/small/p106255.jpg?token_static=bf99c773ad46c21eaaf8e48487bee2ff",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/106255/",
-  "updatedAt": "2026-09-24T07:35:31.803Z",
-  "totalLessons": 19,
+  "updatedAt": "2026-09-24T13:32:52.254Z",
+  "totalLessons": 20,
   "days": [
     {
       "dayName": "Понедельник",
@@ -90,7 +90,26 @@
           }
         },
         {
-          "id": "7895-2-15:40-5",
+          "id": "7895-2-14:00-4",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Этика бизнеса",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "М 31",
+          "campus": "Псковская (Корпус М)",
+          "groupName": "12638-09",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Стрельникова Лариса Анатольевна",
+            "id": "106255",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106255/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/06/small/p106255.jpg?token_static=bf99c773ad46c21eaaf8e48487bee2ff"
+          }
+        },
+        {
+          "id": "7895-2-15:40-6",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,

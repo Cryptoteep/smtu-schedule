@@ -3,8 +3,8 @@
   "teacherName": "Петров Олег Николаевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
-  "updatedAt": "2026-09-24T07:35:31.751Z",
-  "totalLessons": 26,
+  "updatedAt": "2026-09-24T13:32:52.181Z",
+  "totalLessons": 27,
   "days": [
     {
       "dayName": "Понедельник",
@@ -96,6 +96,25 @@
           "room": "Конгресс-Центр 304",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-50",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Петров Олег Николаевич",
+            "id": "100888",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8"
+          }
+        },
+        {
+          "id": "7780-1-15:40-2",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Функциональное и логическое программирование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20490",
           "weekParity": "up",
           "teacher": {
             "name": "Петров Олег Николаевич",
