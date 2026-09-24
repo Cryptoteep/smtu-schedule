@@ -1,7 +1,7 @@
 {
   "groupId": "7820",
   "groupName": "12515-02",
-  "updatedAt": "2026-09-24T13:32:43.590Z",
+  "updatedAt": "2026-09-24T18:25:18.285Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -50,26 +50,7 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7820-2-11:50-1",
-          "dayIndex": 2,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Начертательная геометрия",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 215",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-02",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Чехович Сергей Владиславович",
-            "id": "101320",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101320/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101320.jpg?token_static=c1b4269032a4a13d778acc3f4ef7b1a6"
-          }
-        },
-        {
-          "id": "7820-2-14:00-2",
+          "id": "7820-2-14:00-1",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -79,7 +60,7 @@
           "room": "У 544",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-02",
-          "weekParity": "both",
+          "weekParity": "down",
           "teacher": {
             "name": "Русина Лариса Германовна",
             "id": "123501",
@@ -88,7 +69,7 @@
           }
         },
         {
-          "id": "7820-2-15:40-3",
+          "id": "7820-2-15:40-2",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -105,7 +86,7 @@
           }
         },
         {
-          "id": "7820-2-17:20-4",
+          "id": "7820-2-17:20-3",
           "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -119,6 +100,25 @@
           "teacher": {
             "name": "Гаранина Евгения Алексеевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
+          }
+        },
+        {
+          "id": "7820-2-19:00-4",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Начертательная геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 313",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-02",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чехович Сергей Владиславович",
+            "id": "101320",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101320/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101320.jpg?token_static=c1b4269032a4a13d778acc3f4ef7b1a6"
           }
         }
       ]
@@ -436,13 +436,13 @@
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Социальное взаимодействие в профессиональной деятельности",
-          "type": "lecture",
-          "rawType": "Лекция",
+          "type": "practice",
+          "rawType": "Практическое занятие",
           "room": "Конгресс-Центр 243",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-02",
           "weekParity": "up",
-          "dateSpecific": "01.09 по 26.10",
+          "dateSpecific": "27.10 по 23.12",
           "teacher": {
             "name": "Сидоренко Светлана Анатольевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
@@ -454,13 +454,13 @@
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Социальное взаимодействие в профессиональной деятельности",
-          "type": "practice",
-          "rawType": "Практическое занятие",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "Конгресс-Центр 243",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-02",
           "weekParity": "up",
-          "dateSpecific": "27.10 по 23.12",
+          "dateSpecific": "01.09 по 26.10",
           "teacher": {
             "name": "Сидоренко Светлана Анатольевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
@@ -480,7 +480,7 @@
           "subject": "Информатика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 415",
+          "room": "У 414",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-02",
           "weekParity": "up",

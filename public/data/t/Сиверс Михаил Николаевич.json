@@ -3,8 +3,8 @@
   "teacherName": "Сиверс Михаил Николаевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/04/30/small/p101071.jpg?token_static=21316d0236404d4b3c4243cdaef43fb2",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101071/",
-  "updatedAt": "2026-09-24T13:32:52.137Z",
-  "totalLessons": 14,
+  "updatedAt": "2026-09-24T18:25:27.831Z",
+  "totalLessons": 15,
   "days": [
     {
       "dayName": "Понедельник",
@@ -186,7 +186,7 @@
           "rawType": "Лекция",
           "room": "У 161",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "1284, 20271",
+          "groupName": "1284, 20270, 20271",
           "weekParity": "up",
           "teacher": {
             "name": "Сиверс Михаил Николаевич",
@@ -274,6 +274,25 @@
           "subject": "Сопротивление материалов",
           "type": "lab",
           "rawType": "Лабораторное занятие",
+          "room": "У 144",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сиверс Михаил Николаевич",
+            "id": "101071",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101071/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/04/30/small/p101071.jpg?token_static=21316d0236404d4b3c4243cdaef43fb2"
+          }
+        },
+        {
+          "id": "7755-5-14:00-6",
+          "dayIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Сопротивление материалов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
           "room": "У 144",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20271",

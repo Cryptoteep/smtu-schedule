@@ -2,7 +2,7 @@
   "teacherId": "Беляцкая Анастасия Станиславовна",
   "teacherName": "Беляцкая Анастасия Станиславовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81",
-  "updatedAt": "2026-09-24T13:32:52.187Z",
+  "updatedAt": "2026-09-24T18:25:27.868Z",
   "totalLessons": 13,
   "days": [
     {
@@ -63,7 +63,7 @@
           }
         },
         {
-          "id": "7759-2-11:50-5",
+          "id": "7759-2-11:50-6",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -157,23 +157,6 @@
           }
         },
         {
-          "id": "7759-3-11:50-3",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Документоведение и конфиденциальное делопроизводство",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 308",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20280",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Беляцкая Анастасия Станиславовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
-          }
-        },
-        {
           "id": "7805-3-15:40-5",
           "dayIndex": 3,
           "time": "15:40-17:10",
@@ -249,6 +232,23 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20280",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Беляцкая Анастасия Станиславовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
+          }
+        },
+        {
+          "id": "7759-6-11:50-6",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Документоведение и конфиденциальное делопроизводство",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 451",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20280",
           "weekParity": "down",

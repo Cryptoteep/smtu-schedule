@@ -1,7 +1,7 @@
 {
   "groupId": "7755",
   "groupName": "20271",
-  "updatedAt": "2026-09-24T13:32:44.639Z",
+  "updatedAt": "2026-09-24T18:25:19.249Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -408,22 +408,19 @@
           }
         },
         {
-          "id": "7755-5-11:50-3",
+          "id": "7755-5-10:10-3",
           "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Высшая математика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 154",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Экология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 105",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20271",
-          "weekParity": "up",
+          "weekParity": "down",
           "teacher": {
-            "name": "Свиркина Лариса Анатольевна",
-            "id": "122619",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
+            "name": "Кафедра промышленной, экологической и климатической безопасности"
           }
         },
         {
@@ -434,10 +431,10 @@
           "subject": "Высшая математика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 154",
+          "room": "У 313",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20271",
-          "weekParity": "down",
+          "weekParity": "up",
           "teacher": {
             "name": "Свиркина Лариса Анатольевна",
             "id": "122619",
@@ -446,17 +443,17 @@
           }
         },
         {
-          "id": "7755-5-14:00-5",
+          "id": "7755-5-11:50-5",
           "dayIndex": 5,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
           "subject": "Теоретическая механика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 319а(1)",
+          "room": "У 211",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20271",
-          "weekParity": "up",
+          "weekParity": "down",
           "teacher": {
             "name": "Бабанин Николай Викторович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p102816.jpg?token_static=e11a96b09e76656b823aeb4d27fc5b2b"
@@ -467,30 +464,13 @@
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
-          "subject": "Материаловедение",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 190",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20271",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Смирнова Дарья Леонидовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/21/small/p115788.jpg?token_static=dae84bbc10e7606ca1d3d6f5a714fff4"
-          }
-        },
-        {
-          "id": "7755-5-15:40-7",
-          "dayIndex": 5,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
           "subject": "Сопротивление материалов",
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 144",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20271",
-          "weekParity": "up",
+          "weekParity": "down",
           "teacher": {
             "name": "Сиверс Михаил Николаевич",
             "id": "101071",
@@ -499,7 +479,7 @@
           }
         },
         {
-          "id": "7755-5-15:40-8",
+          "id": "7755-5-15:40-7",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,

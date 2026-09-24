@@ -2,8 +2,8 @@
   "teacherId": "Андреев Кирилл Иванович",
   "teacherName": "Андреев Кирилл Иванович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128239.jpg?token_static=181cfcb6185f86a45a92e70dac84e40c",
-  "updatedAt": "2026-09-24T13:32:52.195Z",
-  "totalLessons": 19,
+  "updatedAt": "2026-09-24T18:25:27.874Z",
+  "totalLessons": 20,
   "days": [
     {
       "dayName": "Понедельник",
@@ -231,7 +231,25 @@
     {
       "dayName": "Четверг",
       "dayIndex": 4,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7804-4-15:40-6",
+          "dayIndex": 4,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-05",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Андреев Кирилл Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128239.jpg?token_static=181cfcb6185f86a45a92e70dac84e40c"
+          }
+        }
+      ]
     },
     {
       "dayName": "Пятница",

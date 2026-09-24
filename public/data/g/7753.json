@@ -1,7 +1,7 @@
 {
   "groupId": "7753",
   "groupName": "20250",
-  "updatedAt": "2026-09-24T13:32:44.425Z",
+  "updatedAt": "2026-09-24T18:25:19.105Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -25,22 +25,6 @@
         },
         {
           "id": "7753-1-10:10-2",
-          "dayIndex": 1,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Программирование",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 316",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20250",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Кафедра вычислительной техники и информационных технологий"
-          }
-        },
-        {
-          "id": "7753-1-10:10-3",
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -107,6 +91,22 @@
           "subject": "Программирование",
           "type": "practice",
           "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20250",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра вычислительной техники и информационных технологий"
+          }
+        },
+        {
+          "id": "7753-2-10:10-4",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
           "room": "У 439",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20250",
@@ -116,7 +116,7 @@
           }
         },
         {
-          "id": "7753-2-11:50-4",
+          "id": "7753-2-11:50-5",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -135,7 +135,7 @@
           }
         },
         {
-          "id": "7753-2-11:50-5",
+          "id": "7753-2-11:50-6",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -152,7 +152,7 @@
           }
         },
         {
-          "id": "7753-2-14:00-6",
+          "id": "7753-2-14:00-7",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -169,6 +169,25 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9"
           }
+        },
+        {
+          "id": "7753-2-14:00-8",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Дифференциальные уравнения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 403",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20250",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пак Элла Ефимовна",
+            "id": "123073",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc"
+          }
         }
       ]
     },
@@ -177,27 +196,7 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7753-3-08:30-1",
-          "dayIndex": 3,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Теория вероятностей и математическая статистика",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 115",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20250",
-          "weekParity": "both",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Пак Элла Ефимовна",
-            "id": "123073",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc"
-          }
-        },
-        {
-          "id": "7753-3-10:10-2",
+          "id": "7753-3-10:10-1",
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -216,7 +215,7 @@
           }
         },
         {
-          "id": "7753-3-10:10-3",
+          "id": "7753-3-10:10-2",
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -255,25 +254,7 @@
           }
         },
         {
-          "id": "7753-4-08:30-2",
-          "dayIndex": 4,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Философия",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 115",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20250",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Кленин Петр Владиславович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
-          }
-        },
-        {
-          "id": "7753-4-10:10-3",
+          "id": "7753-4-10:10-2",
           "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -292,7 +273,7 @@
           }
         },
         {
-          "id": "7753-4-10:10-4",
+          "id": "7753-4-10:10-3",
           "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -309,7 +290,7 @@
           }
         },
         {
-          "id": "7753-4-11:50-5",
+          "id": "7753-4-11:50-4",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -328,18 +309,17 @@
           }
         },
         {
-          "id": "7753-4-11:50-6",
+          "id": "7753-4-11:50-5",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Технологии разработки информационных ресурсов",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 414",
+          "room": "Конгресс-Центр 307",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20250",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Горавнева Татьяна Сергеевна",
             "id": "100281",
@@ -348,7 +328,7 @@
           }
         },
         {
-          "id": "7753-4-14:00-7",
+          "id": "7753-4-14:00-6",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -373,7 +353,41 @@
       "dayIndex": 5,
       "lessons": [
         {
-          "id": "7753-5-10:10-1",
+          "id": "7753-5-08:30-1",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20250",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Арбузов Богдан Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/11/26/small/p127334.jpg?token_static=29f1144041dac363bbd8c28ec8f520bb"
+          }
+        },
+        {
+          "id": "7753-5-08:30-2",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20250",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Арбузов Богдан Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/11/26/small/p127334.jpg?token_static=29f1144041dac363bbd8c28ec8f520bb"
+          }
+        },
+        {
+          "id": "7753-5-10:10-3",
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -390,7 +404,7 @@
           }
         },
         {
-          "id": "7753-5-10:10-2",
+          "id": "7753-5-10:10-4",
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -410,7 +424,7 @@
           }
         },
         {
-          "id": "7753-5-11:50-3",
+          "id": "7753-5-11:50-5",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -427,6 +441,42 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc"
           }
+        },
+        {
+          "id": "7753-5-11:50-6",
+          "dayIndex": 5,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 544",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20250",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пак Элла Ефимовна",
+            "id": "123073",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc"
+          }
+        },
+        {
+          "id": "7753-5-14:00-7",
+          "dayIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информационная безопасность и защита информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 242",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20250",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Федорова Анастасия Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
+          }
         }
       ]
     },
@@ -436,6 +486,22 @@
       "lessons": [
         {
           "id": "7753-6-08:30-1",
+          "dayIndex": 6,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20250",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
+        },
+        {
+          "id": "7753-6-08:30-2",
           "dayIndex": 6,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
@@ -451,6 +517,38 @@
             "id": "123073",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc"
+          }
+        },
+        {
+          "id": "7753-6-10:10-3",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20250",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
+        },
+        {
+          "id": "7753-6-11:50-4",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20250",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
           }
         }
       ]

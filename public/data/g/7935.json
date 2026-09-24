@@ -1,7 +1,7 @@
 {
   "groupId": "7935",
   "groupName": "12317-03",
-  "updatedAt": "2026-09-24T13:32:39.815Z",
+  "updatedAt": "2026-09-24T18:25:14.042Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -48,7 +48,7 @@
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Общая и неорганическая химия",
+          "subject": "Лабораторные работы по общей и неорганической химии",
           "type": "lab",
           "rawType": "Лабораторное занятие",
           "room": "У 536(1)",
@@ -392,12 +392,13 @@
           "subject": "Информатика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У Укаф",
+          "room": "У 103",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12317-03",
           "weekParity": "down",
           "teacher": {
-            "name": "Кафедра вычислительной техники и информационных технологий"
+            "name": "Гриценко Кристина Вадимовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3"
           }
         }
       ]

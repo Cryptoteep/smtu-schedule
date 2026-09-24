@@ -1,7 +1,7 @@
 {
   "groupId": "7804",
   "groupName": "12509-05",
-  "updatedAt": "2026-09-24T13:32:43.224Z",
+  "updatedAt": "2026-09-24T18:25:17.633Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -286,12 +286,13 @@
           "subject": "Программирование",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 304",
+          "room": "Конгресс-Центр 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-05",
           "weekParity": "up",
           "teacher": {
-            "name": "Кафедра вычислительной техники и информационных технологий"
+            "name": "Андреев Кирилл Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128239.jpg?token_static=181cfcb6185f86a45a92e70dac84e40c"
           }
         }
       ]
@@ -366,23 +367,6 @@
           "teacher": {
             "name": "Высицкий Анатолий Федорович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100242.jpg?token_static=b9428d49bd30bd62760e23d86635f21e"
-          }
-        },
-        {
-          "id": "7804-5-11:50-5",
-          "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Программирование",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 202-ИИТ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-05",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Кафедра вычислительной техники и информационных технологий"
           }
         }
       ]
@@ -472,8 +456,8 @@
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Программирование",
-          "type": "lecture",
-          "rawType": "Лекция",
+          "type": "practice",
+          "rawType": "Практическое занятие",
           "room": "У 205-ИИТ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-05",

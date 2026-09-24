@@ -2,8 +2,8 @@
   "teacherId": "Завьялов Артем Юрьевич",
   "teacherName": "Завьялов Артем Юрьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/10/small/p125367.jpg?token_static=e9be5f756fd0ae8a47d7bfc7e7b4d7b6",
-  "updatedAt": "2026-09-24T13:32:52.148Z",
-  "totalLessons": 11,
+  "updatedAt": "2026-09-24T18:25:27.839Z",
+  "totalLessons": 12,
   "days": [
     {
       "dayName": "Понедельник",
@@ -207,6 +207,24 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "1262",
           "weekParity": "up",
+          "teacher": {
+            "name": "Завьялов Артем Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/10/small/p125367.jpg?token_static=e9be5f756fd0ae8a47d7bfc7e7b4d7b6"
+          }
+        },
+        {
+          "id": "7765-5-14:00-4",
+          "dayIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Цифровая платформа &quot;Индустрия 4.0&quot;",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20313",
+          "weekParity": "down",
+          "dateSpecific": "4.0",
           "teacher": {
             "name": "Завьялов Артем Юрьевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/10/small/p125367.jpg?token_static=e9be5f756fd0ae8a47d7bfc7e7b4d7b6"

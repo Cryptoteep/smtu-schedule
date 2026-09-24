@@ -2,8 +2,8 @@
   "teacherId": "Бабанин Николай Викторович",
   "teacherName": "Бабанин Николай Викторович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p102816.jpg?token_static=e11a96b09e76656b823aeb4d27fc5b2b",
-  "updatedAt": "2026-09-24T13:32:52.136Z",
-  "totalLessons": 23,
+  "updatedAt": "2026-09-24T18:25:27.830Z",
+  "totalLessons": 24,
   "days": [
     {
       "dayName": "Понедельник",
@@ -290,6 +290,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "2290",
           "weekParity": "both",
+          "teacher": {
+            "name": "Бабанин Николай Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p102816.jpg?token_static=e11a96b09e76656b823aeb4d27fc5b2b"
+          }
+        },
+        {
+          "id": "7755-5-11:50-5",
+          "dayIndex": 5,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теоретическая механика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 211",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "down",
           "teacher": {
             "name": "Бабанин Николай Викторович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p102816.jpg?token_static=e11a96b09e76656b823aeb4d27fc5b2b"

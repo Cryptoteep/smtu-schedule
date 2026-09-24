@@ -1,7 +1,7 @@
 {
   "groupId": "7759",
   "groupName": "20280",
-  "updatedAt": "2026-09-24T13:32:44.741Z",
+  "updatedAt": "2026-09-24T18:25:19.663Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -120,16 +120,17 @@
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Документоведение и конфиденциальное делопроизводство",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 438",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 243",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20280",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
-            "name": "Беляцкая Анастасия Станиславовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
+            "name": "Гарькушев Александр Юрьевич",
+            "id": "122911",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
           }
         },
         {
@@ -140,10 +141,11 @@
           "subject": "Документоведение и конфиденциальное делопроизводство",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 243",
+          "room": "У 438",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20280",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Беляцкая Анастасия Станиславовна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
@@ -198,15 +200,17 @@
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Документоведение и конфиденциальное делопроизводство",
-          "type": "practice",
-          "rawType": "Практическое занятие",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "У 308",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20280",
           "weekParity": "up",
           "teacher": {
-            "name": "Беляцкая Анастасия Станиславовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
+            "name": "Гарькушев Александр Юрьевич",
+            "id": "122911",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
           }
         },
         {
@@ -376,23 +380,6 @@
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Техническая диагностика",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 517",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "20280",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Буковский Илья Валерьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101918.jpg?token_static=cff0f02ec383b0030b735f40d18a8d00"
-          }
-        },
-        {
-          "id": "7759-5-10:10-2",
-          "dayIndex": 5,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Техническая диагностика",
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "А 517",
@@ -405,7 +392,7 @@
           }
         },
         {
-          "id": "7759-5-11:50-3",
+          "id": "7759-5-11:50-2",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -421,7 +408,7 @@
           }
         },
         {
-          "id": "7759-5-11:50-4",
+          "id": "7759-5-11:50-3",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -438,7 +425,7 @@
           }
         },
         {
-          "id": "7759-5-14:00-5",
+          "id": "7759-5-14:00-4",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -521,32 +508,13 @@
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Документоведение и конфиденциальное делопроизводство",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 451",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20280",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Гарькушев Александр Юрьевич",
-            "id": "122911",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
-          }
-        },
-        {
-          "id": "7759-6-11:50-5",
-          "dayIndex": 6,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
           "subject": "Физика",
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 322-322а",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20280",
-          "weekParity": "up",
+          "weekParity": "down",
           "teacher": {
             "name": "Франтов Андрей Анатольевич",
             "id": "107993",
@@ -555,7 +523,7 @@
           }
         },
         {
-          "id": "7759-6-11:50-6",
+          "id": "7759-6-11:50-5",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -565,9 +533,26 @@
           "room": "У Спортзал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20280",
-          "weekParity": "down",
+          "weekParity": "up",
           "teacher": {
             "name": "Кафедра физического воспитания"
+          }
+        },
+        {
+          "id": "7759-6-11:50-6",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Документоведение и конфиденциальное делопроизводство",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 451",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20280",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Беляцкая Анастасия Станиславовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
           }
         },
         {

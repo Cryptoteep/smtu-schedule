@@ -2,8 +2,8 @@
   "teacherId": "Арбузов Богдан Евгеньевич",
   "teacherName": "Арбузов Богдан Евгеньевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/11/26/small/p127334.jpg?token_static=29f1144041dac363bbd8c28ec8f520bb",
-  "updatedAt": "2026-09-24T13:32:52.189Z",
-  "totalLessons": 10,
+  "updatedAt": "2026-09-24T18:25:27.869Z",
+  "totalLessons": 12,
   "days": [
     {
       "dayName": "Понедельник",
@@ -145,6 +145,40 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-01",
           "weekParity": "up",
+          "teacher": {
+            "name": "Арбузов Богдан Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/11/26/small/p127334.jpg?token_static=29f1144041dac363bbd8c28ec8f520bb"
+          }
+        },
+        {
+          "id": "7753-5-08:30-1",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20250",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Арбузов Богдан Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/11/26/small/p127334.jpg?token_static=29f1144041dac363bbd8c28ec8f520bb"
+          }
+        },
+        {
+          "id": "7753-5-08:30-2",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20250",
+          "weekParity": "down",
           "teacher": {
             "name": "Арбузов Богдан Евгеньевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/11/26/small/p127334.jpg?token_static=29f1144041dac363bbd8c28ec8f520bb"
