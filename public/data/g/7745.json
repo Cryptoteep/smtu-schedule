@@ -1,7 +1,7 @@
 {
   "groupId": "7745",
   "groupName": "20220",
-  "updatedAt": "2026-09-24T18:25:18.992Z",
+  "updatedAt": "2026-09-24T23:12:18.822Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -456,6 +456,22 @@
           "teacher": {
             "name": "Яковлев Станислав Николаевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/20/small/p101951.jpg?token_static=4ff90f825011ece439d21829dd0320fe"
+          }
+        },
+        {
+          "id": "7745-5-10:10-4",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Экология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 105",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20220",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра промышленной, экологической и климатической безопасности"
           }
         }
       ]

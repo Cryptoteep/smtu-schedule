@@ -1,7 +1,7 @@
 {
   "groupId": "7647",
   "groupName": "3350",
-  "updatedAt": "2026-09-24T18:25:16.442Z",
+  "updatedAt": "2026-09-24T23:12:16.124Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -548,7 +548,7 @@
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Военная подготовка (офицеры запаса)",
+          "subject": "Военная подготовка (матросы/солдаты запаса)",
           "type": "military",
           "rawType": "Практическое занятие",
           "room": "Г 216",
@@ -564,7 +564,7 @@
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Военная подготовка (матросы/солдаты запаса)",
+          "subject": "Военная подготовка (офицеры запаса)",
           "type": "military",
           "rawType": "Практическое занятие",
           "room": "Г 216",
@@ -706,10 +706,11 @@
           "subject": "Основы военной подготовки",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 115",
           "campus": "Ульянка (Корпус У)",
           "groupName": "3350",
           "weekParity": "down",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Величко Борис Валерьевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"

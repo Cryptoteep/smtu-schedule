@@ -1,7 +1,7 @@
 {
   "groupId": "7754",
   "groupName": "20270",
-  "updatedAt": "2026-09-24T18:25:19.563Z",
+  "updatedAt": "2026-09-24T23:12:19.438Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -182,6 +182,22 @@
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
+        },
+        {
+          "id": "7754-3-14:00-6",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
           "subject": "Высшая математика",
           "type": "lecture",
           "rawType": "Лекция",
@@ -194,22 +210,6 @@
             "id": "122619",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
-          }
-        },
-        {
-          "id": "7754-3-14:00-6",
-          "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Физическая культура и спорт (элективная)",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20270",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
           }
         },
         {
@@ -383,8 +383,10 @@
           "groupName": "20270",
           "weekParity": "up",
           "teacher": {
-            "name": "Яковлев Станислав Николаевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/20/small/p101951.jpg?token_static=4ff90f825011ece439d21829dd0320fe"
+            "name": "Сиверс Михаил Николаевич",
+            "id": "101071",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101071/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/04/30/small/p101071.jpg?token_static=21316d0236404d4b3c4243cdaef43fb2"
           }
         },
         {
@@ -414,7 +416,7 @@
           "subject": "Экология",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 451",
+          "room": "У 105",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20270",
           "weekParity": "down",

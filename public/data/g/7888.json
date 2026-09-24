@@ -1,7 +1,7 @@
 {
   "groupId": "7888",
   "groupName": "12638-11",
-  "updatedAt": "2026-09-24T18:25:21.660Z",
+  "updatedAt": "2026-09-24T23:12:21.555Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -409,10 +409,10 @@
           "subject": "Документационное обеспечение деятельности",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 514",
+          "room": "У 518",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12638-11",
-          "weekParity": "both",
+          "weekParity": "down",
           "teacher": {
             "name": "Скрябина Яна Олеговна",
             "id": "107663",
@@ -485,6 +485,23 @@
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-11",
+          "weekParity": "down",
+          "dateSpecific": "26.10",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
+        },
+        {
+          "id": "7888-6-10:10-2",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическая культура и спорт",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 115",
@@ -497,23 +514,6 @@
             "id": "122733",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122733/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/07/27/small/p122733.jpg?token_static=27d92051d1cfd5ee9dff8d2cd1b2ecd4"
-          }
-        },
-        {
-          "id": "7888-6-10:10-2",
-          "dayIndex": 6,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12638-11",
-          "weekParity": "down",
-          "dateSpecific": "26.10",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
           }
         },
         {

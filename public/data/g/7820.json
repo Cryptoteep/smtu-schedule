@@ -1,7 +1,7 @@
 {
   "groupId": "7820",
   "groupName": "12515-02",
-  "updatedAt": "2026-09-24T18:25:18.285Z",
+  "updatedAt": "2026-09-24T23:12:18.255Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -103,7 +103,24 @@
           }
         },
         {
-          "id": "7820-2-19:00-4",
+          "id": "7820-2-17:20-4",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Лабораторные работы по общей и неорганической химии",
+          "type": "lab",
+          "rawType": "Практическое занятие",
+          "room": "У 536(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-02",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Агапов Константин Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101436.jpg?token_static=c82ec886d50eb533db6ecd5bbc9a1a5c"
+          }
+        },
+        {
+          "id": "7820-2-19:00-5",
           "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -178,23 +195,6 @@
             "id": "122619",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
-          }
-        },
-        {
-          "id": "7820-3-11:50-4",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Лабораторные работы по общей и неорганической химии",
-          "type": "lab",
-          "rawType": "Практическое занятие",
-          "room": "У 536(2)",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-02",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Агапов Константин Александрович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101436.jpg?token_static=c82ec886d50eb533db6ecd5bbc9a1a5c"
           }
         }
       ]
@@ -421,6 +421,24 @@
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-02",
+          "weekParity": "down",
+          "dateSpecific": "25.09",
+          "teacher": {
+            "name": "Фомченко Андрей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
+          }
+        },
+        {
+          "id": "7820-5-10:10-5",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
           "room": "Конгресс-Центр 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-02",
@@ -431,7 +449,7 @@
           }
         },
         {
-          "id": "7820-5-11:50-5",
+          "id": "7820-5-11:50-6",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -449,7 +467,7 @@
           }
         },
         {
-          "id": "7820-5-11:50-6",
+          "id": "7820-5-11:50-7",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,

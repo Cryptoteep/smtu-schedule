@@ -1,7 +1,7 @@
 {
   "groupId": "7486",
   "groupName": "12509-50",
-  "updatedAt": "2026-09-24T18:25:17.902Z",
+  "updatedAt": "2026-09-24T23:12:17.673Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -243,6 +243,23 @@
             "name": "Серебряков Михаил Юрьевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
           }
+        },
+        {
+          "id": "7486-5-14:00-2",
+          "dayIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление проектами и инновациями",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 420",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-50",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Козирацкая Карина Константиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
+          }
         }
       ]
     },
@@ -303,24 +320,7 @@
           }
         },
         {
-          "id": "7486-6-10:10-4",
-          "dayIndex": 6,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Управление проектами и инновациями",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 438",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-50",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Козирацкая Карина Константиновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
-          }
-        },
-        {
-          "id": "7486-6-11:50-5",
+          "id": "7486-6-11:50-4",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
