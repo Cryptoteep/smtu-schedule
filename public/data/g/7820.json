@@ -1,7 +1,7 @@
 {
   "groupId": "7820",
   "groupName": "12515-02",
-  "updatedAt": "2026-09-24T23:12:18.255Z",
+  "updatedAt": "2026-09-25T07:46:11.158Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -25,7 +25,26 @@
           }
         },
         {
-          "id": "7820-1-11:50-2",
+          "id": "7820-1-10:10-2",
+          "dayIndex": 1,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Начертательная геометрия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-02",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чехович Сергей Владиславович",
+            "id": "101320",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101320/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101320.jpg?token_static=c1b4269032a4a13d778acc3f4ef7b1a6"
+          }
+        },
+        {
+          "id": "7820-1-11:50-3",
           "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -454,13 +473,13 @@
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Социальное взаимодействие в профессиональной деятельности",
-          "type": "practice",
-          "rawType": "Практическое занятие",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "Конгресс-Центр 243",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-02",
           "weekParity": "up",
-          "dateSpecific": "27.10 по 23.12",
+          "dateSpecific": "01.09 по 26.10",
           "teacher": {
             "name": "Сидоренко Светлана Анатольевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
@@ -472,13 +491,13 @@
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Социальное взаимодействие в профессиональной деятельности",
-          "type": "lecture",
-          "rawType": "Лекция",
+          "type": "practice",
+          "rawType": "Практическое занятие",
           "room": "Конгресс-Центр 243",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-02",
           "weekParity": "up",
-          "dateSpecific": "01.09 по 26.10",
+          "dateSpecific": "27.10 по 23.12",
           "teacher": {
             "name": "Сидоренко Светлана Анатольевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
