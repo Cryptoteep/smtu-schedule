@@ -1,7 +1,7 @@
 {
   "groupId": "7941",
   "groupName": "12509-08",
-  "updatedAt": "2026-09-25T07:46:10.895Z",
+  "updatedAt": "2026-09-25T13:45:04.802Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -97,47 +97,7 @@
           }
         },
         {
-          "id": "7941-2-08:30-3",
-          "dayIndex": 2,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Математический анализ",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 155",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-08",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Кротов Евгений Алексеевич",
-            "id": "100590",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100590/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100590.jpg?token_static=1cbe8e55b144f037405332a10de60893"
-          }
-        },
-        {
-          "id": "7941-2-10:10-4",
-          "dayIndex": 2,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Дискретная математика для инженера-программиста",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 212",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-08",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Пономарёв Алексей Александрович",
-            "id": "122756",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122756/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/06/19/small/p122756.jpg?token_static=1cbedd5cfab898a1b2f0c78dd2522591"
-          }
-        },
-        {
-          "id": "7941-2-10:10-5",
+          "id": "7941-2-10:10-3",
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -156,7 +116,7 @@
           }
         },
         {
-          "id": "7941-2-11:50-6",
+          "id": "7941-2-11:50-4",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -205,11 +165,10 @@
           "subject": "Математический анализ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 115",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-08",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Кротов Евгений Алексеевич",
             "id": "100590",
@@ -339,11 +298,10 @@
           "subject": "Дискретная математика для инженера-программиста",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 163",
+          "room": "Конгресс-Центр 427",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-08",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Пономарёв Алексей Александрович",
             "id": "122756",

@@ -2,8 +2,8 @@
   "teacherId": "Фомченко Андрей Андреевич",
   "teacherName": "Фомченко Андрей Андреевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p132126.jpg?token_static=13600721e1ba8e852cd4c1abd0b14f92",
-  "updatedAt": "2026-09-25T07:46:21.256Z",
-  "totalLessons": 18,
+  "updatedAt": "2026-09-25T13:45:13.883Z",
+  "totalLessons": 20,
   "days": [
     {
       "dayName": "Понедельник",
@@ -342,6 +342,40 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20202",
           "weekParity": "up",
+          "teacher": {
+            "name": "Фомченко Андрей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
+          }
+        },
+        {
+          "id": "7881-6-14:00-2",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Фомченко Андрей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
+          }
+        },
+        {
+          "id": "7881-6-15:40-3",
+          "dayIndex": 6,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "both",
           "teacher": {
             "name": "Фомченко Андрей Андреевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"

@@ -1,7 +1,7 @@
 {
   "groupId": "7782",
   "groupName": "12126-03",
-  "updatedAt": "2026-09-25T07:45:57.351Z",
+  "updatedAt": "2026-09-25T13:44:52.599Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -235,7 +235,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 215",
+          "room": "У 211",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-03",
           "weekParity": "up",
@@ -252,7 +252,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 211",
+          "room": "У 215",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-03",
           "weekParity": "up",
@@ -333,8 +333,10 @@
           "groupName": "12126-03",
           "weekParity": "up",
           "teacher": {
-            "name": "Павлов Павел Валентинович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
+            "name": "Черкаев Георгий Владимирович",
+            "id": "101309",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101309/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/25/small/p101309.jpg?token_static=ee2cf7db26238bc7ed44737b082e9642"
           }
         },
         {
@@ -369,10 +371,8 @@
           "groupName": "12126-03",
           "weekParity": "up",
           "teacher": {
-            "name": "Черкаев Георгий Владимирович",
-            "id": "101309",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101309/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/25/small/p101309.jpg?token_static=ee2cf7db26238bc7ed44737b082e9642"
+            "name": "Никущенко Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
           }
         },
         {
@@ -388,8 +388,8 @@
           "groupName": "12126-03",
           "weekParity": "up",
           "teacher": {
-            "name": "Никущенко Елена Александровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+            "name": "Павлов Павел Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
           }
         },
         {
@@ -405,10 +405,8 @@
           "groupName": "12126-03",
           "weekParity": "down",
           "teacher": {
-            "name": "Едуш Наталья Юрьевна",
-            "id": "100364",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+            "name": "Караев Рауф Наджмеддин оглы",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/05/small/p123248.jpg?token_static=e3958b55c182d07a63cd67b6e3a4f697"
           }
         },
         {
@@ -424,10 +422,10 @@
           "groupName": "12126-03",
           "weekParity": "down",
           "teacher": {
-            "name": "Яковлев Алексей Юрьевич",
-            "id": "101392",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
+            "name": "Едуш Наталья Юрьевна",
+            "id": "100364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
           }
         },
         {
@@ -460,8 +458,10 @@
           "groupName": "12126-03",
           "weekParity": "down",
           "teacher": {
-            "name": "Караев Рауф Наджмеддин оглы",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/05/small/p123248.jpg?token_static=e3958b55c182d07a63cd67b6e3a4f697"
+            "name": "Яковлев Алексей Юрьевич",
+            "id": "101392",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
           }
         },
         {
@@ -481,40 +481,6 @@
             "id": "101017",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
-          }
-        },
-        {
-          "id": "7782-4-11:50-12",
-          "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 450",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12126-03",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Бокатова Анастасия Антоновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
-          }
-        },
-        {
-          "id": "7782-4-11:50-13",
-          "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 450",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12126-03",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Ворожейко Анастасия Сергеевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/11/small/p106538.jpg?token_static=a46f970454ad734881b8ad2509e37f04"
           }
         }
       ]
@@ -558,23 +524,7 @@
           }
         },
         {
-          "id": "7782-5-10:10-3",
-          "dayIndex": 5,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12126-03",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
-          }
-        },
-        {
-          "id": "7782-5-11:50-4",
+          "id": "7782-5-11:50-3",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,

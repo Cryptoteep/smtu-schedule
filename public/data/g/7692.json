@@ -1,7 +1,7 @@
 {
   "groupId": "7692",
   "groupName": "5200",
-  "updatedAt": "2026-09-25T07:46:17.403Z",
+  "updatedAt": "2026-09-25T13:45:10.378Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,24 +9,6 @@
       "lessons": [
         {
           "id": "7692-1-19:00-1",
-          "dayIndex": 1,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Деловые коммуникации",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 407",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "5200",
-          "weekParity": "both",
-          "dateSpecific": "20.10 по 07.12",
-          "teacher": {
-            "name": "Ильина Екатерина Владимировна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100466.jpg?token_static=a0d59a7049958518a8966b4eb0c215f2"
-          }
-        },
-        {
-          "id": "7692-1-19:00-2",
           "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -44,28 +26,10 @@
           }
         },
         {
-          "id": "7692-1-20:40-3",
+          "id": "7692-1-20:40-2",
           "dayIndex": 1,
           "time": "20:40-22:10",
-          "timeSlotIndex": 4,
-          "subject": "Деловые коммуникации",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 407",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "5200",
-          "weekParity": "both",
-          "dateSpecific": "20.10 по 07.12",
-          "teacher": {
-            "name": "Ильина Екатерина Владимировна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100466.jpg?token_static=a0d59a7049958518a8966b4eb0c215f2"
-          }
-        },
-        {
-          "id": "7692-1-20:40-4",
-          "dayIndex": 1,
-          "time": "20:40-22:10",
-          "timeSlotIndex": 5,
+          "timeSlotIndex": 3,
           "subject": "Римское право",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -151,50 +115,10 @@
           }
         },
         {
-          "id": "7692-4-19:00-2",
-          "dayIndex": 4,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Философия",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 421",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "5200",
-          "weekParity": "both",
-          "dateSpecific": "20.10 по 07.12",
-          "teacher": {
-            "name": "Шмырева Ольга Валерьевна",
-            "id": "101372",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
-          }
-        },
-        {
-          "id": "7692-4-20:40-3",
+          "id": "7692-4-20:40-2",
           "dayIndex": 4,
           "time": "20:40-22:10",
-          "timeSlotIndex": 4,
-          "subject": "Философия",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 421",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "5200",
-          "weekParity": "both",
-          "dateSpecific": "20.10 по 07.12",
-          "teacher": {
-            "name": "Шмырева Ольга Валерьевна",
-            "id": "101372",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
-          }
-        },
-        {
-          "id": "7692-4-20:40-4",
-          "dayIndex": 4,
-          "time": "20:40-22:10",
-          "timeSlotIndex": 5,
+          "timeSlotIndex": 3,
           "subject": "Социология права",
           "type": "practice",
           "rawType": "Практическое занятие",

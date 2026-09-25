@@ -2,8 +2,8 @@
   "teacherId": "Смольская Наталия Борисовна",
   "teacherName": "Смольская Наталия Борисовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/18/small/p128122.jpg?token_static=0409021b5f3f412cbd77cd16af1f493c",
-  "updatedAt": "2026-09-25T07:46:21.874Z",
-  "totalLessons": 8,
+  "updatedAt": "2026-09-25T13:45:14.005Z",
+  "totalLessons": 6,
   "days": [
     {
       "dayName": "Понедельник",
@@ -50,7 +50,7 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7462-2-10:10-2",
+          "id": "7462-2-10:10-1",
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -67,7 +67,7 @@
           }
         },
         {
-          "id": "7462-2-11:50-4",
+          "id": "7462-2-11:50-5",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -133,44 +133,7 @@
     {
       "dayName": "Пятница",
       "dayIndex": 5,
-      "lessons": [
-        {
-          "id": "7811-5-15:40-2",
-          "dayIndex": 5,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Иностранный язык в профессиональной и академической коммуникации",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12739-51",
-          "weekParity": "both",
-          "dateSpecific": "20.10 по 07.12",
-          "teacher": {
-            "name": "Смольская Наталия Борисовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/18/small/p128122.jpg?token_static=0409021b5f3f412cbd77cd16af1f493c"
-          }
-        },
-        {
-          "id": "7811-5-17:20-4",
-          "dayIndex": 5,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Иностранный язык в профессиональной и академической коммуникации",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12739-51",
-          "weekParity": "both",
-          "dateSpecific": "20.10 по 07.12",
-          "teacher": {
-            "name": "Смольская Наталия Борисовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/18/small/p128122.jpg?token_static=0409021b5f3f412cbd77cd16af1f493c"
-          }
-        }
-      ]
+      "lessons": []
     },
     {
       "dayName": "Суббота",

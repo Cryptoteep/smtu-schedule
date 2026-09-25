@@ -2,8 +2,8 @@
   "teacherId": "Блинов Егор Владимирович",
   "teacherName": "Блинов Егор Владимирович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/30/small/p128716.jpg?token_static=fe7c2530286b1b1fe505c801384abce5",
-  "updatedAt": "2026-09-25T07:46:21.253Z",
-  "totalLessons": 7,
+  "updatedAt": "2026-09-25T13:45:13.873Z",
+  "totalLessons": 8,
   "days": [
     {
       "dayName": "Понедельник",
@@ -136,6 +136,23 @@
           "id": "7754-6-15:40-6",
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
+          "subject": "Системы автоматизированного проектирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Блинов Егор Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/30/small/p128716.jpg?token_static=fe7c2530286b1b1fe505c801384abce5"
+          }
+        },
+        {
+          "id": "7754-6-08:30-1",
+          "dayIndex": 6,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
           "subject": "Системы автоматизированного проектирования",
           "type": "practice",
           "rawType": "Практическое занятие",

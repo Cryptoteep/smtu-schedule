@@ -1,7 +1,7 @@
 {
   "groupId": "7788",
   "groupName": "12226-09",
-  "updatedAt": "2026-09-25T07:46:01.776Z",
+  "updatedAt": "2026-09-25T13:44:57.102Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -64,24 +64,7 @@
           }
         },
         {
-          "id": "7788-1-14:00-4",
-          "dayIndex": 1,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12226-09",
-          "weekParity": "both",
-          "dateSpecific": "26.10 по 14.12",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
-          }
-        },
-        {
-          "id": "7788-1-15:40-5",
+          "id": "7788-1-15:40-4",
           "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -97,7 +80,7 @@
           }
         },
         {
-          "id": "7788-1-15:40-6",
+          "id": "7788-1-15:40-5",
           "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -271,25 +254,6 @@
           "groupName": "12226-09",
           "weekParity": "up",
           "teacher": {
-            "name": "Яковлев Алексей Юрьевич",
-            "id": "101392",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
-          }
-        },
-        {
-          "id": "7788-3-11:50-5",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 407",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12226-09",
-          "weekParity": "up",
-          "teacher": {
             "name": "Едуш Наталья Юрьевна",
             "id": "100364",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
@@ -297,7 +261,7 @@
           }
         },
         {
-          "id": "7788-3-11:50-6",
+          "id": "7788-3-11:50-5",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -314,7 +278,7 @@
           }
         },
         {
-          "id": "7788-3-11:50-7",
+          "id": "7788-3-11:50-6",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -331,7 +295,7 @@
           }
         },
         {
-          "id": "7788-3-11:50-8",
+          "id": "7788-3-11:50-7",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -341,16 +305,16 @@
           "room": "А 407",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "12226-09",
-          "weekParity": "down",
+          "weekParity": "up",
           "teacher": {
-            "name": "Вихров Николай Михайлович",
-            "id": "100217",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
+            "name": "Яковлев Алексей Юрьевич",
+            "id": "101392",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
           }
         },
         {
-          "id": "7788-3-11:50-9",
+          "id": "7788-3-11:50-8",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -369,7 +333,7 @@
           }
         },
         {
-          "id": "7788-3-11:50-10",
+          "id": "7788-3-11:50-9",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -386,7 +350,7 @@
           }
         },
         {
-          "id": "7788-3-11:50-11",
+          "id": "7788-3-11:50-10",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -396,14 +360,16 @@
           "room": "А 407",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "12226-09",
-          "weekParity": "both",
+          "weekParity": "down",
           "teacher": {
-            "name": "Бокатова Анастасия Антоновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
+            "name": "Вихров Николай Михайлович",
+            "id": "100217",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
           }
         },
         {
-          "id": "7788-3-11:50-12",
+          "id": "7788-3-11:50-11",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -420,7 +386,7 @@
           }
         },
         {
-          "id": "7788-3-11:50-13",
+          "id": "7788-3-11:50-12",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -439,7 +405,7 @@
           }
         },
         {
-          "id": "7788-3-14:00-14",
+          "id": "7788-3-14:00-13",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -458,7 +424,7 @@
           }
         },
         {
-          "id": "7788-3-14:00-15",
+          "id": "7788-3-14:00-14",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -477,7 +443,7 @@
           }
         },
         {
-          "id": "7788-3-15:40-16",
+          "id": "7788-3-15:40-15",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -563,7 +529,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 414",
+          "room": "У 215",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-09",
           "weekParity": "down",
@@ -580,7 +546,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 215",
+          "room": "У 414",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-09",
           "weekParity": "down",

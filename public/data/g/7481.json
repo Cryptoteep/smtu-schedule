@@ -1,7 +1,7 @@
 {
   "groupId": "7481",
   "groupName": "12126-04",
-  "updatedAt": "2026-09-25T07:45:57.421Z",
+  "updatedAt": "2026-09-25T13:44:52.981Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -225,6 +225,23 @@
           "groupName": "12126-04",
           "weekParity": "up",
           "teacher": {
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+          }
+        },
+        {
+          "id": "7481-3-14:00-4",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12126-04",
+          "weekParity": "up",
+          "teacher": {
             "name": "Яковлев Алексей Юрьевич",
             "id": "101392",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
@@ -232,7 +249,7 @@
           }
         },
         {
-          "id": "7481-3-14:00-4",
+          "id": "7481-3-14:00-5",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -249,7 +266,7 @@
           }
         },
         {
-          "id": "7481-3-14:00-5",
+          "id": "7481-3-14:00-6",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -265,23 +282,6 @@
             "id": "100364",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
-          }
-        },
-        {
-          "id": "7481-3-14:00-6",
-          "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б 401",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "12126-04",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Дроздов Владимир Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
           }
         },
         {
@@ -316,8 +316,10 @@
           "groupName": "12126-04",
           "weekParity": "down",
           "teacher": {
-            "name": "Никущенко Елена Александровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+            "name": "Вихров Николай Михайлович",
+            "id": "100217",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
           }
         },
         {
@@ -333,10 +335,8 @@
           "groupName": "12126-04",
           "weekParity": "down",
           "teacher": {
-            "name": "Вихров Николай Михайлович",
-            "id": "100217",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
+            "name": "Рогозин Андрей Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100982.jpg?token_static=692e530242e12bedae9975b652c98520"
           }
         },
         {
@@ -352,8 +352,8 @@
           "groupName": "12126-04",
           "weekParity": "down",
           "teacher": {
-            "name": "Рогозин Андрей Валерьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100982.jpg?token_static=692e530242e12bedae9975b652c98520"
+            "name": "Никущенко Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
           }
         },
         {
@@ -390,23 +390,6 @@
           "teacher": {
             "name": "Глазырина Диана Олеговна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
-          }
-        },
-        {
-          "id": "7481-3-14:00-13",
-          "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б 401",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "12126-04",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Бокатова Анастасия Антоновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
           }
         }
       ]
@@ -523,23 +506,7 @@
           }
         },
         {
-          "id": "7481-5-10:10-2",
-          "dayIndex": 5,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12126-04",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
-          }
-        },
-        {
-          "id": "7481-5-11:50-3",
+          "id": "7481-5-11:50-2",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -558,7 +525,7 @@
           }
         },
         {
-          "id": "7481-5-14:00-4",
+          "id": "7481-5-14:00-3",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -574,7 +541,7 @@
           }
         },
         {
-          "id": "7481-5-15:40-5",
+          "id": "7481-5-15:40-4",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,

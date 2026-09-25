@@ -3,8 +3,8 @@
   "teacherName": "Янченко Арина Юрьевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p101396.jpg?token_static=99a0d4318cb0d2b3fbf0b96697f65057",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101396/",
-  "updatedAt": "2026-09-25T07:46:21.615Z",
-  "totalLessons": 15,
+  "updatedAt": "2026-09-25T13:45:13.979Z",
+  "totalLessons": 13,
   "days": [
     {
       "dayName": "Понедельник",
@@ -47,7 +47,7 @@
           }
         },
         {
-          "id": "7889-1-17:20-5",
+          "id": "7889-1-17:20-3",
           "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -66,7 +66,7 @@
           }
         },
         {
-          "id": "7889-1-19:00-6",
+          "id": "7889-1-19:00-4",
           "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -256,46 +256,6 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "4405",
           "weekParity": "both",
-          "teacher": {
-            "name": "Янченко Арина Юрьевна",
-            "id": "101396",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101396/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p101396.jpg?token_static=99a0d4318cb0d2b3fbf0b96697f65057"
-          }
-        },
-        {
-          "id": "7897-4-17:20-3",
-          "dayIndex": 4,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Теория обоснования управленческих решений",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 530а",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12638-50",
-          "weekParity": "both",
-          "dateSpecific": "05.11по 24.12",
-          "teacher": {
-            "name": "Янченко Арина Юрьевна",
-            "id": "101396",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101396/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p101396.jpg?token_static=99a0d4318cb0d2b3fbf0b96697f65057"
-          }
-        },
-        {
-          "id": "7897-4-19:00-6",
-          "dayIndex": 4,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Теория обоснования управленческих решений",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 511",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12638-50",
-          "weekParity": "both",
-          "dateSpecific": "05.11по 24.12",
           "teacher": {
             "name": "Янченко Арина Юрьевна",
             "id": "101396",

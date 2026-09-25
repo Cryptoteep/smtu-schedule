@@ -2,8 +2,8 @@
   "teacherId": "Минасян Армен Минасович",
   "teacherName": "Минасян Армен Минасович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea",
-  "updatedAt": "2026-09-25T07:46:21.228Z",
-  "totalLessons": 33,
+  "updatedAt": "2026-09-25T13:45:13.869Z",
+  "totalLessons": 34,
   "days": [
     {
       "dayName": "Понедельник",
@@ -572,6 +572,23 @@
           "groupName": "20221",
           "weekParity": "down",
           "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Минасян Армен Минасович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
+          }
+        },
+        {
+          "id": "7748-5-11:50-3",
+          "dayIndex": 5,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технологии разработки информационных ресурсов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20223",
+          "weekParity": "up",
           "teacher": {
             "name": "Минасян Армен Минасович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"

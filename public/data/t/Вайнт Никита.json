@@ -1,7 +1,7 @@
 {
   "teacherId": "Вайнт Никита",
   "teacherName": "Вайнт Никита",
-  "updatedAt": "2026-09-25T07:46:21.256Z",
+  "updatedAt": "2026-09-25T13:45:13.881Z",
   "totalLessons": 11,
   "days": [
     {
@@ -163,7 +163,7 @@
       "dayIndex": 6,
       "lessons": [
         {
-          "id": "7802-6-10:10-2",
+          "id": "7802-6-10:10-3",
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -179,18 +179,17 @@
           }
         },
         {
-          "id": "7804-6-11:50-5",
+          "id": "7804-6-11:50-6",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Программирование",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 205-ИИТ",
+          "room": "Конгресс-Центр 307",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-05",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Вайнт Никита"
           }

@@ -3,8 +3,8 @@
   "teacherName": "Свиркина Лариса Анатольевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
-  "updatedAt": "2026-09-25T07:46:21.227Z",
-  "totalLessons": 25,
+  "updatedAt": "2026-09-25T13:45:13.866Z",
+  "totalLessons": 27,
   "days": [
     {
       "dayName": "Понедельник",
@@ -106,6 +106,44 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
           }
+        },
+        {
+          "id": "7754-2-10:10-1",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Свиркина Лариса Анатольевна",
+            "id": "122619",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
+          }
+        },
+        {
+          "id": "7754-2-11:50-3",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 438",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Свиркина Лариса Анатольевна",
+            "id": "122619",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
+          }
         }
       ]
     },
@@ -151,7 +189,7 @@
           }
         },
         {
-          "id": "7754-3-14:00-7",
+          "id": "7754-3-14:00-6",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

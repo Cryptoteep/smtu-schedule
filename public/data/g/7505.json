@@ -1,7 +1,7 @@
 {
   "groupId": "7505",
   "groupName": "12509-04",
-  "updatedAt": "2026-09-25T07:46:10.766Z",
+  "updatedAt": "2026-09-25T13:45:04.567Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -53,7 +53,6 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-04",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Андреев Кирилл Иванович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128239.jpg?token_static=181cfcb6185f86a45a92e70dac84e40c"
@@ -134,11 +133,10 @@
           "subject": "Математический анализ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 115",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-04",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Кротов Евгений Алексеевич",
             "id": "100590",
@@ -285,11 +283,10 @@
           "subject": "Алгебра и геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 535(1)",
+          "room": "Конгресс-Центр 427",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-04",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Ловягин Никита Юрьевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123528.jpg?token_static=a338c14c65568c9a9172b88fc6062893"
@@ -309,11 +306,10 @@
           "subject": "Дискретная математика для инженера-программиста",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 163",
+          "room": "Конгресс-Центр 427",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-04",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Пономарёв Алексей Александрович",
             "id": "122756",
@@ -458,7 +454,26 @@
           }
         },
         {
-          "id": "7505-6-11:50-2",
+          "id": "7505-6-10:10-2",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-04",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Прудникова Татьяна Юрьевна",
+            "id": "100952",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100952/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100952.jpg?token_static=247ccf183881448ad446f44fe6ce2653"
+          }
+        },
+        {
+          "id": "7505-6-11:50-3",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -477,7 +492,7 @@
           }
         },
         {
-          "id": "7505-6-11:50-3",
+          "id": "7505-6-11:50-4",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -494,7 +509,7 @@
           }
         },
         {
-          "id": "7505-6-14:00-4",
+          "id": "7505-6-14:00-5",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -511,7 +526,7 @@
           }
         },
         {
-          "id": "7505-6-14:00-5",
+          "id": "7505-6-14:00-6",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -529,7 +544,24 @@
           }
         },
         {
-          "id": "7505-6-15:40-6",
+          "id": "7505-6-14:00-7",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы российской государственности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-04",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бугашев Сергей Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"
+          }
+        },
+        {
+          "id": "7505-6-15:40-8",
           "dayIndex": 6,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,

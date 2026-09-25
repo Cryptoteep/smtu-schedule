@@ -3,8 +3,8 @@
   "teacherName": "Медведев Владимир Иванович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
-  "updatedAt": "2026-09-25T07:46:21.694Z",
-  "totalLessons": 21,
+  "updatedAt": "2026-09-25T13:45:13.988Z",
+  "totalLessons": 18,
   "days": [
     {
       "dayName": "Понедельник",
@@ -149,68 +149,7 @@
     {
       "dayName": "Вторник",
       "dayIndex": 2,
-      "lessons": [
-        {
-          "id": "7810-2-15:40-1",
-          "dayIndex": 2,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Новые направления в современной теоретической социологии",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 440",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12739-50, 12739-51",
-          "weekParity": "both",
-          "dateSpecific": "20.10 по 07.12",
-          "teacher": {
-            "name": "Медведев Владимир Иванович",
-            "id": "100748",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
-          }
-        },
-        {
-          "id": "7810-2-17:20-3",
-          "dayIndex": 2,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Новые направления в современной теоретической социологии",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 440",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12739-50, 12739-51",
-          "weekParity": "both",
-          "dateSpecific": "20.10 по 07.12",
-          "teacher": {
-            "name": "Медведев Владимир Иванович",
-            "id": "100748",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
-          }
-        },
-        {
-          "id": "7810-2-19:00-5",
-          "dayIndex": 2,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Новые направления в современной теоретической социологии",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 440",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12739-50, 12739-51",
-          "weekParity": "both",
-          "dateSpecific": "20.10 по 07.12",
-          "teacher": {
-            "name": "Медведев Владимир Иванович",
-            "id": "100748",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
-          }
-        }
-      ]
+      "lessons": []
     },
     {
       "dayName": "Среда",

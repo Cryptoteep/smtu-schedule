@@ -1,7 +1,7 @@
 {
   "groupId": "7461",
   "groupName": "12126-02",
-  "updatedAt": "2026-09-25T07:45:56.823Z",
+  "updatedAt": "2026-09-25T13:44:52.336Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -333,29 +333,14 @@
           "groupName": "12126-02",
           "weekParity": "up",
           "teacher": {
-            "name": "Никущенко Елена Александровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+            "name": "Миронов Михаил Юрьевич",
+            "id": "100756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
           }
         },
         {
           "id": "7461-4-11:50-4",
-          "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 450",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12126-02",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Павлов Павел Валентинович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
-          }
-        },
-        {
-          "id": "7461-4-11:50-5",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -374,6 +359,23 @@
           }
         },
         {
+          "id": "7461-4-11:50-5",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12126-02",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Павлов Павел Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
+          }
+        },
+        {
           "id": "7461-4-11:50-6",
           "dayIndex": 4,
           "time": "11:50-13:20",
@@ -386,33 +388,12 @@
           "groupName": "12126-02",
           "weekParity": "up",
           "teacher": {
-            "name": "Миронов Михаил Юрьевич",
-            "id": "100756",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
+            "name": "Никущенко Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
           }
         },
         {
           "id": "7461-4-11:50-7",
-          "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 450",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12126-02",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Едуш Наталья Юрьевна",
-            "id": "100364",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
-          }
-        },
-        {
-          "id": "7461-4-11:50-8",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -429,24 +410,7 @@
           }
         },
         {
-          "id": "7461-4-11:50-9",
-          "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 450",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12126-02",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Дроздов Владимир Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
-          }
-        },
-        {
-          "id": "7461-4-11:50-10",
+          "id": "7461-4-11:50-8",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -465,7 +429,7 @@
           }
         },
         {
-          "id": "7461-4-11:50-11",
+          "id": "7461-4-11:50-9",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -475,14 +439,33 @@
           "room": "А 450",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "12126-02",
-          "weekParity": "both",
+          "weekParity": "down",
           "teacher": {
-            "name": "Ворожейко Анастасия Сергеевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/11/small/p106538.jpg?token_static=a46f970454ad734881b8ad2509e37f04"
+            "name": "Едуш Наталья Юрьевна",
+            "id": "100364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
           }
         },
         {
-          "id": "7461-4-11:50-12",
+          "id": "7461-4-11:50-10",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12126-02",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+          }
+        },
+        {
+          "id": "7461-4-11:50-11",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -498,23 +481,6 @@
             "id": "101017",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
-          }
-        },
-        {
-          "id": "7461-4-11:50-13",
-          "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 450",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12126-02",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Бокатова Анастасия Антоновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
           }
         }
       ]
@@ -541,23 +507,7 @@
           }
         },
         {
-          "id": "7461-5-10:10-2",
-          "dayIndex": 5,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12126-02",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
-          }
-        },
-        {
-          "id": "7461-5-11:50-3",
+          "id": "7461-5-11:50-2",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -574,7 +524,7 @@
           }
         },
         {
-          "id": "7461-5-14:00-4",
+          "id": "7461-5-14:00-3",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

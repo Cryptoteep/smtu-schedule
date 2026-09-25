@@ -3,7 +3,7 @@
   "teacherName": "Пантелеева Екатерина Валерьевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100873.jpg?token_static=0581704817a1db2ba4e2795028e98174",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100873/",
-  "updatedAt": "2026-09-25T07:46:21.574Z",
+  "updatedAt": "2026-09-25T13:45:13.970Z",
   "totalLessons": 23,
   "days": [
     {
@@ -66,7 +66,7 @@
           }
         },
         {
-          "id": "7445-1-11:50-5",
+          "id": "7445-1-11:50-4",
           "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -147,13 +147,13 @@
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "История России",
-          "type": "lecture",
-          "rawType": "Лекция",
+          "type": "practice",
+          "rawType": "Практическое занятие",
           "room": "У 167",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "12740-03-2, 12638-08-2",
+          "groupName": "12740-03-2",
           "weekParity": "both",
-          "dateSpecific": "01.10 по 11.11",
+          "dateSpecific": "12.11 по 25.11",
           "teacher": {
             "name": "Пантелеева Екатерина Валерьевна",
             "id": "100873",
@@ -162,16 +162,16 @@
           }
         },
         {
-          "id": "7849-1-20:40-6",
+          "id": "7849-1-20:40-2",
           "dayIndex": 1,
           "time": "20:40-22:10",
-          "timeSlotIndex": 7,
+          "timeSlotIndex": 3,
           "subject": "История России",
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 167",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "12740-03-2, 12638-08-2",
+          "groupName": "12740-03-2",
           "weekParity": "both",
           "dateSpecific": "12.11 по 25.11",
           "teacher": {

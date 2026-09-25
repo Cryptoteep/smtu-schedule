@@ -1,7 +1,7 @@
 {
   "groupId": "7468",
   "groupName": "12515-01",
-  "updatedAt": "2026-09-25T07:46:11.023Z",
+  "updatedAt": "2026-09-25T13:45:05.180Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -487,19 +487,38 @@
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Обучение служением",
-          "type": "lecture",
-          "rawType": "Лекция",
+          "type": "practice",
+          "rawType": "Практическое занятие",
           "room": "У 313",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-01",
           "weekParity": "down",
+          "dateSpecific": "23.10-11.12",
           "teacher": {
             "name": "Березовская Ирина Петровна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
           }
         },
         {
-          "id": "7468-5-11:50-3",
+          "id": "7468-5-10:10-3",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Обучение служением",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 313",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-01",
+          "weekParity": "down",
+          "dateSpecific": "25.09-16.10",
+          "teacher": {
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
+          }
+        },
+        {
+          "id": "7468-5-11:50-4",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -511,24 +530,6 @@
           "groupName": "12515-01",
           "weekParity": "up",
           "dateSpecific": "01.09 по 26.10",
-          "teacher": {
-            "name": "Сидоренко Светлана Анатольевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
-          }
-        },
-        {
-          "id": "7468-5-11:50-4",
-          "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Социальное взаимодействие в профессиональной деятельности",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 427",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-01",
-          "weekParity": "up",
-          "dateSpecific": "27.10 по 23.12",
           "teacher": {
             "name": "Сидоренко Светлана Анатольевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"

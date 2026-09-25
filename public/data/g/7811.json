@@ -1,7 +1,7 @@
 {
   "groupId": "7811",
   "groupName": "12739-51",
-  "updatedAt": "2026-09-25T07:46:17.024Z",
+  "updatedAt": "2026-09-25T13:45:10.132Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -50,72 +50,6 @@
       ]
     },
     {
-      "dayName": "Вторник",
-      "dayIndex": 2,
-      "lessons": [
-        {
-          "id": "7811-2-15:40-1",
-          "dayIndex": 2,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Новые направления в современной теоретической социологии",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 440",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12739-51",
-          "weekParity": "both",
-          "dateSpecific": "20.10 по 07.12",
-          "teacher": {
-            "name": "Медведев Владимир Иванович",
-            "id": "100748",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
-          }
-        },
-        {
-          "id": "7811-2-17:20-2",
-          "dayIndex": 2,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Новые направления в современной теоретической социологии",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 440",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12739-51",
-          "weekParity": "both",
-          "dateSpecific": "20.10 по 07.12",
-          "teacher": {
-            "name": "Медведев Владимир Иванович",
-            "id": "100748",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
-          }
-        },
-        {
-          "id": "7811-2-19:00-3",
-          "dayIndex": 2,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Новые направления в современной теоретической социологии",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 440",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12739-51",
-          "weekParity": "both",
-          "dateSpecific": "20.10 по 07.12",
-          "teacher": {
-            "name": "Медведев Владимир Иванович",
-            "id": "100748",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
-          }
-        }
-      ]
-    },
-    {
       "dayName": "Среда",
       "dayIndex": 3,
       "lessons": [
@@ -127,7 +61,7 @@
           "subject": "Информационные технологии в деятельности социолога",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 340(2)",
+          "room": "У 340(1)",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12739-51",
           "weekParity": "both",
@@ -147,7 +81,7 @@
           "subject": "Информационные технологии в деятельности социолога",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 340(1)",
+          "room": "У 340(2)",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12739-51",
           "weekParity": "both",
@@ -272,25 +206,7 @@
           }
         },
         {
-          "id": "7811-5-15:40-2",
-          "dayIndex": 5,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Иностранный язык в профессиональной и академической коммуникации",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12739-51",
-          "weekParity": "both",
-          "dateSpecific": "20.10 по 07.12",
-          "teacher": {
-            "name": "Смольская Наталия Борисовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/18/small/p128122.jpg?token_static=0409021b5f3f412cbd77cd16af1f493c"
-          }
-        },
-        {
-          "id": "7811-5-17:20-3",
+          "id": "7811-5-17:20-2",
           "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -310,25 +226,7 @@
           }
         },
         {
-          "id": "7811-5-17:20-4",
-          "dayIndex": 5,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Иностранный язык в профессиональной и академической коммуникации",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12739-51",
-          "weekParity": "both",
-          "dateSpecific": "20.10 по 07.12",
-          "teacher": {
-            "name": "Смольская Наталия Борисовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/18/small/p128122.jpg?token_static=0409021b5f3f412cbd77cd16af1f493c"
-          }
-        },
-        {
-          "id": "7811-5-19:00-5",
+          "id": "7811-5-19:00-3",
           "dayIndex": 5,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -348,10 +246,10 @@
           }
         },
         {
-          "id": "7811-5-20:40-6",
+          "id": "7811-5-20:40-4",
           "dayIndex": 5,
           "time": "20:40-22:10",
-          "timeSlotIndex": 7,
+          "timeSlotIndex": 5,
           "subject": "Социология труда",
           "type": "practice",
           "rawType": "Практическое занятие",

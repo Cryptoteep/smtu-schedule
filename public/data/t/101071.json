@@ -3,7 +3,7 @@
   "teacherName": "Сиверс Михаил Николаевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/04/30/small/p101071.jpg?token_static=21316d0236404d4b3c4243cdaef43fb2",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101071/",
-  "updatedAt": "2026-09-25T07:46:21.197Z",
+  "updatedAt": "2026-09-25T13:45:13.825Z",
   "totalLessons": 16,
   "days": [
     {
@@ -170,6 +170,25 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/101071/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/04/30/small/p101071.jpg?token_static=21316d0236404d4b3c4243cdaef43fb2"
           }
+        },
+        {
+          "id": "7754-4-14:00-4",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Сопротивление материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 143",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сиверс Михаил Николаевич",
+            "id": "101071",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101071/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/04/30/small/p101071.jpg?token_static=21316d0236404d4b3c4243cdaef43fb2"
+          }
         }
       ]
     },
@@ -278,25 +297,6 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20271",
           "weekParity": "down",
-          "teacher": {
-            "name": "Сиверс Михаил Николаевич",
-            "id": "101071",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101071/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/04/30/small/p101071.jpg?token_static=21316d0236404d4b3c4243cdaef43fb2"
-          }
-        },
-        {
-          "id": "7754-5-08:30-1",
-          "dayIndex": 5,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Сопротивление материалов",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 506",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20270",
-          "weekParity": "up",
           "teacher": {
             "name": "Сиверс Михаил Николаевич",
             "id": "101071",

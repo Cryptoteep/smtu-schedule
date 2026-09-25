@@ -1,7 +1,7 @@
 {
   "groupId": "7820",
   "groupName": "12515-02",
-  "updatedAt": "2026-09-25T07:46:11.158Z",
+  "updatedAt": "2026-09-25T13:45:05.300Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -427,6 +427,7 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-02",
           "weekParity": "up",
+          "dateSpecific": "25.09 - 16.10",
           "teacher": {
             "name": "Березовская Ирина Петровна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
@@ -437,17 +438,17 @@
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Информатика",
+          "subject": "Обучение служением",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 319",
+          "room": "Конгресс-Центр 206",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-02",
-          "weekParity": "down",
-          "dateSpecific": "25.09",
+          "weekParity": "up",
+          "dateSpecific": "23.10 - 11.12",
           "teacher": {
-            "name": "Фомченко Андрей Андреевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
           }
         },
         {
@@ -468,7 +469,25 @@
           }
         },
         {
-          "id": "7820-5-11:50-6",
+          "id": "7820-5-10:10-6",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-02",
+          "weekParity": "down",
+          "dateSpecific": "25.09",
+          "teacher": {
+            "name": "Фомченко Андрей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
+          }
+        },
+        {
+          "id": "7820-5-11:50-7",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -480,24 +499,6 @@
           "groupName": "12515-02",
           "weekParity": "up",
           "dateSpecific": "01.09 по 26.10",
-          "teacher": {
-            "name": "Сидоренко Светлана Анатольевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
-          }
-        },
-        {
-          "id": "7820-5-11:50-7",
-          "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Социальное взаимодействие в профессиональной деятельности",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 243",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-02",
-          "weekParity": "up",
-          "dateSpecific": "27.10 по 23.12",
           "teacher": {
             "name": "Сидоренко Светлана Анатольевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"

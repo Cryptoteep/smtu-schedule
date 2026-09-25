@@ -1,7 +1,7 @@
 {
   "groupId": "7694",
   "groupName": "5210",
-  "updatedAt": "2026-09-25T07:46:01.366Z",
+  "updatedAt": "2026-09-25T13:44:56.605Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -18,7 +18,13 @@
           "room": "У 161",
           "campus": "Ульянка (Корпус У)",
           "groupName": "5210",
-          "weekParity": "up"
+          "weekParity": "up",
+          "teacher": {
+            "name": "Седова Елена Германовна",
+            "id": "101047",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101047/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101047.jpg?token_static=99a98d22dfdb03c33fb502d171e041d5"
+          }
         },
         {
           "id": "7694-1-19:00-2",
@@ -31,13 +37,7 @@
           "room": "У 161",
           "campus": "Ульянка (Корпус У)",
           "groupName": "5210",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Седова Елена Германовна",
-            "id": "101047",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101047/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p101047.jpg?token_static=99a98d22dfdb03c33fb502d171e041d5"
-          }
+          "weekParity": "up"
         },
         {
           "id": "7694-1-19:00-3",
@@ -247,24 +247,6 @@
           "teacher": {
             "name": "Кленин Петр Владиславович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
-          }
-        },
-        {
-          "id": "7694-3-20:40-4",
-          "dayIndex": 3,
-          "time": "20:40-22:10",
-          "timeSlotIndex": 5,
-          "subject": "Технология конструкционных материалов",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 245",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "5210",
-          "weekParity": "down",
-          "dateSpecific": "02.11 по 14.12",
-          "teacher": {
-            "name": "Юнусов Фируз Абдукадимович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123521.jpg?token_static=0ad0f3727125e27b503247a5b407397f"
           }
         }
       ]

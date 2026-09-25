@@ -1,7 +1,7 @@
 {
   "groupId": "7802",
   "groupName": "12509-01",
-  "updatedAt": "2026-09-25T07:46:10.602Z",
+  "updatedAt": "2026-09-25T13:45:04.415Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -32,11 +32,10 @@
           "subject": "Дискретная математика для инженера-программиста",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 115",
+          "room": "Конгресс-Центр 427",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-01",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Петухова Нина Дмитриевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/30/small/p100896.jpg?token_static=7351a0863365112378e08001c637a4cb"
@@ -135,25 +134,7 @@
           }
         },
         {
-          "id": "7802-2-10:10-4",
-          "dayIndex": 2,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Дискретная математика для инженера-программиста",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 313",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-01",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Петухова Нина Дмитриевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/30/small/p100896.jpg?token_static=7351a0863365112378e08001c637a4cb"
-          }
-        },
-        {
-          "id": "7802-2-11:50-5",
+          "id": "7802-2-11:50-4",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -172,7 +153,7 @@
           }
         },
         {
-          "id": "7802-2-14:00-6",
+          "id": "7802-2-14:00-5",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -221,11 +202,10 @@
           "subject": "Математический анализ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 115",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-01",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Кротов Евгений Алексеевич",
             "id": "100590",
@@ -245,26 +225,6 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-01",
           "weekParity": "down",
-          "teacher": {
-            "name": "Кротов Евгений Алексеевич",
-            "id": "100590",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100590/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100590.jpg?token_static=1cbe8e55b144f037405332a10de60893"
-          }
-        },
-        {
-          "id": "7802-3-11:50-4",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Математический анализ",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 532",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-01",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Кротов Евгений Алексеевич",
             "id": "100590",
@@ -456,7 +416,26 @@
           }
         },
         {
-          "id": "7802-6-10:10-2",
+          "id": "7802-6-08:30-2",
+          "dayIndex": 6,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Прудникова Татьяна Юрьевна",
+            "id": "100952",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100952/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100952.jpg?token_static=247ccf183881448ad446f44fe6ce2653"
+          }
+        },
+        {
+          "id": "7802-6-10:10-3",
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -472,7 +451,7 @@
           }
         },
         {
-          "id": "7802-6-10:10-3",
+          "id": "7802-6-10:10-4",
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -489,7 +468,7 @@
           }
         },
         {
-          "id": "7802-6-11:50-4",
+          "id": "7802-6-11:50-5",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -503,23 +482,6 @@
           "teacher": {
             "name": "Бугашев Сергей Иванович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"
-          }
-        },
-        {
-          "id": "7802-6-11:50-5",
-          "dayIndex": 6,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 318",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-01",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Чубин Дмитрий Валерьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/02/16/small/p124595.jpg?token_static=e67aec73131e515034d01de5425b5258"
           }
         },
         {
@@ -541,7 +503,24 @@
           }
         },
         {
-          "id": "7802-6-14:00-7",
+          "id": "7802-6-11:50-7",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чубин Дмитрий Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/02/16/small/p124595.jpg?token_static=e67aec73131e515034d01de5425b5258"
+          }
+        },
+        {
+          "id": "7802-6-14:00-8",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -558,7 +537,7 @@
           }
         },
         {
-          "id": "7802-6-14:00-8",
+          "id": "7802-6-14:00-9",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -570,6 +549,23 @@
           "groupName": "12509-01",
           "weekParity": "down",
           "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Бугашев Сергей Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"
+          }
+        },
+        {
+          "id": "7802-6-14:00-10",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы российской государственности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-01",
+          "weekParity": "down",
           "teacher": {
             "name": "Бугашев Сергей Иванович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"

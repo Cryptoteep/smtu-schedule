@@ -2,15 +2,15 @@
   "teacherId": "Бокатова Анастасия Антоновна",
   "teacherName": "Бокатова Анастасия Антоновна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f",
-  "updatedAt": "2026-09-25T07:46:21.196Z",
-  "totalLessons": 9,
+  "updatedAt": "2026-09-25T13:45:13.821Z",
+  "totalLessons": 5,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
       "lessons": [
         {
-          "id": "6398-1-10:10-6",
+          "id": "6398-1-10:10-5",
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -27,7 +27,7 @@
           }
         },
         {
-          "id": "6398-1-11:50-15",
+          "id": "6398-1-11:50-12",
           "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -53,42 +53,7 @@
     {
       "dayName": "Среда",
       "dayIndex": 3,
-      "lessons": [
-        {
-          "id": "7463-3-14:00-12",
-          "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б 401",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "12126-06, 12126-04, 12126-05, 12126-07",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Бокатова Анастасия Антоновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
-          }
-        },
-        {
-          "id": "7786-3-11:50-8",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 407",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12226-08, 12226-09, 12226-10, 12226-11, 12826-12",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Бокатова Анастасия Антоновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
-          }
-        }
-      ]
+      "lessons": []
     },
     {
       "dayName": "Четверг",
@@ -137,40 +102,6 @@
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "1201",
           "weekParity": "down",
-          "teacher": {
-            "name": "Бокатова Анастасия Антоновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
-          }
-        },
-        {
-          "id": "7442-4-14:00-10",
-          "dayIndex": 4,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б 401",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "12526-34, 12126-32, 12126-30, 12126-31, 12126-33, 12126-40",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Бокатова Анастасия Антоновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
-          }
-        },
-        {
-          "id": "7461-4-11:50-13",
-          "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 450",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12126-02, 12126-01, 12126-03",
-          "weekParity": "both",
           "teacher": {
             "name": "Бокатова Анастасия Антоновна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"

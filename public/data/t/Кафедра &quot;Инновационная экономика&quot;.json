@@ -1,8 +1,8 @@
 {
   "teacherId": "Кафедра &quot;Инновационная экономика&quot;",
   "teacherName": "Кафедра &quot;Инновационная экономика&quot;",
-  "updatedAt": "2026-09-25T07:46:21.964Z",
-  "totalLessons": 4,
+  "updatedAt": "2026-09-25T13:45:14.024Z",
+  "totalLessons": 2,
   "days": [
     {
       "dayName": "Понедельник",
@@ -14,7 +14,7 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7899-2-19:00-3",
+          "id": "7899-2-19:00-1",
           "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -31,10 +31,10 @@
           }
         },
         {
-          "id": "7899-2-20:40-4",
+          "id": "7899-2-20:40-2",
           "dayIndex": 2,
           "time": "20:40-22:10",
-          "timeSlotIndex": 5,
+          "timeSlotIndex": 3,
           "subject": "Стратегическое планирование логистики и стратегии управления запасами",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -62,42 +62,7 @@
     {
       "dayName": "Пятница",
       "dayIndex": 5,
-      "lessons": [
-        {
-          "id": "7675-5-19:00-1",
-          "dayIndex": 5,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Страхование в морской логистике",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "М 33",
-          "campus": "Псковская (Корпус М)",
-          "groupName": "4260",
-          "weekParity": "both",
-          "dateSpecific": "06.11 по 25.12",
-          "teacher": {
-            "name": "Кафедра &quot;Инновационная экономика&quot;"
-          }
-        },
-        {
-          "id": "7675-5-20:40-2",
-          "dayIndex": 5,
-          "time": "20:40-22:10",
-          "timeSlotIndex": 3,
-          "subject": "Страхование в морской логистике",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "М 33",
-          "campus": "Псковская (Корпус М)",
-          "groupName": "4260",
-          "weekParity": "both",
-          "dateSpecific": "06.11 по 25.12",
-          "teacher": {
-            "name": "Кафедра &quot;Инновационная экономика&quot;"
-          }
-        }
-      ]
+      "lessons": []
     },
     {
       "dayName": "Суббота",

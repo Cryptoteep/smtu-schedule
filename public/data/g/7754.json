@@ -1,7 +1,7 @@
 {
   "groupId": "7754",
   "groupName": "20270",
-  "updatedAt": "2026-09-25T07:46:12.261Z",
+  "updatedAt": "2026-09-25T13:45:05.921Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -50,6 +50,25 @@
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Свиркина Лариса Анатольевна",
+            "id": "122619",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
+          }
+        },
+        {
+          "id": "7754-2-10:10-2",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
           "subject": "Детали машин",
           "type": "lab",
           "rawType": "Лабораторное занятие",
@@ -63,7 +82,45 @@
           }
         },
         {
-          "id": "7754-2-14:00-2",
+          "id": "7754-2-11:50-3",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 438",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Свиркина Лариса Анатольевна",
+            "id": "122619",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
+          }
+        },
+        {
+          "id": "7754-2-11:50-4",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 242",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бабаева Наталья Михайловна",
+            "id": "100060",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100060/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100060.jpg?token_static=6983cf54ef4c5f9ccf1992c4ec056dd0"
+          }
+        },
+        {
+          "id": "7754-2-14:00-5",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -80,7 +137,7 @@
           }
         },
         {
-          "id": "7754-2-14:00-3",
+          "id": "7754-2-14:00-6",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -107,25 +164,6 @@
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Физика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 324",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20270",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Колесников Юрий Леонидович",
-            "id": "122535",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122535/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p122535.jpg?token_static=463a6f73b30879b419c62a9fc5283b73"
-          }
-        },
-        {
-          "id": "7754-3-10:10-2",
-          "dayIndex": 3,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
           "subject": "Философия",
           "type": "lecture",
           "rawType": "Лекция",
@@ -139,7 +177,7 @@
           }
         },
         {
-          "id": "7754-3-11:50-3",
+          "id": "7754-3-11:50-2",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -158,7 +196,7 @@
           }
         },
         {
-          "id": "7754-3-11:50-4",
+          "id": "7754-3-11:50-3",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -175,6 +213,25 @@
             "id": "122535",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122535/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p122535.jpg?token_static=463a6f73b30879b419c62a9fc5283b73"
+          }
+        },
+        {
+          "id": "7754-3-14:00-4",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Высшая математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Свиркина Лариса Анатольевна",
+            "id": "122619",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
           }
         },
         {
@@ -201,25 +258,6 @@
           "subject": "Высшая математика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20270",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Свиркина Лариса Анатольевна",
-            "id": "122619",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
-          }
-        },
-        {
-          "id": "7754-3-14:00-7",
-          "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Высшая математика",
-          "type": "lecture",
-          "rawType": "Лекция",
           "room": "У 107",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20270",
@@ -233,7 +271,7 @@
           }
         },
         {
-          "id": "7754-3-15:40-8",
+          "id": "7754-3-15:40-7",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -308,18 +346,40 @@
           "groupName": "20270",
           "weekParity": "up",
           "teacher": {
-            "name": "Кафедра промышленной, экологической и климатической безопасности"
+            "name": "Чихонадских Елена Александровна",
+            "id": "101326",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
           }
         },
         {
-          "id": "7754-4-15:40-4",
+          "id": "7754-4-14:00-4",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Сопротивление материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 143",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сиверс Михаил Николаевич",
+            "id": "101071",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101071/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/04/30/small/p101071.jpg?token_static=21316d0236404d4b3c4243cdaef43fb2"
+          }
+        },
+        {
+          "id": "7754-4-15:40-5",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Физика",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "У 326",
+          "room": "У 301",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20270",
           "weekParity": "down",
@@ -331,7 +391,7 @@
           }
         },
         {
-          "id": "7754-4-17:20-5",
+          "id": "7754-4-17:20-6",
           "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -348,7 +408,7 @@
           }
         },
         {
-          "id": "7754-4-19:00-6",
+          "id": "7754-4-19:00-7",
           "dayIndex": 4,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -371,26 +431,7 @@
       "dayIndex": 5,
       "lessons": [
         {
-          "id": "7754-5-08:30-1",
-          "dayIndex": 5,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Сопротивление материалов",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 506",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20270",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Сиверс Михаил Николаевич",
-            "id": "101071",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101071/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/04/30/small/p101071.jpg?token_static=21316d0236404d4b3c4243cdaef43fb2"
-          }
-        },
-        {
-          "id": "7754-5-10:10-2",
+          "id": "7754-5-10:10-1",
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -409,7 +450,7 @@
           }
         },
         {
-          "id": "7754-5-10:10-3",
+          "id": "7754-5-10:10-2",
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -421,11 +462,14 @@
           "groupName": "20270",
           "weekParity": "down",
           "teacher": {
-            "name": "Кафедра промышленной, экологической и климатической безопасности"
+            "name": "Чихонадских Елена Александровна",
+            "id": "101326",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
           }
         },
         {
-          "id": "7754-5-11:50-4",
+          "id": "7754-5-11:50-3",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -441,7 +485,7 @@
           }
         },
         {
-          "id": "7754-5-14:00-5",
+          "id": "7754-5-14:00-4",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -460,7 +504,7 @@
           }
         },
         {
-          "id": "7754-5-14:00-6",
+          "id": "7754-5-14:00-5",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -482,7 +526,24 @@
       "dayIndex": 6,
       "lessons": [
         {
-          "id": "7754-6-10:10-1",
+          "id": "7754-6-08:30-1",
+          "dayIndex": 6,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Системы автоматизированного проектирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "20270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Блинов Егор Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/30/small/p128716.jpg?token_static=fe7c2530286b1b1fe505c801384abce5"
+          }
+        },
+        {
+          "id": "7754-6-10:10-2",
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -499,7 +560,23 @@
           }
         },
         {
-          "id": "7754-6-11:50-2",
+          "id": "7754-6-10:10-3",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
+        },
+        {
+          "id": "7754-6-11:50-4",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -516,7 +593,24 @@
           }
         },
         {
-          "id": "7754-6-14:00-3",
+          "id": "7754-6-11:50-5",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 245а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Смирнова Дарья Леонидовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/21/small/p115788.jpg?token_static=dae84bbc10e7606ca1d3d6f5a714fff4"
+          }
+        },
+        {
+          "id": "7754-6-14:00-6",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -533,7 +627,7 @@
           }
         },
         {
-          "id": "7754-6-14:00-4",
+          "id": "7754-6-14:00-7",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -550,24 +644,7 @@
           }
         },
         {
-          "id": "7754-6-15:40-5",
-          "dayIndex": 6,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Системы автоматизированного проектирования",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "ИЛИСТ УИК207",
-          "campus": "СПбГМТУ",
-          "groupName": "20270",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Блинов Егор Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/30/small/p128716.jpg?token_static=fe7c2530286b1b1fe505c801384abce5"
-          }
-        },
-        {
-          "id": "7754-6-15:40-6",
+          "id": "7754-6-15:40-8",
           "dayIndex": 6,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,

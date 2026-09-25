@@ -1,52 +1,14 @@
 {
   "groupId": "7901",
   "groupName": "12638-51",
-  "updatedAt": "2026-09-25T07:46:14.725Z",
+  "updatedAt": "2026-09-25T13:45:08.412Z",
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
       "lessons": [
         {
-          "id": "7901-1-14:00-1",
-          "dayIndex": 1,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Стратегический менеджмент и инновационные бизнес-модели",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 543",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12638-51",
-          "weekParity": "both",
-          "dateSpecific": "02.11 по 21.12",
-          "teacher": {
-            "name": "Васильева Светлана Альбертовна",
-            "id": "122788",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122788/"
-          }
-        },
-        {
-          "id": "7901-1-15:40-2",
-          "dayIndex": 1,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Стратегический менеджмент и инновационные бизнес-модели",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 543",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12638-51",
-          "weekParity": "both",
-          "dateSpecific": "02.11 по 21.12",
-          "teacher": {
-            "name": "Васильева Светлана Альбертовна",
-            "id": "122788",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122788/"
-          }
-        },
-        {
-          "id": "7901-1-17:20-3",
+          "id": "7901-1-17:20-1",
           "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -65,7 +27,7 @@
           }
         },
         {
-          "id": "7901-1-19:00-4",
+          "id": "7901-1-19:00-2",
           "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -90,67 +52,7 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7901-2-15:40-1",
-          "dayIndex": 2,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Бизнес-планирование и оценка эффективности инвестиционных проектов международных компаний",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "М 11",
-          "campus": "Псковская (Корпус М)",
-          "groupName": "12638-51",
-          "weekParity": "both",
-          "dateSpecific": "03.11 по 22.12",
-          "teacher": {
-            "name": "Красовская Инна Петровна",
-            "id": "106225",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/106225/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/05/18/small/p106225.jpg?token_static=d57954db919d5a0ed033955350bdb4ce"
-          }
-        },
-        {
-          "id": "7901-2-17:20-2",
-          "dayIndex": 2,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Бизнес-планирование и оценка эффективности инвестиционных проектов международных компаний",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "М 11",
-          "campus": "Псковская (Корпус М)",
-          "groupName": "12638-51",
-          "weekParity": "both",
-          "dateSpecific": "03.11 по 22.12",
-          "teacher": {
-            "name": "Красовская Инна Петровна",
-            "id": "106225",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/106225/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/05/18/small/p106225.jpg?token_static=d57954db919d5a0ed033955350bdb4ce"
-          }
-        },
-        {
-          "id": "7901-2-19:00-3",
-          "dayIndex": 2,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Бизнес-планирование и оценка эффективности инвестиционных проектов международных компаний",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "М 11",
-          "campus": "Псковская (Корпус М)",
-          "groupName": "12638-51",
-          "weekParity": "both",
-          "dateSpecific": "03.11 по 22.12",
-          "teacher": {
-            "name": "Красовская Инна Петровна",
-            "id": "106225",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/106225/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/05/18/small/p106225.jpg?token_static=d57954db919d5a0ed033955350bdb4ce"
-          }
-        },
-        {
-          "id": "7901-2-19:00-4",
+          "id": "7901-2-19:00-1",
           "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -167,10 +69,10 @@
           }
         },
         {
-          "id": "7901-2-20:40-5",
+          "id": "7901-2-20:40-2",
           "dayIndex": 2,
           "time": "20:40-22:10",
-          "timeSlotIndex": 6,
+          "timeSlotIndex": 3,
           "subject": "Стратегическое планирование логистики и стратегии управления запасами",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -208,47 +110,7 @@
           }
         },
         {
-          "id": "7901-3-17:20-2",
-          "dayIndex": 3,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Управление проектами и инновациями",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 161",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12638-51",
-          "weekParity": "both",
-          "dateSpecific": "11.11 по 18.11",
-          "teacher": {
-            "name": "Гоголюхина Мария Евгеньевна",
-            "id": "100274",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100274/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/27/small/p100274.jpg?token_static=39a45e1b3ba5272bac18b5ce3a124af9"
-          }
-        },
-        {
-          "id": "7901-3-19:00-3",
-          "dayIndex": 3,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Управление проектами и инновациями",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 161",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12638-51",
-          "weekParity": "both",
-          "dateSpecific": "11.11 по 18.11",
-          "teacher": {
-            "name": "Гоголюхина Мария Евгеньевна",
-            "id": "100274",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100274/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/27/small/p100274.jpg?token_static=39a45e1b3ba5272bac18b5ce3a124af9"
-          }
-        },
-        {
-          "id": "7901-3-19:00-4",
+          "id": "7901-3-19:00-2",
           "dayIndex": 3,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,

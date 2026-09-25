@@ -1,7 +1,7 @@
 {
   "groupId": "7827",
   "groupName": "12126-30",
-  "updatedAt": "2026-09-25T07:45:57.920Z",
+  "updatedAt": "2026-09-25T13:44:52.823Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -54,10 +54,10 @@
           "groupName": "12126-30",
           "weekParity": "up",
           "teacher": {
-            "name": "Петренко Валентина Ивановна",
-            "id": "107963",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/107963/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/02/06/small/p107963.jpg?token_static=280ce4f4f87a77bf30f1390342f9a02f"
+            "name": "Ковалев Андрей Петрович",
+            "id": "122808",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122808/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/31/small/p122808.jpg?token_static=5db7b5ad65dcd9ef163454d9132bb0ba"
           }
         },
         {
@@ -73,10 +73,10 @@
           "groupName": "12126-30",
           "weekParity": "up",
           "teacher": {
-            "name": "Ковалев Андрей Петрович",
-            "id": "122808",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122808/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/31/small/p122808.jpg?token_static=5db7b5ad65dcd9ef163454d9132bb0ba"
+            "name": "Петренко Валентина Ивановна",
+            "id": "107963",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107963/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/02/06/small/p107963.jpg?token_static=280ce4f4f87a77bf30f1390342f9a02f"
           }
         },
         {
@@ -115,10 +115,10 @@
           "groupName": "12126-30",
           "weekParity": "both",
           "teacher": {
-            "name": "Петренко Валентина Ивановна",
-            "id": "107963",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/107963/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/02/06/small/p107963.jpg?token_static=280ce4f4f87a77bf30f1390342f9a02f"
+            "name": "Ковалев Андрей Петрович",
+            "id": "122808",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122808/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/31/small/p122808.jpg?token_static=5db7b5ad65dcd9ef163454d9132bb0ba"
           }
         },
         {
@@ -134,10 +134,10 @@
           "groupName": "12126-30",
           "weekParity": "both",
           "teacher": {
-            "name": "Ковалев Андрей Петрович",
-            "id": "122808",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122808/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/31/small/p122808.jpg?token_static=5db7b5ad65dcd9ef163454d9132bb0ba"
+            "name": "Петренко Валентина Ивановна",
+            "id": "107963",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107963/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/02/06/small/p107963.jpg?token_static=280ce4f4f87a77bf30f1390342f9a02f"
           }
         },
         {
@@ -164,7 +164,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 414",
+          "room": "У 211",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-30",
           "weekParity": "up",
@@ -181,7 +181,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 211",
+          "room": "У 414",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-30",
           "weekParity": "up",
@@ -238,23 +238,6 @@
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12126-30",
-          "weekParity": "both",
-          "dateSpecific": "28.10 по 16.12",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
-          }
-        },
-        {
-          "id": "7827-3-11:50-3",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Физическая культура и спорт",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 101",
@@ -268,7 +251,7 @@
           }
         },
         {
-          "id": "7827-3-14:00-4",
+          "id": "7827-3-14:00-3",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -287,7 +270,7 @@
           }
         },
         {
-          "id": "7827-3-15:40-5",
+          "id": "7827-3-15:40-4",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -445,8 +428,10 @@
           "groupName": "12126-30",
           "weekParity": "down",
           "teacher": {
-            "name": "Дроздов Владимир Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+            "name": "Вихров Николай Михайлович",
+            "id": "100217",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
           }
         },
         {
@@ -462,10 +447,8 @@
           "groupName": "12126-30",
           "weekParity": "down",
           "teacher": {
-            "name": "Вихров Николай Михайлович",
-            "id": "100217",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
           }
         },
         {
@@ -500,44 +483,10 @@
           "groupName": "12126-30",
           "weekParity": "both",
           "teacher": {
-            "name": "Бокатова Анастасия Антоновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
-          }
-        },
-        {
-          "id": "7827-4-14:00-12",
-          "dayIndex": 4,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б 401",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "12126-30",
-          "weekParity": "both",
-          "teacher": {
             "name": "Рюмин Сергей Николаевич",
             "id": "101017",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
-          }
-        },
-        {
-          "id": "7827-4-14:00-13",
-          "dayIndex": 4,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б 401",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "12126-30",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Ворожейко Анастасия Сергеевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/11/small/p106538.jpg?token_static=a46f970454ad734881b8ad2509e37f04"
           }
         }
       ]

@@ -2,8 +2,8 @@
   "teacherId": "Смирнова Дарья Леонидовна",
   "teacherName": "Смирнова Дарья Леонидовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/21/small/p115788.jpg?token_static=dae84bbc10e7606ca1d3d6f5a714fff4",
-  "updatedAt": "2026-09-25T07:46:21.198Z",
-  "totalLessons": 19,
+  "updatedAt": "2026-09-25T13:45:13.829Z",
+  "totalLessons": 21,
   "days": [
     {
       "dayName": "Понедельник",
@@ -337,6 +337,40 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "4222",
           "weekParity": "up",
+          "teacher": {
+            "name": "Смирнова Дарья Леонидовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/21/small/p115788.jpg?token_static=dae84bbc10e7606ca1d3d6f5a714fff4"
+          }
+        },
+        {
+          "id": "7754-6-11:50-5",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 245а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Смирнова Дарья Леонидовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/21/small/p115788.jpg?token_static=dae84bbc10e7606ca1d3d6f5a714fff4"
+          }
+        },
+        {
+          "id": "7755-6-17:20-5",
+          "dayIndex": 6,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "down",
           "teacher": {
             "name": "Смирнова Дарья Леонидовна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/21/small/p115788.jpg?token_static=dae84bbc10e7606ca1d3d6f5a714fff4"

@@ -1,7 +1,7 @@
 {
   "groupId": "7895",
   "groupName": "12638-09",
-  "updatedAt": "2026-09-25T07:46:14.363Z",
+  "updatedAt": "2026-09-25T13:45:08.206Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -502,23 +502,6 @@
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12638-09",
-          "weekParity": "down",
-          "dateSpecific": "26.10",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
-          }
-        },
-        {
-          "id": "7895-6-10:10-2",
-          "dayIndex": 6,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Физическая культура и спорт",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 115",
@@ -534,24 +517,7 @@
           }
         },
         {
-          "id": "7895-6-11:50-3",
-          "dayIndex": 6,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12638-09",
-          "weekParity": "down",
-          "dateSpecific": "26.10",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
-          }
-        },
-        {
-          "id": "7895-6-11:50-4",
+          "id": "7895-6-11:50-2",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,

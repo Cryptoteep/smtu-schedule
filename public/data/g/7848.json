@@ -1,52 +1,8 @@
 {
   "groupId": "7848",
   "groupName": "4415",
-  "updatedAt": "2026-09-25T07:46:16.517Z",
+  "updatedAt": "2026-09-25T13:45:09.813Z",
   "days": [
-    {
-      "dayName": "Понедельник",
-      "dayIndex": 1,
-      "lessons": [
-        {
-          "id": "7848-1-19:00-1",
-          "dayIndex": 1,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Оценка интеллектуальной собственности",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "М 11",
-          "campus": "Псковская (Корпус М)",
-          "groupName": "4415",
-          "weekParity": "both",
-          "dateSpecific": "02.11 по 21.12",
-          "teacher": {
-            "name": "Майорова Ксения Сергеевна",
-            "id": "102450",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/102450/"
-          }
-        },
-        {
-          "id": "7848-1-20:40-2",
-          "dayIndex": 1,
-          "time": "20:40-22:10",
-          "timeSlotIndex": 3,
-          "subject": "Оценка интеллектуальной собственности",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "М 11",
-          "campus": "Псковская (Корпус М)",
-          "groupName": "4415",
-          "weekParity": "both",
-          "dateSpecific": "02.11 по 21.12",
-          "teacher": {
-            "name": "Майорова Ксения Сергеевна",
-            "id": "102450",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/102450/"
-          }
-        }
-      ]
-    },
     {
       "dayName": "Вторник",
       "dayIndex": 2,
@@ -175,50 +131,6 @@
           "groupName": "4415",
           "weekParity": "both",
           "dateSpecific": "10.09 по 24.12",
-          "teacher": {
-            "name": "Майорова Ксения Сергеевна",
-            "id": "102450",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/102450/"
-          }
-        }
-      ]
-    },
-    {
-      "dayName": "Пятница",
-      "dayIndex": 5,
-      "lessons": [
-        {
-          "id": "7848-5-19:00-1",
-          "dayIndex": 5,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Оценка интеллектуальной собственности",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "М 31",
-          "campus": "Псковская (Корпус М)",
-          "groupName": "4415",
-          "weekParity": "both",
-          "dateSpecific": "06.11 по 27.11",
-          "teacher": {
-            "name": "Майорова Ксения Сергеевна",
-            "id": "102450",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/102450/"
-          }
-        },
-        {
-          "id": "7848-5-20:40-2",
-          "dayIndex": 5,
-          "time": "20:40-22:10",
-          "timeSlotIndex": 3,
-          "subject": "Оценка интеллектуальной собственности",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "М 31",
-          "campus": "Псковская (Корпус М)",
-          "groupName": "4415",
-          "weekParity": "both",
-          "dateSpecific": "06.11 по 27.11",
           "teacher": {
             "name": "Майорова Ксения Сергеевна",
             "id": "102450",

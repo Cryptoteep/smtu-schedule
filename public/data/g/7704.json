@@ -1,54 +1,14 @@
 {
   "groupId": "7704",
   "groupName": "7200",
-  "updatedAt": "2026-09-25T07:46:17.827Z",
+  "updatedAt": "2026-09-25T13:45:10.862Z",
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
       "lessons": [
         {
-          "id": "7704-1-14:00-1",
-          "dayIndex": 1,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Бережливое производство в судостроении",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 174 - 177",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "7200",
-          "weekParity": "both",
-          "dateSpecific": "17.11 по 07.12",
-          "teacher": {
-            "name": "Загребельный Кирилл Александрович",
-            "id": "102751",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
-          }
-        },
-        {
-          "id": "7704-1-15:40-2",
-          "dayIndex": 1,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Бережливое производство в судостроении",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 174 - 177",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "7200",
-          "weekParity": "both",
-          "dateSpecific": "17.11 по 07.12",
-          "teacher": {
-            "name": "Загребельный Кирилл Александрович",
-            "id": "102751",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
-          }
-        },
-        {
-          "id": "7704-1-15:40-3",
+          "id": "7704-1-15:40-1",
           "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -68,7 +28,27 @@
           }
         },
         {
-          "id": "7704-1-17:20-4",
+          "id": "7704-1-17:20-2",
+          "dayIndex": 1,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Социология труда",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7200",
+          "weekParity": "both",
+          "dateSpecific": "8.12-21.12",
+          "teacher": {
+            "name": "Шмырева Ольга Валерьевна",
+            "id": "101372",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
+          }
+        },
+        {
+          "id": "7704-1-17:20-3",
           "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -88,30 +68,10 @@
           }
         },
         {
-          "id": "7704-1-17:20-5",
+          "id": "7704-1-19:00-4",
           "dayIndex": 1,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Бережливое производство в судостроении",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 174 - 177",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "7200",
-          "weekParity": "both",
-          "dateSpecific": "17.11 по 07.12",
-          "teacher": {
-            "name": "Загребельный Кирилл Александрович",
-            "id": "102751",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
-          }
-        },
-        {
-          "id": "7704-1-17:20-6",
-          "dayIndex": 1,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
           "subject": "Социология труда",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -128,7 +88,7 @@
           }
         },
         {
-          "id": "7704-1-19:00-7",
+          "id": "7704-1-19:00-5",
           "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -148,30 +108,10 @@
           }
         },
         {
-          "id": "7704-1-19:00-8",
-          "dayIndex": 1,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Социология труда",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 426",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "7200",
-          "weekParity": "both",
-          "dateSpecific": "8.12-21.12",
-          "teacher": {
-            "name": "Шмырева Ольга Валерьевна",
-            "id": "101372",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
-          }
-        },
-        {
-          "id": "7704-1-20:40-9",
+          "id": "7704-1-20:40-6",
           "dayIndex": 1,
           "time": "20:40-22:10",
-          "timeSlotIndex": 10,
+          "timeSlotIndex": 7,
           "subject": "Социология труда",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -241,26 +181,6 @@
           "subject": "Кризисное управление и управленческие конфликты",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 02ю",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "7200",
-          "weekParity": "both",
-          "dateSpecific": "17.11 по 21.12",
-          "teacher": {
-            "name": "Прозоровская Камилла Александровна",
-            "id": "100945",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100945/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100945.jpg?token_static=d755f1e819d4a1f558a1b4dbe38eca41"
-          }
-        },
-        {
-          "id": "7704-2-19:00-4",
-          "dayIndex": 2,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Кризисное управление и управленческие конфликты",
-          "type": "lecture",
-          "rawType": "Лекция",
           "room": "У 440",
           "campus": "Ульянка (Корпус У)",
           "groupName": "7200",
@@ -274,30 +194,10 @@
           }
         },
         {
-          "id": "7704-2-20:40-5",
+          "id": "7704-2-20:40-4",
           "dayIndex": 2,
           "time": "20:40-22:10",
-          "timeSlotIndex": 6,
-          "subject": "Социология труда",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 02ю",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "7200",
-          "weekParity": "both",
-          "dateSpecific": "17.11 по 14.12",
-          "teacher": {
-            "name": "Прозоровская Камилла Александровна",
-            "id": "100945",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100945/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100945.jpg?token_static=d755f1e819d4a1f558a1b4dbe38eca41"
-          }
-        },
-        {
-          "id": "7704-2-20:40-6",
-          "dayIndex": 2,
-          "time": "20:40-22:10",
-          "timeSlotIndex": 7,
+          "timeSlotIndex": 5,
           "subject": "Социология труда",
           "type": "lecture",
           "rawType": "Лекция",

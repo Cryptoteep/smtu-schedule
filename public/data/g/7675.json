@@ -1,50 +1,14 @@
 {
   "groupId": "7675",
   "groupName": "4260",
-  "updatedAt": "2026-09-25T07:46:15.762Z",
+  "updatedAt": "2026-09-25T13:45:09.001Z",
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
       "lessons": [
         {
-          "id": "7675-1-14:00-1",
-          "dayIndex": 1,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Управление логистическими рисками",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "М 32",
-          "campus": "Псковская (Корпус М)",
-          "groupName": "4260",
-          "weekParity": "both",
-          "dateSpecific": "02.11 по 21.12",
-          "teacher": {
-            "name": "Туртиа Валентин Сергеевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/140528.jpg?token_static=ea54951d1ebeaa6ca1abe79b474bff4f"
-          }
-        },
-        {
-          "id": "7675-1-15:40-2",
-          "dayIndex": 1,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Управление логистическими рисками",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "М 11",
-          "campus": "Псковская (Корпус М)",
-          "groupName": "4260",
-          "weekParity": "both",
-          "dateSpecific": "02.11по 21.12",
-          "teacher": {
-            "name": "Туртиа Валентин Сергеевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/140528.jpg?token_static=ea54951d1ebeaa6ca1abe79b474bff4f"
-          }
-        },
-        {
-          "id": "7675-1-17:20-3",
+          "id": "7675-1-17:20-1",
           "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -64,7 +28,7 @@
           }
         },
         {
-          "id": "7675-1-19:00-4",
+          "id": "7675-1-19:00-2",
           "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -81,132 +45,6 @@
             "id": "106225",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/106225/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/05/18/small/p106225.jpg?token_static=d57954db919d5a0ed033955350bdb4ce"
-          }
-        }
-      ]
-    },
-    {
-      "dayName": "Вторник",
-      "dayIndex": 2,
-      "lessons": [
-        {
-          "id": "7675-2-14:00-1",
-          "dayIndex": 2,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Бережливое производство в судостроении",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 174 - 177",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "4260",
-          "weekParity": "both",
-          "dateSpecific": "06.10 по 20.10",
-          "teacher": {
-            "name": "Загребельный Кирилл Александрович",
-            "id": "102751",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
-          }
-        },
-        {
-          "id": "7675-2-14:00-2",
-          "dayIndex": 2,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Бережливое производство в судостроении",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б 401",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "4260",
-          "weekParity": "both",
-          "dateSpecific": "27.10-16.11",
-          "teacher": {
-            "name": "Малышев Евгений Анатольевич",
-            "id": "127500",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
-          }
-        },
-        {
-          "id": "7675-2-15:40-3",
-          "dayIndex": 2,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Бережливое производство в судостроении",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б 401",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "4260",
-          "weekParity": "both",
-          "dateSpecific": "27.10-16.11",
-          "teacher": {
-            "name": "Малышев Евгений Анатольевич",
-            "id": "127500",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
-          }
-        },
-        {
-          "id": "7675-2-15:40-4",
-          "dayIndex": 2,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Бережливое производство в судостроении",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 174 - 177",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "4260",
-          "weekParity": "both",
-          "dateSpecific": "06.10 по 20.10",
-          "teacher": {
-            "name": "Загребельный Кирилл Александрович",
-            "id": "102751",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
-          }
-        },
-        {
-          "id": "7675-2-17:20-5",
-          "dayIndex": 2,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Бережливое производство в судостроении",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б 401",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "4260",
-          "weekParity": "both",
-          "dateSpecific": "27.10-16.11",
-          "teacher": {
-            "name": "Малышев Евгений Анатольевич",
-            "id": "127500",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
-          }
-        },
-        {
-          "id": "7675-2-17:20-6",
-          "dayIndex": 2,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Бережливое производство в судостроении",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 174 - 177",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "4260",
-          "weekParity": "both",
-          "dateSpecific": "06.10 по 20.10",
-          "teacher": {
-            "name": "Загребельный Кирилл Александрович",
-            "id": "102751",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
           }
         }
       ]
@@ -236,47 +74,7 @@
           }
         },
         {
-          "id": "7675-3-15:40-2",
-          "dayIndex": 3,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Организация мультимодальных перевозок",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "М 12",
-          "campus": "Псковская (Корпус М)",
-          "groupName": "4260",
-          "weekParity": "both",
-          "dateSpecific": "04.11 по 23.12",
-          "teacher": {
-            "name": "Малышев Евгений Анатольевич",
-            "id": "127500",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
-          }
-        },
-        {
-          "id": "7675-3-17:20-3",
-          "dayIndex": 3,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Организация мультимодальных перевозок",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "М 12",
-          "campus": "Псковская (Корпус М)",
-          "groupName": "4260",
-          "weekParity": "both",
-          "dateSpecific": "04.11 по 23.12",
-          "teacher": {
-            "name": "Малышев Евгений Анатольевич",
-            "id": "127500",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
-          }
-        },
-        {
-          "id": "7675-3-17:20-4",
+          "id": "7675-3-17:20-2",
           "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -364,46 +162,6 @@
       ]
     },
     {
-      "dayName": "Пятница",
-      "dayIndex": 5,
-      "lessons": [
-        {
-          "id": "7675-5-19:00-1",
-          "dayIndex": 5,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Страхование в морской логистике",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "М 33",
-          "campus": "Псковская (Корпус М)",
-          "groupName": "4260",
-          "weekParity": "both",
-          "dateSpecific": "06.11 по 25.12",
-          "teacher": {
-            "name": "Кафедра &quot;Инновационная экономика&quot;"
-          }
-        },
-        {
-          "id": "7675-5-20:40-2",
-          "dayIndex": 5,
-          "time": "20:40-22:10",
-          "timeSlotIndex": 3,
-          "subject": "Страхование в морской логистике",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "М 33",
-          "campus": "Псковская (Корпус М)",
-          "groupName": "4260",
-          "weekParity": "both",
-          "dateSpecific": "06.11 по 25.12",
-          "teacher": {
-            "name": "Кафедра &quot;Инновационная экономика&quot;"
-          }
-        }
-      ]
-    },
-    {
       "dayName": "Суббота",
       "dayIndex": 6,
       "lessons": [
@@ -412,24 +170,6 @@
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Развитие сетей распределения",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "М 11",
-          "campus": "Псковская (Корпус М)",
-          "groupName": "4260",
-          "weekParity": "both",
-          "dateSpecific": "07.11 по 26.12",
-          "teacher": {
-            "name": "Мелёхин Вячеслав Дмитриевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/08/31/small/140527.jpg?token_static=85251149f9ec6b9647e420bfacd26985"
-          }
-        },
-        {
-          "id": "7675-6-10:10-2",
-          "dayIndex": 6,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
           "subject": "Таможенное дело",
           "type": "lecture",
           "rawType": "Лекция",
@@ -444,25 +184,7 @@
           }
         },
         {
-          "id": "7675-6-11:50-3",
-          "dayIndex": 6,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Развитие сетей распределения",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "М 11",
-          "campus": "Псковская (Корпус М)",
-          "groupName": "4260",
-          "weekParity": "both",
-          "dateSpecific": "07.11 по 26.12",
-          "teacher": {
-            "name": "Мелёхин Вячеслав Дмитриевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/08/31/small/140527.jpg?token_static=85251149f9ec6b9647e420bfacd26985"
-          }
-        },
-        {
-          "id": "7675-6-11:50-4",
+          "id": "7675-6-11:50-2",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -480,25 +202,7 @@
           }
         },
         {
-          "id": "7675-6-14:00-5",
-          "dayIndex": 6,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Развитие сетей распределения",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "М 11",
-          "campus": "Псковская (Корпус М)",
-          "groupName": "4260",
-          "weekParity": "both",
-          "dateSpecific": "07.11 по 26.12",
-          "teacher": {
-            "name": "Мелёхин Вячеслав Дмитриевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/08/31/small/140527.jpg?token_static=85251149f9ec6b9647e420bfacd26985"
-          }
-        },
-        {
-          "id": "7675-6-14:00-6",
+          "id": "7675-6-14:00-3",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

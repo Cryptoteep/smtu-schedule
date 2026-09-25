@@ -1,7 +1,7 @@
 {
   "groupId": "6965",
   "groupName": "12115-04",
-  "updatedAt": "2026-09-25T07:45:57.802Z",
+  "updatedAt": "2026-09-25T13:44:53.236Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -351,22 +351,6 @@
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12115-04",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
-          }
-        },
-        {
-          "id": "6965-5-10:10-2",
-          "dayIndex": 5,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Физическая культура и спорт",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 101",
@@ -379,7 +363,7 @@
           }
         },
         {
-          "id": "6965-5-11:50-3",
+          "id": "6965-5-11:50-2",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -398,7 +382,7 @@
           }
         },
         {
-          "id": "6965-5-14:00-4",
+          "id": "6965-5-14:00-3",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -484,7 +468,11 @@
           "room": "У 154",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12115-04",
-          "weekParity": "down"
+          "weekParity": "down",
+          "teacher": {
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
+          }
         }
       ]
     }

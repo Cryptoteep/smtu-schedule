@@ -3,8 +3,8 @@
   "teacherName": "Кротов Евгений Алексеевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100590.jpg?token_static=1cbe8e55b144f037405332a10de60893",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100590/",
-  "updatedAt": "2026-09-25T07:46:21.845Z",
-  "totalLessons": 19,
+  "updatedAt": "2026-09-25T13:45:14.002Z",
+  "totalLessons": 18,
   "days": [
     {
       "dayName": "Понедельник",
@@ -201,11 +201,10 @@
           "subject": "Математический анализ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 115",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-02, 12509-06, 12509-04, 12509-01, 12509-03, 12509-05, 12509-07, 12509-08",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Кротов Евгений Алексеевич",
             "id": "100590",
@@ -215,26 +214,6 @@
         },
         {
           "id": "7444-3-14:00-5",
-          "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Математический анализ",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 313",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-02",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Кротов Евгений Алексеевич",
-            "id": "100590",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100590/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100590.jpg?token_static=1cbe8e55b144f037405332a10de60893"
-          }
-        },
-        {
-          "id": "7444-3-14:00-6",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -386,11 +365,10 @@
           "subject": "Математический анализ",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 02ю",
+          "room": "Конгресс-Центр 207",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-03",
           "weekParity": "both",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Кротов Евгений Алексеевич",
             "id": "100590",

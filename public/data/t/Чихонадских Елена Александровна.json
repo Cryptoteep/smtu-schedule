@@ -3,8 +3,8 @@
   "teacherName": "Чихонадских Елена Александровна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
-  "updatedAt": "2026-09-25T07:46:21.193Z",
-  "totalLessons": 21,
+  "updatedAt": "2026-09-25T13:45:13.811Z",
+  "totalLessons": 26,
   "days": [
     {
       "dayName": "Понедельник",
@@ -249,6 +249,44 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
           }
+        },
+        {
+          "id": "7743-2-19:00-8",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Экология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 340(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20200",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чихонадских Елена Александровна",
+            "id": "101326",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+          }
+        },
+        {
+          "id": "7745-2-11:50-6",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Экология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 340(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20220",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чихонадских Елена Александровна",
+            "id": "101326",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+          }
         }
       ]
     },
@@ -297,7 +335,67 @@
     {
       "dayName": "Четверг",
       "dayIndex": 4,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7754-4-14:00-3",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Экология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 340(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чихонадских Елена Александровна",
+            "id": "101326",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+          }
+        },
+        {
+          "id": "7894-4-19:00-2",
+          "dayIndex": 4,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Экология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 340(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-08-2",
+          "weekParity": "both",
+          "dateSpecific": "1.10 по 11.11",
+          "teacher": {
+            "name": "Чихонадских Елена Александровна",
+            "id": "101326",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+          }
+        },
+        {
+          "id": "7894-4-20:40-4",
+          "dayIndex": 4,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Экология",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 340(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-08-2",
+          "weekParity": "both",
+          "dateSpecific": "1.10 по 11.11",
+          "teacher": {
+            "name": "Чихонадских Елена Александровна",
+            "id": "101326",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+          }
+        }
+      ]
     },
     {
       "dayName": "Пятница",

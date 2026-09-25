@@ -1,7 +1,7 @@
 {
   "groupId": "7789",
   "groupName": "12226-10",
-  "updatedAt": "2026-09-25T07:46:02.322Z",
+  "updatedAt": "2026-09-25T13:44:57.139Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -98,24 +98,7 @@
           }
         },
         {
-          "id": "7789-1-14:00-6",
-          "dayIndex": 1,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12226-10",
-          "weekParity": "both",
-          "dateSpecific": "26.10 по 14.12",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
-          }
-        },
-        {
-          "id": "7789-1-15:40-7",
+          "id": "7789-1-15:40-6",
           "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -227,7 +210,7 @@
           "subject": "Информатика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Б 301а",
+          "room": "Б 301б",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12226-10",
           "weekParity": "up",
@@ -244,7 +227,7 @@
           "subject": "Информатика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Б 301б",
+          "room": "Б 301а",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12226-10",
           "weekParity": "up",
@@ -261,7 +244,7 @@
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Б 301а",
+          "room": "Б 301б",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12226-10",
           "weekParity": "down",
@@ -278,7 +261,7 @@
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Б 301б",
+          "room": "Б 301а",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12226-10",
           "weekParity": "down",
@@ -469,23 +452,6 @@
         },
         {
           "id": "7789-3-11:50-15",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 407",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12226-10",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Бокатова Анастасия Антоновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
-          }
-        },
-        {
-          "id": "7789-3-11:50-16",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,

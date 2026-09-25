@@ -2,8 +2,8 @@
   "teacherId": "Кленин Петр Владиславович",
   "teacherName": "Кленин Петр Владиславович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9",
-  "updatedAt": "2026-09-25T07:46:21.197Z",
-  "totalLessons": 27,
+  "updatedAt": "2026-09-25T13:45:13.825Z",
+  "totalLessons": 28,
   "days": [
     {
       "dayName": "Понедельник",
@@ -139,7 +139,7 @@
           }
         },
         {
-          "id": "7754-3-10:10-2",
+          "id": "7754-3-10:10-1",
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -467,6 +467,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20223",
           "weekParity": "up",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
+          }
+        },
+        {
+          "id": "7755-6-11:50-1",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 242",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "down",
           "teacher": {
             "name": "Кленин Петр Владиславович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"

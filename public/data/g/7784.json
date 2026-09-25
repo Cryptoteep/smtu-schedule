@@ -1,7 +1,7 @@
 {
   "groupId": "7784",
   "groupName": "12126-07",
-  "updatedAt": "2026-09-25T07:45:57.697Z",
+  "updatedAt": "2026-09-25T13:44:52.826Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -228,10 +228,8 @@
           "groupName": "12126-07",
           "weekParity": "up",
           "teacher": {
-            "name": "Едуш Наталья Юрьевна",
-            "id": "100364",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
           }
         },
         {
@@ -247,8 +245,10 @@
           "groupName": "12126-07",
           "weekParity": "up",
           "teacher": {
-            "name": "Дроздов Владимир Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+            "name": "Едуш Наталья Юрьевна",
+            "id": "100364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
           }
         },
         {
@@ -300,10 +300,8 @@
           "groupName": "12126-07",
           "weekParity": "down",
           "teacher": {
-            "name": "Миронов Михаил Юрьевич",
-            "id": "100756",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
+            "name": "Никущенко Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
           }
         },
         {
@@ -319,8 +317,10 @@
           "groupName": "12126-07",
           "weekParity": "down",
           "teacher": {
-            "name": "Никущенко Елена Александровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+            "name": "Миронов Михаил Юрьевич",
+            "id": "100756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
           }
         },
         {
@@ -372,8 +372,10 @@
           "groupName": "12126-07",
           "weekParity": "both",
           "teacher": {
-            "name": "Глазырина Диана Олеговна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
+            "name": "Рюмин Сергей Николаевич",
+            "id": "101017",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
           }
         },
         {
@@ -389,27 +391,8 @@
           "groupName": "12126-07",
           "weekParity": "both",
           "teacher": {
-            "name": "Бокатова Анастасия Антоновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/11/small/p139977.jpg?token_static=d6c5e180bffc2743fc2c412f6c14983f"
-          }
-        },
-        {
-          "id": "7784-3-14:00-13",
-          "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б 401",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "12126-07",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Рюмин Сергей Николаевич",
-            "id": "101017",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
+            "name": "Глазырина Диана Олеговна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
           }
         }
       ]
@@ -518,23 +501,6 @@
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12126-07",
-          "weekParity": "both",
-          "dateSpecific": "30.10 по 18.12",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
-          }
-        },
-        {
-          "id": "7784-5-08:30-2",
-          "dayIndex": 5,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Физическая культура и спорт",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 101",
@@ -545,6 +511,23 @@
           "teacher": {
             "name": "Лапин Валерий Викторович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/12/small/p128180.jpg?token_static=77107b9386e89abe57027f4eace5d5ff"
+          }
+        },
+        {
+          "id": "7784-5-08:30-2",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12126-07",
+          "weekParity": "both",
+          "dateSpecific": "30.10 по 18.12",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
           }
         },
         {

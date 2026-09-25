@@ -1,7 +1,7 @@
 {
   "groupId": "7444",
   "groupName": "12509-02",
-  "updatedAt": "2026-09-25T07:46:10.634Z",
+  "updatedAt": "2026-09-25T13:45:04.530Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -15,11 +15,10 @@
           "subject": "Дискретная математика для инженера-программиста",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 115",
+          "room": "Конгресс-Центр 427",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-02",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Петухова Нина Дмитриевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/08/30/small/p100896.jpg?token_static=7351a0863365112378e08001c637a4cb"
@@ -50,11 +49,10 @@
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 314в",
+          "room": "Конгресс-Центр 316",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-02",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Саенко Артемий Антонович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p131856.jpg?token_static=5710e658157408c937f04c5abe5adfe6"
@@ -133,11 +131,10 @@
           "subject": "Математический анализ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 115",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-02",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Кротов Евгений Алексеевич",
             "id": "100590",
@@ -187,26 +184,6 @@
           "subject": "Математический анализ",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 313",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-02",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Кротов Евгений Алексеевич",
-            "id": "100590",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100590/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100590.jpg?token_static=1cbe8e55b144f037405332a10de60893"
-          }
-        },
-        {
-          "id": "7444-3-14:00-6",
-          "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Математический анализ",
-          "type": "practice",
-          "rawType": "Практическое занятие",
           "room": "Конгресс-Центр 206",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-02",
@@ -219,7 +196,7 @@
           }
         },
         {
-          "id": "7444-3-15:40-7",
+          "id": "7444-3-15:40-6",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -236,7 +213,7 @@
           }
         },
         {
-          "id": "7444-3-15:40-8",
+          "id": "7444-3-15:40-7",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -283,11 +260,10 @@
           "subject": "Программирование",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У УЛК-13",
+          "room": "Конгресс-Центр 306",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-02",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Минин Максим Сергеевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p130347.jpg?token_static=99e337925833409623025853d6963cd3"
@@ -311,7 +287,24 @@
           }
         },
         {
-          "id": "7444-4-14:00-4",
+          "id": "7444-4-11:50-4",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-02",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Минин Максим Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p130347.jpg?token_static=99e337925833409623025853d6963cd3"
+          }
+        },
+        {
+          "id": "7444-4-14:00-5",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -449,7 +442,26 @@
           }
         },
         {
-          "id": "7444-6-11:50-2",
+          "id": "7444-6-10:10-2",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-02",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Прудникова Татьяна Юрьевна",
+            "id": "100952",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100952/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100952.jpg?token_static=247ccf183881448ad446f44fe6ce2653"
+          }
+        },
+        {
+          "id": "7444-6-11:50-3",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -468,7 +480,7 @@
           }
         },
         {
-          "id": "7444-6-11:50-3",
+          "id": "7444-6-11:50-4",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -485,7 +497,7 @@
           }
         },
         {
-          "id": "7444-6-14:00-4",
+          "id": "7444-6-14:00-5",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -502,7 +514,7 @@
           }
         },
         {
-          "id": "7444-6-14:00-5",
+          "id": "7444-6-14:00-6",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -514,6 +526,23 @@
           "groupName": "12509-02",
           "weekParity": "down",
           "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Бугашев Сергей Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"
+          }
+        },
+        {
+          "id": "7444-6-14:00-7",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы российской государственности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-02",
+          "weekParity": "down",
           "teacher": {
             "name": "Бугашев Сергей Иванович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"

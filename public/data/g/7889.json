@@ -1,50 +1,14 @@
 {
   "groupId": "7889",
   "groupName": "12638-04",
-  "updatedAt": "2026-09-25T07:46:14.084Z",
+  "updatedAt": "2026-09-25T13:45:08.108Z",
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
       "lessons": [
         {
-          "id": "7889-1-14:00-1",
-          "dayIndex": 1,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Деловое письмо",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 242",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12638-04",
-          "weekParity": "both",
-          "dateSpecific": "05.10",
-          "teacher": {
-            "name": "Чистобаев Александр Валерьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p102891.jpg?token_static=37417a3431cba4d88fe15501471c1288"
-          }
-        },
-        {
-          "id": "7889-1-15:40-2",
-          "dayIndex": 1,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Деловое письмо",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 242",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12638-04",
-          "weekParity": "up",
-          "dateSpecific": "05.10",
-          "teacher": {
-            "name": "Чистобаев Александр Валерьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p102891.jpg?token_static=37417a3431cba4d88fe15501471c1288"
-          }
-        },
-        {
-          "id": "7889-1-15:40-3",
+          "id": "7889-1-15:40-1",
           "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -62,7 +26,7 @@
           }
         },
         {
-          "id": "7889-1-17:20-4",
+          "id": "7889-1-17:20-2",
           "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -81,7 +45,7 @@
           }
         },
         {
-          "id": "7889-1-17:20-5",
+          "id": "7889-1-17:20-3",
           "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -100,7 +64,7 @@
           }
         },
         {
-          "id": "7889-1-19:00-6",
+          "id": "7889-1-19:00-4",
           "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -246,23 +210,6 @@
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12638-04",
-          "weekParity": "both",
-          "dateSpecific": "26.10",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
-          }
-        },
-        {
-          "id": "7889-4-11:50-5",
-          "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Физическая культура и спорт",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 107",
@@ -278,7 +225,7 @@
           }
         },
         {
-          "id": "7889-4-14:00-6",
+          "id": "7889-4-14:00-5",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

@@ -3,8 +3,8 @@
   "teacherName": "Бабаева Наталья Михайловна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100060.jpg?token_static=6983cf54ef4c5f9ccf1992c4ec056dd0",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100060/",
-  "updatedAt": "2026-09-25T07:46:21.225Z",
-  "totalLessons": 16,
+  "updatedAt": "2026-09-25T13:45:13.858Z",
+  "totalLessons": 17,
   "days": [
     {
       "dayName": "Понедельник",
@@ -155,6 +155,25 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20250",
           "weekParity": "up",
+          "teacher": {
+            "name": "Бабаева Наталья Михайловна",
+            "id": "100060",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100060/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100060.jpg?token_static=6983cf54ef4c5f9ccf1992c4ec056dd0"
+          }
+        },
+        {
+          "id": "7754-2-11:50-4",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 242",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "down",
           "teacher": {
             "name": "Бабаева Наталья Михайловна",
             "id": "100060",

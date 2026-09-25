@@ -1,7 +1,7 @@
 {
   "groupId": "7759",
   "groupName": "20280",
-  "updatedAt": "2026-09-25T07:46:12.574Z",
+  "updatedAt": "2026-09-25T13:45:06.150Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -470,18 +470,15 @@
           "dayIndex": 6,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
-          "subject": "Физика",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 320 -320а",
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20280",
           "weekParity": "down",
           "teacher": {
-            "name": "Франтов Андрей Анатольевич",
-            "id": "107993",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/107993/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p107993.jpg?token_static=f87ada0759fa8b05063b0b5c70c2b166"
+            "name": "Кафедра физического воспитания"
           }
         },
         {
@@ -508,18 +505,15 @@
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Физика",
+          "subject": "Физическая культура и спорт (элективная)",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 322-322а",
+          "room": "У Спортзал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20280",
           "weekParity": "down",
           "teacher": {
-            "name": "Франтов Андрей Анатольевич",
-            "id": "107993",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/107993/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p107993.jpg?token_static=f87ada0759fa8b05063b0b5c70c2b166"
+            "name": "Кафедра физического воспитания"
           }
         },
         {
@@ -527,15 +521,18 @@
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
-          "subject": "Физическая культура и спорт (элективная)",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 301",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20280",
           "weekParity": "up",
           "teacher": {
-            "name": "Кафедра физического воспитания"
+            "name": "Франтов Андрей Анатольевич",
+            "id": "107993",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107993/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p107993.jpg?token_static=f87ada0759fa8b05063b0b5c70c2b166"
           }
         },
         {
@@ -560,15 +557,18 @@
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
-          "subject": "Физическая культура и спорт (элективная)",
+          "subject": "Физика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У Спортзал",
+          "room": "У 322-322а",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20280",
           "weekParity": "up",
           "teacher": {
-            "name": "Кафедра физического воспитания"
+            "name": "Франтов Андрей Анатольевич",
+            "id": "107993",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107993/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p107993.jpg?token_static=f87ada0759fa8b05063b0b5c70c2b166"
           }
         },
         {

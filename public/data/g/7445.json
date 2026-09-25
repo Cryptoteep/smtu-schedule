@@ -1,7 +1,7 @@
 {
   "groupId": "7445",
   "groupName": "12213-01",
-  "updatedAt": "2026-09-25T07:46:02.179Z",
+  "updatedAt": "2026-09-25T13:44:57.184Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -47,23 +47,6 @@
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12213-01",
-          "weekParity": "both",
-          "dateSpecific": "26.10 по 14.12",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
-          }
-        },
-        {
-          "id": "7445-1-10:10-4",
-          "dayIndex": 1,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Физическая культура и спорт",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 101",
@@ -79,7 +62,7 @@
           }
         },
         {
-          "id": "7445-1-11:50-5",
+          "id": "7445-1-11:50-4",
           "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -98,7 +81,7 @@
           }
         },
         {
-          "id": "7445-1-14:00-6",
+          "id": "7445-1-14:00-5",
           "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -112,6 +95,25 @@
           "teacher": {
             "name": "Бугашев Сергей Иванович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"
+          }
+        },
+        {
+          "id": "7445-1-14:00-6",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12213-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Суринова Елена Аркадьевна",
+            "id": "101156",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101156/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101156.jpg?token_static=52fd6bee87ec2f49ca409f2f940502c8"
           }
         },
         {
@@ -129,25 +131,6 @@
           "teacher": {
             "name": "Гаранина Евгения Алексеевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
-          }
-        },
-        {
-          "id": "7445-1-14:00-8",
-          "dayIndex": 1,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Иностранный язык",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12213-01",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Суринова Елена Аркадьевна",
-            "id": "101156",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101156/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101156.jpg?token_static=52fd6bee87ec2f49ca409f2f940502c8"
           }
         }
       ]
@@ -263,10 +246,10 @@
           "groupName": "12213-01",
           "weekParity": "up",
           "teacher": {
-            "name": "Едуш Наталья Юрьевна",
-            "id": "100364",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+            "name": "Безухов Андрей Павлович",
+            "id": "100085",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100085/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p100085.jpg?token_static=5913fe8def86339b0d57222cd9de9dae"
           }
         },
         {
@@ -282,10 +265,10 @@
           "groupName": "12213-01",
           "weekParity": "up",
           "teacher": {
-            "name": "Безухов Андрей Павлович",
-            "id": "100085",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100085/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p100085.jpg?token_static=5913fe8def86339b0d57222cd9de9dae"
+            "name": "Едуш Наталья Юрьевна",
+            "id": "100364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
           }
         },
         {
