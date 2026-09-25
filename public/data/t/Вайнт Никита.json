@@ -1,8 +1,8 @@
 {
   "teacherId": "Вайнт Никита",
   "teacherName": "Вайнт Никита",
-  "updatedAt": "2026-09-25T13:45:13.881Z",
-  "totalLessons": 11,
+  "updatedAt": "2026-09-25T18:35:08.155Z",
+  "totalLessons": 9,
   "days": [
     {
       "dayName": "Понедельник",
@@ -66,40 +66,7 @@
     {
       "dayName": "Среда",
       "dayIndex": 3,
-      "lessons": [
-        {
-          "id": "7941-3-11:50-3",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 307",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-08",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Вайнт Никита"
-          }
-        },
-        {
-          "id": "7941-3-11:50-4",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 435",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-08",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Вайнт Никита"
-          }
-        }
-      ]
+      "lessons": []
     },
     {
       "dayName": "Четверг",
@@ -179,34 +146,33 @@
           }
         },
         {
-          "id": "7804-6-11:50-6",
+          "id": "7802-6-10:10-4",
           "dayIndex": 6,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Программирование",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 307",
+          "room": "У 316",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-05",
+          "groupName": "12509-01",
           "weekParity": "down",
           "teacher": {
             "name": "Вайнт Никита"
           }
         },
         {
-          "id": "7941-6-11:50-3",
+          "id": "7802-6-11:50-6",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 436",
+          "room": "Конгресс-Центр 318",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-08",
+          "groupName": "12509-01",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Вайнт Никита"
           }

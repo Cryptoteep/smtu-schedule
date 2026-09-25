@@ -2,8 +2,8 @@
   "teacherId": "Мальцев Даниил Денисович",
   "teacherName": "Мальцев Даниил Денисович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/30/small/p103898.jpg?token_static=74fe8fd35896245d1bb8a8133ec0e75c",
-  "updatedAt": "2026-09-25T13:45:13.883Z",
-  "totalLessons": 9,
+  "updatedAt": "2026-09-25T18:35:08.157Z",
+  "totalLessons": 10,
   "days": [
     {
       "dayName": "Понедельник",
@@ -185,7 +185,26 @@
     {
       "dayName": "Суббота",
       "dayIndex": 6,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7765-6-08:30-1",
+          "dayIndex": 6,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Облачные и сетевые технологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 515А",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20313",
+          "weekParity": "down",
+          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Мальцев Даниил Денисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/30/small/p103898.jpg?token_static=74fe8fd35896245d1bb8a8133ec0e75c"
+          }
+        }
+      ]
     }
   ]
 }

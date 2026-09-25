@@ -1,7 +1,7 @@
 {
   "groupId": "7755",
   "groupName": "20271",
-  "updatedAt": "2026-09-25T13:45:06.135Z",
+  "updatedAt": "2026-09-25T18:34:59.781Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -118,6 +118,22 @@
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
+        },
+        {
+          "id": "7755-2-11:50-6",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
           "subject": "Детали машин",
           "type": "lab",
           "rawType": "Лабораторное занятие",
@@ -129,6 +145,22 @@
             "name": "Стукач Александр Васильевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/09/02/small/p122495.jpg?token_static=a8a1e3f8a8f151b4c46b6ea60c07c438"
           }
+        },
+        {
+          "id": "7755-2-14:00-7",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
         }
       ]
     },
@@ -137,10 +169,10 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7755-3-10:10-1",
+          "id": "7755-3-11:50-1",
           "dayIndex": 3,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
           "subject": "Философия",
           "type": "lecture",
           "rawType": "Лекция",
@@ -154,46 +186,7 @@
           }
         },
         {
-          "id": "7755-3-11:50-2",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Физика",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20271",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Колесников Юрий Леонидович",
-            "id": "122535",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122535/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p122535.jpg?token_static=463a6f73b30879b419c62a9fc5283b73"
-          }
-        },
-        {
-          "id": "7755-3-11:50-3",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Физика",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 103",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20271",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Колесников Юрий Леонидович",
-            "id": "122535",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122535/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p122535.jpg?token_static=463a6f73b30879b419c62a9fc5283b73"
-          }
-        },
-        {
-          "id": "7755-3-14:00-4",
+          "id": "7755-3-14:00-2",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -212,18 +205,17 @@
           }
         },
         {
-          "id": "7755-3-14:00-5",
+          "id": "7755-3-14:00-3",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Высшая математика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 107",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20271",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Свиркина Лариса Анатольевна",
             "id": "122619",
@@ -232,26 +224,7 @@
           }
         },
         {
-          "id": "7755-3-15:40-6",
-          "dayIndex": 3,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Физика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 326",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20271",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Колесников Юрий Леонидович",
-            "id": "122535",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122535/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p122535.jpg?token_static=463a6f73b30879b419c62a9fc5283b73"
-          }
-        },
-        {
-          "id": "7755-3-15:40-7",
+          "id": "7755-3-15:40-4",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -268,6 +241,44 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100749/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100749.jpg?token_static=a604f7cb24d29165ccbd7d74ed7372ee"
           }
+        },
+        {
+          "id": "7755-3-17:20-5",
+          "dayIndex": 3,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Физика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Колесников Юрий Леонидович",
+            "id": "122535",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122535/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p122535.jpg?token_static=463a6f73b30879b419c62a9fc5283b73"
+          }
+        },
+        {
+          "id": "7755-3-19:00-6",
+          "dayIndex": 3,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Физика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Колесников Юрий Леонидович",
+            "id": "122535",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122535/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p122535.jpg?token_static=463a6f73b30879b419c62a9fc5283b73"
+          }
         }
       ]
     },
@@ -276,7 +287,26 @@
       "dayIndex": 4,
       "lessons": [
         {
-          "id": "7755-4-11:50-1",
+          "id": "7755-4-10:10-1",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 451",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Свиркина Лариса Анатольевна",
+            "id": "122619",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
+          }
+        },
+        {
+          "id": "7755-4-11:50-2",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -295,7 +325,7 @@
           }
         },
         {
-          "id": "7755-4-14:00-2",
+          "id": "7755-4-14:00-3",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -314,7 +344,45 @@
           }
         },
         {
-          "id": "7755-4-17:20-3",
+          "id": "7755-4-15:40-4",
+          "dayIndex": 4,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физика",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 301",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Колесников Юрий Леонидович",
+            "id": "122535",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122535/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p122535.jpg?token_static=463a6f73b30879b419c62a9fc5283b73"
+          }
+        },
+        {
+          "id": "7755-4-15:40-5",
+          "dayIndex": 4,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 313",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Свиркина Лариса Анатольевна",
+            "id": "122619",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
+          }
+        },
+        {
+          "id": "7755-4-17:20-6",
           "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -331,7 +399,7 @@
           }
         },
         {
-          "id": "7755-4-19:00-4",
+          "id": "7755-4-19:00-7",
           "dayIndex": 4,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -418,6 +486,23 @@
           "subject": "Теоретическая механика",
           "type": "practice",
           "rawType": "Практическое занятие",
+          "room": "У 506",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бабанин Николай Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p102816.jpg?token_static=e11a96b09e76656b823aeb4d27fc5b2b"
+          }
+        },
+        {
+          "id": "7755-5-11:50-5",
+          "dayIndex": 5,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теоретическая механика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
           "room": "У 211",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20271",
@@ -428,7 +513,7 @@
           }
         },
         {
-          "id": "7755-5-14:00-5",
+          "id": "7755-5-14:00-6",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -447,7 +532,7 @@
           }
         },
         {
-          "id": "7755-5-15:40-6",
+          "id": "7755-5-15:40-7",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,

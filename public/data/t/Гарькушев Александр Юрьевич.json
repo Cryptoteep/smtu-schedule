@@ -3,8 +3,8 @@
   "teacherName": "Гарькушев Александр Юрьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
-  "updatedAt": "2026-09-25T13:45:13.869Z",
-  "totalLessons": 33,
+  "updatedAt": "2026-09-25T18:35:08.144Z",
+  "totalLessons": 35,
   "days": [
     {
       "dayName": "Понедельник",
@@ -316,7 +316,7 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7759-3-11:50-3",
+          "id": "7759-3-11:50-4",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -470,7 +470,7 @@
           }
         },
         {
-          "id": "7773-4-19:00-6",
+          "id": "7773-4-19:00-5",
           "dayIndex": 4,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -479,7 +479,7 @@
           "rawType": "Лекция",
           "room": "ЦДО Дистанционно",
           "campus": "СПбГМТУ",
-          "groupName": "20402, 20450, 20490",
+          "groupName": "20402, 20450",
           "weekParity": "down",
           "dateSpecific": "21.09",
           "teacher": {
@@ -597,6 +597,44 @@
           "room": "У УЛК-06",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20480",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гарькушев Александр Юрьевич",
+            "id": "122911",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
+          }
+        },
+        {
+          "id": "7779-5-11:50-3",
+          "dayIndex": 5,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Системы массового обслуживания",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-06",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20480",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гарькушев Александр Юрьевич",
+            "id": "122911",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
+          }
+        },
+        {
+          "id": "7780-5-17:20-1",
+          "dayIndex": 5,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Защита информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20490",
           "weekParity": "down",
           "teacher": {
             "name": "Гарькушев Александр Юрьевич",

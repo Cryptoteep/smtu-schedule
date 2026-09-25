@@ -3,8 +3,8 @@
   "teacherName": "Свиркина Лариса Анатольевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
-  "updatedAt": "2026-09-25T13:45:13.866Z",
-  "totalLessons": 27,
+  "updatedAt": "2026-09-25T18:35:08.142Z",
+  "totalLessons": 29,
   "days": [
     {
       "dayName": "Понедельник",
@@ -189,18 +189,17 @@
           }
         },
         {
-          "id": "7754-3-14:00-6",
+          "id": "7745-3-14:00-2",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Высшая математика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 107",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "20270, 20271",
+          "groupName": "20220, 20270, 20271",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Свиркина Лариса Анатольевна",
             "id": "122619",
@@ -302,6 +301,44 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-03",
           "weekParity": "up",
+          "teacher": {
+            "name": "Свиркина Лариса Анатольевна",
+            "id": "122619",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
+          }
+        },
+        {
+          "id": "7755-4-10:10-1",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 451",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Свиркина Лариса Анатольевна",
+            "id": "122619",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122619/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122619.jpg?token_static=c33e72fa7141b813085e7c9186b463a6"
+          }
+        },
+        {
+          "id": "7755-4-15:40-5",
+          "dayIndex": 4,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 313",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20271",
+          "weekParity": "down",
           "teacher": {
             "name": "Свиркина Лариса Анатольевна",
             "id": "122619",

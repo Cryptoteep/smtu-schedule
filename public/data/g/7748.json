@@ -1,7 +1,7 @@
 {
   "groupId": "7748",
   "groupName": "20223",
-  "updatedAt": "2026-09-25T13:45:05.813Z",
+  "updatedAt": "2026-09-25T18:34:59.831Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -198,7 +198,26 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7748-3-10:10-1",
+          "id": "7748-3-08:30-1",
+          "dayIndex": 3,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20223",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Пак Элла Ефимовна",
+            "id": "123073",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc"
+          }
+        },
+        {
+          "id": "7748-3-10:10-2",
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -215,7 +234,7 @@
           }
         },
         {
-          "id": "7748-3-10:10-2",
+          "id": "7748-3-10:10-3",
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -255,7 +274,24 @@
           }
         },
         {
-          "id": "7748-4-10:10-2",
+          "id": "7748-4-08:30-2",
+          "dayIndex": 4,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Философия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20223",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
+          }
+        },
+        {
+          "id": "7748-4-10:10-3",
           "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -271,7 +307,7 @@
           }
         },
         {
-          "id": "7748-4-11:50-3",
+          "id": "7748-4-11:50-4",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -288,7 +324,7 @@
           }
         },
         {
-          "id": "7748-4-11:50-4",
+          "id": "7748-4-11:50-5",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -304,7 +340,7 @@
           }
         },
         {
-          "id": "7748-4-14:00-5",
+          "id": "7748-4-14:00-6",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -350,14 +386,30 @@
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Базы данных",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 115",
+          "subject": "Информационная безопасность и защита информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-06",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20223",
           "weekParity": "down",
-          "dateSpecific": "21.09",
+          "teacher": {
+            "name": "Федорова Анастасия Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
+          }
+        },
+        {
+          "id": "7748-5-10:10-3",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Базы данных",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20223",
+          "weekParity": "down",
           "teacher": {
             "name": "Семенова-Тян-Шанская Вера Александровна",
             "id": "101056",
@@ -366,7 +418,7 @@
           }
         },
         {
-          "id": "7748-5-11:50-3",
+          "id": "7748-5-11:50-4",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -380,23 +432,6 @@
           "teacher": {
             "name": "Минасян Армен Минасович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
-          }
-        },
-        {
-          "id": "7748-5-11:50-4",
-          "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Информационная безопасность и защита информации",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У УЛК-06",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20223",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Федорова Анастасия Валерьевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
           }
         },
         {

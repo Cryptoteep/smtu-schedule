@@ -1,7 +1,7 @@
 {
   "groupId": "7760",
   "groupName": "20290",
-  "updatedAt": "2026-09-25T13:45:06.517Z",
+  "updatedAt": "2026-09-25T18:35:00.003Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -169,11 +169,10 @@
           "subject": "Теория вероятностей и математическая статистика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 115",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20290",
           "weekParity": "both",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Пак Элла Ефимовна",
             "id": "123073",
@@ -278,7 +277,24 @@
           }
         },
         {
-          "id": "7760-4-10:10-2",
+          "id": "7760-4-08:30-2",
+          "dayIndex": 4,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Философия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20290",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
+          }
+        },
+        {
+          "id": "7760-4-10:10-3",
           "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -294,7 +310,7 @@
           }
         },
         {
-          "id": "7760-4-11:50-3",
+          "id": "7760-4-11:50-4",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -313,7 +329,7 @@
           }
         },
         {
-          "id": "7760-4-11:50-4",
+          "id": "7760-4-11:50-5",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -332,7 +348,7 @@
           }
         },
         {
-          "id": "7760-4-14:00-5",
+          "id": "7760-4-14:00-6",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -383,11 +399,10 @@
           "subject": "Жизненный цикл программного обеспечения",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 313",
+          "room": "Конгресс-Центр 316",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20290",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Глускер Михаил Яковлевич",
             "id": "122623",
@@ -420,11 +435,10 @@
           "subject": "Базы данных",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 115",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20290",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Семенова-Тян-Шанская Вера Александровна",
             "id": "101056",
@@ -459,11 +473,10 @@
           "subject": "Базы данных",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 308",
+          "room": "Конгресс-Центр 306",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20290",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Семенова-Тян-Шанская Вера Александровна",
             "id": "101056",
@@ -537,7 +550,7 @@
           "subject": "Программирование",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 439",
+          "room": "У 435",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20290",
           "weekParity": "down",
@@ -554,7 +567,7 @@
           "subject": "Программирование",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 439",
+          "room": "У 435",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20290",
           "weekParity": "up",

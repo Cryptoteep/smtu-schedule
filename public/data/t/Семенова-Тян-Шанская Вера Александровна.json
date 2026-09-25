@@ -3,8 +3,8 @@
   "teacherName": "Семенова-Тян-Шанская Вера Александровна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
-  "updatedAt": "2026-09-25T13:45:13.866Z",
-  "totalLessons": 24,
+  "updatedAt": "2026-09-25T18:35:08.141Z",
+  "totalLessons": 25,
   "days": [
     {
       "dayName": "Понедельник",
@@ -27,6 +27,25 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20222",
           "weekParity": "up",
+          "teacher": {
+            "name": "Семенова-Тян-Шанская Вера Александровна",
+            "id": "101056",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9"
+          }
+        },
+        {
+          "id": "7747-2-11:50-6",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20222",
+          "weekParity": "down",
           "teacher": {
             "name": "Семенова-Тян-Шанская Вера Александровна",
             "id": "101056",
@@ -249,7 +268,7 @@
           }
         },
         {
-          "id": "7748-4-14:00-5",
+          "id": "7748-4-14:00-6",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -268,7 +287,7 @@
           }
         },
         {
-          "id": "7760-4-11:50-4",
+          "id": "7760-4-11:50-5",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -390,11 +409,10 @@
           "subject": "Базы данных",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 308",
+          "room": "Конгресс-Центр 306",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20290",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Семенова-Тян-Шанская Вера Александровна",
             "id": "101056",

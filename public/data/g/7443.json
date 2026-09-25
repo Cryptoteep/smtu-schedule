@@ -1,7 +1,7 @@
 {
   "groupId": "7443",
   "groupName": "12515-07",
-  "updatedAt": "2026-09-25T13:45:05.309Z",
+  "updatedAt": "2026-09-25T18:34:59.276Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -103,11 +103,10 @@
           "subject": "Математический анализ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 115",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-07",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Русина Лариса Германовна",
             "id": "123501",
@@ -494,6 +493,25 @@
           "subject": "История России",
           "type": "practice",
           "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-07",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Прудникова Татьяна Юрьевна",
+            "id": "100952",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100952/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100952.jpg?token_static=247ccf183881448ad446f44fe6ce2653"
+          }
+        },
+        {
+          "id": "7443-6-10:10-2",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "История России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
           "room": "У 105",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-07",
@@ -507,7 +525,7 @@
           }
         },
         {
-          "id": "7443-6-11:50-2",
+          "id": "7443-6-11:50-3",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -524,7 +542,7 @@
           }
         },
         {
-          "id": "7443-6-14:00-3",
+          "id": "7443-6-14:00-4",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -541,7 +559,7 @@
           }
         },
         {
-          "id": "7443-6-14:00-4",
+          "id": "7443-6-14:00-5",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -559,7 +577,7 @@
           }
         },
         {
-          "id": "7443-6-15:40-5",
+          "id": "7443-6-15:40-6",
           "dayIndex": 6,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,

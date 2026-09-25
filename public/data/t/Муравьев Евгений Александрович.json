@@ -2,8 +2,8 @@
   "teacherId": "Муравьев Евгений Александрович",
   "teacherName": "Муравьев Евгений Александрович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3",
-  "updatedAt": "2026-09-25T13:45:13.878Z",
-  "totalLessons": 14,
+  "updatedAt": "2026-09-25T18:35:08.153Z",
+  "totalLessons": 16,
   "days": [
     {
       "dayName": "Понедельник",
@@ -43,6 +43,40 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20290",
           "weekParity": "up",
+          "teacher": {
+            "name": "Муравьев Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"
+          }
+        },
+        {
+          "id": "7761-2-10:10-4",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20291",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Муравьев Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"
+          }
+        },
+        {
+          "id": "7761-2-11:50-6",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20291",
+          "weekParity": "down",
           "teacher": {
             "name": "Муравьев Евгений Александрович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"
@@ -174,11 +208,10 @@
           "subject": "Программирование",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 308",
+          "room": "Конгресс-Центр 307",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20291",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Муравьев Евгений Александрович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"
@@ -215,7 +248,7 @@
           "subject": "Программирование",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 439",
+          "room": "У 435",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20290",
           "weekParity": "down",
@@ -232,7 +265,7 @@
           "subject": "Программирование",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 439",
+          "room": "У 435",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20290",
           "weekParity": "up",

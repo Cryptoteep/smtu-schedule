@@ -1,7 +1,7 @@
 {
   "groupId": "7761",
   "groupName": "20291",
-  "updatedAt": "2026-09-25T13:45:06.502Z",
+  "updatedAt": "2026-09-25T18:35:00.144Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -99,7 +99,24 @@
           }
         },
         {
-          "id": "7761-2-11:50-4",
+          "id": "7761-2-10:10-4",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20291",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Муравьев Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"
+          }
+        },
+        {
+          "id": "7761-2-11:50-5",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -115,6 +132,23 @@
             "id": "123073",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc"
+          }
+        },
+        {
+          "id": "7761-2-11:50-6",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Программирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20291",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Муравьев Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"
           }
         }
       ]
@@ -182,7 +216,24 @@
           }
         },
         {
-          "id": "7761-4-10:10-2",
+          "id": "7761-4-08:30-2",
+          "dayIndex": 4,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Философия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20291",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
+          }
+        },
+        {
+          "id": "7761-4-10:10-3",
           "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -198,7 +249,7 @@
           }
         },
         {
-          "id": "7761-4-11:50-3",
+          "id": "7761-4-11:50-4",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -217,7 +268,7 @@
           }
         },
         {
-          "id": "7761-4-14:00-4",
+          "id": "7761-4-14:00-5",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -268,11 +319,10 @@
           "subject": "Технологии разработки информационных ресурсов",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 318",
+          "room": "Конгресс-Центр 307",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20291",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Горавнева Татьяна Сергеевна",
             "id": "100281",
@@ -305,11 +355,10 @@
           "subject": "Базы данных",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 115",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20291",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Семенова-Тян-Шанская Вера Александровна",
             "id": "101056",
@@ -344,11 +393,10 @@
           "subject": "Технологии разработки информационных ресурсов",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 209",
+          "room": "Конгресс-Центр 307",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20291",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Горавнева Татьяна Сергеевна",
             "id": "100281",
@@ -383,11 +431,10 @@
           "subject": "Программирование",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 308",
+          "room": "Конгресс-Центр 307",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20291",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Муравьев Евгений Александрович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"

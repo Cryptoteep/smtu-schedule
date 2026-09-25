@@ -2,8 +2,8 @@
   "teacherId": "Кленин Петр Владиславович",
   "teacherName": "Кленин Петр Владиславович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9",
-  "updatedAt": "2026-09-25T13:45:13.825Z",
-  "totalLessons": 28,
+  "updatedAt": "2026-09-25T18:35:08.102Z",
+  "totalLessons": 29,
   "days": [
     {
       "dayName": "Понедельник",
@@ -48,7 +48,7 @@
           }
         },
         {
-          "id": "7744-2-11:50-1",
+          "id": "7744-2-11:50-2",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -139,10 +139,10 @@
           }
         },
         {
-          "id": "7754-3-10:10-1",
+          "id": "7754-3-11:50-1",
           "dayIndex": 3,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
           "subject": "Философия",
           "type": "lecture",
           "rawType": "Лекция",
@@ -217,11 +217,10 @@
           "subject": "Философия",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 115",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "20202",
+          "groupName": "20202, 20221, 20222, 20223, 20250, 20290, 20291",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Кленин Петр Владиславович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
@@ -427,6 +426,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20220",
           "weekParity": "down",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
+          }
+        },
+        {
+          "id": "7754-5-15:40-6",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 502",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "up",
           "teacher": {
             "name": "Кленин Петр Владиславович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"

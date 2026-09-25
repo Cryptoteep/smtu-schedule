@@ -1,7 +1,7 @@
 {
   "groupId": "7780",
   "groupName": "20490",
-  "updatedAt": "2026-09-25T13:45:07.838Z",
+  "updatedAt": "2026-09-25T18:35:01.364Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -327,27 +327,7 @@
           }
         },
         {
-          "id": "7780-4-11:50-3",
-          "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Защита информации",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 103",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20490",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Гарькушев Александр Юрьевич",
-            "id": "122911",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
-          }
-        },
-        {
-          "id": "7780-4-14:00-4",
+          "id": "7780-4-14:00-3",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -366,26 +346,7 @@
           }
         },
         {
-          "id": "7780-4-15:40-5",
-          "dayIndex": 4,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Защита информации",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У УЛК-06",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20490",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Гарькушев Александр Юрьевич",
-            "id": "122911",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
-          }
-        },
-        {
-          "id": "7780-4-15:40-6",
+          "id": "7780-4-15:40-4",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -402,7 +363,7 @@
           }
         },
         {
-          "id": "7780-4-17:20-7",
+          "id": "7780-4-17:20-5",
           "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -417,20 +378,25 @@
             "name": "Акуленок Ирина Николаевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"
           }
-        },
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
         {
-          "id": "7780-4-19:00-8",
-          "dayIndex": 4,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
+          "id": "7780-5-17:20-1",
+          "dayIndex": 5,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
           "subject": "Защита информации",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "ЦДО Дистанционно",
-          "campus": "СПбГМТУ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "20490",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Гарькушев Александр Юрьевич",
             "id": "122911",

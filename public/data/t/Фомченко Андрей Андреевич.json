@@ -2,8 +2,8 @@
   "teacherId": "Фомченко Андрей Андреевич",
   "teacherName": "Фомченко Андрей Андреевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p132126.jpg?token_static=13600721e1ba8e852cd4c1abd0b14f92",
-  "updatedAt": "2026-09-25T13:45:13.883Z",
-  "totalLessons": 20,
+  "updatedAt": "2026-09-25T18:35:08.156Z",
+  "totalLessons": 21,
   "days": [
     {
       "dayName": "Понедельник",
@@ -23,6 +23,23 @@
           "teacher": {
             "name": "Фомченко Андрей Андреевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p132126.jpg?token_static=13600721e1ba8e852cd4c1abd0b14f92"
+          }
+        },
+        {
+          "id": "7820-1-10:10-3",
+          "dayIndex": 1,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-02",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Фомченко Андрей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
           }
         },
         {
@@ -83,7 +100,7 @@
           }
         },
         {
-          "id": "7744-2-15:40-2",
+          "id": "7744-2-15:40-4",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -221,11 +238,10 @@
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 318",
+          "room": "Конгресс-Центр 307",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-02",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Фомченко Андрей Андреевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
@@ -297,7 +313,7 @@
       "dayIndex": 6,
       "lessons": [
         {
-          "id": "7443-6-11:50-2",
+          "id": "7443-6-11:50-3",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -314,7 +330,7 @@
           }
         },
         {
-          "id": "7443-6-14:00-3",
+          "id": "7443-6-14:00-4",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
