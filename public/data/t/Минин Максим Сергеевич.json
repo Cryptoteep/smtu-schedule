@@ -2,13 +2,48 @@
   "teacherId": "Минин Максим Сергеевич",
   "teacherName": "Минин Максим Сергеевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p130347.jpg?token_static=99e337925833409623025853d6963cd3",
-  "updatedAt": "2026-09-26T13:03:57.171Z",
-  "totalLessons": 14,
+  "updatedAt": "2026-09-26T17:45:24.851Z",
+  "totalLessons": 16,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "6965-1-08:30-1",
+          "dayIndex": 1,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Информатика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12115-04, 12126-02, 12126-01, 12126-03",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Минин Максим Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p130347.jpg?token_static=99e337925833409623025853d6963cd3"
+          }
+        },
+        {
+          "id": "7463-1-10:10-1",
+          "dayIndex": 1,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12126-06, 12126-04, 12126-05, 12113-03, 12126-07",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Минин Максим Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p130347.jpg?token_static=99e337925833409623025853d6963cd3"
+          }
+        }
+      ]
     },
     {
       "dayName": "Вторник",

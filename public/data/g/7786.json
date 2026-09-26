@@ -1,7 +1,7 @@
 {
   "groupId": "7786",
   "groupName": "12226-08",
-  "updatedAt": "2026-09-26T13:03:38.175Z",
+  "updatedAt": "2026-09-26T17:45:06.304Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -197,10 +197,8 @@
           "groupName": "12226-08",
           "weekParity": "up",
           "teacher": {
-            "name": "Едуш Наталья Юрьевна",
-            "id": "100364",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
           }
         },
         {
@@ -216,8 +214,8 @@
           "groupName": "12226-08",
           "weekParity": "up",
           "teacher": {
-            "name": "Дроздов Владимир Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+            "name": "Павлов Павел Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
           }
         },
         {
@@ -233,8 +231,10 @@
           "groupName": "12226-08",
           "weekParity": "up",
           "teacher": {
-            "name": "Павлов Павел Валентинович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
+            "name": "Едуш Наталья Юрьевна",
+            "id": "100364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
           }
         },
         {
@@ -269,31 +269,12 @@
           "groupName": "12226-08",
           "weekParity": "down",
           "teacher": {
-            "name": "Вихров Николай Михайлович",
-            "id": "100217",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
-          }
-        },
-        {
-          "id": "7786-3-11:50-6",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 407",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12226-08",
-          "weekParity": "down",
-          "teacher": {
             "name": "Никущенко Елена Александровна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
           }
         },
         {
-          "id": "7786-3-11:50-7",
+          "id": "7786-3-11:50-6",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -312,7 +293,7 @@
           }
         },
         {
-          "id": "7786-3-11:50-8",
+          "id": "7786-3-11:50-7",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -322,14 +303,16 @@
           "room": "А 407",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "12226-08",
-          "weekParity": "both",
+          "weekParity": "down",
           "teacher": {
-            "name": "Глазырина Диана Олеговна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
+            "name": "Вихров Николай Михайлович",
+            "id": "100217",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
           }
         },
         {
-          "id": "7786-3-11:50-9",
+          "id": "7786-3-11:50-8",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -345,6 +328,23 @@
             "id": "101017",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
+          }
+        },
+        {
+          "id": "7786-3-11:50-9",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-08",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Глазырина Диана Олеговна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
           }
         },
         {
@@ -414,7 +414,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 414",
+          "room": "У 215",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-08",
           "weekParity": "down",
@@ -431,7 +431,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 215",
+          "room": "У 414",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-08",
           "weekParity": "down",
@@ -453,8 +453,10 @@
           "groupName": "12226-08",
           "weekParity": "up",
           "teacher": {
-            "name": "Гаранина Евгения Алексеевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
+            "name": "Кара Марина Германовна",
+            "id": "100497",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100497/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/09/small/p100497.jpg?token_static=1e9ca2248aee58ee01027df1c9bb1c41"
           }
         },
         {
@@ -470,10 +472,8 @@
           "groupName": "12226-08",
           "weekParity": "up",
           "teacher": {
-            "name": "Кара Марина Германовна",
-            "id": "100497",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100497/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/09/small/p100497.jpg?token_static=1e9ca2248aee58ee01027df1c9bb1c41"
+            "name": "Гаранина Евгения Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
           }
         }
       ]
@@ -500,60 +500,7 @@
           }
         },
         {
-          "id": "7786-5-11:50-2",
-          "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 436",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12226-08",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Фомченко Андрей Андреевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
-          }
-        },
-        {
-          "id": "7786-5-14:00-3",
-          "dayIndex": 5,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 436",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12226-08",
-          "weekParity": "both",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Фомченко Андрей Андреевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
-          }
-        },
-        {
-          "id": "7786-5-15:40-4",
-          "dayIndex": 5,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Иностранный язык",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12226-08",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Гаранина Евгения Алексеевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
-          }
-        },
-        {
-          "id": "7786-5-15:40-5",
+          "id": "7786-5-15:40-2",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -572,7 +519,24 @@
           }
         },
         {
-          "id": "7786-5-17:20-6",
+          "id": "7786-5-15:40-3",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12226-08",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Гаранина Евгения Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
+          }
+        },
+        {
+          "id": "7786-5-17:20-4",
           "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,

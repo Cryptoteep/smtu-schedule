@@ -1,7 +1,7 @@
 {
   "groupId": "7467",
   "groupName": "12515-03",
-  "updatedAt": "2026-09-26T13:03:47.088Z",
+  "updatedAt": "2026-09-26T17:45:15.655Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,40 @@
       "lessons": [
         {
           "id": "7467-1-08:30-1",
+          "dayIndex": 1,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Обучение служением",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-03",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
+          }
+        },
+        {
+          "id": "7467-1-08:30-2",
+          "dayIndex": 1,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Обучение служением",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-03",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
+          }
+        },
+        {
+          "id": "7467-1-08:30-3",
           "dayIndex": 1,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
@@ -25,7 +59,7 @@
           }
         },
         {
-          "id": "7467-1-10:10-2",
+          "id": "7467-1-10:10-4",
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -44,7 +78,7 @@
           }
         },
         {
-          "id": "7467-1-10:10-3",
+          "id": "7467-1-10:10-5",
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -61,7 +95,7 @@
           }
         },
         {
-          "id": "7467-1-11:50-4",
+          "id": "7467-1-11:50-6",
           "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -80,7 +114,7 @@
           }
         },
         {
-          "id": "7467-1-11:50-5",
+          "id": "7467-1-11:50-7",
           "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
