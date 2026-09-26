@@ -2,8 +2,8 @@
   "teacherId": "Царева Полина Евгеньевна",
   "teacherName": "Царева Полина Евгеньевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2",
-  "updatedAt": "2026-09-26T07:39:10.549Z",
-  "totalLessons": 28,
+  "updatedAt": "2026-09-26T13:03:57.175Z",
+  "totalLessons": 29,
   "days": [
     {
       "dayName": "Понедельник",
@@ -325,7 +325,7 @@
           "subject": "Управление качеством, стандартизация, сертификация",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 316",
+          "room": "У 437",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20421",
           "weekParity": "up",
@@ -490,6 +490,23 @@
           "room": "У 319",
           "campus": "Ульянка (Корпус У)",
           "groupName": "3430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Царева Полина Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
+          }
+        },
+        {
+          "id": "7775-6-10:10-2",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Управление качеством, стандартизация, сертификация",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
           "weekParity": "down",
           "teacher": {
             "name": "Царева Полина Евгеньевна",

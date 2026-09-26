@@ -1,7 +1,7 @@
 {
   "groupId": "7775",
   "groupName": "20421",
-  "updatedAt": "2026-09-26T07:39:04.347Z",
+  "updatedAt": "2026-09-26T13:03:49.762Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -122,6 +122,23 @@
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
+          "subject": "Управление качеством, стандартизация, сертификация",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Царева Полина Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
+          }
+        },
+        {
+          "id": "7775-2-10:10-4",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
           "subject": "Современные технологии искусственного интеллекта",
           "type": "lab",
           "rawType": "Лабораторное занятие",
@@ -135,7 +152,7 @@
           }
         },
         {
-          "id": "7775-2-11:50-4",
+          "id": "7775-2-11:50-5",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -152,7 +169,7 @@
           }
         },
         {
-          "id": "7775-2-11:50-5",
+          "id": "7775-2-11:50-6",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -169,7 +186,7 @@
           }
         },
         {
-          "id": "7775-2-14:00-6",
+          "id": "7775-2-14:00-7",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -216,7 +233,7 @@
           "subject": "Управление качеством, стандартизация, сертификация",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 316",
+          "room": "У 437",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20421",
           "weekParity": "up",
@@ -377,7 +394,7 @@
           "subject": "Отказоустойчивое управление в киберфизических системах",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 316",
+          "room": "У 451",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20421",
           "weekParity": "down",
@@ -434,7 +451,7 @@
           "subject": "Прикладная информатика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр 426",
+          "room": "У 436",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20421",
           "weekParity": "up",
@@ -467,24 +484,7 @@
       "dayIndex": 6,
       "lessons": [
         {
-          "id": "7775-6-08:30-1",
-          "dayIndex": 6,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Инженерная психология",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 436",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20421",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Козирацкая Карина Константиновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
-          }
-        },
-        {
-          "id": "7775-6-10:10-2",
+          "id": "7775-6-10:10-1",
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -501,14 +501,48 @@
           }
         },
         {
-          "id": "7775-6-10:10-3",
+          "id": "7775-6-10:10-2",
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
+          "subject": "Управление качеством, стандартизация, сертификация",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Царева Полина Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
+          }
+        },
+        {
+          "id": "7775-6-11:50-3",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Защита информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Черный Сергей Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
+          }
+        },
+        {
+          "id": "7775-6-11:50-4",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
           "subject": "Инженерная психология",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 436",
+          "room": "У 314",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20421",
           "weekParity": "down",
@@ -518,54 +552,20 @@
           }
         },
         {
-          "id": "7775-6-11:50-4",
+          "id": "7775-6-14:00-5",
           "dayIndex": 6,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Управление качеством, стандартизация, сертификация",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Инженерная психология",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 314",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20421",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Царева Полина Евгеньевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
-          }
-        },
-        {
-          "id": "7775-6-11:50-5",
-          "dayIndex": 6,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Управление качеством, стандартизация, сертификация",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 314",
+          "room": "У 319",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20421",
           "weekParity": "down",
           "teacher": {
-            "name": "Царева Полина Евгеньевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
-          }
-        },
-        {
-          "id": "7775-6-14:00-6",
-          "dayIndex": 6,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Защита информации",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 514",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20421",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Черный Сергей Григорьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
+            "name": "Козирацкая Карина Константиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
           }
         }
       ]

@@ -2,8 +2,8 @@
   "teacherId": "Козирацкая Карина Константиновна",
   "teacherName": "Козирацкая Карина Константиновна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4",
-  "updatedAt": "2026-09-26T07:39:10.549Z",
-  "totalLessons": 26,
+  "updatedAt": "2026-09-26T13:03:57.175Z",
+  "totalLessons": 27,
   "days": [
     {
       "dayName": "Понедельник",
@@ -163,7 +163,7 @@
           }
         },
         {
-          "id": "7775-2-11:50-4",
+          "id": "7775-2-11:50-5",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -282,24 +282,6 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20226",
           "weekParity": "up",
-          "teacher": {
-            "name": "Козирацкая Карина Константиновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
-          }
-        },
-        {
-          "id": "7774-3-10:10-1",
-          "dayIndex": 3,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Инновационный инжиниринг",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 211",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20413",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Козирацкая Карина Константиновна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
@@ -468,6 +450,40 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-50",
           "weekParity": "up",
+          "teacher": {
+            "name": "Козирацкая Карина Константиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
+          }
+        },
+        {
+          "id": "7775-6-11:50-4",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Инженерная психология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Козирацкая Карина Константиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
+          }
+        },
+        {
+          "id": "7775-6-14:00-5",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Инженерная психология",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "down",
           "teacher": {
             "name": "Козирацкая Карина Константиновна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"

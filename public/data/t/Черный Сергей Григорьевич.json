@@ -2,8 +2,8 @@
   "teacherId": "Черный Сергей Григорьевич",
   "teacherName": "Черный Сергей Григорьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a",
-  "updatedAt": "2026-09-26T07:39:10.550Z",
-  "totalLessons": 12,
+  "updatedAt": "2026-09-26T13:03:57.176Z",
+  "totalLessons": 13,
   "days": [
     {
       "dayName": "Понедельник",
@@ -80,7 +80,7 @@
           }
         },
         {
-          "id": "7775-2-14:00-6",
+          "id": "7775-2-14:00-7",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -137,7 +137,7 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7506-3-14:00-6",
+          "id": "7506-3-14:00-7",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -228,6 +228,23 @@
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 514",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Черный Сергей Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
+          }
+        },
+        {
+          "id": "7775-6-11:50-3",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Защита информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 314",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20421",
           "weekParity": "up",
