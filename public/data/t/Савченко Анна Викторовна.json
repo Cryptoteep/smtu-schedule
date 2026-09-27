@@ -2,8 +2,8 @@
   "teacherId": "Савченко Анна Викторовна",
   "teacherName": "Савченко Анна Викторовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041",
-  "updatedAt": "2026-09-27T13:56:57.569Z",
-  "totalLessons": 18,
+  "updatedAt": "2026-09-27T18:22:19.584Z",
+  "totalLessons": 19,
   "days": [
     {
       "dayName": "Понедельник",
@@ -270,11 +270,10 @@
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 205-ИИТ",
+          "room": "Конгресс-Центр 306",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-07",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Савченко Анна Викторовна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041"
@@ -340,7 +339,25 @@
     {
       "dayName": "Суббота",
       "dayIndex": 6,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7941-6-11:50-3",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-08",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Савченко Анна Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041"
+          }
+        }
+      ]
     }
   ]
 }

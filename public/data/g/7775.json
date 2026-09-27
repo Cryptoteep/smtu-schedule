@@ -1,7 +1,7 @@
 {
   "groupId": "7775",
   "groupName": "20421",
-  "updatedAt": "2026-09-27T13:56:50.413Z",
+  "updatedAt": "2026-09-27T18:22:12.881Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -46,16 +46,16 @@
           "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
-          "subject": "Защита информации",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 544",
+          "subject": "Сети и телекоммуникации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20421",
           "weekParity": "down",
           "teacher": {
-            "name": "Черный Сергей Григорьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
+            "name": "Масис Виктор Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p132316.jpg?token_static=883f3df6f3f6763a9d857c6be3668ced"
           }
         },
         {
@@ -122,23 +122,6 @@
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Управление качеством, стандартизация, сертификация",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 437",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20421",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Царева Полина Евгеньевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
-          }
-        },
-        {
-          "id": "7775-2-10:10-4",
-          "dayIndex": 2,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
           "subject": "Современные технологии искусственного интеллекта",
           "type": "lab",
           "rawType": "Лабораторное занятие",
@@ -152,7 +135,7 @@
           }
         },
         {
-          "id": "7775-2-11:50-5",
+          "id": "7775-2-11:50-4",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -169,7 +152,7 @@
           }
         },
         {
-          "id": "7775-2-11:50-6",
+          "id": "7775-2-11:50-5",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -186,20 +169,37 @@
           }
         },
         {
+          "id": "7775-2-14:00-6",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Коллаборативные робототехнические системы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ложкин Владислав Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89"
+          }
+        },
+        {
           "id": "7775-2-14:00-7",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
-          "subject": "Сети и телекоммуникации",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр 420",
+          "subject": "Коллаборативные робототехнические системы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20421",
           "weekParity": "down",
           "teacher": {
-            "name": "Черный Сергей Григорьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
+            "name": "Масис Виктор Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p132316.jpg?token_static=883f3df6f3f6763a9d857c6be3668ced"
           }
         }
       ]
@@ -209,24 +209,7 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7775-3-08:30-1",
-          "dayIndex": 3,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Коллаборативные робототехнические системы",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 437",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20421",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Масис Виктор Борисович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p132316.jpg?token_static=883f3df6f3f6763a9d857c6be3668ced"
-          }
-        },
-        {
-          "id": "7775-3-10:10-2",
+          "id": "7775-3-10:10-1",
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -243,24 +226,7 @@
           }
         },
         {
-          "id": "7775-3-10:10-3",
-          "dayIndex": 3,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Сети и телекоммуникации",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 437",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20421",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Черный Сергей Григорьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
-          }
-        },
-        {
-          "id": "7775-3-11:50-4",
+          "id": "7775-3-11:50-2",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -277,24 +243,7 @@
           }
         },
         {
-          "id": "7775-3-11:50-5",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Сети и телекоммуникации",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 437",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20421",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Черный Сергей Григорьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
-          }
-        },
-        {
-          "id": "7775-3-14:00-6",
+          "id": "7775-3-14:00-3",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -311,24 +260,7 @@
           }
         },
         {
-          "id": "7775-3-14:00-7",
-          "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Сети и телекоммуникации",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 318",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20421",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Масис Виктор Борисович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p132316.jpg?token_static=883f3df6f3f6763a9d857c6be3668ced"
-          }
-        },
-        {
-          "id": "7775-3-15:40-8",
+          "id": "7775-3-15:40-4",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -427,7 +359,24 @@
       "dayIndex": 5,
       "lessons": [
         {
-          "id": "7775-5-10:10-1",
+          "id": "7775-5-08:30-1",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Сети и телекоммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Черный Сергей Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
+          }
+        },
+        {
+          "id": "7775-5-10:10-2",
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -444,7 +393,7 @@
           }
         },
         {
-          "id": "7775-5-11:50-2",
+          "id": "7775-5-11:50-3",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -461,7 +410,7 @@
           }
         },
         {
-          "id": "7775-5-14:00-3",
+          "id": "7775-5-14:00-4",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -484,24 +433,58 @@
       "dayIndex": 6,
       "lessons": [
         {
-          "id": "7775-6-10:10-1",
+          "id": "7775-6-08:30-1",
           "dayIndex": 6,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Коллаборативные робототехнические системы",
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Защита информации",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У УЛК-13",
+          "room": "У 437",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20421",
           "weekParity": "up",
           "teacher": {
-            "name": "Ложкин Владислав Александрович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89"
+            "name": "Черный Сергей Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
           }
         },
         {
-          "id": "7775-6-10:10-2",
+          "id": "7775-6-08:30-2",
+          "dayIndex": 6,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Управление качеством, стандартизация, сертификация",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Царева Полина Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
+          }
+        },
+        {
+          "id": "7775-6-10:10-3",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Сети и телекоммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 436",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Черный Сергей Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
+          }
+        },
+        {
+          "id": "7775-6-10:10-4",
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -518,7 +501,7 @@
           }
         },
         {
-          "id": "7775-6-11:50-3",
+          "id": "7775-6-11:50-5",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -535,7 +518,7 @@
           }
         },
         {
-          "id": "7775-6-11:50-4",
+          "id": "7775-6-11:50-6",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -552,7 +535,24 @@
           }
         },
         {
-          "id": "7775-6-14:00-5",
+          "id": "7775-6-14:00-7",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Сети и телекоммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Черный Сергей Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
+          }
+        },
+        {
+          "id": "7775-6-14:00-8",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

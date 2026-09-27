@@ -3,7 +3,7 @@
   "teacherName": "Пак Элла Ефимовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
-  "updatedAt": "2026-09-27T13:56:57.533Z",
+  "updatedAt": "2026-09-27T18:22:19.560Z",
   "totalLessons": 24,
   "days": [
     {
@@ -383,25 +383,6 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc"
           }
-        },
-        {
-          "id": "7761-5-14:00-7",
-          "dayIndex": 5,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Дифференциальные уравнения",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 507",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20291",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Пак Элла Ефимовна",
-            "id": "123073",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc"
-          }
         }
       ]
     },
@@ -475,6 +456,25 @@
           "room": "У 165",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20250, 20290, 20291",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пак Элла Ефимовна",
+            "id": "123073",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc"
+          }
+        },
+        {
+          "id": "7761-6-11:50-3",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Дифференциальные уравнения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 243",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20291",
           "weekParity": "down",
           "teacher": {
             "name": "Пак Элла Ефимовна",

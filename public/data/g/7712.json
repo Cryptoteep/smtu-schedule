@@ -1,7 +1,7 @@
 {
   "groupId": "7712",
   "groupName": "7301",
-  "updatedAt": "2026-09-27T13:56:54.728Z",
+  "updatedAt": "2026-09-27T18:22:16.734Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -437,7 +437,26 @@
           }
         },
         {
-          "id": "7712-5-15:40-4",
+          "id": "7712-5-14:00-4",
+          "dayIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методология и методы социологического исследования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7301",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Голованова Оксана Владимировна",
+            "id": "100277",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100277/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/29/small/p100277.jpg?token_static=82fac71e5bf4707c30a33e1d670dbeec"
+          }
+        },
+        {
+          "id": "7712-5-15:40-5",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,

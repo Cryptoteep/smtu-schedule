@@ -2,8 +2,8 @@
   "teacherId": "Царева Полина Евгеньевна",
   "teacherName": "Царева Полина Евгеньевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2",
-  "updatedAt": "2026-09-27T13:56:57.570Z",
-  "totalLessons": 29,
+  "updatedAt": "2026-09-27T18:22:19.585Z",
+  "totalLessons": 30,
   "days": [
     {
       "dayName": "Понедельник",
@@ -318,7 +318,7 @@
           }
         },
         {
-          "id": "7775-3-10:10-2",
+          "id": "7775-3-10:10-1",
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -497,7 +497,24 @@
           }
         },
         {
-          "id": "7775-6-10:10-2",
+          "id": "7775-6-08:30-2",
+          "dayIndex": 6,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Управление качеством, стандартизация, сертификация",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Царева Полина Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
+          }
+        },
+        {
+          "id": "7775-6-10:10-4",
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,

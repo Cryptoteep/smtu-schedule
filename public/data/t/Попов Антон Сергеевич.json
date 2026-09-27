@@ -2,7 +2,7 @@
   "teacherId": "Попов Антон Сергеевич",
   "teacherName": "Попов Антон Сергеевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/06/small/p123307.jpg?token_static=a3ebfcfee2becebef74fa12444a8a3e8",
-  "updatedAt": "2026-09-27T13:56:57.580Z",
+  "updatedAt": "2026-09-27T18:22:19.592Z",
   "totalLessons": 25,
   "days": [
     {
@@ -171,40 +171,6 @@
           "room": "У УЛК-03",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20220",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Попов Антон Сергеевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/06/small/p123307.jpg?token_static=a3ebfcfee2becebef74fa12444a8a3e8"
-          }
-        },
-        {
-          "id": "7767-2-15:40-1",
-          "dayIndex": 2,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Электротехника, электроника и схемотехника",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У УЛК-13",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20321",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Попов Антон Сергеевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/06/small/p123307.jpg?token_static=a3ebfcfee2becebef74fa12444a8a3e8"
-          }
-        },
-        {
-          "id": "7767-2-17:20-2",
-          "dayIndex": 2,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Электротехника, электроника и схемотехника",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У УЛК-13",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20321",
           "weekParity": "up",
           "teacher": {
             "name": "Попов Антон Сергеевич",
@@ -433,6 +399,40 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "3250",
           "weekParity": "down",
+          "teacher": {
+            "name": "Попов Антон Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/06/small/p123307.jpg?token_static=a3ebfcfee2becebef74fa12444a8a3e8"
+          }
+        },
+        {
+          "id": "7767-5-15:40-1",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Электротехника, электроника и схемотехника",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-13",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20321",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Попов Антон Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/06/small/p123307.jpg?token_static=a3ebfcfee2becebef74fa12444a8a3e8"
+          }
+        },
+        {
+          "id": "7767-5-17:20-2",
+          "dayIndex": 5,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Электротехника, электроника и схемотехника",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-13",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20321",
+          "weekParity": "up",
           "teacher": {
             "name": "Попов Антон Сергеевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/06/small/p123307.jpg?token_static=a3ebfcfee2becebef74fa12444a8a3e8"

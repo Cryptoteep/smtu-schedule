@@ -1,7 +1,7 @@
 {
   "groupId": "7765",
   "groupName": "20313",
-  "updatedAt": "2026-09-27T13:56:49.899Z",
+  "updatedAt": "2026-09-27T18:22:12.057Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -435,6 +435,40 @@
           "teacher": {
             "name": "Мальцев Даниил Денисович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/30/small/p103898.jpg?token_static=74fe8fd35896245d1bb8a8133ec0e75c"
+          }
+        },
+        {
+          "id": "7765-6-08:30-2",
+          "dayIndex": 6,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Облачные и сетевые технологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20313",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мальцев Даниил Денисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/30/small/p103898.jpg?token_static=74fe8fd35896245d1bb8a8133ec0e75c"
+          }
+        },
+        {
+          "id": "7765-6-10:10-3",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Облачные и сетевые технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20313",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
           }
         }
       ]

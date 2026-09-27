@@ -1,7 +1,7 @@
 {
   "groupId": "7800",
   "groupName": "12822-01",
-  "updatedAt": "2026-09-27T13:56:55.717Z",
+  "updatedAt": "2026-09-27T18:22:17.623Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -362,7 +362,24 @@
           }
         },
         {
-          "id": "7800-4-14:00-7",
+          "id": "7800-4-11:50-7",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Начертательная геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12822-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Фролов Иван Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/11/22/small/p128071.jpg?token_static=8512db7f495750010ba451ad50c25648"
+          }
+        },
+        {
+          "id": "7800-4-14:00-8",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -379,7 +396,7 @@
           }
         },
         {
-          "id": "7800-4-14:00-8",
+          "id": "7800-4-14:00-9",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

@@ -1,7 +1,7 @@
 {
   "groupId": "7929",
   "groupName": "12317-32",
-  "updatedAt": "2026-09-27T13:56:43.854Z",
+  "updatedAt": "2026-09-27T18:22:07.181Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -397,7 +397,24 @@
           }
         },
         {
-          "id": "7929-6-11:50-2",
+          "id": "7929-6-10:10-2",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-32",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Смирнов Алексей Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/16/small/p124738.jpg?token_static=162bb0c36eb35d0bed5773bdb832d8af"
+          }
+        },
+        {
+          "id": "7929-6-11:50-3",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -414,7 +431,7 @@
           }
         },
         {
-          "id": "7929-6-11:50-3",
+          "id": "7929-6-11:50-4",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -433,7 +450,7 @@
           }
         },
         {
-          "id": "7929-6-14:00-4",
+          "id": "7929-6-14:00-5",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

@@ -1,7 +1,7 @@
 {
   "groupId": "7940",
   "groupName": "12739-03",
-  "updatedAt": "2026-09-27T13:56:53.544Z",
+  "updatedAt": "2026-09-27T18:22:15.780Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -429,15 +429,13 @@
           "subject": "Основы военной подготовки",
           "type": "military",
           "rawType": "Практическое занятие",
-          "room": "У 534",
+          "room": "У ВУЦ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12739-03",
           "weekParity": "up",
           "teacher": {
-            "name": "Романов Александр Иванович",
-            "id": "122500",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
           }
         },
         {
@@ -448,13 +446,15 @@
           "subject": "Основы военной подготовки",
           "type": "military",
           "rawType": "Практическое занятие",
-          "room": "У ВУЦ",
+          "room": "У 534",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12739-03",
           "weekParity": "up",
           "teacher": {
-            "name": "Величко Борис Валерьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+            "name": "Романов Александр Иванович",
+            "id": "122500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
           }
         },
         {
@@ -476,7 +476,24 @@
           }
         },
         {
-          "id": "7940-4-15:40-6",
+          "id": "7940-4-14:00-6",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12739-03",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Акуленок Ирина Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"
+          }
+        },
+        {
+          "id": "7940-4-15:40-7",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -493,7 +510,7 @@
           }
         },
         {
-          "id": "7940-4-15:40-7",
+          "id": "7940-4-15:40-8",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -510,7 +527,7 @@
           }
         },
         {
-          "id": "7940-4-17:20-8",
+          "id": "7940-4-17:20-9",
           "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,

@@ -2,8 +2,8 @@
   "teacherId": "Ложкин Владислав Александрович",
   "teacherName": "Ложкин Владислав Александрович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89",
-  "updatedAt": "2026-09-27T13:56:57.571Z",
-  "totalLessons": 19,
+  "updatedAt": "2026-09-27T18:22:19.586Z",
+  "totalLessons": 20,
   "days": [
     {
       "dayName": "Понедельник",
@@ -172,6 +172,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20420",
           "weekParity": "down",
+          "teacher": {
+            "name": "Ложкин Владислав Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89"
+          }
+        },
+        {
+          "id": "7775-2-14:00-6",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Коллаборативные робототехнические системы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "up",
           "teacher": {
             "name": "Ложкин Владислав Александрович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89"

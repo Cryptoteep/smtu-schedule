@@ -1,7 +1,7 @@
 {
   "groupId": "7649",
   "groupName": "3370",
-  "updatedAt": "2026-09-27T13:56:45.607Z",
+  "updatedAt": "2026-09-27T18:22:08.957Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -70,6 +70,25 @@
           "subject": "Теория систем и системный анализ",
           "type": "lecture",
           "rawType": "Лекция",
+          "room": "Конгресс-Центр 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ведерников Юрий Вадимович",
+            "id": "123303",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
+          }
+        },
+        {
+          "id": "7649-1-15:40-5",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "У 314в",
           "campus": "Ульянка (Корпус У)",
           "groupName": "3370",
@@ -83,7 +102,26 @@
           }
         },
         {
-          "id": "7649-1-17:20-5",
+          "id": "7649-1-17:20-6",
+          "dayIndex": 1,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ведерников Юрий Вадимович",
+            "id": "123303",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
+          }
+        },
+        {
+          "id": "7649-1-17:20-7",
           "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -103,7 +141,26 @@
           }
         },
         {
-          "id": "7649-1-19:00-6",
+          "id": "7649-1-19:00-8",
+          "dayIndex": 1,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3370",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ведерников Юрий Вадимович",
+            "id": "123303",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123303/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123303.jpg?token_static=2f7938ca28e43bb9a1badf924b68dc56"
+          }
+        },
+        {
+          "id": "7649-1-19:00-9",
           "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,

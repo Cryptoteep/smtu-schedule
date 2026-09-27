@@ -1,7 +1,7 @@
 {
   "groupId": "7796",
   "groupName": "12740-01",
-  "updatedAt": "2026-09-27T13:56:53.547Z",
+  "updatedAt": "2026-09-27T18:22:15.584Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,25 @@
       "lessons": [
         {
           "id": "7796-1-08:30-1",
+          "dayIndex": 1,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Теория государства и права",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Вахмистрова Светлана Ивановна",
+            "id": "123591",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123591/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/02/small/p123591.jpg?token_static=8a6b9269908e48ce4b8eccfe9cc27640"
+          }
+        },
+        {
+          "id": "7796-1-08:30-2",
           "dayIndex": 1,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
@@ -28,7 +47,7 @@
           }
         },
         {
-          "id": "7796-1-10:10-2",
+          "id": "7796-1-10:10-3",
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -47,7 +66,26 @@
           }
         },
         {
-          "id": "7796-1-10:10-3",
+          "id": "7796-1-10:10-4",
+          "dayIndex": 1,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Теория государства и права",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 207",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Вахмистрова Светлана Ивановна",
+            "id": "123591",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123591/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/02/small/p123591.jpg?token_static=8a6b9269908e48ce4b8eccfe9cc27640"
+          }
+        },
+        {
+          "id": "7796-1-10:10-5",
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -67,7 +105,7 @@
           }
         },
         {
-          "id": "7796-1-11:50-4",
+          "id": "7796-1-11:50-6",
           "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -87,7 +125,7 @@
           }
         },
         {
-          "id": "7796-1-11:50-5",
+          "id": "7796-1-11:50-7",
           "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -106,7 +144,7 @@
           }
         },
         {
-          "id": "7796-1-14:00-6",
+          "id": "7796-1-14:00-8",
           "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -123,7 +161,7 @@
           }
         },
         {
-          "id": "7796-1-14:00-7",
+          "id": "7796-1-14:00-9",
           "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -309,15 +347,13 @@
           "subject": "Основы военной подготовки",
           "type": "military",
           "rawType": "Практическое занятие",
-          "room": "У 511",
+          "room": "У ВУЦ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12740-01",
           "weekParity": "both",
           "teacher": {
-            "name": "Романов Александр Иванович",
-            "id": "122500",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
           }
         },
         {
@@ -328,13 +364,15 @@
           "subject": "Основы военной подготовки",
           "type": "military",
           "rawType": "Практическое занятие",
-          "room": "У ВУЦ",
+          "room": "У 511",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12740-01",
           "weekParity": "both",
           "teacher": {
-            "name": "Величко Борис Валерьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+            "name": "Романов Александр Иванович",
+            "id": "122500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
           }
         },
         {

@@ -1,7 +1,7 @@
 {
   "groupId": "7780",
   "groupName": "20490",
-  "updatedAt": "2026-09-27T13:56:50.389Z",
+  "updatedAt": "2026-09-27T18:22:12.865Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -484,7 +484,24 @@
           }
         },
         {
-          "id": "7780-6-11:50-5",
+          "id": "7780-6-10:10-5",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Функциональное и логическое программирование",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20490",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Арбузов Богдан Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/11/26/small/p127334.jpg?token_static=29f1144041dac363bbd8c28ec8f520bb"
+          }
+        },
+        {
+          "id": "7780-6-11:50-6",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -503,7 +520,7 @@
           }
         },
         {
-          "id": "7780-6-11:50-6",
+          "id": "7780-6-11:50-7",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -521,7 +538,24 @@
           }
         },
         {
-          "id": "7780-6-14:00-7",
+          "id": "7780-6-11:50-8",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Функциональное и логическое программирование",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20490",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Арбузов Богдан Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/11/26/small/p127334.jpg?token_static=29f1144041dac363bbd8c28ec8f520bb"
+          }
+        },
+        {
+          "id": "7780-6-14:00-9",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -538,7 +572,7 @@
           }
         },
         {
-          "id": "7780-6-14:00-8",
+          "id": "7780-6-14:00-10",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

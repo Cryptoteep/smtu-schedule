@@ -2,8 +2,8 @@
   "teacherId": "Черный Сергей Григорьевич",
   "teacherName": "Черный Сергей Григорьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a",
-  "updatedAt": "2026-09-27T13:56:57.572Z",
-  "totalLessons": 13,
+  "updatedAt": "2026-09-27T18:22:19.586Z",
+  "totalLessons": 14,
   "days": [
     {
       "dayName": "Понедельник",
@@ -80,23 +80,6 @@
           }
         },
         {
-          "id": "7775-2-14:00-7",
-          "dayIndex": 2,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Сети и телекоммуникации",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр 420",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20421",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Черный Сергей Григорьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
-          }
-        },
-        {
           "id": "7844-2-17:20-2",
           "dayIndex": 2,
           "time": "17:20-18:50",
@@ -152,40 +135,6 @@
             "name": "Черный Сергей Григорьевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
           }
-        },
-        {
-          "id": "7775-3-10:10-3",
-          "dayIndex": 3,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Сети и телекоммуникации",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 437",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20421",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Черный Сергей Григорьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
-          }
-        },
-        {
-          "id": "7775-3-11:50-5",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Сети и телекоммуникации",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 437",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20421",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Черный Сергей Григорьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
-          }
         }
       ]
     },
@@ -209,6 +158,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20227",
           "weekParity": "down",
+          "teacher": {
+            "name": "Черный Сергей Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
+          }
+        },
+        {
+          "id": "7775-5-08:30-1",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Сети и телекоммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "up",
           "teacher": {
             "name": "Черный Сергей Григорьевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
@@ -237,11 +203,62 @@
           }
         },
         {
-          "id": "7775-6-11:50-3",
+          "id": "7775-6-08:30-1",
+          "dayIndex": 6,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Защита информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Черный Сергей Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
+          }
+        },
+        {
+          "id": "7775-6-10:10-3",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Сети и телекоммуникации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 436",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Черный Сергей Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
+          }
+        },
+        {
+          "id": "7775-6-11:50-5",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Защита информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 314",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20421",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Черный Сергей Григорьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/10/13/small/p122596.jpg?token_static=5c245f6bd1c5e3af4507ee65c9e1ff8a"
+          }
+        },
+        {
+          "id": "7775-6-14:00-7",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Сети и телекоммуникации",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 314",
