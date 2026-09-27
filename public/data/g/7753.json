@@ -1,7 +1,7 @@
 {
   "groupId": "7753",
   "groupName": "20250",
-  "updatedAt": "2026-09-27T08:07:26.231Z",
+  "updatedAt": "2026-09-27T13:56:48.762Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -88,15 +88,18 @@
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Программирование",
+          "subject": "Деловые коммуникации",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 306",
+          "room": "Конгресс-Центр 243",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20250",
           "weekParity": "up",
           "teacher": {
-            "name": "Кафедра вычислительной техники и информационных технологий"
+            "name": "Бабаева Наталья Михайловна",
+            "id": "100060",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100060/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100060.jpg?token_static=6983cf54ef4c5f9ccf1992c4ec056dd0"
           }
         },
         {
@@ -120,18 +123,18 @@
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
-          "subject": "Деловые коммуникации",
+          "subject": "Базы данных",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 243",
+          "room": "У 436",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20250",
           "weekParity": "up",
           "teacher": {
-            "name": "Бабаева Наталья Михайловна",
-            "id": "100060",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100060/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100060.jpg?token_static=6983cf54ef4c5f9ccf1992c4ec056dd0"
+            "name": "Семенова-Тян-Шанская Вера Александровна",
+            "id": "101056",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9"
           }
         },
         {
@@ -156,18 +159,15 @@
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
-          "subject": "Базы данных",
+          "subject": "Программирование",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 318",
+          "room": "У 435",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20250",
           "weekParity": "up",
           "teacher": {
-            "name": "Семенова-Тян-Шанская Вера Александровна",
-            "id": "101056",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9"
+            "name": "Кафедра вычислительной техники и информационных технологий"
           }
         },
         {

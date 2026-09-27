@@ -1,7 +1,7 @@
 {
   "groupId": "7770",
   "groupName": "20380",
-  "updatedAt": "2026-09-27T08:07:27.282Z",
+  "updatedAt": "2026-09-27T13:56:49.936Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -82,7 +82,26 @@
           }
         },
         {
-          "id": "7770-2-19:00-3",
+          "id": "7770-2-14:00-3",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        },
+        {
+          "id": "7770-2-19:00-4",
           "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,

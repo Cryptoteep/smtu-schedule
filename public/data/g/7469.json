@@ -1,7 +1,7 @@
 {
   "groupId": "7469",
   "groupName": "20371",
-  "updatedAt": "2026-09-27T08:07:27.145Z",
+  "updatedAt": "2026-09-27T13:56:49.835Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -86,7 +86,26 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7469-2-15:40-1",
+          "id": "7469-2-14:00-1",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20371",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        },
+        {
+          "id": "7469-2-15:40-2",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -103,14 +122,14 @@
           }
         },
         {
-          "id": "7469-2-17:20-2",
+          "id": "7469-2-17:20-3",
           "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Теория автоматического управления",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 319",
+          "room": "У 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20371",
           "weekParity": "up",
@@ -120,7 +139,7 @@
           }
         },
         {
-          "id": "7469-2-17:20-3",
+          "id": "7469-2-17:20-4",
           "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -137,7 +156,7 @@
           }
         },
         {
-          "id": "7469-2-19:00-4",
+          "id": "7469-2-19:00-5",
           "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,

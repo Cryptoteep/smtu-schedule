@@ -1,7 +1,7 @@
 {
   "groupId": "7763",
   "groupName": "20300",
-  "updatedAt": "2026-09-27T08:07:26.690Z",
+  "updatedAt": "2026-09-27T13:56:49.731Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -204,33 +204,48 @@
           }
         },
         {
-          "id": "7763-2-11:50-3",
+          "id": "7763-2-10:10-3",
           "dayIndex": 2,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Базы данных",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 437",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы военной подготовки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 105",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20300",
           "weekParity": "up",
           "teacher": {
-            "name": "Семенова-Тян-Шанская Вера Александровна",
-            "id": "101056",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9"
+            "name": "Цаплин Виталий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/05/small/p137667.jpg?token_static=a9d73937a075b4e4c1586e3dfc598567"
           }
         },
         {
-          "id": "7763-2-14:00-4",
+          "id": "7763-2-11:50-4",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Основы военной подготовки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 105",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Опарин Александр Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100843.jpg?token_static=97843249d42587ca996716e10bc5f564"
+          }
+        },
+        {
+          "id": "7763-2-14:00-5",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Теория систем и системный анализ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 165",
+          "room": "У 103",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20300",
           "weekParity": "up",
@@ -242,7 +257,7 @@
           }
         },
         {
-          "id": "7763-2-14:00-5",
+          "id": "7763-2-14:00-6",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -261,7 +276,7 @@
           }
         },
         {
-          "id": "7763-2-15:40-6",
+          "id": "7763-2-15:40-7",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -280,7 +295,7 @@
           }
         },
         {
-          "id": "7763-2-17:20-7",
+          "id": "7763-2-17:20-8",
           "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -299,7 +314,7 @@
           }
         },
         {
-          "id": "7763-2-19:00-8",
+          "id": "7763-2-19:00-9",
           "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -695,6 +710,25 @@
             "id": "123177",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        },
+        {
+          "id": "7763-6-15:40-3",
+          "dayIndex": 6,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Базы данных",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Семенова-Тян-Шанская Вера Александровна",
+            "id": "101056",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9"
           }
         }
       ]

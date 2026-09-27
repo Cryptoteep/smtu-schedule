@@ -3,7 +3,7 @@
   "teacherName": "Дубин Марат Мухаметханович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
-  "updatedAt": "2026-09-27T08:07:34.544Z",
+  "updatedAt": "2026-09-27T13:56:57.579Z",
   "totalLessons": 21,
   "days": [
     {
@@ -89,7 +89,26 @@
           }
         },
         {
-          "id": "7469-2-19:00-4",
+          "id": "7469-2-14:00-1",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория систем и системный анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 103",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20371, 20300, 20313, 20320, 20370, 20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        },
+        {
+          "id": "7469-2-19:00-5",
           "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -108,26 +127,7 @@
           }
         },
         {
-          "id": "7763-2-14:00-4",
-          "dayIndex": 2,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Теория систем и системный анализ",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 165",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20300, 20313, 20320",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Дубин Марат Мухаметханович",
-            "id": "123177",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
-          }
-        },
-        {
-          "id": "7763-2-17:20-7",
+          "id": "7763-2-17:20-8",
           "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,

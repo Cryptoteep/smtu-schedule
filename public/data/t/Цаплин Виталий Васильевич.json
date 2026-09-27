@@ -2,8 +2,8 @@
   "teacherId": "Цаплин Виталий Васильевич",
   "teacherName": "Цаплин Виталий Васильевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/05/small/p137667.jpg?token_static=a9d73937a075b4e4c1586e3dfc598567",
-  "updatedAt": "2026-09-27T08:07:34.494Z",
-  "totalLessons": 9,
+  "updatedAt": "2026-09-27T13:56:57.523Z",
+  "totalLessons": 10,
   "days": [
     {
       "dayName": "Понедельник",
@@ -64,7 +64,25 @@
     {
       "dayName": "Вторник",
       "dayIndex": 2,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7763-2-10:10-3",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы военной подготовки",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 105",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20300, 20302, 20390, 20391",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Цаплин Виталий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/05/small/p137667.jpg?token_static=a9d73937a075b4e4c1586e3dfc598567"
+          }
+        }
+      ]
     },
     {
       "dayName": "Среда",
