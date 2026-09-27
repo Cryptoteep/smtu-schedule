@@ -1,15 +1,15 @@
 {
   "groupId": "7912",
   "groupName": "1236",
-  "updatedAt": "2026-09-27T18:21:59.525Z",
+  "updatedAt": "2026-09-27T23:02:02.383Z",
   "days": [
     {
-      "dayName": "Среда",
-      "dayIndex": 3,
+      "dayName": "Понедельник",
+      "dayIndex": 1,
       "lessons": [
         {
-          "id": "7912-3-11:50-1",
-          "dayIndex": 3,
+          "id": "7912-1-11:50-1",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Русский язык как иностранный: язык для академических целей",
@@ -27,8 +27,8 @@
           }
         },
         {
-          "id": "7912-3-15:40-2",
-          "dayIndex": 3,
+          "id": "7912-1-15:40-2",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Современные методы решения задач гидродинамики",
@@ -44,8 +44,8 @@
           }
         },
         {
-          "id": "7912-3-15:40-3",
-          "dayIndex": 3,
+          "id": "7912-1-15:40-3",
+          "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Гидродинамика судов с динамическим поддержанием",
@@ -60,8 +60,8 @@
           }
         },
         {
-          "id": "7912-3-17:20-4",
-          "dayIndex": 3,
+          "id": "7912-1-17:20-4",
+          "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Математические модели внешних гидрометеорологических возмущений",
@@ -79,8 +79,8 @@
           }
         },
         {
-          "id": "7912-3-17:20-5",
-          "dayIndex": 3,
+          "id": "7912-1-17:20-5",
+          "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Математические модели внешних гидрометеорологических возмущений",
@@ -98,8 +98,8 @@
           }
         },
         {
-          "id": "7912-3-19:00-6",
-          "dayIndex": 3,
+          "id": "7912-1-19:00-6",
+          "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
           "subject": "Дополнительные разделы динамики объектов",
@@ -291,6 +291,88 @@
             "id": "122141",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122141/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/24/small/p122141.jpg?token_static=1b6f38179a9474015009576eaad53646"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7912-6-10:10-1",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7912-6-11:50-2",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7912-6-14:00-3",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7912-6-15:40-4",
+          "dayIndex": 6,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1236",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
           }
         }
       ]

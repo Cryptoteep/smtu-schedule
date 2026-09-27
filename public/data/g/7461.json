@@ -1,7 +1,7 @@
 {
   "groupId": "7461",
   "groupName": "12126-02",
-  "updatedAt": "2026-09-27T18:21:57.847Z",
+  "updatedAt": "2026-09-27T23:02:01.077Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -125,11 +125,10 @@
           "subject": "Математический анализ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 115",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-02",
           "weekParity": "both",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Постников Сергей Николаевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/10/small/p102517.jpg?token_static=f95fd3436ea970f5d8bd1c3cfb134b81"
@@ -442,10 +441,8 @@
           "groupName": "12126-02",
           "weekParity": "down",
           "teacher": {
-            "name": "Едуш Наталья Юрьевна",
-            "id": "100364",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
           }
         },
         {
@@ -461,27 +458,10 @@
           "groupName": "12126-02",
           "weekParity": "down",
           "teacher": {
-            "name": "Дроздов Владимир Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
-          }
-        },
-        {
-          "id": "7461-4-11:50-11",
-          "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 450",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12126-02",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Рюмин Сергей Николаевич",
-            "id": "101017",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
+            "name": "Едуш Наталья Юрьевна",
+            "id": "100364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
           }
         }
       ]

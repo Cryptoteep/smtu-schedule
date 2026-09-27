@@ -1,7 +1,7 @@
 {
   "groupId": "7793",
   "groupName": "12327-02",
-  "updatedAt": "2026-09-27T18:22:07.517Z",
+  "updatedAt": "2026-09-27T23:02:09.011Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -15,11 +15,10 @@
           "subject": "Математический анализ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 115",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12327-02",
           "weekParity": "both",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Русина Лариса Германовна",
             "id": "123501",
@@ -298,25 +297,42 @@
       "dayIndex": 4,
       "lessons": [
         {
-          "id": "7793-4-11:50-1",
+          "id": "7793-4-10:10-1",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Обучение служением",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 410",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12327-02",
+          "weekParity": "up",
+          "dateSpecific": "29.09-16.11",
+          "teacher": {
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
+          }
+        },
+        {
+          "id": "7793-4-11:50-2",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Линейная алгебра, Аналитическая геометрия",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 115",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12327-02",
           "weekParity": "both",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Крупицкая Ольга Савельевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/08/small/p122711.jpg?token_static=4b97a048cd33a9d92d4dddfeb85d4940"
           }
         },
         {
-          "id": "7793-4-14:00-2",
+          "id": "7793-4-14:00-3",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -333,7 +349,7 @@
           }
         },
         {
-          "id": "7793-4-14:00-3",
+          "id": "7793-4-14:00-4",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -352,7 +368,7 @@
           }
         },
         {
-          "id": "7793-4-15:40-4",
+          "id": "7793-4-15:40-5",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -371,7 +387,7 @@
           }
         },
         {
-          "id": "7793-4-15:40-5",
+          "id": "7793-4-15:40-6",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -390,7 +406,7 @@
           }
         },
         {
-          "id": "7793-4-15:40-6",
+          "id": "7793-4-15:40-7",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,

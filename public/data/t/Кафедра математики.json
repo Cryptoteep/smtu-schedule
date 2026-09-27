@@ -1,8 +1,8 @@
 {
   "teacherId": "Кафедра математики",
   "teacherName": "Кафедра математики",
-  "updatedAt": "2026-09-27T18:22:19.652Z",
-  "totalLessons": 11,
+  "updatedAt": "2026-09-27T23:02:20.628Z",
+  "totalLessons": 13,
   "days": [
     {
       "dayName": "Понедельник",
@@ -186,6 +186,38 @@
       "dayName": "Четверг",
       "dayIndex": 4,
       "lessons": [
+        {
+          "id": "7543-4-14:00-4",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1214",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра математики"
+          }
+        },
+        {
+          "id": "7544-4-11:50-3",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1216",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра математики"
+          }
+        },
         {
           "id": "7792-4-10:10-2",
           "dayIndex": 4,

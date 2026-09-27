@@ -1,7 +1,7 @@
 {
   "groupId": "7849",
   "groupName": "12740-03-2",
-  "updatedAt": "2026-09-27T18:22:15.713Z",
+  "updatedAt": "2026-09-27T23:02:16.926Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,26 @@
       "lessons": [
         {
           "id": "7849-1-19:00-1",
+          "dayIndex": 1,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-03-2",
+          "weekParity": "both",
+          "dateSpecific": "01.10 по 11.11",
+          "teacher": {
+            "name": "Пантелеева Екатерина Валерьевна",
+            "id": "100873",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100873/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100873.jpg?token_static=0581704817a1db2ba4e2795028e98174"
+          }
+        },
+        {
+          "id": "7849-1-19:00-2",
           "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -28,10 +48,10 @@
           }
         },
         {
-          "id": "7849-1-20:40-2",
+          "id": "7849-1-20:40-3",
           "dayIndex": 1,
           "time": "20:40-22:10",
-          "timeSlotIndex": 3,
+          "timeSlotIndex": 4,
           "subject": "История России",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -45,6 +65,158 @@
             "id": "100873",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100873/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100873.jpg?token_static=0581704817a1db2ba4e2795028e98174"
+          }
+        },
+        {
+          "id": "7849-1-20:40-4",
+          "dayIndex": 1,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-03-2",
+          "weekParity": "both",
+          "dateSpecific": "01.10 по 11.11",
+          "teacher": {
+            "name": "Пантелеева Екатерина Валерьевна",
+            "id": "100873",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100873/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100873.jpg?token_static=0581704817a1db2ba4e2795028e98174"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7849-2-19:00-1",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-03-2",
+          "weekParity": "both",
+          "dateSpecific": "01.10 по 11.11",
+          "teacher": {
+            "name": "Кафедра иностранных языков"
+          }
+        },
+        {
+          "id": "7849-2-20:40-2",
+          "dayIndex": 2,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-03-2",
+          "weekParity": "both",
+          "dateSpecific": "01.10 по 11.11",
+          "teacher": {
+            "name": "Кафедра иностранных языков"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7849-3-19:00-1",
+          "dayIndex": 3,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Теория государства и права",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 410",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-03-2",
+          "weekParity": "both",
+          "dateSpecific": "01.10 по 11.11",
+          "teacher": {
+            "name": "Вахмистрова Светлана Ивановна",
+            "id": "123591",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123591/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/02/small/p123591.jpg?token_static=8a6b9269908e48ce4b8eccfe9cc27640"
+          }
+        },
+        {
+          "id": "7849-3-20:40-2",
+          "dayIndex": 3,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Теория государства и права",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 410",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-03-2",
+          "weekParity": "both",
+          "dateSpecific": "01.10 по 11.11",
+          "teacher": {
+            "name": "Вахмистрова Светлана Ивановна",
+            "id": "123591",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123591/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/02/small/p123591.jpg?token_static=8a6b9269908e48ce4b8eccfe9cc27640"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7849-4-19:00-1",
+          "dayIndex": 4,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Информатика и математика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 209ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-03-2",
+          "weekParity": "both",
+          "dateSpecific": "01.10 по 02.12",
+          "teacher": {
+            "name": "Певзнер Виталий Владимирович",
+            "id": "100878",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100878/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100878.jpg?token_static=8c3c7151873f779e8bac558a8614b8e6"
+          }
+        },
+        {
+          "id": "7849-4-20:40-2",
+          "dayIndex": 4,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Информатика и математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 209ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-03-2",
+          "weekParity": "both",
+          "dateSpecific": "01.10 по 02.12",
+          "teacher": {
+            "name": "Певзнер Виталий Владимирович",
+            "id": "100878",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100878/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100878.jpg?token_static=8c3c7151873f779e8bac558a8614b8e6"
           }
         }
       ]
@@ -72,10 +244,46 @@
           }
         },
         {
-          "id": "7849-5-20:40-2",
+          "id": "7849-5-19:00-2",
+          "dayIndex": 5,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Обучение служением",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-03-2",
+          "weekParity": "both",
+          "dateSpecific": "01.10 по 21.10",
+          "teacher": {
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
+          }
+        },
+        {
+          "id": "7849-5-20:40-3",
           "dayIndex": 5,
           "time": "20:40-22:10",
-          "timeSlotIndex": 3,
+          "timeSlotIndex": 4,
+          "subject": "Обучение служением",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-03-2",
+          "weekParity": "both",
+          "dateSpecific": "01.10 по 21.10",
+          "teacher": {
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
+          }
+        },
+        {
+          "id": "7849-5-20:40-4",
+          "dayIndex": 5,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
           "subject": "Социальное взаимодействие в профессиональной деятельности",
           "type": "practice",
           "rawType": "Практическое занятие",

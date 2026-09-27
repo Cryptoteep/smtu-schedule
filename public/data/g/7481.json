@@ -1,7 +1,7 @@
 {
   "groupId": "7481",
   "groupName": "12126-04",
-  "updatedAt": "2026-09-27T18:21:58.016Z",
+  "updatedAt": "2026-09-27T23:02:01.275Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -108,11 +108,10 @@
           "subject": "Математический анализ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 115",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-04",
           "weekParity": "both",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Постников Сергей Николаевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/10/small/p102517.jpg?token_static=f95fd3436ea970f5d8bd1c3cfb134b81"
@@ -226,8 +225,10 @@
           "groupName": "12126-04",
           "weekParity": "up",
           "teacher": {
-            "name": "Дроздов Владимир Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+            "name": "Едуш Наталья Юрьевна",
+            "id": "100364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
           }
         },
         {
@@ -279,33 +280,12 @@
           "groupName": "12126-04",
           "weekParity": "up",
           "teacher": {
-            "name": "Едуш Наталья Юрьевна",
-            "id": "100364",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
           }
         },
         {
           "id": "7481-3-14:00-7",
-          "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б 401",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "12126-04",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Миронов Михаил Юрьевич",
-            "id": "100756",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
-          }
-        },
-        {
-          "id": "7481-3-14:00-8",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -324,7 +304,7 @@
           }
         },
         {
-          "id": "7481-3-14:00-9",
+          "id": "7481-3-14:00-8",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -338,6 +318,25 @@
           "teacher": {
             "name": "Рогозин Андрей Валерьевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100982.jpg?token_static=692e530242e12bedae9975b652c98520"
+          }
+        },
+        {
+          "id": "7481-3-14:00-9",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12126-04",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Миронов Михаил Юрьевич",
+            "id": "100756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
           }
         },
         {
@@ -359,25 +358,6 @@
         },
         {
           "id": "7481-3-14:00-11",
-          "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б 401",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "12126-04",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Рюмин Сергей Николаевич",
-            "id": "101017",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
-          }
-        },
-        {
-          "id": "7481-3-14:00-12",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

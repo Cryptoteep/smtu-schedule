@@ -1,7 +1,7 @@
 {
   "groupId": "7754",
   "groupName": "20270",
-  "updatedAt": "2026-09-27T18:22:11.861Z",
+  "updatedAt": "2026-09-27T23:02:13.021Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -245,6 +245,25 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20270",
           "weekParity": "up",
+          "teacher": {
+            "name": "Колесников Юрий Леонидович",
+            "id": "122535",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122535/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/15/small/p122535.jpg?token_static=463a6f73b30879b419c62a9fc5283b73"
+          }
+        },
+        {
+          "id": "7754-3-17:20-6",
+          "dayIndex": 3,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Физика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20270",
+          "weekParity": "down",
           "teacher": {
             "name": "Колесников Юрий Леонидович",
             "id": "122535",

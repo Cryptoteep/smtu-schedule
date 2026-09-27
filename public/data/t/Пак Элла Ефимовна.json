@@ -3,8 +3,8 @@
   "teacherName": "Пак Элла Ефимовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
-  "updatedAt": "2026-09-27T18:22:19.560Z",
-  "totalLessons": 24,
+  "updatedAt": "2026-09-27T23:02:20.482Z",
+  "totalLessons": 25,
   "days": [
     {
       "dayName": "Понедельник",
@@ -236,6 +236,25 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "2250",
           "weekParity": "up",
+          "teacher": {
+            "name": "Пак Элла Ефимовна",
+            "id": "123073",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123073/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123073.jpg?token_static=26daec841636c746ae4c3f640a948dcc"
+          }
+        },
+        {
+          "id": "7586-3-08:30-3",
+          "dayIndex": 3,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2250",
+          "weekParity": "down",
           "teacher": {
             "name": "Пак Элла Ефимовна",
             "id": "123073",

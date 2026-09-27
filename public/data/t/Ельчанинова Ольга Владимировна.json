@@ -2,8 +2,8 @@
   "teacherId": "Ельчанинова Ольга Владимировна",
   "teacherName": "Ельчанинова Ольга Владимировна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/09/small/p139976.jpg?token_static=557769433bdf5b34760b0d1eef542284",
-  "updatedAt": "2026-09-27T18:22:19.647Z",
-  "totalLessons": 9,
+  "updatedAt": "2026-09-27T23:02:20.621Z",
+  "totalLessons": 11,
   "days": [
     {
       "dayName": "Понедельник",
@@ -95,6 +95,42 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "7200",
           "weekParity": "down",
+          "teacher": {
+            "name": "Ельчанинова Ольга Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/09/small/p139976.jpg?token_static=557769433bdf5b34760b0d1eef542284"
+          }
+        },
+        {
+          "id": "7810-3-17:20-1",
+          "dayIndex": 3,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Трудовое право",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12739-50, 12739-51",
+          "weekParity": "both",
+          "dateSpecific": "29.09 по 16.11",
+          "teacher": {
+            "name": "Ельчанинова Ольга Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/09/small/p139976.jpg?token_static=557769433bdf5b34760b0d1eef542284"
+          }
+        },
+        {
+          "id": "7810-3-19:00-4",
+          "dayIndex": 3,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Трудовое право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12739-50, 12739-51",
+          "weekParity": "both",
+          "dateSpecific": "29.09 по 16.11",
           "teacher": {
             "name": "Ельчанинова Ольга Владимировна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/09/small/p139976.jpg?token_static=557769433bdf5b34760b0d1eef542284"

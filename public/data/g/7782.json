@@ -1,7 +1,7 @@
 {
   "groupId": "7782",
   "groupName": "12126-03",
-  "updatedAt": "2026-09-27T18:21:58.340Z",
+  "updatedAt": "2026-09-27T23:02:01.277Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -124,11 +124,10 @@
           "subject": "Математический анализ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 115",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-03",
           "weekParity": "both",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Постников Сергей Николаевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/10/small/p102517.jpg?token_static=f95fd3436ea970f5d8bd1c3cfb134b81"
@@ -201,11 +200,10 @@
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 314в",
+          "room": "Конгресс-Центр 316",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-03",
           "weekParity": "both",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Гриценко Кристина Вадимовна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3"
@@ -353,10 +351,8 @@
           "groupName": "12126-03",
           "weekParity": "up",
           "teacher": {
-            "name": "Миронов Михаил Юрьевич",
-            "id": "100756",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
+            "name": "Никущенко Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
           }
         },
         {
@@ -372,8 +368,10 @@
           "groupName": "12126-03",
           "weekParity": "up",
           "teacher": {
-            "name": "Никущенко Елена Александровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+            "name": "Миронов Михаил Юрьевич",
+            "id": "100756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
           }
         },
         {
@@ -406,8 +404,10 @@
           "groupName": "12126-03",
           "weekParity": "down",
           "teacher": {
-            "name": "Караев Рауф Наджмеддин оглы",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/05/small/p123248.jpg?token_static=e3958b55c182d07a63cd67b6e3a4f697"
+            "name": "Едуш Наталья Юрьевна",
+            "id": "100364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
           }
         },
         {
@@ -423,31 +423,12 @@
           "groupName": "12126-03",
           "weekParity": "down",
           "teacher": {
-            "name": "Едуш Наталья Юрьевна",
-            "id": "100364",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+            "name": "Караев Рауф Наджмеддин оглы",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/05/small/p123248.jpg?token_static=e3958b55c182d07a63cd67b6e3a4f697"
           }
         },
         {
           "id": "7782-4-11:50-9",
-          "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 450",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12126-03",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Дроздов Владимир Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
-          }
-        },
-        {
-          "id": "7782-4-11:50-10",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -466,7 +447,7 @@
           }
         },
         {
-          "id": "7782-4-11:50-11",
+          "id": "7782-4-11:50-10",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -476,12 +457,10 @@
           "room": "А 450",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "12126-03",
-          "weekParity": "both",
+          "weekParity": "down",
           "teacher": {
-            "name": "Рюмин Сергей Николаевич",
-            "id": "101017",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
           }
         }
       ]

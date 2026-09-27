@@ -1,8 +1,54 @@
 {
   "groupId": "7894",
   "groupName": "12638-08-2",
-  "updatedAt": "2026-09-27T18:22:13.379Z",
+  "updatedAt": "2026-09-27T23:02:14.747Z",
   "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7894-1-19:00-1",
+          "dayIndex": 1,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-08-2",
+          "weekParity": "both",
+          "dateSpecific": "01.10 по 11.11",
+          "teacher": {
+            "name": "Пантелеева Екатерина Валерьевна",
+            "id": "100873",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100873/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100873.jpg?token_static=0581704817a1db2ba4e2795028e98174"
+          }
+        },
+        {
+          "id": "7894-1-20:40-2",
+          "dayIndex": 1,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-08-2",
+          "weekParity": "both",
+          "dateSpecific": "01.10 по 11.11",
+          "teacher": {
+            "name": "Пантелеева Екатерина Валерьевна",
+            "id": "100873",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100873/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100873.jpg?token_static=0581704817a1db2ba4e2795028e98174"
+          }
+        }
+      ]
+    },
     {
       "dayName": "Вторник",
       "dayIndex": 2,
@@ -58,19 +104,19 @@
           "dayIndex": 3,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
-          "subject": "Введение в профессиональную деятельность",
+          "subject": "Введение в мировую экономику",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "М 33",
-          "campus": "Псковская (Корпус М)",
+          "room": "Б ЛУИТ",
+          "campus": "Лоцманская (Корпус Б)",
           "groupName": "12638-08-2",
           "weekParity": "both",
-          "dateSpecific": "11.11 по 16.12",
+          "dateSpecific": "30.09 по 04.11",
           "teacher": {
-            "name": "Стрельникова Лариса Анатольевна",
-            "id": "106255",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/106255/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/06/small/p106255.jpg?token_static=bf99c773ad46c21eaaf8e48487bee2ff"
+            "name": "Плис Кристина Сергеевна",
+            "id": "126007",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/126007/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/27/small/p126007.jpg?token_static=41ca9affb2819e4dbe8f6e657475380a"
           }
         },
         {
@@ -78,19 +124,19 @@
           "dayIndex": 3,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
-          "subject": "Введение в мировую экономику",
+          "subject": "Введение в профессиональную деятельность",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Б ЛУИТ",
-          "campus": "Лоцманская (Корпус Б)",
+          "room": "М 33",
+          "campus": "Псковская (Корпус М)",
           "groupName": "12638-08-2",
           "weekParity": "both",
-          "dateSpecific": "30.09 по 04.11",
+          "dateSpecific": "11.11 по 16.12",
           "teacher": {
-            "name": "Плис Кристина Сергеевна",
-            "id": "126007",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/126007/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/27/small/p126007.jpg?token_static=41ca9affb2819e4dbe8f6e657475380a"
+            "name": "Стрельникова Лариса Анатольевна",
+            "id": "106255",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106255/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/06/small/p106255.jpg?token_static=bf99c773ad46c21eaaf8e48487bee2ff"
           }
         },
         {
@@ -98,26 +144,6 @@
           "dayIndex": 3,
           "time": "20:40-22:10",
           "timeSlotIndex": 4,
-          "subject": "Введение в мировую экономику",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Б ЛУИТ",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "12638-08-2",
-          "weekParity": "both",
-          "dateSpecific": "30.09 по 04.11",
-          "teacher": {
-            "name": "Плис Кристина Сергеевна",
-            "id": "126007",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/126007/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/27/small/p126007.jpg?token_static=41ca9affb2819e4dbe8f6e657475380a"
-          }
-        },
-        {
-          "id": "7894-3-20:40-4",
-          "dayIndex": 3,
-          "time": "20:40-22:10",
-          "timeSlotIndex": 5,
           "subject": "Введение в профессиональную деятельность",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -131,6 +157,26 @@
             "id": "106255",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/106255/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/06/small/p106255.jpg?token_static=bf99c773ad46c21eaaf8e48487bee2ff"
+          }
+        },
+        {
+          "id": "7894-3-20:40-4",
+          "dayIndex": 3,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Введение в мировую экономику",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б ЛУИТ",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12638-08-2",
+          "weekParity": "both",
+          "dateSpecific": "30.09 по 04.11",
+          "teacher": {
+            "name": "Плис Кристина Сергеевна",
+            "id": "126007",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/126007/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/27/small/p126007.jpg?token_static=41ca9affb2819e4dbe8f6e657475380a"
           }
         }
       ]
@@ -184,26 +230,6 @@
           "dayIndex": 4,
           "time": "20:40-22:10",
           "timeSlotIndex": 4,
-          "subject": "Безопасность жизнедеятельности",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 534",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12638-08-2",
-          "weekParity": "both",
-          "dateSpecific": "12.11 по 23.12",
-          "teacher": {
-            "name": "Бокатов Антон Юрьевич",
-            "id": "100134",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
-          }
-        },
-        {
-          "id": "7894-4-20:40-4",
-          "dayIndex": 4,
-          "time": "20:40-22:10",
-          "timeSlotIndex": 5,
           "subject": "Экология",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -217,6 +243,26 @@
             "id": "101326",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/101326/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101326.jpg?token_static=431059f31a6c1477672ea55787fd2b19"
+          }
+        },
+        {
+          "id": "7894-4-20:40-4",
+          "dayIndex": 4,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 534",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12638-08-2",
+          "weekParity": "both",
+          "dateSpecific": "12.11 по 23.12",
+          "teacher": {
+            "name": "Бокатов Антон Юрьевич",
+            "id": "100134",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100134/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100134.jpg?token_static=dcd25d2127c66dae54090ec03a0c3a00"
           }
         }
       ]

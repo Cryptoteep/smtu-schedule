@@ -1,7 +1,7 @@
 {
   "groupId": "7840",
   "groupName": "12739-02",
-  "updatedAt": "2026-09-27T18:22:15.623Z",
+  "updatedAt": "2026-09-27T23:02:16.766Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -261,15 +261,13 @@
           "subject": "Основы военной подготовки",
           "type": "military",
           "rawType": "Практическое занятие",
-          "room": "У 407",
+          "room": "У ВУЦ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12739-02",
           "weekParity": "both",
           "teacher": {
-            "name": "Романов Александр Иванович",
-            "id": "122500",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
           }
         },
         {
@@ -280,13 +278,15 @@
           "subject": "Основы военной подготовки",
           "type": "military",
           "rawType": "Практическое занятие",
-          "room": "У ВУЦ",
+          "room": "У 407",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12739-02",
           "weekParity": "both",
           "teacher": {
-            "name": "Величко Борис Валерьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+            "name": "Романов Александр Иванович",
+            "id": "122500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
           }
         },
         {
@@ -332,11 +332,10 @@
           "subject": "Логика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 156",
+          "room": "Конгресс-Центр 426",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12739-02",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Медведев Владимир Иванович",
             "id": "100748",
@@ -565,6 +564,65 @@
           "teacher": {
             "name": "Игнатенко Сергей Владимирович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/05/08/small/p105188.jpg?token_static=50c66911f8b5f89eb1536e2b98f846f1"
+          }
+        },
+        {
+          "id": "7840-5-15:40-5",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "История России",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр Конференц-зал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12739-02",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Игнатенко Сергей Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/05/08/small/p105188.jpg?token_static=50c66911f8b5f89eb1536e2b98f846f1"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7840-6-10:10-1",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Обучение служением",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 101",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12739-02",
+          "weekParity": "up",
+          "dateSpecific": "03.10",
+          "teacher": {
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
+          }
+        },
+        {
+          "id": "7840-6-11:50-2",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Обучение служением",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 504",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12739-02",
+          "weekParity": "up",
+          "dateSpecific": "03.10",
+          "teacher": {
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
           }
         }
       ]

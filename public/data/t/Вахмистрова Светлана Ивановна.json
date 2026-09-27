@@ -3,8 +3,8 @@
   "teacherName": "Вахмистрова Светлана Ивановна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/02/small/p123591.jpg?token_static=8a6b9269908e48ce4b8eccfe9cc27640",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/123591/",
-  "updatedAt": "2026-09-27T18:22:19.662Z",
-  "totalLessons": 3,
+  "updatedAt": "2026-09-27T23:02:20.643Z",
+  "totalLessons": 5,
   "days": [
     {
       "dayName": "Понедельник",
@@ -30,7 +30,7 @@
           }
         },
         {
-          "id": "7796-1-10:10-4",
+          "id": "7796-1-10:10-3",
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -71,6 +71,46 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12740-02",
           "weekParity": "up",
+          "teacher": {
+            "name": "Вахмистрова Светлана Ивановна",
+            "id": "123591",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123591/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/02/small/p123591.jpg?token_static=8a6b9269908e48ce4b8eccfe9cc27640"
+          }
+        },
+        {
+          "id": "7849-3-19:00-1",
+          "dayIndex": 3,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Теория государства и права",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 410",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-03-2",
+          "weekParity": "both",
+          "dateSpecific": "01.10 по 11.11",
+          "teacher": {
+            "name": "Вахмистрова Светлана Ивановна",
+            "id": "123591",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123591/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/02/small/p123591.jpg?token_static=8a6b9269908e48ce4b8eccfe9cc27640"
+          }
+        },
+        {
+          "id": "7849-3-20:40-2",
+          "dayIndex": 3,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 3,
+          "subject": "Теория государства и права",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 410",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-03-2",
+          "weekParity": "both",
+          "dateSpecific": "01.10 по 11.11",
           "teacher": {
             "name": "Вахмистрова Светлана Ивановна",
             "id": "123591",

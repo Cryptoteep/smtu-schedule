@@ -1,7 +1,7 @@
 {
   "groupId": "7442",
   "groupName": "12526-34",
-  "updatedAt": "2026-09-27T18:22:10.875Z",
+  "updatedAt": "2026-09-27T23:02:12.306Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -49,11 +49,10 @@
           "subject": "Математический анализ",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 115",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12526-34",
           "weekParity": "both",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Русина Лариса Германовна",
             "id": "123501",
@@ -324,10 +323,10 @@
           "groupName": "12526-34",
           "weekParity": "down",
           "teacher": {
-            "name": "Вихров Николай Михайлович",
-            "id": "100217",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
+            "name": "Яковлев Алексей Юрьевич",
+            "id": "101392",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
           }
         },
         {
@@ -343,31 +342,14 @@
           "groupName": "12526-34",
           "weekParity": "down",
           "teacher": {
-            "name": "Яковлев Алексей Юрьевич",
-            "id": "101392",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
+            "name": "Вихров Николай Михайлович",
+            "id": "100217",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
           }
         },
         {
           "id": "7442-4-14:00-8",
-          "dayIndex": 4,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б 401",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "12526-34",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Никущенко Елена Александровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
-          }
-        },
-        {
-          "id": "7442-4-14:00-9",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -384,7 +366,7 @@
           }
         },
         {
-          "id": "7442-4-14:00-10",
+          "id": "7442-4-14:00-9",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -394,12 +376,10 @@
           "room": "Б 401",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12526-34",
-          "weekParity": "both",
+          "weekParity": "down",
           "teacher": {
-            "name": "Рюмин Сергей Николаевич",
-            "id": "101017",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
+            "name": "Никущенко Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
           }
         }
       ]

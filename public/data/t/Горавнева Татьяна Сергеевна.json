@@ -3,8 +3,8 @@
   "teacherName": "Горавнева Татьяна Сергеевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
-  "updatedAt": "2026-09-27T18:22:19.587Z",
-  "totalLessons": 16,
+  "updatedAt": "2026-09-27T23:02:20.526Z",
+  "totalLessons": 17,
   "days": [
     {
       "dayName": "Понедельник",
@@ -168,7 +168,27 @@
     {
       "dayName": "Среда",
       "dayIndex": 3,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7761-3-10:10-2",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Технологии разработки информационных ресурсов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20291",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Горавнева Татьяна Сергеевна",
+            "id": "100281",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec"
+          }
+        }
+      ]
     },
     {
       "dayName": "Четверг",

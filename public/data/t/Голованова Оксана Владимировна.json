@@ -3,8 +3,8 @@
   "teacherName": "Голованова Оксана Владимировна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/29/small/p100277.jpg?token_static=82fac71e5bf4707c30a33e1d670dbeec",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100277/",
-  "updatedAt": "2026-09-27T18:22:19.639Z",
-  "totalLessons": 10,
+  "updatedAt": "2026-09-27T23:02:20.607Z",
+  "totalLessons": 12,
   "days": [
     {
       "dayName": "Понедельник",
@@ -88,6 +88,46 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "7401",
           "weekParity": "both",
+          "teacher": {
+            "name": "Голованова Оксана Владимировна",
+            "id": "100277",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100277/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/29/small/p100277.jpg?token_static=82fac71e5bf4707c30a33e1d670dbeec"
+          }
+        },
+        {
+          "id": "7854-3-19:00-2",
+          "dayIndex": 3,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Методология и методы социологического исследования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 209ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5360",
+          "weekParity": "both",
+          "dateSpecific": "29.09 по 21.12",
+          "teacher": {
+            "name": "Голованова Оксана Владимировна",
+            "id": "100277",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100277/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/29/small/p100277.jpg?token_static=82fac71e5bf4707c30a33e1d670dbeec"
+          }
+        },
+        {
+          "id": "7854-3-20:40-3",
+          "dayIndex": 3,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Методология и методы социологического исследования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 209ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5360",
+          "weekParity": "both",
+          "dateSpecific": "29.09 по 21.12",
           "teacher": {
             "name": "Голованова Оксана Владимировна",
             "id": "100277",

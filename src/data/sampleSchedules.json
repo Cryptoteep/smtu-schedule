@@ -2,7 +2,7 @@
   "1101": {
     "groupId": "7970",
     "groupName": "1101",
-    "updatedAt": "2026-09-27T18:21:57.575Z",
+    "updatedAt": "2026-09-27T23:02:00.577Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -159,10 +159,10 @@
             "dayIndex": 2,
             "time": "17:20-18:50",
             "timeSlotIndex": 6,
-            "subject": "21.09 -16.10 Довузовская подготовка ПЕРЕНОС на период 21.09–27.09.2026: вместо Конгресс-Центр 306",
+            "subject": "21.09 -16.10 Довузовская подготовка",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 202-ИИТ",
+            "room": "Конгресс-Центр 306",
             "campus": "Ульянка (Корпус У)",
             "groupName": "1101",
             "weekParity": "both",
@@ -187,10 +187,10 @@
             "dayIndex": 2,
             "time": "19:00-20:30",
             "timeSlotIndex": 7,
-            "subject": "21.09 -16.10 Довузовская подготовка ПЕРЕНОС на период 21.09–27.09.2026: вместо Конгресс-Центр 306",
+            "subject": "21.09 -16.10 Довузовская подготовка",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 169",
+            "room": "Конгресс-Центр 306",
             "campus": "Ульянка (Корпус У)",
             "groupName": "1101",
             "weekParity": "both",
@@ -384,7 +384,7 @@
             "subject": "21.09 -16.10 Довузовская подготовка",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 451",
+            "room": "Конгресс-Центр 318",
             "campus": "Ульянка (Корпус У)",
             "groupName": "1101",
             "weekParity": "both",
@@ -398,7 +398,7 @@
             "subject": "21.09 -16.10 Довузовская подготовка",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "Конгресс-Центр 318",
+            "room": "У 451",
             "campus": "Ульянка (Корпус У)",
             "groupName": "1101",
             "weekParity": "both",
@@ -429,24 +429,52 @@
             "dayIndex": 5,
             "time": "17:20-18:50",
             "timeSlotIndex": 6,
-            "subject": "21.09 -16.10 Довузовская подготовка ПЕРЕНОС на период 21.09–27.09.2026: вместо Конгресс-Центр 426",
+            "subject": "21.09 -16.10 Довузовская подготовка",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 515А",
+            "room": "Конгресс-Центр 426",
             "campus": "Ульянка (Корпус У)",
             "groupName": "1101",
             "weekParity": "both",
             "dateSpecific": "21.09 -16.10"
           },
           {
-            "id": "7970-5-19:00-2",
+            "id": "7970-5-17:20-2",
+            "dayIndex": 5,
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
+            "subject": "21.09 -16.10 Довузовская подготовка",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Конгресс-Центр 304",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "1101",
+            "weekParity": "both",
+            "dateSpecific": "21.09 -16.10"
+          },
+          {
+            "id": "7970-5-19:00-3",
             "dayIndex": 5,
             "time": "19:00-20:30",
             "timeSlotIndex": 7,
-            "subject": "21.09 -16.10 Довузовская подготовка ПЕРЕНОС на период 21.09–27.09.2026: вместо Конгресс-Центр 426",
+            "subject": "21.09 -16.10 Довузовская подготовка",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 169",
+            "room": "Конгресс-Центр 304",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "1101",
+            "weekParity": "both",
+            "dateSpecific": "21.09 -16.10"
+          },
+          {
+            "id": "7970-5-19:00-4",
+            "dayIndex": 5,
+            "time": "19:00-20:30",
+            "timeSlotIndex": 7,
+            "subject": "21.09 -16.10 Довузовская подготовка",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Конгресс-Центр 426",
             "campus": "Ульянка (Корпус У)",
             "groupName": "1101",
             "weekParity": "both",
@@ -459,7 +487,7 @@
   "1201": {
     "groupId": "7540",
     "groupName": "1201",
-    "updatedAt": "2026-09-27T18:21:57.579Z",
+    "updatedAt": "2026-09-27T23:02:00.570Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -946,7 +974,7 @@
   "2201": {
     "groupId": "7470",
     "groupName": "2201",
-    "updatedAt": "2026-09-27T18:22:03.323Z",
+    "updatedAt": "2026-09-27T23:02:05.604Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -1164,11 +1192,10 @@
             "subject": "Высшая математика",
             "type": "practice",
             "rawType": "Практическое занятие",
-            "room": "У 174 - 177",
+            "room": "Конгресс-Центр 427",
             "campus": "Ульянка (Корпус У)",
             "groupName": "2201",
             "weekParity": "both",
-            "dateSpecific": "21.09",
             "teacher": {
               "name": "Ионченкова Яна Юрьевна",
               "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100473.jpg?token_static=e89f84e655182b88a6d0700458b6bf1a"
@@ -1593,7 +1620,7 @@
   "3210": {
     "groupId": "7624",
     "groupName": "3210",
-    "updatedAt": "2026-09-27T18:22:07.720Z",
+    "updatedAt": "2026-09-27T23:02:09.098Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -2062,7 +2089,7 @@
   "3220": {
     "groupId": "7625",
     "groupName": "3220",
-    "updatedAt": "2026-09-27T18:22:07.448Z",
+    "updatedAt": "2026-09-27T23:02:09.334Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -2813,7 +2840,7 @@
   "3280": {
     "groupId": "7640",
     "groupName": "3280",
-    "updatedAt": "2026-09-27T18:22:08.191Z",
+    "updatedAt": "2026-09-27T23:02:09.718Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -3073,11 +3100,10 @@
             "subject": "Высшая математика",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 107",
+            "room": "Конгресс-Центр Конференц-зал",
             "campus": "Ульянка (Корпус У)",
             "groupName": "3280",
             "weekParity": "both",
-            "dateSpecific": "21.09",
             "teacher": {
               "name": "Свиркина Лариса Анатольевна",
               "id": "122619",
@@ -3391,7 +3417,7 @@
   "4200": {
     "groupId": "7665",
     "groupName": "4200",
-    "updatedAt": "2026-09-27T18:22:13.767Z",
+    "updatedAt": "2026-09-27T23:02:15.016Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -3654,11 +3680,10 @@
             "subject": "Высшая математика",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 115",
+            "room": "Конгресс-Центр Конференц-зал",
             "campus": "Ульянка (Корпус У)",
             "groupName": "4200",
             "weekParity": "both",
-            "dateSpecific": "21.09",
             "teacher": {
               "name": "Крупицкая Ольга Савельевна",
               "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/08/small/p122711.jpg?token_static=4b97a048cd33a9d92d4dddfeb85d4940"
@@ -3876,7 +3901,7 @@
   "7200": {
     "groupId": "7704",
     "groupName": "7200",
-    "updatedAt": "2026-09-27T18:22:16.442Z",
+    "updatedAt": "2026-09-27T23:02:17.383Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -3890,7 +3915,7 @@
             "subject": "Новые направления в современной теоретической социологии",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 150",
+            "room": "Конгресс-Центр 426",
             "campus": "Ульянка (Корпус У)",
             "groupName": "7200",
             "weekParity": "both",
@@ -3907,6 +3932,26 @@
             "dayIndex": 1,
             "time": "17:20-18:50",
             "timeSlotIndex": 6,
+            "subject": "Новые направления в современной теоретической социологии",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Конгресс-Центр 426",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "7200",
+            "weekParity": "both",
+            "dateSpecific": "01.09 по 16.11",
+            "teacher": {
+              "name": "Медведев Владимир Иванович",
+              "id": "100748",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+            }
+          },
+          {
+            "id": "7704-1-17:20-3",
+            "dayIndex": 1,
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
             "subject": "Социология труда",
             "type": "practice",
             "rawType": "Практическое занятие",
@@ -3920,26 +3965,6 @@
               "id": "101372",
               "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
               "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
-            }
-          },
-          {
-            "id": "7704-1-17:20-3",
-            "dayIndex": 1,
-            "time": "17:20-18:50",
-            "timeSlotIndex": 6,
-            "subject": "Новые направления в современной теоретической социологии",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "У 308",
-            "campus": "Ульянка (Корпус У)",
-            "groupName": "7200",
-            "weekParity": "both",
-            "dateSpecific": "01.09 по 16.11",
-            "teacher": {
-              "name": "Медведев Владимир Иванович",
-              "id": "100748",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
             }
           },
           {
@@ -3970,7 +3995,7 @@
             "subject": "Новые направления в современной теоретической социологии",
             "type": "practice",
             "rawType": "Практическое занятие",
-            "room": "У 150",
+            "room": "Конгресс-Центр 426",
             "campus": "Ульянка (Корпус У)",
             "groupName": "7200",
             "weekParity": "both",
@@ -4102,11 +4127,10 @@
             "subject": "Современные концепции социологии управления",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 150",
+            "room": "Конгресс-Центр 426",
             "campus": "Ульянка (Корпус У)",
             "groupName": "7200",
             "weekParity": "both",
-            "dateSpecific": "21.09",
             "teacher": {
               "name": "Козырев Александр Борисович",
               "id": "100538",
@@ -4122,11 +4146,10 @@
             "subject": "Современные концепции социологии управления",
             "type": "practice",
             "rawType": "Практическое занятие",
-            "room": "У 150",
+            "room": "Конгресс-Центр 426",
             "campus": "Ульянка (Корпус У)",
             "groupName": "7200",
             "weekParity": "both",
-            "dateSpecific": "21.09",
             "teacher": {
               "name": "Козырев Александр Борисович",
               "id": "100538",
@@ -4159,11 +4182,10 @@
             "subject": "Трудовое и коммерческое право",
             "type": "practice",
             "rawType": "Практическое занятие",
-            "room": "У 150",
+            "room": "Конгресс-Центр 426",
             "campus": "Ульянка (Корпус У)",
             "groupName": "7200",
             "weekParity": "down",
-            "dateSpecific": "21.09",
             "teacher": {
               "name": "Ельчанинова Ольга Владимировна",
               "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/09/small/p139976.jpg?token_static=557769433bdf5b34760b0d1eef542284"
@@ -4291,11 +4313,10 @@
             "subject": "Регионализация и межуровневое управление в Европе",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 150",
+            "room": "Конгресс-Центр 426",
             "campus": "Ульянка (Корпус У)",
             "groupName": "7200",
             "weekParity": "both",
-            "dateSpecific": "21.09",
             "teacher": {
               "name": "Солдатов Андрей Александрович",
               "id": "101131",
@@ -4310,11 +4331,10 @@
             "subject": "Регионализация и межуровневое управление в Европе",
             "type": "practice",
             "rawType": "Практическое занятие",
-            "room": "У 150",
+            "room": "Конгресс-Центр 426",
             "campus": "Ульянка (Корпус У)",
             "groupName": "7200",
             "weekParity": "both",
-            "dateSpecific": "21.09",
             "teacher": {
               "name": "Солдатов Андрей Александрович",
               "id": "101131",
@@ -4328,7 +4348,7 @@
   "7470": {
     "groupId": "7470",
     "groupName": "2201",
-    "updatedAt": "2026-09-27T18:22:03.323Z",
+    "updatedAt": "2026-09-27T23:02:05.604Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -4546,11 +4566,10 @@
             "subject": "Высшая математика",
             "type": "practice",
             "rawType": "Практическое занятие",
-            "room": "У 174 - 177",
+            "room": "Конгресс-Центр 427",
             "campus": "Ульянка (Корпус У)",
             "groupName": "2201",
             "weekParity": "both",
-            "dateSpecific": "21.09",
             "teacher": {
               "name": "Ионченкова Яна Юрьевна",
               "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100473.jpg?token_static=e89f84e655182b88a6d0700458b6bf1a"
@@ -4975,7 +4994,7 @@
   "7540": {
     "groupId": "7540",
     "groupName": "1201",
-    "updatedAt": "2026-09-27T18:21:57.579Z",
+    "updatedAt": "2026-09-27T23:02:00.570Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -5462,7 +5481,7 @@
   "7624": {
     "groupId": "7624",
     "groupName": "3210",
-    "updatedAt": "2026-09-27T18:22:07.720Z",
+    "updatedAt": "2026-09-27T23:02:09.098Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -5931,7 +5950,7 @@
   "7625": {
     "groupId": "7625",
     "groupName": "3220",
-    "updatedAt": "2026-09-27T18:22:07.448Z",
+    "updatedAt": "2026-09-27T23:02:09.334Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -6682,7 +6701,7 @@
   "7640": {
     "groupId": "7640",
     "groupName": "3280",
-    "updatedAt": "2026-09-27T18:22:08.191Z",
+    "updatedAt": "2026-09-27T23:02:09.718Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -6942,11 +6961,10 @@
             "subject": "Высшая математика",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 107",
+            "room": "Конгресс-Центр Конференц-зал",
             "campus": "Ульянка (Корпус У)",
             "groupName": "3280",
             "weekParity": "both",
-            "dateSpecific": "21.09",
             "teacher": {
               "name": "Свиркина Лариса Анатольевна",
               "id": "122619",
@@ -7260,7 +7278,7 @@
   "7665": {
     "groupId": "7665",
     "groupName": "4200",
-    "updatedAt": "2026-09-27T18:22:13.767Z",
+    "updatedAt": "2026-09-27T23:02:15.016Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -7523,11 +7541,10 @@
             "subject": "Высшая математика",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 115",
+            "room": "Конгресс-Центр Конференц-зал",
             "campus": "Ульянка (Корпус У)",
             "groupName": "4200",
             "weekParity": "both",
-            "dateSpecific": "21.09",
             "teacher": {
               "name": "Крупицкая Ольга Савельевна",
               "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/06/08/small/p122711.jpg?token_static=4b97a048cd33a9d92d4dddfeb85d4940"
@@ -7745,7 +7762,7 @@
   "7704": {
     "groupId": "7704",
     "groupName": "7200",
-    "updatedAt": "2026-09-27T18:22:16.442Z",
+    "updatedAt": "2026-09-27T23:02:17.383Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -7759,7 +7776,7 @@
             "subject": "Новые направления в современной теоретической социологии",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 150",
+            "room": "Конгресс-Центр 426",
             "campus": "Ульянка (Корпус У)",
             "groupName": "7200",
             "weekParity": "both",
@@ -7776,6 +7793,26 @@
             "dayIndex": 1,
             "time": "17:20-18:50",
             "timeSlotIndex": 6,
+            "subject": "Новые направления в современной теоретической социологии",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Конгресс-Центр 426",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "7200",
+            "weekParity": "both",
+            "dateSpecific": "01.09 по 16.11",
+            "teacher": {
+              "name": "Медведев Владимир Иванович",
+              "id": "100748",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
+            }
+          },
+          {
+            "id": "7704-1-17:20-3",
+            "dayIndex": 1,
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
             "subject": "Социология труда",
             "type": "practice",
             "rawType": "Практическое занятие",
@@ -7789,26 +7826,6 @@
               "id": "101372",
               "profileUrl": "https://www.smtu.ru/ru/viewperson/101372/",
               "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101372.jpg?token_static=2874f7682d39a3b333e1e8928ca87355"
-            }
-          },
-          {
-            "id": "7704-1-17:20-3",
-            "dayIndex": 1,
-            "time": "17:20-18:50",
-            "timeSlotIndex": 6,
-            "subject": "Новые направления в современной теоретической социологии",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "У 308",
-            "campus": "Ульянка (Корпус У)",
-            "groupName": "7200",
-            "weekParity": "both",
-            "dateSpecific": "01.09 по 16.11",
-            "teacher": {
-              "name": "Медведев Владимир Иванович",
-              "id": "100748",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/100748/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/22/small/p100748.jpg?token_static=916160ccea8b0989dd2f337b05fde715"
             }
           },
           {
@@ -7839,7 +7856,7 @@
             "subject": "Новые направления в современной теоретической социологии",
             "type": "practice",
             "rawType": "Практическое занятие",
-            "room": "У 150",
+            "room": "Конгресс-Центр 426",
             "campus": "Ульянка (Корпус У)",
             "groupName": "7200",
             "weekParity": "both",
@@ -7971,11 +7988,10 @@
             "subject": "Современные концепции социологии управления",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 150",
+            "room": "Конгресс-Центр 426",
             "campus": "Ульянка (Корпус У)",
             "groupName": "7200",
             "weekParity": "both",
-            "dateSpecific": "21.09",
             "teacher": {
               "name": "Козырев Александр Борисович",
               "id": "100538",
@@ -7991,11 +8007,10 @@
             "subject": "Современные концепции социологии управления",
             "type": "practice",
             "rawType": "Практическое занятие",
-            "room": "У 150",
+            "room": "Конгресс-Центр 426",
             "campus": "Ульянка (Корпус У)",
             "groupName": "7200",
             "weekParity": "both",
-            "dateSpecific": "21.09",
             "teacher": {
               "name": "Козырев Александр Борисович",
               "id": "100538",
@@ -8028,11 +8043,10 @@
             "subject": "Трудовое и коммерческое право",
             "type": "practice",
             "rawType": "Практическое занятие",
-            "room": "У 150",
+            "room": "Конгресс-Центр 426",
             "campus": "Ульянка (Корпус У)",
             "groupName": "7200",
             "weekParity": "down",
-            "dateSpecific": "21.09",
             "teacher": {
               "name": "Ельчанинова Ольга Владимировна",
               "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/09/small/p139976.jpg?token_static=557769433bdf5b34760b0d1eef542284"
@@ -8160,11 +8174,10 @@
             "subject": "Регионализация и межуровневое управление в Европе",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 150",
+            "room": "Конгресс-Центр 426",
             "campus": "Ульянка (Корпус У)",
             "groupName": "7200",
             "weekParity": "both",
-            "dateSpecific": "21.09",
             "teacher": {
               "name": "Солдатов Андрей Александрович",
               "id": "101131",
@@ -8179,11 +8192,10 @@
             "subject": "Регионализация и межуровневое управление в Европе",
             "type": "practice",
             "rawType": "Практическое занятие",
-            "room": "У 150",
+            "room": "Конгресс-Центр 426",
             "campus": "Ульянка (Корпус У)",
             "groupName": "7200",
             "weekParity": "both",
-            "dateSpecific": "21.09",
             "teacher": {
               "name": "Солдатов Андрей Александрович",
               "id": "101131",
@@ -8197,7 +8209,7 @@
   "7738": {
     "groupId": "7738",
     "groupName": "10274",
-    "updatedAt": "2026-09-27T18:22:17.342Z",
+    "updatedAt": "2026-09-27T23:02:18.271Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -8734,7 +8746,7 @@
   "7798": {
     "groupId": "7798",
     "groupName": "12226-11",
-    "updatedAt": "2026-09-27T18:22:02.791Z",
+    "updatedAt": "2026-09-27T23:02:04.915Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -8897,11 +8909,10 @@
             "subject": "История России",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 115",
+            "room": "Конгресс-Центр Конференц-зал",
             "campus": "Ульянка (Корпус У)",
             "groupName": "12226-11",
             "weekParity": "down",
-            "dateSpecific": "21.09",
             "teacher": {
               "name": "Прудникова Татьяна Юрьевна",
               "id": "100952",
@@ -9015,29 +9026,14 @@
             "groupName": "12226-11",
             "weekParity": "up",
             "teacher": {
-              "name": "Дроздов Владимир Владимирович",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+              "name": "Едуш Наталья Юрьевна",
+              "id": "100364",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
             }
           },
           {
             "id": "7798-3-11:50-4",
-            "dayIndex": 3,
-            "time": "11:50-13:20",
-            "timeSlotIndex": 3,
-            "subject": "Введение в специальность",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "А 407",
-            "campus": "Лоцманская (Корпус А)",
-            "groupName": "12226-11",
-            "weekParity": "up",
-            "teacher": {
-              "name": "Павлов Павел Валентинович",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
-            }
-          },
-          {
-            "id": "7798-3-11:50-5",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -9056,6 +9052,23 @@
             }
           },
           {
+            "id": "7798-3-11:50-5",
+            "dayIndex": 3,
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Введение в специальность",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "А 407",
+            "campus": "Лоцманская (Корпус А)",
+            "groupName": "12226-11",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Дроздов Владимир Владимирович",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+            }
+          },
+          {
             "id": "7798-3-11:50-6",
             "dayIndex": 3,
             "time": "11:50-13:20",
@@ -9068,33 +9081,12 @@
             "groupName": "12226-11",
             "weekParity": "up",
             "teacher": {
-              "name": "Едуш Наталья Юрьевна",
-              "id": "100364",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+              "name": "Павлов Павел Валентинович",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
             }
           },
           {
             "id": "7798-3-11:50-7",
-            "dayIndex": 3,
-            "time": "11:50-13:20",
-            "timeSlotIndex": 3,
-            "subject": "Введение в специальность",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "А 407",
-            "campus": "Лоцманская (Корпус А)",
-            "groupName": "12226-11",
-            "weekParity": "down",
-            "teacher": {
-              "name": "Чернов Александр Иванович",
-              "id": "101313",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
-            }
-          },
-          {
-            "id": "7798-3-11:50-8",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -9113,7 +9105,7 @@
             }
           },
           {
-            "id": "7798-3-11:50-9",
+            "id": "7798-3-11:50-8",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -9127,6 +9119,25 @@
             "teacher": {
               "name": "Никущенко Елена Александровна",
               "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+            }
+          },
+          {
+            "id": "7798-3-11:50-9",
+            "dayIndex": 3,
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Введение в специальность",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "А 407",
+            "campus": "Лоцманская (Корпус А)",
+            "groupName": "12226-11",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чернов Александр Иванович",
+              "id": "101313",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
             }
           },
           {
@@ -9144,25 +9155,6 @@
             "teacher": {
               "name": "Глазырина Диана Олеговна",
               "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
-            }
-          },
-          {
-            "id": "7798-3-11:50-11",
-            "dayIndex": 3,
-            "time": "11:50-13:20",
-            "timeSlotIndex": 3,
-            "subject": "Введение в специальность",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "А 407",
-            "campus": "Лоцманская (Корпус А)",
-            "groupName": "12226-11",
-            "weekParity": "both",
-            "teacher": {
-              "name": "Рюмин Сергей Николаевич",
-              "id": "101017",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
             }
           }
         ]
@@ -9288,7 +9280,7 @@
   "7799": {
     "groupId": "7799",
     "groupName": "12826-12",
-    "updatedAt": "2026-09-27T18:22:17.928Z",
+    "updatedAt": "2026-09-27T23:02:18.761Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -9450,11 +9442,10 @@
             "subject": "История России",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 115",
+            "room": "Конгресс-Центр Конференц-зал",
             "campus": "Ульянка (Корпус У)",
             "groupName": "12826-12",
             "weekParity": "down",
-            "dateSpecific": "21.09",
             "teacher": {
               "name": "Прудникова Татьяна Юрьевна",
               "id": "100952",
@@ -9568,10 +9559,8 @@
             "groupName": "12826-12",
             "weekParity": "up",
             "teacher": {
-              "name": "Едуш Наталья Юрьевна",
-              "id": "100364",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+              "name": "Дроздов Владимир Владимирович",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
             }
           },
           {
@@ -9587,8 +9576,10 @@
             "groupName": "12826-12",
             "weekParity": "up",
             "teacher": {
-              "name": "Дроздов Владимир Владимирович",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+              "name": "Яковлев Алексей Юрьевич",
+              "id": "101392",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
             }
           },
           {
@@ -9621,31 +9612,14 @@
             "groupName": "12826-12",
             "weekParity": "up",
             "teacher": {
-              "name": "Яковлев Алексей Юрьевич",
-              "id": "101392",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
+              "name": "Едуш Наталья Юрьевна",
+              "id": "100364",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
             }
           },
           {
             "id": "7799-3-11:50-7",
-            "dayIndex": 3,
-            "time": "11:50-13:20",
-            "timeSlotIndex": 3,
-            "subject": "Введение в специальность",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "А 407",
-            "campus": "Лоцманская (Корпус А)",
-            "groupName": "12826-12",
-            "weekParity": "down",
-            "teacher": {
-              "name": "Никущенко Елена Александровна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
-            }
-          },
-          {
-            "id": "7799-3-11:50-8",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -9664,7 +9638,7 @@
             }
           },
           {
-            "id": "7799-3-11:50-9",
+            "id": "7799-3-11:50-8",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -9683,7 +9657,7 @@
             }
           },
           {
-            "id": "7799-3-11:50-10",
+            "id": "7799-3-11:50-9",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -9693,16 +9667,14 @@
             "room": "А 407",
             "campus": "Лоцманская (Корпус А)",
             "groupName": "12826-12",
-            "weekParity": "both",
+            "weekParity": "down",
             "teacher": {
-              "name": "Рюмин Сергей Николаевич",
-              "id": "101017",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
+              "name": "Никущенко Елена Александровна",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
             }
           },
           {
-            "id": "7799-3-11:50-11",
+            "id": "7799-3-11:50-10",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -9875,15 +9847,15 @@
   "7843": {
     "groupId": "7843",
     "groupName": "12815-55",
-    "updatedAt": "2026-09-27T18:22:17.483Z",
+    "updatedAt": "2026-09-27T23:02:18.559Z",
     "days": [
       {
-        "dayName": "Вторник",
-        "dayIndex": 2,
+        "dayName": "Понедельник",
+        "dayIndex": 1,
         "lessons": [
           {
-            "id": "7843-2-15:40-1",
-            "dayIndex": 2,
+            "id": "7843-1-15:40-1",
+            "dayIndex": 1,
             "time": "15:40-17:10",
             "timeSlotIndex": 5,
             "subject": "Теория эксперимента в исследованиях систем",
@@ -9898,8 +9870,8 @@
             }
           },
           {
-            "id": "7843-2-15:40-2",
-            "dayIndex": 2,
+            "id": "7843-1-15:40-2",
+            "dayIndex": 1,
             "time": "15:40-17:10",
             "timeSlotIndex": 5,
             "subject": "Управление проектами и инновациями",
@@ -9914,8 +9886,8 @@
             }
           },
           {
-            "id": "7843-2-17:20-3",
-            "dayIndex": 2,
+            "id": "7843-1-17:20-3",
+            "dayIndex": 1,
             "time": "17:20-18:50",
             "timeSlotIndex": 6,
             "subject": "Теория эксперимента в исследованиях систем",
@@ -9930,8 +9902,8 @@
             }
           },
           {
-            "id": "7843-2-17:20-4",
-            "dayIndex": 2,
+            "id": "7843-1-17:20-4",
+            "dayIndex": 1,
             "time": "17:20-18:50",
             "timeSlotIndex": 6,
             "subject": "Управление проектами и инновациями",
@@ -10198,7 +10170,7 @@
   "7970": {
     "groupId": "7970",
     "groupName": "1101",
-    "updatedAt": "2026-09-27T18:21:57.575Z",
+    "updatedAt": "2026-09-27T23:02:00.577Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -10355,10 +10327,10 @@
             "dayIndex": 2,
             "time": "17:20-18:50",
             "timeSlotIndex": 6,
-            "subject": "21.09 -16.10 Довузовская подготовка ПЕРЕНОС на период 21.09–27.09.2026: вместо Конгресс-Центр 306",
+            "subject": "21.09 -16.10 Довузовская подготовка",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 202-ИИТ",
+            "room": "Конгресс-Центр 306",
             "campus": "Ульянка (Корпус У)",
             "groupName": "1101",
             "weekParity": "both",
@@ -10383,10 +10355,10 @@
             "dayIndex": 2,
             "time": "19:00-20:30",
             "timeSlotIndex": 7,
-            "subject": "21.09 -16.10 Довузовская подготовка ПЕРЕНОС на период 21.09–27.09.2026: вместо Конгресс-Центр 306",
+            "subject": "21.09 -16.10 Довузовская подготовка",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 169",
+            "room": "Конгресс-Центр 306",
             "campus": "Ульянка (Корпус У)",
             "groupName": "1101",
             "weekParity": "both",
@@ -10580,7 +10552,7 @@
             "subject": "21.09 -16.10 Довузовская подготовка",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 451",
+            "room": "Конгресс-Центр 318",
             "campus": "Ульянка (Корпус У)",
             "groupName": "1101",
             "weekParity": "both",
@@ -10594,7 +10566,7 @@
             "subject": "21.09 -16.10 Довузовская подготовка",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "Конгресс-Центр 318",
+            "room": "У 451",
             "campus": "Ульянка (Корпус У)",
             "groupName": "1101",
             "weekParity": "both",
@@ -10625,24 +10597,52 @@
             "dayIndex": 5,
             "time": "17:20-18:50",
             "timeSlotIndex": 6,
-            "subject": "21.09 -16.10 Довузовская подготовка ПЕРЕНОС на период 21.09–27.09.2026: вместо Конгресс-Центр 426",
+            "subject": "21.09 -16.10 Довузовская подготовка",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 515А",
+            "room": "Конгресс-Центр 426",
             "campus": "Ульянка (Корпус У)",
             "groupName": "1101",
             "weekParity": "both",
             "dateSpecific": "21.09 -16.10"
           },
           {
-            "id": "7970-5-19:00-2",
+            "id": "7970-5-17:20-2",
+            "dayIndex": 5,
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
+            "subject": "21.09 -16.10 Довузовская подготовка",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Конгресс-Центр 304",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "1101",
+            "weekParity": "both",
+            "dateSpecific": "21.09 -16.10"
+          },
+          {
+            "id": "7970-5-19:00-3",
             "dayIndex": 5,
             "time": "19:00-20:30",
             "timeSlotIndex": 7,
-            "subject": "21.09 -16.10 Довузовская подготовка ПЕРЕНОС на период 21.09–27.09.2026: вместо Конгресс-Центр 426",
+            "subject": "21.09 -16.10 Довузовская подготовка",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 169",
+            "room": "Конгресс-Центр 304",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "1101",
+            "weekParity": "both",
+            "dateSpecific": "21.09 -16.10"
+          },
+          {
+            "id": "7970-5-19:00-4",
+            "dayIndex": 5,
+            "time": "19:00-20:30",
+            "timeSlotIndex": 7,
+            "subject": "21.09 -16.10 Довузовская подготовка",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Конгресс-Центр 426",
             "campus": "Ульянка (Корпус У)",
             "groupName": "1101",
             "weekParity": "both",
@@ -10655,7 +10655,7 @@
   "10274": {
     "groupId": "7738",
     "groupName": "10274",
-    "updatedAt": "2026-09-27T18:22:17.342Z",
+    "updatedAt": "2026-09-27T23:02:18.271Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -11192,7 +11192,7 @@
   "12226-11": {
     "groupId": "7798",
     "groupName": "12226-11",
-    "updatedAt": "2026-09-27T18:22:02.791Z",
+    "updatedAt": "2026-09-27T23:02:04.915Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -11355,11 +11355,10 @@
             "subject": "История России",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 115",
+            "room": "Конгресс-Центр Конференц-зал",
             "campus": "Ульянка (Корпус У)",
             "groupName": "12226-11",
             "weekParity": "down",
-            "dateSpecific": "21.09",
             "teacher": {
               "name": "Прудникова Татьяна Юрьевна",
               "id": "100952",
@@ -11473,29 +11472,14 @@
             "groupName": "12226-11",
             "weekParity": "up",
             "teacher": {
-              "name": "Дроздов Владимир Владимирович",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+              "name": "Едуш Наталья Юрьевна",
+              "id": "100364",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
             }
           },
           {
             "id": "7798-3-11:50-4",
-            "dayIndex": 3,
-            "time": "11:50-13:20",
-            "timeSlotIndex": 3,
-            "subject": "Введение в специальность",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "А 407",
-            "campus": "Лоцманская (Корпус А)",
-            "groupName": "12226-11",
-            "weekParity": "up",
-            "teacher": {
-              "name": "Павлов Павел Валентинович",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
-            }
-          },
-          {
-            "id": "7798-3-11:50-5",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -11514,6 +11498,23 @@
             }
           },
           {
+            "id": "7798-3-11:50-5",
+            "dayIndex": 3,
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Введение в специальность",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "А 407",
+            "campus": "Лоцманская (Корпус А)",
+            "groupName": "12226-11",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Дроздов Владимир Владимирович",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+            }
+          },
+          {
             "id": "7798-3-11:50-6",
             "dayIndex": 3,
             "time": "11:50-13:20",
@@ -11526,33 +11527,12 @@
             "groupName": "12226-11",
             "weekParity": "up",
             "teacher": {
-              "name": "Едуш Наталья Юрьевна",
-              "id": "100364",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+              "name": "Павлов Павел Валентинович",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
             }
           },
           {
             "id": "7798-3-11:50-7",
-            "dayIndex": 3,
-            "time": "11:50-13:20",
-            "timeSlotIndex": 3,
-            "subject": "Введение в специальность",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "А 407",
-            "campus": "Лоцманская (Корпус А)",
-            "groupName": "12226-11",
-            "weekParity": "down",
-            "teacher": {
-              "name": "Чернов Александр Иванович",
-              "id": "101313",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
-            }
-          },
-          {
-            "id": "7798-3-11:50-8",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -11571,7 +11551,7 @@
             }
           },
           {
-            "id": "7798-3-11:50-9",
+            "id": "7798-3-11:50-8",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -11585,6 +11565,25 @@
             "teacher": {
               "name": "Никущенко Елена Александровна",
               "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+            }
+          },
+          {
+            "id": "7798-3-11:50-9",
+            "dayIndex": 3,
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Введение в специальность",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "А 407",
+            "campus": "Лоцманская (Корпус А)",
+            "groupName": "12226-11",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Чернов Александр Иванович",
+              "id": "101313",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
             }
           },
           {
@@ -11602,25 +11601,6 @@
             "teacher": {
               "name": "Глазырина Диана Олеговна",
               "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
-            }
-          },
-          {
-            "id": "7798-3-11:50-11",
-            "dayIndex": 3,
-            "time": "11:50-13:20",
-            "timeSlotIndex": 3,
-            "subject": "Введение в специальность",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "А 407",
-            "campus": "Лоцманская (Корпус А)",
-            "groupName": "12226-11",
-            "weekParity": "both",
-            "teacher": {
-              "name": "Рюмин Сергей Николаевич",
-              "id": "101017",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
             }
           }
         ]
@@ -11746,15 +11726,15 @@
   "12815-55": {
     "groupId": "7843",
     "groupName": "12815-55",
-    "updatedAt": "2026-09-27T18:22:17.483Z",
+    "updatedAt": "2026-09-27T23:02:18.559Z",
     "days": [
       {
-        "dayName": "Вторник",
-        "dayIndex": 2,
+        "dayName": "Понедельник",
+        "dayIndex": 1,
         "lessons": [
           {
-            "id": "7843-2-15:40-1",
-            "dayIndex": 2,
+            "id": "7843-1-15:40-1",
+            "dayIndex": 1,
             "time": "15:40-17:10",
             "timeSlotIndex": 5,
             "subject": "Теория эксперимента в исследованиях систем",
@@ -11769,8 +11749,8 @@
             }
           },
           {
-            "id": "7843-2-15:40-2",
-            "dayIndex": 2,
+            "id": "7843-1-15:40-2",
+            "dayIndex": 1,
             "time": "15:40-17:10",
             "timeSlotIndex": 5,
             "subject": "Управление проектами и инновациями",
@@ -11785,8 +11765,8 @@
             }
           },
           {
-            "id": "7843-2-17:20-3",
-            "dayIndex": 2,
+            "id": "7843-1-17:20-3",
+            "dayIndex": 1,
             "time": "17:20-18:50",
             "timeSlotIndex": 6,
             "subject": "Теория эксперимента в исследованиях систем",
@@ -11801,8 +11781,8 @@
             }
           },
           {
-            "id": "7843-2-17:20-4",
-            "dayIndex": 2,
+            "id": "7843-1-17:20-4",
+            "dayIndex": 1,
             "time": "17:20-18:50",
             "timeSlotIndex": 6,
             "subject": "Управление проектами и инновациями",
@@ -12069,7 +12049,7 @@
   "12826-12": {
     "groupId": "7799",
     "groupName": "12826-12",
-    "updatedAt": "2026-09-27T18:22:17.928Z",
+    "updatedAt": "2026-09-27T23:02:18.761Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -12231,11 +12211,10 @@
             "subject": "История России",
             "type": "lecture",
             "rawType": "Лекция",
-            "room": "У 115",
+            "room": "Конгресс-Центр Конференц-зал",
             "campus": "Ульянка (Корпус У)",
             "groupName": "12826-12",
             "weekParity": "down",
-            "dateSpecific": "21.09",
             "teacher": {
               "name": "Прудникова Татьяна Юрьевна",
               "id": "100952",
@@ -12349,10 +12328,8 @@
             "groupName": "12826-12",
             "weekParity": "up",
             "teacher": {
-              "name": "Едуш Наталья Юрьевна",
-              "id": "100364",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+              "name": "Дроздов Владимир Владимирович",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
             }
           },
           {
@@ -12368,8 +12345,10 @@
             "groupName": "12826-12",
             "weekParity": "up",
             "teacher": {
-              "name": "Дроздов Владимир Владимирович",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+              "name": "Яковлев Алексей Юрьевич",
+              "id": "101392",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
             }
           },
           {
@@ -12402,31 +12381,14 @@
             "groupName": "12826-12",
             "weekParity": "up",
             "teacher": {
-              "name": "Яковлев Алексей Юрьевич",
-              "id": "101392",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
+              "name": "Едуш Наталья Юрьевна",
+              "id": "100364",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
             }
           },
           {
             "id": "7799-3-11:50-7",
-            "dayIndex": 3,
-            "time": "11:50-13:20",
-            "timeSlotIndex": 3,
-            "subject": "Введение в специальность",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "А 407",
-            "campus": "Лоцманская (Корпус А)",
-            "groupName": "12826-12",
-            "weekParity": "down",
-            "teacher": {
-              "name": "Никущенко Елена Александровна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
-            }
-          },
-          {
-            "id": "7799-3-11:50-8",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -12445,7 +12407,7 @@
             }
           },
           {
-            "id": "7799-3-11:50-9",
+            "id": "7799-3-11:50-8",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -12464,7 +12426,7 @@
             }
           },
           {
-            "id": "7799-3-11:50-10",
+            "id": "7799-3-11:50-9",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -12474,16 +12436,14 @@
             "room": "А 407",
             "campus": "Лоцманская (Корпус А)",
             "groupName": "12826-12",
-            "weekParity": "both",
+            "weekParity": "down",
             "teacher": {
-              "name": "Рюмин Сергей Николаевич",
-              "id": "101017",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/101017/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/16/small/p101017.jpg?token_static=e290302f719ee61b24ed982af13ae135"
+              "name": "Никущенко Елена Александровна",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
             }
           },
           {
-            "id": "7799-3-11:50-11",
+            "id": "7799-3-11:50-10",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,

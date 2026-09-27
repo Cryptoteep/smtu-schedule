@@ -1,0 +1,108 @@
+{
+  "teacherId": "Радченко-Ягуткина Элина Викторовна",
+  "teacherName": "Радченко-Ягуткина Элина Викторовна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/23/small/p139741.jpg?token_static=d68d8230f7882ca37b2129c2fff6c57c",
+  "updatedAt": "2026-09-27T23:02:20.642Z",
+  "totalLessons": 4,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": []
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": []
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7736-6-14:00-3",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Организация труда на производственном участке и управление им",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 417",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Радченко-Ягуткина Элина Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/23/small/p139741.jpg?token_static=d68d8230f7882ca37b2129c2fff6c57c"
+          }
+        },
+        {
+          "id": "7736-6-15:40-4",
+          "dayIndex": 6,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Организация труда на производственном участке и управление им",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 417",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Радченко-Ягуткина Элина Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/23/small/p139741.jpg?token_static=d68d8230f7882ca37b2129c2fff6c57c"
+          }
+        },
+        {
+          "id": "7736-6-15:40-5",
+          "dayIndex": 6,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Организация труда на производственном участке и управление им",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 419",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8450, 8460",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Радченко-Ягуткина Элина Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/23/small/p139741.jpg?token_static=d68d8230f7882ca37b2129c2fff6c57c"
+          }
+        },
+        {
+          "id": "7737-6-17:20-5",
+          "dayIndex": 6,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Организация труда на производственном участке и управление им",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 417",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8460",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Радченко-Ягуткина Элина Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/23/small/p139741.jpg?token_static=d68d8230f7882ca37b2129c2fff6c57c"
+          }
+        }
+      ]
+    }
+  ]
+}

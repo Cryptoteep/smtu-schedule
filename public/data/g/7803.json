@@ -1,7 +1,7 @@
 {
   "groupId": "7803",
   "groupName": "12509-03",
-  "updatedAt": "2026-09-27T18:22:09.995Z",
+  "updatedAt": "2026-09-27T23:02:11.254Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -433,26 +433,6 @@
           "subject": "История России",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 105",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-03",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Прудникова Татьяна Юрьевна",
-            "id": "100952",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100952/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100952.jpg?token_static=247ccf183881448ad446f44fe6ce2653"
-          }
-        },
-        {
-          "id": "7803-6-10:10-3",
-          "dayIndex": 6,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "История России",
-          "type": "lecture",
-          "rawType": "Лекция",
           "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-03",
@@ -465,7 +445,7 @@
           }
         },
         {
-          "id": "7803-6-11:50-4",
+          "id": "7803-6-11:50-3",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -484,7 +464,7 @@
           }
         },
         {
-          "id": "7803-6-11:50-5",
+          "id": "7803-6-11:50-4",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -501,7 +481,7 @@
           }
         },
         {
-          "id": "7803-6-14:00-6",
+          "id": "7803-6-14:00-5",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -518,25 +498,7 @@
           }
         },
         {
-          "id": "7803-6-14:00-7",
-          "dayIndex": 6,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Основы российской государственности",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 115",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-03",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Бугашев Сергей Иванович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"
-          }
-        },
-        {
-          "id": "7803-6-14:00-8",
+          "id": "7803-6-14:00-6",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

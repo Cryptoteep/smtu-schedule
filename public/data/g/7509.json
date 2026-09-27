@@ -1,7 +1,7 @@
 {
   "groupId": "7509",
   "groupName": "12317-02",
-  "updatedAt": "2026-09-27T18:22:06.928Z",
+  "updatedAt": "2026-09-27T23:02:08.584Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -281,11 +281,10 @@
           "subject": "Основы военной подготовки",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 167",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12317-02",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Романов Александр Иванович",
             "id": "122500",
@@ -381,11 +380,10 @@
           "subject": "Линейная алгебра, Аналитическая геометрия",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 103",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12317-02",
           "weekParity": "both",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Дмитриев Владимир Михайлович",
             "id": "100338",
@@ -478,14 +476,55 @@
           "subject": "Социальное взаимодействие в профессиональной деятельности",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 02ю",
+          "room": "Конгресс-Центр 427",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12317-02",
           "weekParity": "down",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Сидоренко Светлана Анатольевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7509-6-15:40-1",
+          "dayIndex": 6,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Обучение служением",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 154",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-02",
+          "weekParity": "up",
+          "dateSpecific": "29.09",
+          "teacher": {
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
+          }
+        },
+        {
+          "id": "7509-6-17:20-2",
+          "dayIndex": 6,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Обучение служением",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 154",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-02",
+          "weekParity": "up",
+          "dateSpecific": "29.09",
+          "teacher": {
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
           }
         }
       ]

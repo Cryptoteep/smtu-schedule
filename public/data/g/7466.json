@@ -1,15 +1,15 @@
 {
   "groupId": "7466",
   "groupName": "1268",
-  "updatedAt": "2026-09-27T18:21:59.902Z",
+  "updatedAt": "2026-09-27T23:02:02.658Z",
   "days": [
     {
-      "dayName": "Вторник",
-      "dayIndex": 2,
+      "dayName": "Понедельник",
+      "dayIndex": 1,
       "lessons": [
         {
-          "id": "7466-2-08:30-1",
-          "dayIndex": 2,
+          "id": "7466-1-08:30-1",
+          "dayIndex": 1,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Военная подготовка (офицеры запаса)",
@@ -24,8 +24,8 @@
           }
         },
         {
-          "id": "7466-2-10:10-2",
-          "dayIndex": 2,
+          "id": "7466-1-10:10-2",
+          "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Военная подготовка (офицеры запаса)",
@@ -40,8 +40,8 @@
           }
         },
         {
-          "id": "7466-2-11:50-3",
-          "dayIndex": 2,
+          "id": "7466-1-11:50-3",
+          "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Военная подготовка (офицеры запаса)",
@@ -56,8 +56,8 @@
           }
         },
         {
-          "id": "7466-2-14:00-4",
-          "dayIndex": 2,
+          "id": "7466-1-14:00-4",
+          "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Военная подготовка (офицеры запаса)",
@@ -353,6 +353,88 @@
           "teacher": {
             "name": "Динцер Александр Ильич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/25/small/p124124.jpg?token_static=70fe1f2c7761935bed9081e559335f34"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7466-6-10:10-1",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1268",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7466-6-11:50-2",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1268",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7466-6-14:00-3",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1268",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7466-6-15:40-4",
+          "dayIndex": 6,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1268",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
           }
         }
       ]

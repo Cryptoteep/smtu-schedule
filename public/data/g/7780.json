@@ -1,7 +1,7 @@
 {
   "groupId": "7780",
   "groupName": "20490",
-  "updatedAt": "2026-09-27T18:22:12.865Z",
+  "updatedAt": "2026-09-27T23:02:14.324Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -386,7 +386,45 @@
       "dayIndex": 5,
       "lessons": [
         {
-          "id": "7780-5-17:20-1",
+          "id": "7780-5-15:40-1",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Защита информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20490",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гарькушев Александр Юрьевич",
+            "id": "122911",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
+          }
+        },
+        {
+          "id": "7780-5-15:40-2",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Защита информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20490",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гарькушев Александр Юрьевич",
+            "id": "122911",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
+          }
+        },
+        {
+          "id": "7780-5-17:20-3",
           "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -473,24 +511,6 @@
           "subject": "Функциональное и логическое программирование",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "У 205-ИИТ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20490",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Арбузов Богдан Евгеньевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/11/26/small/p127334.jpg?token_static=29f1144041dac363bbd8c28ec8f520bb"
-          }
-        },
-        {
-          "id": "7780-6-10:10-5",
-          "dayIndex": 6,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Функциональное и логическое программирование",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
           "room": "Конгресс-Центр 306",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20490",
@@ -501,7 +521,7 @@
           }
         },
         {
-          "id": "7780-6-11:50-6",
+          "id": "7780-6-11:50-5",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -520,25 +540,7 @@
           }
         },
         {
-          "id": "7780-6-11:50-7",
-          "dayIndex": 6,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Функциональное и логическое программирование",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 202-ИИТ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20490",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Арбузов Богдан Евгеньевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/11/26/small/p127334.jpg?token_static=29f1144041dac363bbd8c28ec8f520bb"
-          }
-        },
-        {
-          "id": "7780-6-11:50-8",
+          "id": "7780-6-11:50-6",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -555,7 +557,7 @@
           }
         },
         {
-          "id": "7780-6-14:00-9",
+          "id": "7780-6-14:00-7",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -572,7 +574,7 @@
           }
         },
         {
-          "id": "7780-6-14:00-10",
+          "id": "7780-6-14:00-8",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

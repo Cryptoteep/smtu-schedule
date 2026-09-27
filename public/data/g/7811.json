@@ -1,7 +1,7 @@
 {
   "groupId": "7811",
   "groupName": "12739-51",
-  "updatedAt": "2026-09-27T18:22:15.580Z",
+  "updatedAt": "2026-09-27T23:02:16.612Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -15,7 +15,7 @@
           "subject": "Современные концепции социологии управления",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 417",
+          "room": "Конгресс-Центр 207",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12739-51",
           "weekParity": "both",
@@ -35,7 +35,7 @@
           "subject": "Современные концепции социологии управления",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 417",
+          "room": "Конгресс-Центр 207",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12739-51",
           "weekParity": "both",
@@ -58,19 +58,17 @@
           "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
-          "subject": "Информационные технологии в деятельности социолога",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 340(1)",
+          "subject": "Трудовое право",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 427",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12739-51",
           "weekParity": "both",
-          "dateSpecific": "01.09 по 28.09",
+          "dateSpecific": "29.09 по 16.11",
           "teacher": {
-            "name": "Романова Виктория Алексеевна",
-            "id": "104884",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/104884/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104884.jpg?token_static=a3fc5e849a507d011c794fa4548055fb"
+            "name": "Ельчанинова Ольга Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/09/small/p139976.jpg?token_static=557769433bdf5b34760b0d1eef542284"
           }
         },
         {
@@ -94,14 +92,14 @@
           }
         },
         {
-          "id": "7811-3-19:00-3",
+          "id": "7811-3-17:20-3",
           "dayIndex": 3,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
           "subject": "Информационные технологии в деятельности социолога",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 340(2)",
+          "room": "У 340(1)",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12739-51",
           "weekParity": "both",
@@ -122,6 +120,44 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 340(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12739-51",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 28.09",
+          "teacher": {
+            "name": "Романова Виктория Алексеевна",
+            "id": "104884",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104884/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104884.jpg?token_static=a3fc5e849a507d011c794fa4548055fb"
+          }
+        },
+        {
+          "id": "7811-3-19:00-5",
+          "dayIndex": 3,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Трудовое право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12739-51",
+          "weekParity": "both",
+          "dateSpecific": "29.09 по 16.11",
+          "teacher": {
+            "name": "Ельчанинова Ольга Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/12/09/small/p139976.jpg?token_static=557769433bdf5b34760b0d1eef542284"
+          }
+        },
+        {
+          "id": "7811-3-19:00-6",
+          "dayIndex": 3,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Информационные технологии в деятельности социолога",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 340(2)",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12739-51",
           "weekParity": "both",

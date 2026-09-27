@@ -1,7 +1,7 @@
 {
   "groupId": "7761",
   "groupName": "20291",
-  "updatedAt": "2026-09-27T18:22:11.962Z",
+  "updatedAt": "2026-09-27T23:02:13.391Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -177,7 +177,45 @@
           }
         },
         {
-          "id": "7761-3-11:50-2",
+          "id": "7761-3-10:10-2",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Технологии разработки информационных ресурсов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20291",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Горавнева Татьяна Сергеевна",
+            "id": "100281",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec"
+          }
+        },
+        {
+          "id": "7761-3-10:10-3",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 312",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20291",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Евграфова Ирина Владимировна",
+            "id": "100356",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100356/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
+          }
+        },
+        {
+          "id": "7761-3-11:50-4",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -190,6 +228,25 @@
           "weekParity": "both",
           "teacher": {
             "name": "Кафедра физического воспитания"
+          }
+        },
+        {
+          "id": "7761-3-14:00-5",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20291",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Семенова-Тян-Шанская Вера Александровна",
+            "id": "101056",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9"
           }
         }
       ]

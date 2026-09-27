@@ -1,7 +1,7 @@
 {
   "groupId": "7814",
   "groupName": "12740-51",
-  "updatedAt": "2026-09-27T18:22:15.975Z",
+  "updatedAt": "2026-09-27T23:02:16.986Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -9,6 +9,26 @@
       "lessons": [
         {
           "id": "7814-1-17:20-1",
+          "dayIndex": 1,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы научно-исследовательской деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 01Ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-51",
+          "weekParity": "both",
+          "dateSpecific": "29.09 по 26.10",
+          "teacher": {
+            "name": "Богданова Татьяна Владимировна",
+            "id": "100122",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100122/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/05/small/p100122.jpg?token_static=647755b070c41d931bb0b14a2a82dec3"
+          }
+        },
+        {
+          "id": "7814-1-17:20-2",
           "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -28,7 +48,7 @@
           }
         },
         {
-          "id": "7814-1-19:00-2",
+          "id": "7814-1-19:00-3",
           "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -40,6 +60,26 @@
           "groupName": "12740-51",
           "weekParity": "both",
           "dateSpecific": "01.09 по 28.09",
+          "teacher": {
+            "name": "Богданова Татьяна Владимировна",
+            "id": "100122",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100122/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/05/small/p100122.jpg?token_static=647755b070c41d931bb0b14a2a82dec3"
+          }
+        },
+        {
+          "id": "7814-1-19:00-4",
+          "dayIndex": 1,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Основы научно-исследовательской деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 01Ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-51",
+          "weekParity": "both",
+          "dateSpecific": "29.09 по 26.10",
           "teacher": {
             "name": "Богданова Татьяна Владимировна",
             "id": "100122",
@@ -74,7 +114,25 @@
           }
         },
         {
-          "id": "7814-2-17:20-2",
+          "id": "7814-2-15:40-2",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Кибербезопасность и право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-51",
+          "weekParity": "down",
+          "dateSpecific": "01.09 по 26.10",
+          "teacher": {
+            "name": "Беляцкая Анастасия Станиславовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
+          }
+        },
+        {
+          "id": "7814-2-17:20-3",
           "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -91,6 +149,24 @@
             "id": "122911",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
+          }
+        },
+        {
+          "id": "7814-2-17:20-4",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Кибербезопасность и право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-51",
+          "weekParity": "down",
+          "dateSpecific": "01.09 по 26.10",
+          "teacher": {
+            "name": "Беляцкая Анастасия Станиславовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
           }
         }
       ]
