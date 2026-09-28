@@ -1,13 +1,62 @@
 {
   "teacherId": "Гафиатулина Елена Саугановна",
   "teacherName": "Гафиатулина Елена Саугановна",
-  "updatedAt": "2026-09-28T08:40:53.419Z",
-  "totalLessons": 4,
+  "updatedAt": "2026-09-28T20:33:16.108Z",
+  "totalLessons": 7,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7586-1-14:00-2",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Электротехника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2250",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Гафиатулина Елена Саугановна"
+          }
+        },
+        {
+          "id": "7586-1-15:40-3",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Электротехника",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2250",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гафиатулина Елена Саугановна"
+          }
+        },
+        {
+          "id": "7586-1-15:40-4",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Электротехника",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2250",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гафиатулина Елена Саугановна"
+          }
+        }
+      ]
     },
     {
       "dayName": "Вторник",

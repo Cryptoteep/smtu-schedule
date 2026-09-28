@@ -1,7 +1,7 @@
 {
   "groupId": "7746",
   "groupName": "20221",
-  "updatedAt": "2026-09-28T08:40:44.380Z",
+  "updatedAt": "2026-09-28T20:33:07.828Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -118,6 +118,23 @@
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 313",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20221",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мавлютов Айдар Марселевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/03/small/142859.jpg?token_static=99b29fb7edbcbfb2e897d7733bbab92b"
+          }
+        },
+        {
+          "id": "7746-2-11:50-6",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
           "subject": "Программирование",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -131,7 +148,7 @@
           }
         },
         {
-          "id": "7746-2-14:00-6",
+          "id": "7746-2-14:00-7",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -148,7 +165,7 @@
           }
         },
         {
-          "id": "7746-2-14:00-7",
+          "id": "7746-2-14:00-8",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -539,6 +556,23 @@
           "teacher": {
             "name": "Фатьков Тимур Васильевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/06/small/p134239.jpg?token_static=694c5177899da875156abdefbe3e8a53"
+          }
+        },
+        {
+          "id": "7746-6-11:50-3",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20221",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Савченко Анна Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041"
           }
         }
       ]

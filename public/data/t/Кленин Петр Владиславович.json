@@ -2,8 +2,8 @@
   "teacherId": "Кленин Петр Владиславович",
   "teacherName": "Кленин Петр Владиславович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9",
-  "updatedAt": "2026-09-28T08:40:53.368Z",
-  "totalLessons": 29,
+  "updatedAt": "2026-09-28T20:33:16.048Z",
+  "totalLessons": 30,
   "days": [
     {
       "dayName": "Понедельник",
@@ -48,7 +48,7 @@
           }
         },
         {
-          "id": "7744-2-11:50-3",
+          "id": "7744-2-11:50-2",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -110,6 +110,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20250",
           "weekParity": "down",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
+          }
+        },
+        {
+          "id": "7761-2-14:00-7",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 438",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20291",
+          "weekParity": "up",
           "teacher": {
             "name": "Кленин Петр Владиславович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
@@ -496,10 +513,11 @@
           "subject": "Философия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 242",
+          "room": "У 313",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20271",
           "weekParity": "down",
+          "dateSpecific": "26.09",
           "teacher": {
             "name": "Кленин Петр Владиславович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"

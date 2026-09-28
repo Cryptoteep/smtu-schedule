@@ -2,8 +2,8 @@
   "teacherId": "Бобылев Анатолий Викторович",
   "teacherName": "Бобылев Анатолий Викторович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/04/small/p124711.jpg?token_static=621cbba67deb7c1cd1118bd8a07b8365",
-  "updatedAt": "2026-09-28T08:40:53.428Z",
-  "totalLessons": 3,
+  "updatedAt": "2026-09-28T20:33:16.118Z",
+  "totalLessons": 5,
   "days": [
     {
       "dayName": "Понедельник",
@@ -30,7 +30,42 @@
     {
       "dayName": "Вторник",
       "dayIndex": 2,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7770-2-15:40-4",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Функциональные процессы объекта цифровой защиты",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бобылев Анатолий Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/04/small/p124711.jpg?token_static=621cbba67deb7c1cd1118bd8a07b8365"
+          }
+        },
+        {
+          "id": "7770-2-17:20-5",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Функциональные процессы объекта цифровой защиты",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бобылев Анатолий Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/04/small/p124711.jpg?token_static=621cbba67deb7c1cd1118bd8a07b8365"
+          }
+        }
+      ]
     },
     {
       "dayName": "Среда",

@@ -1,7 +1,7 @@
 {
   "groupId": "7751",
   "groupName": "20230",
-  "updatedAt": "2026-09-28T08:40:44.507Z",
+  "updatedAt": "2026-09-28T20:33:07.982Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -82,34 +82,36 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7751-2-14:00-1",
+          "id": "7751-2-11:50-1",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Методы и средства инженерии знаний",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 436",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20230",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Петров Олег Николаевич",
+            "id": "100888",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8"
+          }
+        },
+        {
+          "id": "7751-2-14:00-2",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Инновационный менеджмент",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 437",
+          "room": "У УЛК-06",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20230",
           "weekParity": "down",
-          "teacher": {
-            "name": "Федорова Анастасия Валерьевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
-          }
-        },
-        {
-          "id": "7751-2-15:40-2",
-          "dayIndex": 2,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Инновационный менеджмент",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 437",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20230",
-          "weekParity": "up",
           "teacher": {
             "name": "Федорова Анастасия Валерьевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
@@ -123,7 +125,7 @@
           "subject": "Инновационный менеджмент",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 437",
+          "room": "У УЛК-06",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20230",
           "weekParity": "down",
@@ -156,22 +158,20 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7751-3-10:10-1",
+          "id": "7751-3-14:00-1",
           "dayIndex": 3,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Методы и средства инженерии знаний",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр 304",
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Инновационный менеджмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-06",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20230",
-          "weekParity": "up",
+          "weekParity": "down",
           "teacher": {
-            "name": "Петров Олег Николаевич",
-            "id": "100888",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8"
+            "name": "Федорова Анастасия Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
           }
         },
         {
@@ -249,6 +249,25 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100677/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/11/12/small/p100677.jpg?token_static=35ac23d3b3b37e54d55a7264b7f8e46d"
           }
+        },
+        {
+          "id": "7751-3-19:00-6",
+          "dayIndex": 3,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Инновационный менеджмент",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20230",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
         }
       ]
     },
@@ -257,39 +276,26 @@
       "dayIndex": 4,
       "lessons": [
         {
-          "id": "7751-4-11:50-1",
+          "id": "7751-4-17:20-1",
           "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
           "subject": "Методы и средства инженерии знаний",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 304",
+          "room": "Конгресс-Центр 307",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20230",
-          "weekParity": "down",
+          "weekParity": "up",
           "teacher": {
-            "name": "Кафедра вычислительной техники и информационных технологий"
+            "name": "Петров Олег Николаевич",
+            "id": "100888",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8"
           }
         },
         {
-          "id": "7751-4-14:00-2",
-          "dayIndex": 4,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Методы и средства инженерии знаний",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 304",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20230",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Кафедра вычислительной техники и информационных технологий"
-          }
-        },
-        {
-          "id": "7751-4-17:20-3",
+          "id": "7751-4-17:20-2",
           "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -299,10 +305,29 @@
           "room": "У 416",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20230",
-          "weekParity": "up",
+          "weekParity": "down",
           "teacher": {
             "name": "Мосянова Мария Николаевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/16/small/p107376.jpg?token_static=f72fa6be5d30c094a39fb3fe1c6374c4"
+          }
+        },
+        {
+          "id": "7751-4-19:00-3",
+          "dayIndex": 4,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Методы и средства инженерии знаний",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20230",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Петров Олег Николаевич",
+            "id": "100888",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8"
           }
         },
         {
@@ -316,7 +341,7 @@
           "room": "У 416",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20230",
-          "weekParity": "up",
+          "weekParity": "down",
           "teacher": {
             "name": "Мосянова Мария Николаевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/16/small/p107376.jpg?token_static=f72fa6be5d30c094a39fb3fe1c6374c4"

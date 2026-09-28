@@ -1,7 +1,7 @@
 {
   "groupId": "7779",
   "groupName": "20480",
-  "updatedAt": "2026-09-28T08:40:47.442Z",
+  "updatedAt": "2026-09-28T20:33:09.551Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -160,10 +160,46 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7779-2-08:30-1",
+          "id": "7779-2-14:00-1",
           "dayIndex": 2,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность систем баз данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 439",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20480",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        },
+        {
+          "id": "7779-2-14:00-2",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 532",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20480",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бронникова Лилия Васильевна",
+            "id": "100159",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
+          }
+        },
+        {
+          "id": "7779-2-15:40-3",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
           "subject": "Организационное и правовое обеспечение информационной безопасности",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -177,79 +213,7 @@
           }
         },
         {
-          "id": "7779-2-10:10-2",
-          "dayIndex": 2,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Безопасность жизнедеятельности",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 532",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20480",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Бронникова Лилия Васильевна",
-            "id": "100159",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
-          }
-        },
-        {
-          "id": "7779-2-11:50-3",
-          "dayIndex": 2,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Безопасность систем баз данных",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 439",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20480",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Ли Изольда Валерьевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
-          }
-        },
-        {
-          "id": "7779-2-14:00-4",
-          "dayIndex": 2,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Безопасность систем баз данных",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 439",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20480",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Ли Изольда Валерьевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
-          }
-        },
-        {
-          "id": "7779-2-14:00-5",
-          "dayIndex": 2,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Безопасность жизнедеятельности",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 532",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20480",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Бронникова Лилия Васильевна",
-            "id": "100159",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
-          }
-        },
-        {
-          "id": "7779-2-15:40-6",
+          "id": "7779-2-15:40-4",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -263,6 +227,61 @@
           "teacher": {
             "name": "Ли Изольда Валерьевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        },
+        {
+          "id": "7779-2-17:20-5",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 532",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20480",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бронникова Лилия Васильевна",
+            "id": "100159",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
+          }
+        },
+        {
+          "id": "7779-2-17:20-6",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Безопасность систем баз данных",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 439",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20480",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        },
+        {
+          "id": "7779-2-19:00-7",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20480",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бронникова Лилия Васильевна",
+            "id": "100159",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
           }
         }
       ]
@@ -428,25 +447,6 @@
           "dayIndex": 4,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
-          "subject": "Проектирование защищенных автоматизированных систем",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У УЛК-06",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20480",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Гарькушев Александр Юрьевич",
-            "id": "122911",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
-          }
-        },
-        {
-          "id": "7779-4-08:30-2",
-          "dayIndex": 4,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
           "subject": "Организационное и правовое обеспечение информационной безопасности",
           "type": "lecture",
           "rawType": "Лекция",
@@ -460,26 +460,7 @@
           }
         },
         {
-          "id": "7779-4-10:10-3",
-          "dayIndex": 4,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Безопасность жизнедеятельности",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 532",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20480",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Бронникова Лилия Васильевна",
-            "id": "100159",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
-          }
-        },
-        {
-          "id": "7779-4-10:10-4",
+          "id": "7779-4-10:10-2",
           "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -498,7 +479,7 @@
           }
         },
         {
-          "id": "7779-4-11:50-5",
+          "id": "7779-4-11:50-3",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -517,7 +498,7 @@
           }
         },
         {
-          "id": "7779-4-14:00-6",
+          "id": "7779-4-14:00-4",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -531,6 +512,25 @@
           "teacher": {
             "name": "Еремеева Дарья Дмитриевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p127344.jpg?token_static=fb97232ff487c8a37f6a93eb8fededeb"
+          }
+        },
+        {
+          "id": "7779-4-15:40-5",
+          "dayIndex": 4,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Проектирование защищенных автоматизированных систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-06",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20480",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гарькушев Александр Юрьевич",
+            "id": "122911",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
           }
         }
       ]

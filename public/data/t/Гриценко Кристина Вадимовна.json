@@ -2,8 +2,8 @@
   "teacherId": "Гриценко Кристина Вадимовна",
   "teacherName": "Гриценко Кристина Вадимовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3",
-  "updatedAt": "2026-09-28T08:40:53.424Z",
-  "totalLessons": 24,
+  "updatedAt": "2026-09-28T20:33:16.114Z",
+  "totalLessons": 25,
   "days": [
     {
       "dayName": "Понедельник",
@@ -155,6 +155,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "3231",
           "weekParity": "both",
+          "teacher": {
+            "name": "Гриценко Кристина Вадимовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3"
+          }
+        },
+        {
+          "id": "7794-2-14:00-1",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информатика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 436",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12327-03",
+          "weekParity": "up",
           "teacher": {
             "name": "Гриценко Кристина Вадимовна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3"

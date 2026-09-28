@@ -1,7 +1,7 @@
 {
   "groupId": "7744",
   "groupName": "20202",
-  "updatedAt": "2026-09-28T08:40:44.344Z",
+  "updatedAt": "2026-09-28T20:33:07.506Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -50,23 +50,6 @@
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Базы данных",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 304",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20202",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Фомченко Андрей Андреевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
-          }
-        },
-        {
-          "id": "7744-2-10:10-2",
-          "dayIndex": 2,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
           "subject": "Технологии разработки информационных ресурсов",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -82,7 +65,7 @@
           }
         },
         {
-          "id": "7744-2-11:50-3",
+          "id": "7744-2-11:50-2",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -99,7 +82,7 @@
           }
         },
         {
-          "id": "7744-2-11:50-4",
+          "id": "7744-2-11:50-3",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -118,7 +101,7 @@
           }
         },
         {
-          "id": "7744-2-14:00-5",
+          "id": "7744-2-14:00-4",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -137,7 +120,7 @@
           }
         },
         {
-          "id": "7744-2-14:00-6",
+          "id": "7744-2-14:00-5",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -149,12 +132,14 @@
           "groupName": "20202",
           "weekParity": "down",
           "teacher": {
-            "name": "Фомченко Андрей Андреевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
+            "name": "Семенова-Тян-Шанская Вера Александровна",
+            "id": "101056",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9"
           }
         },
         {
-          "id": "7744-2-15:40-7",
+          "id": "7744-2-15:40-6",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -166,12 +151,12 @@
           "groupName": "20202",
           "weekParity": "up",
           "teacher": {
-            "name": "Фомченко Андрей Андреевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
+            "name": "Савченко Анна Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041"
           }
         },
         {
-          "id": "7744-2-15:40-8",
+          "id": "7744-2-15:40-7",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -187,6 +172,23 @@
             "id": "100281",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec"
+          }
+        },
+        {
+          "id": "7744-2-17:20-8",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Базы данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20202",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Савченко Анна Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041"
           }
         }
       ]
@@ -553,7 +555,7 @@
           "subject": "Дифференциальные уравнения",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 437",
+          "room": "У 514",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20202",
           "weekParity": "up",
@@ -572,13 +574,15 @@
           "subject": "Базы данных",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 318",
+          "room": "Конгресс-Центр 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20202",
           "weekParity": "up",
           "teacher": {
-            "name": "Фомченко Андрей Андреевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
+            "name": "Семенова-Тян-Шанская Вера Александровна",
+            "id": "101056",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9"
           }
         }
       ]

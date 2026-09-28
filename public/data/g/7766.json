@@ -1,7 +1,7 @@
 {
   "groupId": "7766",
   "groupName": "20320",
-  "updatedAt": "2026-09-28T08:40:45.601Z",
+  "updatedAt": "2026-09-28T20:33:08.670Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -157,15 +157,15 @@
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Классическая и современная теория автоматического управления",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 319",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Конгресс-Центр 421",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20320",
           "weekParity": "up",
           "teacher": {
-            "name": "Кичигина Ольга Юрьевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100522.jpg?token_static=1aa780db3038d5b4eaa9897d08b3fe12"
+            "name": "Павлова Елизавета Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128579.jpg?token_static=c693b63995910d17b302d6d109314f62"
           }
         },
         {
@@ -372,24 +372,7 @@
       "dayIndex": 4,
       "lessons": [
         {
-          "id": "7766-4-08:30-1",
-          "dayIndex": 4,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Классическая и современная теория автоматического управления",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 316",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20320",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Павлова Елизавета Алексеевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128579.jpg?token_static=c693b63995910d17b302d6d109314f62"
-          }
-        },
-        {
-          "id": "7766-4-10:10-2",
+          "id": "7766-4-10:10-1",
           "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -406,7 +389,7 @@
           }
         },
         {
-          "id": "7766-4-11:50-3",
+          "id": "7766-4-11:50-2",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -420,6 +403,42 @@
           "teacher": {
             "name": "Моисеенко Максим Сергеевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/07/small/p130236.jpg?token_static=853100aed8d87443c55f9e0eb9dfc415"
+          }
+        },
+        {
+          "id": "7766-4-14:00-3",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        },
+        {
+          "id": "7766-4-15:40-4",
+          "dayIndex": 4,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Классическая и современная теория автоматического управления",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кичигина Ольга Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100522.jpg?token_static=1aa780db3038d5b4eaa9897d08b3fe12"
           }
         }
       ]

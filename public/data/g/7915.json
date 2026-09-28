@@ -1,7 +1,7 @@
 {
   "groupId": "7915",
   "groupName": "12115-53",
-  "updatedAt": "2026-09-28T08:40:30.591Z",
+  "updatedAt": "2026-09-28T20:32:55.530Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -15,10 +15,10 @@
           "subject": "Иностранный язык в профессиональной и академической коммуникации",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
+          "room": "У 439",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12115-53",
-          "weekParity": "both",
+          "weekParity": "up",
           "teacher": {
             "name": "Манукян Асмик Мануковна",
             "id": "102710",
@@ -27,7 +27,26 @@
           }
         },
         {
-          "id": "7915-1-15:40-2",
+          "id": "7915-1-14:00-2",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Иностранный язык в профессиональной и академической коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 206",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12115-53",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Манукян Асмик Мануковна",
+            "id": "102710",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102710/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/02/small/p102710.jpg?token_static=c9f1f17693d3c9b7aa96f54d1366848e"
+          }
+        },
+        {
+          "id": "7915-1-15:40-3",
           "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -46,7 +65,7 @@
           }
         },
         {
-          "id": "7915-1-15:40-3",
+          "id": "7915-1-15:40-4",
           "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,

@@ -1,7 +1,7 @@
 {
   "groupId": "7768",
   "groupName": "20350",
-  "updatedAt": "2026-09-28T08:40:45.374Z",
+  "updatedAt": "2026-09-28T20:33:09.449Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -24,7 +24,24 @@
           }
         },
         {
-          "id": "7768-1-14:00-2",
+          "id": "7768-1-11:50-2",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Операционные среды больших систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А Актовый зал",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20350",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мальцев Даниил Денисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/30/small/p103898.jpg?token_static=74fe8fd35896245d1bb8a8133ec0e75c"
+          }
+        },
+        {
+          "id": "7768-1-14:00-3",
           "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -41,7 +58,26 @@
           }
         },
         {
-          "id": "7768-1-15:40-3",
+          "id": "7768-1-14:00-4",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Морская энциклопедия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А Актовый зал",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20350",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дедкова Ольга Валентиновна",
+            "id": "100327",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100327/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100327.jpg?token_static=10c4cbb583bca3c607344d621ccc84f7"
+          }
+        },
+        {
+          "id": "7768-1-15:40-5",
           "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -75,6 +111,58 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20350",
           "weekParity": "up",
+          "teacher": {
+            "name": "Евграфова Ирина Владимировна",
+            "id": "100356",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100356/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
+          }
+        },
+        {
+          "id": "7768-2-10:10-2",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Облачные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20350",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра вычислительной техники и информационных технологий"
+          }
+        },
+        {
+          "id": "7768-2-11:50-3",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Электротехника, электроника и схемотехника",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У УЛК-03",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20350",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Попов Антон Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/06/small/p123307.jpg?token_static=a3ebfcfee2becebef74fa12444a8a3e8"
+          }
+        },
+        {
+          "id": "7768-2-14:00-4",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 502",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20350",
+          "weekParity": "down",
           "teacher": {
             "name": "Евграфова Ирина Владимировна",
             "id": "100356",
@@ -156,7 +244,7 @@
           "room": "У 437",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20350",
-          "weekParity": "up",
+          "weekParity": "down",
           "teacher": {
             "name": "Глускер Михаил Яковлевич",
             "id": "122623",
@@ -165,26 +253,7 @@
           }
         },
         {
-          "id": "7768-4-08:30-2",
-          "dayIndex": 4,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Когнитивные технологии",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 436",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20350",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Глускер Михаил Яковлевич",
-            "id": "122623",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
-          }
-        },
-        {
-          "id": "7768-4-10:10-3",
+          "id": "7768-4-10:10-2",
           "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -194,7 +263,7 @@
           "room": "У 437",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20350",
-          "weekParity": "up",
+          "weekParity": "down",
           "teacher": {
             "name": "Глускер Михаил Яковлевич",
             "id": "122623",
@@ -203,24 +272,26 @@
           }
         },
         {
-          "id": "7768-4-10:10-4",
+          "id": "7768-4-11:50-3",
           "dayIndex": 4,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Электротехника, электроника и схемотехника",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У УЛК-03",
-          "campus": "Ульянка (Корпус У)",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Морская энциклопедия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А Актовый зал",
+          "campus": "Лоцманская (Корпус А)",
           "groupName": "20350",
-          "weekParity": "down",
+          "weekParity": "up",
           "teacher": {
-            "name": "Попов Антон Сергеевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/06/small/p123307.jpg?token_static=a3ebfcfee2becebef74fa12444a8a3e8"
+            "name": "Дедкова Ольга Валентиновна",
+            "id": "100327",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100327/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100327.jpg?token_static=10c4cbb583bca3c607344d621ccc84f7"
           }
         },
         {
-          "id": "7768-4-11:50-5",
+          "id": "7768-4-11:50-4",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -230,9 +301,28 @@
           "room": "У 437",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20350",
-          "weekParity": "up",
+          "weekParity": "down",
           "teacher": {
             "name": "Кафедра вычислительной техники и информационных технологий"
+          }
+        },
+        {
+          "id": "7768-4-14:00-5",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Морская энциклопедия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Актовый зал",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20350",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Дедкова Ольга Валентиновна",
+            "id": "100327",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100327/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100327.jpg?token_static=10c4cbb583bca3c607344d621ccc84f7"
           }
         },
         {
@@ -246,7 +336,7 @@
           "room": "У 437",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20350",
-          "weekParity": "up",
+          "weekParity": "down",
           "teacher": {
             "name": "Кафедра вычислительной техники и информационных технологий"
           }

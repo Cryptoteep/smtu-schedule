@@ -1,14 +1,50 @@
 {
   "groupId": "7772",
   "groupName": "20391",
-  "updatedAt": "2026-09-28T08:40:45.984Z",
+  "updatedAt": "2026-09-28T20:33:09.081Z",
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
       "lessons": [
         {
-          "id": "7772-1-15:40-1",
+          "id": "7772-1-11:50-1",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Операционные среды больших систем",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А Актовый зал",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20391",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мальцев Даниил Денисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/30/small/p103898.jpg?token_static=74fe8fd35896245d1bb8a8133ec0e75c"
+          }
+        },
+        {
+          "id": "7772-1-14:00-2",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Морская энциклопедия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А Актовый зал",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20391",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дедкова Ольга Валентиновна",
+            "id": "100327",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100327/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100327.jpg?token_static=10c4cbb583bca3c607344d621ccc84f7"
+          }
+        },
+        {
+          "id": "7772-1-15:40-3",
           "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -27,7 +63,7 @@
           }
         },
         {
-          "id": "7772-1-15:40-2",
+          "id": "7772-1-15:40-4",
           "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -46,7 +82,7 @@
           }
         },
         {
-          "id": "7772-1-17:20-3",
+          "id": "7772-1-17:20-5",
           "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -65,7 +101,7 @@
           }
         },
         {
-          "id": "7772-1-17:20-4",
+          "id": "7772-1-17:20-6",
           "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -143,7 +179,24 @@
           }
         },
         {
-          "id": "7772-2-15:40-4",
+          "id": "7772-2-14:00-4",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технология разработки программного обеспечения",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 415",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20391",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Муравьев Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"
+          }
+        },
+        {
+          "id": "7772-2-15:40-5",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -160,7 +213,7 @@
           }
         },
         {
-          "id": "7772-2-17:20-5",
+          "id": "7772-2-17:20-6",
           "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -174,6 +227,25 @@
           "teacher": {
             "name": "Муравьев Евгений Александрович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"
+          }
+        },
+        {
+          "id": "7772-2-19:00-7",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20391",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Евграфова Ирина Владимировна",
+            "id": "100356",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100356/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
           }
         }
       ]
@@ -240,15 +312,15 @@
       "dayIndex": 4,
       "lessons": [
         {
-          "id": "7772-4-14:00-1",
+          "id": "7772-4-11:50-1",
           "dayIndex": 4,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
           "subject": "Морская энциклопедия",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Б 501(1)",
-          "campus": "Лоцманская (Корпус Б)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А Актовый зал",
+          "campus": "Лоцманская (Корпус А)",
           "groupName": "20391",
           "weekParity": "up",
           "teacher": {
@@ -259,7 +331,26 @@
           }
         },
         {
-          "id": "7772-4-15:40-2",
+          "id": "7772-4-14:00-2",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Морская энциклопедия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Актовый зал",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20391",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Дедкова Ольга Валентиновна",
+            "id": "100327",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100327/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100327.jpg?token_static=10c4cbb583bca3c607344d621ccc84f7"
+          }
+        },
+        {
+          "id": "7772-4-15:40-3",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -282,7 +373,41 @@
       "dayIndex": 6,
       "lessons": [
         {
-          "id": "7772-6-10:10-1",
+          "id": "7772-6-08:30-1",
+          "dayIndex": 6,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Операционные среды больших систем",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20391",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
+          }
+        },
+        {
+          "id": "7772-6-10:10-2",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Операционные среды больших систем",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20391",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
+          }
+        },
+        {
+          "id": "7772-6-10:10-3",
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -301,7 +426,24 @@
           }
         },
         {
-          "id": "7772-6-11:50-2",
+          "id": "7772-6-11:50-4",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Операционные среды больших систем",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20391",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
+          }
+        },
+        {
+          "id": "7772-6-11:50-5",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -320,7 +462,23 @@
           }
         },
         {
-          "id": "7772-6-14:00-3",
+          "id": "7772-6-14:00-6",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Облачные технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20391",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра вычислительной техники и информационных технологий"
+          }
+        },
+        {
+          "id": "7772-6-14:00-7",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -339,7 +497,7 @@
           }
         },
         {
-          "id": "7772-6-15:40-4",
+          "id": "7772-6-15:40-8",
           "dayIndex": 6,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,

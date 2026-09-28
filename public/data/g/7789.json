@@ -1,7 +1,7 @@
 {
   "groupId": "7789",
   "groupName": "12226-10",
-  "updatedAt": "2026-09-28T08:40:35.499Z",
+  "updatedAt": "2026-09-28T20:32:59.545Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -123,24 +123,7 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7789-2-08:30-1",
-          "dayIndex": 2,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Математический анализ",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12226-10",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Сорокин Вадим Николаевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101137.jpg?token_static=3c5ba78392bc54806ff547d5a75d1b11"
-          }
-        },
-        {
-          "id": "7789-2-10:10-2",
+          "id": "7789-2-10:10-1",
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -159,7 +142,7 @@
           }
         },
         {
-          "id": "7789-2-11:50-3",
+          "id": "7789-2-11:50-2",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -178,7 +161,7 @@
           }
         },
         {
-          "id": "7789-2-14:00-4",
+          "id": "7789-2-14:00-3",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -208,7 +191,7 @@
           "subject": "Информатика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Б 301а",
+          "room": "Б 301б",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12226-10",
           "weekParity": "up",
@@ -225,7 +208,7 @@
           "subject": "Информатика",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Б 301б",
+          "room": "Б 301а",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12226-10",
           "weekParity": "up",
@@ -242,7 +225,7 @@
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Б 301а",
+          "room": "Б 301б",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12226-10",
           "weekParity": "down",
@@ -259,7 +242,7 @@
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Б 301б",
+          "room": "Б 301а",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12226-10",
           "weekParity": "down",
@@ -276,7 +259,7 @@
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Б 301а",
+          "room": "Б 301б",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12226-10",
           "weekParity": "both",
@@ -293,7 +276,7 @@
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Б 301б",
+          "room": "Б 301а",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12226-10",
           "weekParity": "both",
@@ -315,8 +298,10 @@
           "groupName": "12226-10",
           "weekParity": "up",
           "teacher": {
-            "name": "Павлов Павел Валентинович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
+            "name": "Едуш Наталья Юрьевна",
+            "id": "100364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
           }
         },
         {
@@ -332,10 +317,8 @@
           "groupName": "12226-10",
           "weekParity": "up",
           "teacher": {
-            "name": "Едуш Наталья Юрьевна",
-            "id": "100364",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
           }
         },
         {
@@ -351,10 +334,8 @@
           "groupName": "12226-10",
           "weekParity": "up",
           "teacher": {
-            "name": "Яковлев Алексей Юрьевич",
-            "id": "101392",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
+            "name": "Павлов Павел Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
           }
         },
         {
@@ -370,8 +351,10 @@
           "groupName": "12226-10",
           "weekParity": "up",
           "teacher": {
-            "name": "Дроздов Владимир Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+            "name": "Яковлев Алексей Юрьевич",
+            "id": "101392",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
           }
         },
         {

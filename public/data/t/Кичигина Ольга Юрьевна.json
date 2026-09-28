@@ -2,7 +2,7 @@
   "teacherId": "Кичигина Ольга Юрьевна",
   "teacherName": "Кичигина Ольга Юрьевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100522.jpg?token_static=1aa780db3038d5b4eaa9897d08b3fe12",
-  "updatedAt": "2026-09-28T08:40:53.423Z",
+  "updatedAt": "2026-09-28T20:33:16.113Z",
   "totalLessons": 20,
   "days": [
     {
@@ -128,7 +128,7 @@
           }
         },
         {
-          "id": "7469-2-15:40-2",
+          "id": "7469-2-15:40-3",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -162,27 +162,10 @@
           }
         },
         {
-          "id": "7766-2-11:50-3",
+          "id": "7770-2-11:50-2",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
-          "subject": "Классическая и современная теория автоматического управления",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 319",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20320",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Кичигина Ольга Юрьевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100522.jpg?token_static=1aa780db3038d5b4eaa9897d08b3fe12"
-          }
-        },
-        {
-          "id": "7770-2-08:30-1",
-          "dayIndex": 2,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
           "subject": "Теория автоматического управления",
           "type": "lecture",
           "rawType": "Лекция",
@@ -202,14 +185,14 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7767-3-08:30-1",
+          "id": "7767-3-10:10-2",
           "dayIndex": 3,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
           "subject": "Управление дискретно-непрерывными системами",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 316",
+          "room": "У 544",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20321",
           "weekParity": "up",
@@ -219,14 +202,14 @@
           }
         },
         {
-          "id": "7767-3-10:10-2",
+          "id": "7767-3-14:00-6",
           "dayIndex": 3,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
           "subject": "Управление дискретно-непрерывными системами",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 544",
+          "room": "Конгресс-Центр 206",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20321",
           "weekParity": "up",
@@ -348,6 +331,23 @@
           "room": "Б 508",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "2395",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кичигина Ольга Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100522.jpg?token_static=1aa780db3038d5b4eaa9897d08b3fe12"
+          }
+        },
+        {
+          "id": "7766-4-15:40-4",
+          "dayIndex": 4,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Классическая и современная теория автоматического управления",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
           "weekParity": "up",
           "teacher": {
             "name": "Кичигина Ольга Юрьевна",

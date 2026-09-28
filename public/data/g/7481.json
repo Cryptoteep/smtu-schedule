@@ -1,7 +1,7 @@
 {
   "groupId": "7481",
   "groupName": "12126-04",
-  "updatedAt": "2026-09-28T08:40:31.314Z",
+  "updatedAt": "2026-09-28T20:32:55.558Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -101,24 +101,7 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7481-2-10:10-1",
-          "dayIndex": 2,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Математический анализ",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12126-04",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Постников Сергей Николаевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/10/small/p102517.jpg?token_static=f95fd3436ea970f5d8bd1c3cfb134b81"
-          }
-        },
-        {
-          "id": "7481-2-11:50-2",
+          "id": "7481-2-11:50-1",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -135,7 +118,7 @@
           }
         },
         {
-          "id": "7481-2-14:00-3",
+          "id": "7481-2-14:00-2",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -152,7 +135,7 @@
           }
         },
         {
-          "id": "7481-2-14:00-4",
+          "id": "7481-2-14:00-3",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -244,10 +227,8 @@
           "groupName": "12126-04",
           "weekParity": "up",
           "teacher": {
-            "name": "Яковлев Алексей Юрьевич",
-            "id": "101392",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
+            "name": "Павлов Павел Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
           }
         },
         {
@@ -263,8 +244,10 @@
           "groupName": "12126-04",
           "weekParity": "up",
           "teacher": {
-            "name": "Павлов Павел Валентинович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
+            "name": "Яковлев Алексей Юрьевич",
+            "id": "101392",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
           }
         },
         {
@@ -316,8 +299,8 @@
           "groupName": "12126-04",
           "weekParity": "down",
           "teacher": {
-            "name": "Рогозин Андрей Валерьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100982.jpg?token_static=692e530242e12bedae9975b652c98520"
+            "name": "Никущенко Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
           }
         },
         {
@@ -333,10 +316,8 @@
           "groupName": "12126-04",
           "weekParity": "down",
           "teacher": {
-            "name": "Миронов Михаил Юрьевич",
-            "id": "100756",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
+            "name": "Рогозин Андрей Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p100982.jpg?token_static=692e530242e12bedae9975b652c98520"
           }
         },
         {
@@ -352,8 +333,10 @@
           "groupName": "12126-04",
           "weekParity": "down",
           "teacher": {
-            "name": "Никущенко Елена Александровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+            "name": "Миронов Михаил Юрьевич",
+            "id": "100756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
           }
         },
         {
@@ -403,7 +386,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 211",
+          "room": "У 414",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-04",
           "weekParity": "down",
@@ -420,7 +403,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 414",
+          "room": "У 211",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-04",
           "weekParity": "down",

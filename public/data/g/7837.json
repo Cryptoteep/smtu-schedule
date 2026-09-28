@@ -1,7 +1,7 @@
 {
   "groupId": "7837",
   "groupName": "12226-37",
-  "updatedAt": "2026-09-28T08:40:36.070Z",
+  "updatedAt": "2026-09-28T20:33:00.043Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -166,8 +166,8 @@
           "groupName": "12226-37",
           "weekParity": "down",
           "teacher": {
-            "name": "Караев Рауф Наджмеддин оглы",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/05/small/p123248.jpg?token_static=e3958b55c182d07a63cd67b6e3a4f697"
+            "name": "Павлов Павел Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
           }
         },
         {
@@ -183,8 +183,8 @@
           "groupName": "12226-37",
           "weekParity": "down",
           "teacher": {
-            "name": "Павлов Павел Валентинович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
+            "name": "Глазырина Диана Олеговна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
           }
         },
         {
@@ -253,8 +253,8 @@
           "groupName": "12226-37",
           "weekParity": "down",
           "teacher": {
-            "name": "Глазырина Диана Олеговна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/12/small/p107968.jpg?token_static=e98a987df6c7d002b046d502cd391453"
+            "name": "Караев Рауф Наджмеддин оглы",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/05/small/p123248.jpg?token_static=e3958b55c182d07a63cd67b6e3a4f697"
           }
         },
         {
@@ -315,24 +315,7 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7837-2-08:30-1",
-          "dayIndex": 2,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Математический анализ",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12226-37",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Сорокин Вадим Николаевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101137.jpg?token_static=3c5ba78392bc54806ff547d5a75d1b11"
-          }
-        },
-        {
-          "id": "7837-2-10:10-2",
+          "id": "7837-2-10:10-1",
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -348,7 +331,7 @@
           }
         },
         {
-          "id": "7837-2-11:50-3",
+          "id": "7837-2-11:50-2",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -394,8 +377,8 @@
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Информатика",
-          "type": "lecture",
-          "rawType": "Лекция",
+          "type": "practice",
+          "rawType": "Практическое занятие",
           "room": "А 442",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "12226-37",

@@ -2,8 +2,8 @@
   "teacherId": "Федорова Анастасия Валерьевна",
   "teacherName": "Федорова Анастасия Валерьевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7",
-  "updatedAt": "2026-09-28T08:40:53.407Z",
-  "totalLessons": 30,
+  "updatedAt": "2026-09-28T20:33:16.095Z",
+  "totalLessons": 31,
   "days": [
     {
       "dayName": "Понедельник",
@@ -90,7 +90,7 @@
           }
         },
         {
-          "id": "7752-1-19:00-4",
+          "id": "7752-1-19:00-6",
           "dayIndex": 1,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -179,34 +179,17 @@
           }
         },
         {
-          "id": "7751-2-14:00-1",
+          "id": "7751-2-14:00-2",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Инновационный менеджмент",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 437",
+          "room": "У УЛК-06",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20230",
           "weekParity": "down",
-          "teacher": {
-            "name": "Федорова Анастасия Валерьевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
-          }
-        },
-        {
-          "id": "7751-2-15:40-2",
-          "dayIndex": 2,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Инновационный менеджмент",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 437",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20230, 20231",
-          "weekParity": "up",
           "teacher": {
             "name": "Федорова Анастасия Валерьевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
@@ -220,7 +203,7 @@
           "subject": "Инновационный менеджмент",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 437",
+          "room": "У УЛК-06",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20230",
           "weekParity": "down",
@@ -338,6 +321,23 @@
           }
         },
         {
+          "id": "7751-3-14:00-1",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Инновационный менеджмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-06",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20230",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Федорова Анастасия Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
+          }
+        },
+        {
           "id": "7805-3-11:50-1",
           "dayIndex": 3,
           "time": "11:50-13:20",
@@ -404,6 +404,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20221",
           "weekParity": "up",
+          "teacher": {
+            "name": "Федорова Анастасия Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
+          }
+        },
+        {
+          "id": "7752-4-11:50-1",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Инновационный менеджмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 206",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20231",
+          "weekParity": "down",
           "teacher": {
             "name": "Федорова Анастасия Валерьевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"

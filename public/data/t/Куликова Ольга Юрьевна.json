@@ -2,8 +2,8 @@
   "teacherId": "Куликова Ольга Юрьевна",
   "teacherName": "Куликова Ольга Юрьевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128450.jpg?token_static=3b31c1c92994c21c75b40af97135822f",
-  "updatedAt": "2026-09-28T08:40:53.529Z",
-  "totalLessons": 4,
+  "updatedAt": "2026-09-28T20:33:16.222Z",
+  "totalLessons": 7,
   "days": [
     {
       "dayName": "Понедельник",
@@ -13,7 +13,59 @@
     {
       "dayName": "Вторник",
       "dayIndex": 2,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7925-2-10:10-2",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-31",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Куликова Ольга Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128450.jpg?token_static=3b31c1c92994c21c75b40af97135822f"
+          }
+        },
+        {
+          "id": "7925-2-11:50-4",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-31",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Куликова Ольга Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128450.jpg?token_static=3b31c1c92994c21c75b40af97135822f"
+          }
+        },
+        {
+          "id": "7925-2-11:50-5",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-31",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Куликова Ольга Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128450.jpg?token_static=3b31c1c92994c21c75b40af97135822f"
+          }
+        }
+      ]
     },
     {
       "dayName": "Среда",

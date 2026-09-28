@@ -2,8 +2,8 @@
   "teacherId": "Серебряков Михаил Юрьевич",
   "teacherName": "Серебряков Михаил Юрьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a",
-  "updatedAt": "2026-09-28T08:40:53.411Z",
-  "totalLessons": 26,
+  "updatedAt": "2026-09-28T20:33:16.101Z",
+  "totalLessons": 33,
   "days": [
     {
       "dayName": "Понедельник",
@@ -374,6 +374,23 @@
           }
         },
         {
+          "id": "7750-4-17:20-4",
+          "dayIndex": 4,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Тренажёрные комплексы беспилотных систем и РТК",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20227",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
+          }
+        },
+        {
           "id": "7917-4-10:10-1",
           "dayIndex": 4,
           "time": "10:10-11:40",
@@ -463,6 +480,108 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20313",
           "weekParity": "down",
+          "teacher": {
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
+          }
+        },
+        {
+          "id": "7771-6-14:00-3",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Операционные среды больших систем",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20390",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
+          }
+        },
+        {
+          "id": "7771-6-15:40-5",
+          "dayIndex": 6,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Операционные среды больших систем",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20390",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
+          }
+        },
+        {
+          "id": "7771-6-17:20-7",
+          "dayIndex": 6,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Операционные среды больших систем",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20390",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
+          }
+        },
+        {
+          "id": "7772-6-08:30-1",
+          "dayIndex": 6,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Операционные среды больших систем",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20391",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
+          }
+        },
+        {
+          "id": "7772-6-10:10-2",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Операционные среды больших систем",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20391",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
+          }
+        },
+        {
+          "id": "7772-6-11:50-4",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Операционные среды больших систем",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20391",
+          "weekParity": "up",
           "teacher": {
             "name": "Серебряков Михаил Юрьевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"

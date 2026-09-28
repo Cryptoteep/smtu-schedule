@@ -1,0 +1,93 @@
+{
+  "teacherId": "Бухалова Александра Григорьевна",
+  "teacherName": "Бухалова Александра Григорьевна",
+  "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p130536.jpg?token_static=ae88350d1f9ab8bce5bb4c612120ddc0",
+  "updatedAt": "2026-09-28T20:33:16.225Z",
+  "totalLessons": 3,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7844-1-17:20-2",
+          "dayIndex": 1,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Инженерия знаний",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-51",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бухалова Александра Григорьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p130536.jpg?token_static=ae88350d1f9ab8bce5bb4c612120ddc0"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7844-2-11:50-1",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Инженерия знаний",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-13",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-51",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бухалова Александра Григорьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p130536.jpg?token_static=ae88350d1f9ab8bce5bb4c612120ddc0"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7844-3-10:10-1",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Инженерия знаний",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-51",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бухалова Александра Григорьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p130536.jpg?token_static=ae88350d1f9ab8bce5bb4c612120ddc0"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

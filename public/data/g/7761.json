@@ -1,7 +1,7 @@
 {
   "groupId": "7761",
   "groupName": "20291",
-  "updatedAt": "2026-09-28T08:40:45.027Z",
+  "updatedAt": "2026-09-28T20:33:08.464Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -149,6 +149,23 @@
           "teacher": {
             "name": "Муравьев Евгений Александрович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"
+          }
+        },
+        {
+          "id": "7761-2-14:00-7",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 438",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20291",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кленин Петр Владиславович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
           }
         }
       ]

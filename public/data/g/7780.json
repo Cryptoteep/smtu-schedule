@@ -1,7 +1,7 @@
 {
   "groupId": "7780",
   "groupName": "20490",
-  "updatedAt": "2026-09-28T08:40:46.905Z",
+  "updatedAt": "2026-09-28T20:33:09.808Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -350,6 +350,25 @@
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
+          "subject": "Прикладная информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20490",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        },
+        {
+          "id": "7780-4-15:40-5",
+          "dayIndex": 4,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
           "subject": "Управление качеством, стандартизация, сертификация",
           "type": "lecture",
           "rawType": "Лекция",
@@ -363,7 +382,7 @@
           }
         },
         {
-          "id": "7780-4-17:20-5",
+          "id": "7780-4-17:20-6",
           "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -571,25 +590,6 @@
           "teacher": {
             "name": "Сидоренко Светлана Анатольевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
-          }
-        },
-        {
-          "id": "7780-6-14:00-8",
-          "dayIndex": 6,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Прикладная информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 414",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20490",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Дубин Марат Мухаметханович",
-            "id": "123177",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
           }
         }
       ]

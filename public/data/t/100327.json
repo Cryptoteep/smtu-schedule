@@ -3,13 +3,33 @@
   "teacherName": "Дедкова Ольга Валентиновна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100327.jpg?token_static=10c4cbb583bca3c607344d621ccc84f7",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100327/",
-  "updatedAt": "2026-09-28T08:40:53.387Z",
-  "totalLessons": 13,
+  "updatedAt": "2026-09-28T20:33:16.073Z",
+  "totalLessons": 15,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7768-1-14:00-4",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Морская энциклопедия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А Актовый зал",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20350, 20390, 20391",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дедкова Ольга Валентиновна",
+            "id": "100327",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100327/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100327.jpg?token_static=10c4cbb583bca3c607344d621ccc84f7"
+          }
+        }
+      ]
     },
     {
       "dayName": "Вторник",
@@ -234,7 +254,7 @@
           "rawType": "Практическое занятие",
           "room": "Б 501(1)",
           "campus": "Лоцманская (Корпус Б)",
-          "groupName": "20390, 20391",
+          "groupName": "20390, 20391, 20350",
           "weekParity": "up",
           "teacher": {
             "name": "Дедкова Ольга Валентиновна",
@@ -255,6 +275,25 @@
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "1317",
           "weekParity": "down",
+          "teacher": {
+            "name": "Дедкова Ольга Валентиновна",
+            "id": "100327",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100327/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100327.jpg?token_static=10c4cbb583bca3c607344d621ccc84f7"
+          }
+        },
+        {
+          "id": "7768-4-11:50-3",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Морская энциклопедия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А Актовый зал",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20350, 20390, 20391",
+          "weekParity": "up",
           "teacher": {
             "name": "Дедкова Ольга Валентиновна",
             "id": "100327",

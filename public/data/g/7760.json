@@ -1,7 +1,7 @@
 {
   "groupId": "7760",
   "groupName": "20290",
-  "updatedAt": "2026-09-28T08:40:44.829Z",
+  "updatedAt": "2026-09-28T20:33:08.733Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -153,6 +153,25 @@
             "id": "122623",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+          }
+        },
+        {
+          "id": "7760-2-14:00-7",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технологии разработки информационных ресурсов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 304",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20290",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Горавнева Татьяна Сергеевна",
+            "id": "100281",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec"
           }
         }
       ]
@@ -448,25 +467,6 @@
         },
         {
           "id": "7760-5-11:50-5",
-          "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Технологии разработки информационных ресурсов",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 307",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20290",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Горавнева Татьяна Сергеевна",
-            "id": "100281",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec"
-          }
-        },
-        {
-          "id": "7760-5-11:50-6",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,

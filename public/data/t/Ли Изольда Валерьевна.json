@@ -2,8 +2,8 @@
   "teacherId": "Ли Изольда Валерьевна",
   "teacherName": "Ли Изольда Валерьевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8",
-  "updatedAt": "2026-09-28T08:40:53.407Z",
-  "totalLessons": 7,
+  "updatedAt": "2026-09-28T20:33:16.096Z",
+  "totalLessons": 10,
   "days": [
     {
       "dayName": "Понедельник",
@@ -47,16 +47,16 @@
           }
         },
         {
-          "id": "7779-2-11:50-3",
+          "id": "7752-2-15:40-2",
           "dayIndex": 2,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Безопасность систем баз данных",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технологии цифровой безопасности",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 439",
+          "room": "Конгресс-Центр 318",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "20480",
+          "groupName": "20231",
           "weekParity": "up",
           "teacher": {
             "name": "Ли Изольда Валерьевна",
@@ -64,7 +64,41 @@
           }
         },
         {
-          "id": "7779-2-14:00-4",
+          "id": "7752-2-17:20-3",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технологии цифровой безопасности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20231",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        },
+        {
+          "id": "7752-2-19:00-4",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Технологии цифровой безопасности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20231",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        },
+        {
+          "id": "7779-2-14:00-1",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -81,13 +115,30 @@
           }
         },
         {
-          "id": "7779-2-15:40-6",
+          "id": "7779-2-15:40-4",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Безопасность систем баз данных",
           "type": "lab",
           "rawType": "Лабораторное занятие",
+          "room": "У 439",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20480",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        },
+        {
+          "id": "7779-2-17:20-6",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Безопасность систем баз данных",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "У 439",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20480",

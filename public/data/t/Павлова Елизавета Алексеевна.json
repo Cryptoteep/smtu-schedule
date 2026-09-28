@@ -2,8 +2,8 @@
   "teacherId": "Павлова Елизавета Алексеевна",
   "teacherName": "Павлова Елизавета Алексеевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128579.jpg?token_static=c693b63995910d17b302d6d109314f62",
-  "updatedAt": "2026-09-28T08:40:53.423Z",
-  "totalLessons": 10,
+  "updatedAt": "2026-09-28T20:33:16.112Z",
+  "totalLessons": 11,
   "days": [
     {
       "dayName": "Понедельник",
@@ -57,6 +57,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20321",
           "weekParity": "down",
+          "teacher": {
+            "name": "Павлова Елизавета Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128579.jpg?token_static=c693b63995910d17b302d6d109314f62"
+          }
+        },
+        {
+          "id": "7766-2-11:50-3",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Классическая и современная теория автоматического управления",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Конгресс-Центр 421",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "up",
           "teacher": {
             "name": "Павлова Елизавета Алексеевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128579.jpg?token_static=c693b63995910d17b302d6d109314f62"

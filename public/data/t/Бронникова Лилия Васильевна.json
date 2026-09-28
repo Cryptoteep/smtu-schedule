@@ -3,8 +3,8 @@
   "teacherName": "Бронникова Лилия Васильевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
-  "updatedAt": "2026-09-28T08:40:53.390Z",
-  "totalLessons": 20,
+  "updatedAt": "2026-09-28T20:33:16.079Z",
+  "totalLessons": 26,
   "days": [
     {
       "dayName": "Понедельник",
@@ -16,16 +16,35 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7779-2-10:10-2",
+          "id": "7469-2-15:40-4",
           "dayIndex": 2,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
           "subject": "Безопасность жизнедеятельности",
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 532",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "20480, 12740-02",
+          "groupName": "20371",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бронникова Лилия Васильевна",
+            "id": "100159",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
+          }
+        },
+        {
+          "id": "7469-2-19:00-7",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20371, 20370, 20480",
           "weekParity": "up",
           "teacher": {
             "name": "Бронникова Лилия Васильевна",
@@ -35,7 +54,7 @@
           }
         },
         {
-          "id": "7779-2-14:00-5",
+          "id": "7779-2-14:00-2",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -46,6 +65,25 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20480",
           "weekParity": "down",
+          "teacher": {
+            "name": "Бронникова Лилия Васильевна",
+            "id": "100159",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
+          }
+        },
+        {
+          "id": "7779-2-17:20-5",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 532",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20480",
+          "weekParity": "up",
           "teacher": {
             "name": "Бронникова Лилия Васильевна",
             "id": "100159",
@@ -84,6 +122,25 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12740-01",
           "weekParity": "down",
+          "teacher": {
+            "name": "Бронникова Лилия Васильевна",
+            "id": "100159",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
+          }
+        },
+        {
+          "id": "7797-2-10:10-2",
+          "dayIndex": 2,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 534",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-02",
+          "weekParity": "up",
           "teacher": {
             "name": "Бронникова Лилия Васильевна",
             "id": "100159",
@@ -302,6 +359,44 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
           }
+        },
+        {
+          "id": "7769-4-11:50-1",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 534",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бронникова Лилия Васильевна",
+            "id": "100159",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
+          }
+        },
+        {
+          "id": "7769-4-14:00-2",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 311",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20370",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бронникова Лилия Васильевна",
+            "id": "100159",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
+          }
         }
       ]
     },
@@ -355,6 +450,25 @@
           "room": "У 534",
           "campus": "Ульянка (Корпус У)",
           "groupName": "1318",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бронникова Лилия Васильевна",
+            "id": "100159",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
+          }
+        },
+        {
+          "id": "7469-5-17:20-6",
+          "dayIndex": 5,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 534",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20371",
           "weekParity": "down",
           "teacher": {
             "name": "Бронникова Лилия Васильевна",
