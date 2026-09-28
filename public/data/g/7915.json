@@ -1,14 +1,33 @@
 {
   "groupId": "7915",
   "groupName": "12115-53",
-  "updatedAt": "2026-09-27T23:02:00.952Z",
+  "updatedAt": "2026-09-28T08:40:30.591Z",
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
       "lessons": [
         {
-          "id": "7915-1-15:40-1",
+          "id": "7915-1-14:00-1",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Иностранный язык в профессиональной и академической коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12115-53",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Манукян Асмик Мануковна",
+            "id": "102710",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102710/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/02/small/p102710.jpg?token_static=c9f1f17693d3c9b7aa96f54d1366848e"
+          }
+        },
+        {
+          "id": "7915-1-15:40-2",
           "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -27,7 +46,7 @@
           }
         },
         {
-          "id": "7915-1-15:40-2",
+          "id": "7915-1-15:40-3",
           "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -40,25 +59,6 @@
           "weekParity": "down",
           "teacher": {
             "name": "Кафедра управления судостроительным производством"
-          }
-        },
-        {
-          "id": "7915-1-17:20-3",
-          "dayIndex": 1,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Иностранный язык в профессиональной и академической коммуникации",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12115-53",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Ковалев Андрей Петрович",
-            "id": "122808",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122808/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/31/small/p122808.jpg?token_static=5db7b5ad65dcd9ef163454d9132bb0ba"
           }
         }
       ]

@@ -1,0 +1,136 @@
+{
+  "teacherId": "Озерный Александр Николаевич",
+  "teacherName": "Озерный Александр Николаевич",
+  "updatedAt": "2026-09-28T08:40:53.532Z",
+  "totalLessons": 6,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7882-1-17:20-2",
+          "dayIndex": 1,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технология сварки конструкционных материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1302, 1303",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Озерный Александр Николаевич"
+          }
+        },
+        {
+          "id": "7882-1-19:00-3",
+          "dayIndex": 1,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Технология сварки конструкционных материалов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1302",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Озерный Александр Николаевич"
+          }
+        },
+        {
+          "id": "7883-1-20:40-4",
+          "dayIndex": 1,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Технология сварки конструкционных материалов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1303",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Озерный Александр Николаевич"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7882-2-17:20-2",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технология сварки конструкционных материалов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1302, 1303",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Озерный Александр Николаевич"
+          }
+        },
+        {
+          "id": "7882-2-19:00-3",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Технология сварки конструкционных материалов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1302",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Озерный Александр Николаевич"
+          }
+        },
+        {
+          "id": "7883-2-15:40-1",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технология сварки конструкционных материалов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 414",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1303",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Озерный Александр Николаевич"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "teacherId": "Кафедра киберфизических систем",
+  "teacherName": "Кафедра киберфизических систем",
+  "updatedAt": "2026-09-28T08:40:53.532Z",
+  "totalLessons": 2,
+  "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7844-1-17:20-2",
+          "dayIndex": 1,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Инженерия знаний",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-51",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра киберфизических систем"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7844-2-11:50-1",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Инженерия знаний",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-13",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-51",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра киберфизических систем"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": []
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": []
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": []
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": []
+    }
+  ]
+}

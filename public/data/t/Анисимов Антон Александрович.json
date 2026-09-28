@@ -2,8 +2,8 @@
   "teacherId": "Анисимов Антон Александрович",
   "teacherName": "Анисимов Антон Александрович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123833.jpg?token_static=b159b064a34029c71367529f81aba0bd",
-  "updatedAt": "2026-09-27T23:02:20.623Z",
-  "totalLessons": 10,
+  "updatedAt": "2026-09-28T08:40:53.510Z",
+  "totalLessons": 9,
   "days": [
     {
       "dayName": "Понедельник",
@@ -107,40 +107,6 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7442-3-08:30-1",
-          "dayIndex": 3,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Начертательная геометрия",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 414",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12526-34",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Анисимов Антон Александрович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123833.jpg?token_static=b159b064a34029c71367529f81aba0bd"
-          }
-        },
-        {
-          "id": "7462-3-10:10-1",
-          "dayIndex": 3,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Начертательная геометрия",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 161",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12126-32, 12126-30, 12126-31",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Анисимов Антон Александрович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123833.jpg?token_static=b159b064a34029c71367529f81aba0bd"
-          }
-        },
-        {
           "id": "7462-3-15:40-6",
           "dayIndex": 3,
           "time": "15:40-17:10",
@@ -152,6 +118,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-32",
           "weekParity": "down",
+          "teacher": {
+            "name": "Анисимов Антон Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123833.jpg?token_static=b159b064a34029c71367529f81aba0bd"
+          }
+        },
+        {
+          "id": "7827-3-10:10-1",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Начертательная геометрия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 161",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12126-30",
+          "weekParity": "up",
           "teacher": {
             "name": "Анисимов Антон Александрович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123833.jpg?token_static=b159b064a34029c71367529f81aba0bd"

@@ -1,7 +1,7 @@
 {
   "groupId": "7583",
   "groupName": "2230",
-  "updatedAt": "2026-09-27T23:02:05.567Z",
+  "updatedAt": "2026-09-28T08:40:37.088Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -177,24 +177,7 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7583-3-11:50-1",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Высшая математика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 427",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "2230",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Ионченкова Яна Юрьевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100473.jpg?token_static=e89f84e655182b88a6d0700458b6bf1a"
-          }
-        },
-        {
-          "id": "7583-3-14:00-2",
+          "id": "7583-3-14:00-1",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -211,7 +194,7 @@
           }
         },
         {
-          "id": "7583-3-14:00-3",
+          "id": "7583-3-14:00-2",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -228,7 +211,7 @@
           }
         },
         {
-          "id": "7583-3-15:40-4",
+          "id": "7583-3-15:40-3",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -247,7 +230,7 @@
           }
         },
         {
-          "id": "7583-3-15:40-5",
+          "id": "7583-3-15:40-4",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -259,14 +242,14 @@
           "groupName": "2230",
           "weekParity": "down",
           "teacher": {
-            "name": "Койсин Виталий Евгеньевич",
-            "id": "123830",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/123830/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/21/small/p123830.jpg?token_static=81a6cf022ff01786748222b99bd7677b"
+            "name": "Андреев Александр Николаевич",
+            "id": "123117",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123117/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123117.jpg?token_static=fd886bd31e90cac74ae3d7295cb89183"
           }
         },
         {
-          "id": "7583-3-17:20-6",
+          "id": "7583-3-17:20-5",
           "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -278,10 +261,10 @@
           "groupName": "2230",
           "weekParity": "down",
           "teacher": {
-            "name": "Койсин Виталий Евгеньевич",
-            "id": "123830",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/123830/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/05/21/small/p123830.jpg?token_static=81a6cf022ff01786748222b99bd7677b"
+            "name": "Андреев Александр Николаевич",
+            "id": "123117",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123117/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123117.jpg?token_static=fd886bd31e90cac74ae3d7295cb89183"
           }
         }
       ]
@@ -315,13 +298,13 @@
           "subject": "Технология конструкционных материалов",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "У 245а",
+          "room": "У 245",
           "campus": "Ульянка (Корпус У)",
           "groupName": "2230",
           "weekParity": "both",
           "teacher": {
-            "name": "Щепелина Дарья Дмитриевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106091.jpg?token_static=869fd0be91ffb5f55fa6afaab774cb93"
+            "name": "Юнусов Фируз Абдукадимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123521.jpg?token_static=0ad0f3727125e27b503247a5b407397f"
           }
         },
         {
@@ -332,13 +315,13 @@
           "subject": "Технология конструкционных материалов",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "У 245",
+          "room": "У 245а",
           "campus": "Ульянка (Корпус У)",
           "groupName": "2230",
           "weekParity": "both",
           "teacher": {
-            "name": "Юнусов Фируз Абдукадимович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123521.jpg?token_static=0ad0f3727125e27b503247a5b407397f"
+            "name": "Щепелина Дарья Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106091.jpg?token_static=869fd0be91ffb5f55fa6afaab774cb93"
           }
         },
         {
