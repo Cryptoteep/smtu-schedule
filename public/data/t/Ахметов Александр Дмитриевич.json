@@ -2,8 +2,8 @@
   "teacherId": "Ахметов Александр Дмитриевич",
   "teacherName": "Ахметов Александр Дмитриевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106212.jpg?token_static=77830dd30282be9b35bbd7c0d7b645f3",
-  "updatedAt": "2026-09-28T20:33:16.108Z",
-  "totalLessons": 9,
+  "updatedAt": "2026-09-29T08:27:28.744Z",
+  "totalLessons": 10,
   "days": [
     {
       "dayName": "Понедельник",
@@ -147,6 +147,23 @@
           }
         },
         {
+          "id": "7777-5-14:00-3",
+          "dayIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Лазерные технологии обработки материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ УИК104",
+          "campus": "СПбГМТУ",
+          "groupName": "20470",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ахметов Александр Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106212.jpg?token_static=77830dd30282be9b35bbd7c0d7b645f3"
+          }
+        },
+        {
           "id": "7815-5-10:10-1",
           "dayIndex": 5,
           "time": "10:10-11:40",
@@ -164,7 +181,7 @@
           }
         },
         {
-          "id": "7818-5-11:50-3",
+          "id": "7818-5-11:50-1",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,

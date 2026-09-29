@@ -1,7 +1,7 @@
 {
   "groupId": "7818",
   "groupName": "12515-50",
-  "updatedAt": "2026-09-28T20:33:07.524Z",
+  "updatedAt": "2026-09-29T08:27:18.542Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -226,12 +226,63 @@
       ]
     },
     {
-      "dayName": "Четверг",
-      "dayIndex": 4,
+      "dayName": "Пятница",
+      "dayIndex": 5,
       "lessons": [
         {
-          "id": "7818-4-15:40-1",
-          "dayIndex": 4,
+          "id": "7818-5-11:50-1",
+          "dayIndex": 5,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технологии обработки материалов концентрированными потоками энергии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ УИК104",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-50",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ахметов Александр Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106212.jpg?token_static=77830dd30282be9b35bbd7c0d7b645f3"
+          }
+        },
+        {
+          "id": "7818-5-14:00-2",
+          "dayIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Проектирование спецоборудования лазерной обработки",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-50",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Певзнер Яков Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p106219.jpg?token_static=cacb9c7f62085d0cdeefe08d65aa12fe"
+          }
+        },
+        {
+          "id": "7818-5-14:00-3",
+          "dayIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Проектирование спецоборудования лазерной обработки",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ УИК207",
+          "campus": "СПбГМТУ",
+          "groupName": "12515-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Певзнер Яков Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p106219.jpg?token_static=cacb9c7f62085d0cdeefe08d65aa12fe"
+          }
+        },
+        {
+          "id": "7818-5-15:40-4",
+          "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Иностранный язык в профессиональной и академической коммуникации",
@@ -249,8 +300,8 @@
           }
         },
         {
-          "id": "7818-4-17:20-2",
-          "dayIndex": 4,
+          "id": "7818-5-17:20-5",
+          "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Иностранный язык в профессиональной и академической коммуникации",
@@ -265,63 +316,6 @@
             "id": "101075",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/101075/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/12/small/p101075.jpg?token_static=069007c8e0d264f2a44a67dc923db9ce"
-          }
-        }
-      ]
-    },
-    {
-      "dayName": "Пятница",
-      "dayIndex": 5,
-      "lessons": [
-        {
-          "id": "7818-5-10:10-1",
-          "dayIndex": 5,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Проектирование спецоборудования лазерной обработки",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "ИЛИСТ УИК207",
-          "campus": "СПбГМТУ",
-          "groupName": "12515-50",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Певзнер Яков Борисович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p106219.jpg?token_static=cacb9c7f62085d0cdeefe08d65aa12fe"
-          }
-        },
-        {
-          "id": "7818-5-10:10-2",
-          "dayIndex": 5,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Проектирование спецоборудования лазерной обработки",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "ИЛИСТ УИК207",
-          "campus": "СПбГМТУ",
-          "groupName": "12515-50",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Певзнер Яков Борисович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p106219.jpg?token_static=cacb9c7f62085d0cdeefe08d65aa12fe"
-          }
-        },
-        {
-          "id": "7818-5-11:50-3",
-          "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Технологии обработки материалов концентрированными потоками энергии",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "ИЛИСТ УИК104",
-          "campus": "СПбГМТУ",
-          "groupName": "12515-50",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Ахметов Александр Дмитриевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106212.jpg?token_static=77830dd30282be9b35bbd7c0d7b645f3"
           }
         }
       ]

@@ -1,7 +1,7 @@
 {
   "groupId": "7778",
   "groupName": "20471",
-  "updatedAt": "2026-09-28T20:33:09.724Z",
+  "updatedAt": "2026-09-29T08:27:21.303Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -312,10 +312,48 @@
       "dayIndex": 4,
       "lessons": [
         {
-          "id": "7778-4-14:00-1",
+          "id": "7778-4-08:30-1",
           "dayIndex": 4,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20471",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
+        },
+        {
+          "id": "7778-4-10:10-2",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20471",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7778-5-10:10-1",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
           "subject": "Теория сварочных деформаций и напряжений",
           "type": "lecture",
           "rawType": "Лекция",
@@ -329,10 +367,10 @@
           }
         },
         {
-          "id": "7778-4-15:40-2",
-          "dayIndex": 4,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
+          "id": "7778-5-11:50-2",
+          "dayIndex": 5,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
           "subject": "Теория сварочных деформаций и напряжений",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -346,10 +384,10 @@
           }
         },
         {
-          "id": "7778-4-15:40-3",
-          "dayIndex": 4,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
+          "id": "7778-5-11:50-3",
+          "dayIndex": 5,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
           "subject": "Теория сварочных деформаций и напряжений",
           "type": "lab",
           "rawType": "Лабораторное занятие",

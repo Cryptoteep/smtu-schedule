@@ -1,7 +1,7 @@
 {
   "groupId": "7935",
   "groupName": "12317-03",
-  "updatedAt": "2026-09-28T20:33:03.526Z",
+  "updatedAt": "2026-09-29T08:27:14.708Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -289,7 +289,26 @@
           }
         },
         {
-          "id": "7935-4-11:50-2",
+          "id": "7935-4-10:10-2",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Общая и неорганическая химия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-03",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Богданова Светлана Ефимовна",
+            "id": "100121",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100121/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/01/small/p100121.jpg?token_static=30bdeb2e4f242c6f53d03029f7457014"
+          }
+        },
+        {
+          "id": "7935-4-11:50-3",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -299,10 +318,14 @@
           "room": "У 440",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12317-03",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кузнецов Константин Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/142856.jpg?token_static=8e0d7bf0502437cbabfcb32e5aee4cb3"
+          }
         },
         {
-          "id": "7935-4-14:00-3",
+          "id": "7935-4-14:00-4",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -321,7 +344,7 @@
           }
         },
         {
-          "id": "7935-4-15:40-4",
+          "id": "7935-4-15:40-5",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,

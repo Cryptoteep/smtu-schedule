@@ -2,8 +2,8 @@
   "teacherId": "Тарасюк Светлана Владимировна",
   "teacherName": "Тарасюк Светлана Владимировна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/09/small/142870.jpg?token_static=37506ce12e86b664c1dc2472776c1947",
-  "updatedAt": "2026-09-28T20:33:16.160Z",
-  "totalLessons": 7,
+  "updatedAt": "2026-09-29T08:27:28.786Z",
+  "totalLessons": 8,
   "days": [
     {
       "dayName": "Понедельник",
@@ -112,6 +112,23 @@
       "dayName": "Четверг",
       "dayIndex": 4,
       "lessons": [
+        {
+          "id": "7792-4-10:10-2",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Линейная алгебра, Аналитическая геометрия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 440",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12327-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Тарасюк Светлана Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/09/small/142870.jpg?token_static=37506ce12e86b664c1dc2472776c1947"
+          }
+        },
         {
           "id": "7891-4-15:40-4",
           "dayIndex": 4,

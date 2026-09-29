@@ -1,7 +1,7 @@
 {
   "groupId": "7484",
   "groupName": "1319",
-  "updatedAt": "2026-09-28T20:32:57.401Z",
+  "updatedAt": "2026-09-29T08:27:07.896Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -201,23 +201,6 @@
           "subject": "Материаловедение современных и перспективных материалов",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "У 191а",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "1319",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Лебедева Светлана Николаевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100663.jpg?token_static=4fbfd08a4db0f4d5cd3eda7a94c74abb"
-          }
-        },
-        {
-          "id": "7484-3-10:10-4",
-          "dayIndex": 3,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Материаловедение современных и перспективных материалов",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
           "room": "У 191",
           "campus": "Ульянка (Корпус У)",
           "groupName": "1319",
@@ -228,6 +211,23 @@
           }
         },
         {
+          "id": "7484-3-10:10-4",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Материаловедение современных и перспективных материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1319",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Лебедева Светлана Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100663.jpg?token_static=4fbfd08a4db0f4d5cd3eda7a94c74abb"
+          }
+        },
+        {
           "id": "7484-3-11:50-5",
           "dayIndex": 3,
           "time": "11:50-13:20",
@@ -235,7 +235,7 @@
           "subject": "Защита судов от коррозии и обрастания",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 536(1)",
+          "room": "У 535(1)",
           "campus": "Ульянка (Корпус У)",
           "groupName": "1319",
           "weekParity": "both",

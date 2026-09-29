@@ -1,7 +1,7 @@
 {
   "groupId": "7602",
   "groupName": "2310",
-  "updatedAt": "2026-09-28T20:33:01.636Z",
+  "updatedAt": "2026-09-29T08:27:12.015Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -28,15 +28,15 @@
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Производственная практика (технологическая практика)",
-          "type": "practice",
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
           "rawType": "Практическое занятие",
-          "room": "А Акаф",
+          "room": "А ВУЦ",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2310",
           "weekParity": "both",
           "teacher": {
-            "name": "Кафедра судовых турбин и турбинных установок"
+            "name": "Военный учебный центр при СПбГМТУ"
           }
         },
         {
@@ -44,35 +44,19 @@
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Военная подготовка (офицеры запаса)",
-          "type": "military",
+          "subject": "Производственная практика (технологическая практика)",
+          "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "А ВУЦ",
+          "room": "А Акаф",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2310",
           "weekParity": "both",
           "teacher": {
-            "name": "Военный учебный центр при СПбГМТУ"
+            "name": "Кафедра судовых турбин и турбинных установок"
           }
         },
         {
           "id": "7602-1-11:50-4",
-          "dayIndex": 1,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Военная подготовка (офицеры запаса)",
-          "type": "military",
-          "rawType": "Практическое занятие",
-          "room": "А ВУЦ",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "2310",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Военный учебный центр при СПбГМТУ"
-          }
-        },
-        {
-          "id": "7602-1-11:50-5",
           "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -85,6 +69,22 @@
           "weekParity": "both",
           "teacher": {
             "name": "Кафедра судовых турбин и турбинных установок"
+          }
+        },
+        {
+          "id": "7602-1-11:50-5",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2310",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
           }
         },
         {
@@ -234,7 +234,26 @@
           }
         },
         {
-          "id": "7602-2-17:20-7",
+          "id": "7602-2-15:40-7",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Правоведение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2310",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Радько Анастасия Сергеевна",
+            "id": "100966",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100966/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/11/09/small/p100966.jpg?token_static=6b12ac50507a5e51f661a3dcf45fc8c0"
+          }
+        },
+        {
+          "id": "7602-2-17:20-8",
           "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,

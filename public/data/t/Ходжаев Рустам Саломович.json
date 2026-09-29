@@ -3,13 +3,32 @@
   "teacherName": "Ходжаев Рустам Саломович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/16/small/p105760.jpg?token_static=3d0d9f5f122ca15298918ba28e486a68",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/105760/",
-  "updatedAt": "2026-09-28T20:33:16.033Z",
-  "totalLessons": 14,
+  "updatedAt": "2026-09-29T08:27:28.687Z",
+  "totalLessons": 23,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
       "lessons": [
+        {
+          "id": "7467-1-14:00-8",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Лабораторные работы по общей и неорганической химии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 536(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-03",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ходжаев Рустам Саломович",
+            "id": "105760",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/105760/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/16/small/p105760.jpg?token_static=3d0d9f5f122ca15298918ba28e486a68"
+          }
+        },
         {
           "id": "7786-1-11:50-1",
           "dayIndex": 1,
@@ -146,6 +165,25 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/105760/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/16/small/p105760.jpg?token_static=3d0d9f5f122ca15298918ba28e486a68"
           }
+        },
+        {
+          "id": "7820-2-17:20-4",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Лабораторные работы по общей и неорганической химии",
+          "type": "lab",
+          "rawType": "Практическое занятие",
+          "room": "У 536(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-02",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ходжаев Рустам Саломович",
+            "id": "105760",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/105760/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/16/small/p105760.jpg?token_static=3d0d9f5f122ca15298918ba28e486a68"
+          }
         }
       ]
     },
@@ -172,6 +210,25 @@
           }
         },
         {
+          "id": "7461-3-14:00-6",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Лабораторные работы по общей и неорганической химии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 535(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12126-02",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ходжаев Рустам Саломович",
+            "id": "105760",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/105760/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/16/small/p105760.jpg?token_static=3d0d9f5f122ca15298918ba28e486a68"
+          }
+        },
+        {
           "id": "7504-3-10:10-2",
           "dayIndex": 3,
           "time": "10:10-11:40",
@@ -179,10 +236,29 @@
           "subject": "Защита судов от коррозии и обрастания",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 536(1)",
+          "room": "У 535(1)",
           "campus": "Ульянка (Корпус У)",
           "groupName": "1317",
           "weekParity": "both",
+          "teacher": {
+            "name": "Ходжаев Рустам Саломович",
+            "id": "105760",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/105760/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/16/small/p105760.jpg?token_static=3d0d9f5f122ca15298918ba28e486a68"
+          }
+        },
+        {
+          "id": "7782-3-14:00-6",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Лабораторные работы по общей и неорганической химии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 535(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12126-03",
+          "weekParity": "down",
           "teacher": {
             "name": "Ходжаев Рустам Саломович",
             "id": "105760",
@@ -195,7 +271,84 @@
     {
       "dayName": "Четверг",
       "dayIndex": 4,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7463-4-11:50-2",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Лабораторные работы по общей и неорганической химии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 535(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12126-06",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ходжаев Рустам Саломович",
+            "id": "105760",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/105760/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/16/small/p105760.jpg?token_static=3d0d9f5f122ca15298918ba28e486a68"
+          }
+        },
+        {
+          "id": "7481-4-14:00-5",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Лабораторные работы по общей и неорганической химии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 535(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12126-04",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ходжаев Рустам Саломович",
+            "id": "105760",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/105760/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/16/small/p105760.jpg?token_static=3d0d9f5f122ca15298918ba28e486a68"
+          }
+        },
+        {
+          "id": "7502-4-14:00-5",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Лабораторные работы по общей и неорганической химии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 535(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12126-05",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ходжаев Рустам Саломович",
+            "id": "105760",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/105760/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/16/small/p105760.jpg?token_static=3d0d9f5f122ca15298918ba28e486a68"
+          }
+        },
+        {
+          "id": "7783-4-11:50-3",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Лабораторные работы по общей и неорганической химии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 535(1)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12113-03",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ходжаев Рустам Саломович",
+            "id": "105760",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/105760/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/16/small/p105760.jpg?token_static=3d0d9f5f122ca15298918ba28e486a68"
+          }
+        }
+      ]
     },
     {
       "dayName": "Пятница",
@@ -283,6 +436,25 @@
           "room": "У 536(2)",
           "campus": "Ульянка (Корпус У)",
           "groupName": "1316",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ходжаев Рустам Саломович",
+            "id": "105760",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/105760/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/16/small/p105760.jpg?token_static=3d0d9f5f122ca15298918ba28e486a68"
+          }
+        },
+        {
+          "id": "7443-5-10:10-2",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Лабораторные работы по общей и неорганической химии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 536(2)",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-07",
           "weekParity": "down",
           "teacher": {
             "name": "Ходжаев Рустам Саломович",

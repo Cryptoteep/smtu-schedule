@@ -1,7 +1,7 @@
 {
   "groupId": "7543",
   "groupName": "1214",
-  "updatedAt": "2026-09-28T20:32:56.199Z",
+  "updatedAt": "2026-09-29T08:27:05.538Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -273,6 +273,22 @@
         },
         {
           "id": "7543-4-14:00-4",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 426",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1214",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра математики"
+          }
+        },
+        {
+          "id": "7543-4-14:00-5",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

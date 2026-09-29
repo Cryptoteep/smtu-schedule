@@ -2,8 +2,8 @@
   "teacherId": "Сапожков Сергей Борисович",
   "teacherName": "Сапожков Сергей Борисович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/13/small/p128165.jpg?token_static=5b3dbce8975e2ba98e595723e5886668",
-  "updatedAt": "2026-09-28T20:33:16.105Z",
-  "totalLessons": 6,
+  "updatedAt": "2026-09-29T08:27:28.742Z",
+  "totalLessons": 7,
   "days": [
     {
       "dayName": "Понедельник",
@@ -48,7 +48,25 @@
     {
       "dayName": "Вторник",
       "dayIndex": 2,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7777-2-11:50-2",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технология сварки плавлением и давлением",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У УЛК-12",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Сапожков Сергей Борисович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/03/13/small/p128165.jpg?token_static=5b3dbce8975e2ba98e595723e5886668"
+          }
+        }
+      ]
     },
     {
       "dayName": "Среда",

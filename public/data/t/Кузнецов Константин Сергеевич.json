@@ -2,8 +2,8 @@
   "teacherId": "Кузнецов Константин Сергеевич",
   "teacherName": "Кузнецов Константин Сергеевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/142856.jpg?token_static=8e0d7bf0502437cbabfcb32e5aee4cb3",
-  "updatedAt": "2026-09-28T20:33:16.035Z",
-  "totalLessons": 16,
+  "updatedAt": "2026-09-29T08:27:28.689Z",
+  "totalLessons": 17,
   "days": [
     {
       "dayName": "Понедельник",
@@ -173,6 +173,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12822-01",
           "weekParity": "down",
+          "teacher": {
+            "name": "Кузнецов Константин Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/142856.jpg?token_static=8e0d7bf0502437cbabfcb32e5aee4cb3"
+          }
+        },
+        {
+          "id": "7935-4-11:50-3",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Математический анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 440",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-03",
+          "weekParity": "both",
           "teacher": {
             "name": "Кузнецов Константин Сергеевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/15/small/142856.jpg?token_static=8e0d7bf0502437cbabfcb32e5aee4cb3"
