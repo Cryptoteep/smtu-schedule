@@ -1,7 +1,7 @@
 {
   "groupId": "8048",
   "groupName": "20277",
-  "updatedAt": "2026-09-29T08:27:19.677Z",
+  "updatedAt": "2026-09-29T19:25:04.818Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -79,6 +79,40 @@
             "id": "104812",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/104812/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p104812.jpg?token_static=092df29f49e97b5b15491fc20119e2fd"
+          }
+        },
+        {
+          "id": "8048-1-14:00-5",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технологии обработки материалов концентрированными потоками энергии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ УИК104",
+          "campus": "СПбГМТУ",
+          "groupName": "20277",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ахметов Александр Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106212.jpg?token_static=77830dd30282be9b35bbd7c0d7b645f3"
+          }
+        },
+        {
+          "id": "8048-1-15:40-6",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технологии обработки материалов концентрированными потоками энергии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ УИК104",
+          "campus": "СПбГМТУ",
+          "groupName": "20277",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ахметов Александр Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106212.jpg?token_static=77830dd30282be9b35bbd7c0d7b645f3"
           }
         }
       ]
@@ -302,23 +336,6 @@
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
-          "subject": "Технологии обработки материалов концентрированными потоками энергии",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "ИЛИСТ УИК104",
-          "campus": "СПбГМТУ",
-          "groupName": "20277",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Ахметов Александр Дмитриевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106212.jpg?token_static=77830dd30282be9b35bbd7c0d7b645f3"
-          }
-        },
-        {
-          "id": "8048-5-14:00-6",
-          "dayIndex": 5,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
           "subject": "Цифровые технологии в жизненном цикле изделий",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -329,23 +346,6 @@
           "teacher": {
             "name": "Минасян Армен Минасович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/13/small/p109077.jpg?token_static=e63cb401ad50f07d4fa47131603febea"
-          }
-        },
-        {
-          "id": "8048-5-15:40-7",
-          "dayIndex": 5,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Технологии обработки материалов концентрированными потоками энергии",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "ИЛИСТ УИК104",
-          "campus": "СПбГМТУ",
-          "groupName": "20277",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Ахметов Александр Дмитриевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106212.jpg?token_static=77830dd30282be9b35bbd7c0d7b645f3"
           }
         }
       ]

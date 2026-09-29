@@ -2,8 +2,8 @@
   "teacherId": "Гриценко Кристина Вадимовна",
   "teacherName": "Гриценко Кристина Вадимовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3",
-  "updatedAt": "2026-09-29T08:27:28.749Z",
-  "totalLessons": 25,
+  "updatedAt": "2026-09-29T19:25:11.939Z",
+  "totalLessons": 26,
   "days": [
     {
       "dayName": "Понедельник",
@@ -218,6 +218,23 @@
           }
         },
         {
+          "id": "7790-3-15:40-5",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информатика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 115",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-30, 12317-31, 12317-32, 12317-33",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гриценко Кристина Вадимовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3"
+          }
+        },
+        {
           "id": "7879-3-19:00-1",
           "dayIndex": 3,
           "time": "19:00-20:30",
@@ -378,7 +395,7 @@
           }
         },
         {
-          "id": "7469-5-17:20-5",
+          "id": "7469-5-17:20-6",
           "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,

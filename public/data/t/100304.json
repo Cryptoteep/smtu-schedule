@@ -2,8 +2,8 @@
   "teacherId": "100304",
   "teacherName": "Гришаков Евгений Сергеевич",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100304/",
-  "updatedAt": "2026-09-29T08:27:28.721Z",
-  "totalLessons": 14,
+  "updatedAt": "2026-09-29T19:25:11.905Z",
+  "totalLessons": 18,
   "days": [
     {
       "dayName": "Понедельник",
@@ -263,6 +263,78 @@
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2391",
           "weekParity": "down",
+          "teacher": {
+            "name": "Гришаков Евгений Сергеевич",
+            "id": "100304",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100304/"
+          }
+        },
+        {
+          "id": "7489-5-08:30-1",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Методы и средства измерения электротехнических и неэлектротехнических величин",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 318-А",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2391",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гришаков Евгений Сергеевич",
+            "id": "100304",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100304/"
+          }
+        },
+        {
+          "id": "7489-5-10:10-3",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Методы и средства измерения электротехнических и неэлектротехнических величин",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 318-А",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2391",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гришаков Евгений Сергеевич",
+            "id": "100304",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100304/"
+          }
+        },
+        {
+          "id": "7557-5-08:30-1",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Корабельное электрооборудование",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гришаков Евгений Сергеевич",
+            "id": "100304",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100304/"
+          }
+        },
+        {
+          "id": "7557-5-10:10-2",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Корабельное электрооборудование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 318-А",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1310",
+          "weekParity": "up",
           "teacher": {
             "name": "Гришаков Евгений Сергеевич",
             "id": "100304",

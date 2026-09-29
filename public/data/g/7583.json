@@ -1,7 +1,7 @@
 {
   "groupId": "7583",
   "groupName": "2230",
-  "updatedAt": "2026-09-29T08:27:11.135Z",
+  "updatedAt": "2026-09-29T19:24:56.892Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -177,7 +177,24 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7583-3-14:00-1",
+          "id": "7583-3-11:50-1",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Высшая математика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2230",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ионченкова Яна Юрьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100473.jpg?token_static=e89f84e655182b88a6d0700458b6bf1a"
+          }
+        },
+        {
+          "id": "7583-3-14:00-2",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -194,7 +211,7 @@
           }
         },
         {
-          "id": "7583-3-14:00-2",
+          "id": "7583-3-14:00-3",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -211,7 +228,7 @@
           }
         },
         {
-          "id": "7583-3-15:40-3",
+          "id": "7583-3-15:40-4",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -230,7 +247,7 @@
           }
         },
         {
-          "id": "7583-3-15:40-4",
+          "id": "7583-3-15:40-5",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -249,7 +266,7 @@
           }
         },
         {
-          "id": "7583-3-17:20-5",
+          "id": "7583-3-17:20-6",
           "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -298,13 +315,13 @@
           "subject": "Технология конструкционных материалов",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "У 245",
+          "room": "У 245а",
           "campus": "Ульянка (Корпус У)",
           "groupName": "2230",
           "weekParity": "both",
           "teacher": {
-            "name": "Юнусов Фируз Абдукадимович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123521.jpg?token_static=0ad0f3727125e27b503247a5b407397f"
+            "name": "Щепелина Дарья Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106091.jpg?token_static=869fd0be91ffb5f55fa6afaab774cb93"
           }
         },
         {
@@ -315,13 +332,13 @@
           "subject": "Технология конструкционных материалов",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "У 245а",
+          "room": "У 245",
           "campus": "Ульянка (Корпус У)",
           "groupName": "2230",
           "weekParity": "both",
           "teacher": {
-            "name": "Щепелина Дарья Дмитриевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106091.jpg?token_static=869fd0be91ffb5f55fa6afaab774cb93"
+            "name": "Юнусов Фируз Абдукадимович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p123521.jpg?token_static=0ad0f3727125e27b503247a5b407397f"
           }
         },
         {

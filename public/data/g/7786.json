@@ -1,7 +1,7 @@
 {
   "groupId": "7786",
   "groupName": "12226-08",
-  "updatedAt": "2026-09-29T08:27:10.160Z",
+  "updatedAt": "2026-09-29T19:24:56.038Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -94,6 +94,23 @@
           "subject": "Математический анализ",
           "type": "lecture",
           "rawType": "Лекция",
+          "room": "У 107",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12226-08",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Сорокин Вадим Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101137.jpg?token_static=3c5ba78392bc54806ff547d5a75d1b11"
+          }
+        },
+        {
+          "id": "7786-2-08:30-2",
+          "dayIndex": 2,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-08",
@@ -104,7 +121,7 @@
           }
         },
         {
-          "id": "7786-2-10:10-2",
+          "id": "7786-2-10:10-3",
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -123,7 +140,7 @@
           }
         },
         {
-          "id": "7786-2-11:50-3",
+          "id": "7786-2-11:50-4",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -142,7 +159,7 @@
           }
         },
         {
-          "id": "7786-2-11:50-4",
+          "id": "7786-2-11:50-5",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -161,7 +178,7 @@
           }
         },
         {
-          "id": "7786-2-14:00-5",
+          "id": "7786-2-14:00-6",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -196,10 +213,10 @@
           "groupName": "12226-08",
           "weekParity": "up",
           "teacher": {
-            "name": "Яковлев Алексей Юрьевич",
-            "id": "101392",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
+            "name": "Едуш Наталья Юрьевна",
+            "id": "100364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
           }
         },
         {
@@ -232,10 +249,8 @@
           "groupName": "12226-08",
           "weekParity": "up",
           "teacher": {
-            "name": "Едуш Наталья Юрьевна",
-            "id": "100364",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+            "name": "Павлов Павел Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
           }
         },
         {
@@ -251,8 +266,10 @@
           "groupName": "12226-08",
           "weekParity": "up",
           "teacher": {
-            "name": "Павлов Павел Валентинович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
+            "name": "Яковлев Алексей Юрьевич",
+            "id": "101392",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
           }
         },
         {
@@ -268,10 +285,8 @@
           "groupName": "12226-08",
           "weekParity": "down",
           "teacher": {
-            "name": "Вихров Николай Михайлович",
-            "id": "100217",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
+            "name": "Никущенко Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
           }
         },
         {
@@ -287,8 +302,10 @@
           "groupName": "12226-08",
           "weekParity": "down",
           "teacher": {
-            "name": "Никущенко Елена Александровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+            "name": "Вихров Николай Михайлович",
+            "id": "100217",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
           }
         },
         {
@@ -394,7 +411,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 414",
+          "room": "У 215",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-08",
           "weekParity": "down",
@@ -411,7 +428,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 215",
+          "room": "У 414",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12226-08",
           "weekParity": "down",
@@ -433,8 +450,10 @@
           "groupName": "12226-08",
           "weekParity": "up",
           "teacher": {
-            "name": "Гаранина Евгения Алексеевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
+            "name": "Кара Марина Германовна",
+            "id": "100497",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100497/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/09/small/p100497.jpg?token_static=1e9ca2248aee58ee01027df1c9bb1c41"
           }
         },
         {
@@ -450,10 +469,8 @@
           "groupName": "12226-08",
           "weekParity": "up",
           "teacher": {
-            "name": "Кара Марина Германовна",
-            "id": "100497",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100497/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/09/small/p100497.jpg?token_static=1e9ca2248aee58ee01027df1c9bb1c41"
+            "name": "Гаранина Евгения Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
           }
         }
       ]
@@ -526,8 +543,10 @@
           "groupName": "12226-08",
           "weekParity": "both",
           "teacher": {
-            "name": "Гаранина Евгения Алексеевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
+            "name": "Кара Марина Германовна",
+            "id": "100497",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100497/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/09/small/p100497.jpg?token_static=1e9ca2248aee58ee01027df1c9bb1c41"
           }
         },
         {
@@ -543,10 +562,8 @@
           "groupName": "12226-08",
           "weekParity": "both",
           "teacher": {
-            "name": "Кара Марина Германовна",
-            "id": "100497",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100497/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/09/small/p100497.jpg?token_static=1e9ca2248aee58ee01027df1c9bb1c41"
+            "name": "Гаранина Евгения Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
           }
         },
         {

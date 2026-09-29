@@ -2,8 +2,8 @@
   "teacherId": "Гиль Максим Алексеевич",
   "teacherName": "Гиль Максим Алексеевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/06/small/p124850.jpg?token_static=d64aaadc32bf0e7484d2aa7b252e5950",
-  "updatedAt": "2026-09-29T08:27:28.739Z",
-  "totalLessons": 14,
+  "updatedAt": "2026-09-29T19:25:11.927Z",
+  "totalLessons": 17,
   "days": [
     {
       "dayName": "Понедельник",
@@ -41,6 +41,23 @@
           "room": "У 316",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20420",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гиль Максим Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/06/small/p124850.jpg?token_static=d64aaadc32bf0e7484d2aa7b252e5950"
+          }
+        },
+        {
+          "id": "7467-2-14:00-3",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 436",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-03",
           "weekParity": "down",
           "teacher": {
             "name": "Гиль Максим Алексеевич",
@@ -104,6 +121,40 @@
       "dayName": "Среда",
       "dayIndex": 3,
       "lessons": [
+        {
+          "id": "7467-3-10:10-2",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 416",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-03",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гиль Максим Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/06/small/p124850.jpg?token_static=d64aaadc32bf0e7484d2aa7b252e5950"
+          }
+        },
+        {
+          "id": "7467-3-11:50-4",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 439",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-03",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гиль Максим Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/06/small/p124850.jpg?token_static=d64aaadc32bf0e7484d2aa7b252e5950"
+          }
+        },
         {
           "id": "7468-3-10:10-3",
           "dayIndex": 3,

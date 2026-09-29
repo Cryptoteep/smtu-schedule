@@ -3,8 +3,8 @@
   "teacherName": "Загребельный Кирилл Александрович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
-  "updatedAt": "2026-09-29T08:27:28.757Z",
-  "totalLessons": 14,
+  "updatedAt": "2026-09-29T19:25:11.949Z",
+  "totalLessons": 15,
   "days": [
     {
       "dayName": "Понедельник",
@@ -191,7 +191,7 @@
           "rawType": "Практическое занятие",
           "room": "У 174 - 177",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "2261, 2262, 2263, 2264, 2268, 2269",
+          "groupName": "2261, 2262, 2263, 2264, 2268, 2269, 20226, 20227, 20230, 20231",
           "weekParity": "both",
           "teacher": {
             "name": "Загребельный Кирилл Александрович",
@@ -209,7 +209,7 @@
           "rawType": "Практическое занятие",
           "room": "У 174 - 177",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "2261, 2262, 2263, 2264, 2268, 2269",
+          "groupName": "2261, 2262, 2263, 2264, 2268, 2269, 20226, 20227, 20230, 20231",
           "weekParity": "both",
           "teacher": {
             "name": "Загребельный Кирилл Александрович",
@@ -227,7 +227,26 @@
           "rawType": "Практическое занятие",
           "room": "У 174 - 177",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "2261, 2262, 2263, 2264, 2268, 2269",
+          "groupName": "2261, 2262, 2263, 2264, 2268, 2269, 20226, 20227, 20230, 20231",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Загребельный Кирилл Александрович",
+            "id": "102751",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
+          }
+        },
+        {
+          "id": "7749-5-14:00-1",
+          "dayIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20226, 20227, 20230, 20231",
           "weekParity": "both",
           "teacher": {
             "name": "Загребельный Кирилл Александрович",

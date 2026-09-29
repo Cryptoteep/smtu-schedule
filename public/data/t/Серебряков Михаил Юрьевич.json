@@ -2,8 +2,8 @@
   "teacherId": "Серебряков Михаил Юрьевич",
   "teacherName": "Серебряков Михаил Юрьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a",
-  "updatedAt": "2026-09-29T08:27:28.738Z",
-  "totalLessons": 33,
+  "updatedAt": "2026-09-29T19:25:11.927Z",
+  "totalLessons": 34,
   "days": [
     {
       "dayName": "Понедельник",
@@ -269,6 +269,23 @@
       "dayName": "Среда",
       "dayIndex": 3,
       "lessons": [
+        {
+          "id": "7816-3-11:50-2",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Вычислительные системы и сетевые технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 436",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-52",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
+          }
+        },
         {
           "id": "7917-3-11:50-2",
           "dayIndex": 3,

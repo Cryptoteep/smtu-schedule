@@ -2,8 +2,8 @@
   "teacherId": "Валова Дарья Сергеевна",
   "teacherName": "Валова Дарья Сергеевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/02/16/small/p126067.jpg?token_static=fcbb79d2976d624ecf44dbd9184786d0",
-  "updatedAt": "2026-09-29T08:27:28.739Z",
-  "totalLessons": 3,
+  "updatedAt": "2026-09-29T19:25:11.928Z",
+  "totalLessons": 4,
   "days": [
     {
       "dayName": "Понедельник",
@@ -84,7 +84,25 @@
     {
       "dayName": "Суббота",
       "dayIndex": 6,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7750-6-11:50-3",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Вычислительные системы и сетевые технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 436",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20227",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Валова Дарья Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/02/16/small/p126067.jpg?token_static=fcbb79d2976d624ecf44dbd9184786d0"
+          }
+        }
+      ]
     }
   ]
 }

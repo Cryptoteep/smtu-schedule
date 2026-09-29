@@ -3,8 +3,8 @@
   "teacherName": "Евграфова Ирина Владимировна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100356/",
-  "updatedAt": "2026-09-29T08:27:28.692Z",
-  "totalLessons": 40,
+  "updatedAt": "2026-09-29T19:25:11.875Z",
+  "totalLessons": 44,
   "days": [
     {
       "dayName": "Понедельник",
@@ -129,6 +129,44 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "4302",
           "weekParity": "up",
+          "teacher": {
+            "name": "Евграфова Ирина Владимировна",
+            "id": "100356",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100356/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
+          }
+        },
+        {
+          "id": "7751-1-15:40-3",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Педагогика высшей школы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20230",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Евграфова Ирина Владимировна",
+            "id": "100356",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100356/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
+          }
+        },
+        {
+          "id": "7751-1-17:20-5",
+          "dayIndex": 1,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Педагогика высшей школы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20230",
+          "weekParity": "down",
           "teacher": {
             "name": "Евграфова Ирина Владимировна",
             "id": "100356",
@@ -488,7 +526,7 @@
           "subject": "Деловые коммуникации",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 421",
+          "room": "У 438",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20290",
           "weekParity": "up",
@@ -607,6 +645,44 @@
           "room": "У 502",
           "campus": "Ульянка (Корпус У)",
           "groupName": "4300",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Евграфова Ирина Владимировна",
+            "id": "100356",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100356/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
+          }
+        },
+        {
+          "id": "7751-4-14:00-1",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Педагогика высшей школы",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20230",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Евграфова Ирина Владимировна",
+            "id": "100356",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100356/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
+          }
+        },
+        {
+          "id": "7751-4-15:40-2",
+          "dayIndex": 4,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Педагогика высшей школы",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 243",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20230",
           "weekParity": "up",
           "teacher": {
             "name": "Евграфова Ирина Владимировна",

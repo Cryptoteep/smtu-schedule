@@ -1,7 +1,7 @@
 {
   "groupId": "7467",
   "groupName": "12515-03",
-  "updatedAt": "2026-09-29T08:27:18.612Z",
+  "updatedAt": "2026-09-29T19:25:03.800Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -13,8 +13,8 @@
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Обучение служением",
-          "type": "lecture",
-          "rawType": "Лекция",
+          "type": "practice",
+          "rawType": "Практическое занятие",
           "room": "Конгресс-Центр 426",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-03",
@@ -30,8 +30,8 @@
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Обучение служением",
-          "type": "practice",
-          "rawType": "Практическое занятие",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "Конгресс-Центр 426",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-03",
@@ -184,7 +184,7 @@
           "subject": "Линейная алгебра, Аналитическая геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 440",
+          "room": "У 438",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-03",
           "weekParity": "down",
@@ -208,8 +208,8 @@
           "groupName": "12515-03",
           "weekParity": "down",
           "teacher": {
-            "name": "Козирацкая Карина Константиновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
+            "name": "Гиль Максим Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/06/small/p124850.jpg?token_static=d64aaadc32bf0e7484d2aa7b252e5950"
           }
         },
         {
@@ -267,8 +267,8 @@
           "groupName": "12515-03",
           "weekParity": "up",
           "teacher": {
-            "name": "Козирацкая Карина Константиновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
+            "name": "Гиль Максим Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/06/small/p124850.jpg?token_static=d64aaadc32bf0e7484d2aa7b252e5950"
           }
         },
         {
@@ -296,35 +296,17 @@
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 435",
+          "room": "У 439",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12515-03",
           "weekParity": "up",
           "teacher": {
-            "name": "Козирацкая Карина Константиновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
+            "name": "Гиль Максим Алексеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/10/06/small/p124850.jpg?token_static=d64aaadc32bf0e7484d2aa7b252e5950"
           }
         },
         {
           "id": "7467-3-11:50-5",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Обучение служением",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 502",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-03",
-          "weekParity": "down",
-          "dateSpecific": "21.10 - 9.12",
-          "teacher": {
-            "name": "Березовская Ирина Петровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
-          }
-        },
-        {
-          "id": "7467-3-11:50-6",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -336,6 +318,24 @@
           "groupName": "12515-03",
           "weekParity": "down",
           "dateSpecific": "23.09 - 14.10",
+          "teacher": {
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
+          }
+        },
+        {
+          "id": "7467-3-11:50-6",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Обучение служением",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 502",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12515-03",
+          "weekParity": "down",
+          "dateSpecific": "21.10 - 9.12",
           "teacher": {
             "name": "Березовская Ирина Петровна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"

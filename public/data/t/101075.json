@@ -3,8 +3,8 @@
   "teacherName": "Силина Екатерина Кузьминична",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/12/small/p101075.jpg?token_static=069007c8e0d264f2a44a67dc923db9ce",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101075/",
-  "updatedAt": "2026-09-29T08:27:28.825Z",
-  "totalLessons": 22,
+  "updatedAt": "2026-09-29T19:25:12.027Z",
+  "totalLessons": 20,
   "days": [
     {
       "dayName": "Понедельник",
@@ -172,8 +172,8 @@
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Иностранный язык",
-          "type": "lecture",
-          "rawType": "Лекция",
+          "type": "practice",
+          "rawType": "Практическое занятие",
           "room": "У каф.ИЯ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-02",
@@ -271,7 +271,7 @@
           "rawType": "Практическое занятие",
           "room": "У каф.ИЯ",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-51",
+          "groupName": "12515-51, 12515-50",
           "weekParity": "down",
           "teacher": {
             "name": "Силина Екатерина Кузьминична",
@@ -290,46 +290,8 @@
           "rawType": "Практическое занятие",
           "room": "У каф.ИЯ",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-51",
+          "groupName": "12515-51, 12515-50",
           "weekParity": "down",
-          "teacher": {
-            "name": "Силина Екатерина Кузьминична",
-            "id": "101075",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101075/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/12/small/p101075.jpg?token_static=069007c8e0d264f2a44a67dc923db9ce"
-          }
-        },
-        {
-          "id": "7818-5-15:40-4",
-          "dayIndex": 5,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Иностранный язык в профессиональной и академической коммуникации",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-50",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Силина Екатерина Кузьминична",
-            "id": "101075",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101075/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/12/small/p101075.jpg?token_static=069007c8e0d264f2a44a67dc923db9ce"
-          }
-        },
-        {
-          "id": "7818-5-17:20-5",
-          "dayIndex": 5,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Иностранный язык в профессиональной и академической коммуникации",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-50",
-          "weekParity": "up",
           "teacher": {
             "name": "Силина Екатерина Кузьминична",
             "id": "101075",

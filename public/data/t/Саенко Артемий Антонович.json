@@ -2,7 +2,7 @@
   "teacherId": "Саенко Артемий Антонович",
   "teacherName": "Саенко Артемий Антонович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p131856.jpg?token_static=5710e658157408c937f04c5abe5adfe6",
-  "updatedAt": "2026-09-29T08:27:28.824Z",
+  "updatedAt": "2026-09-29T19:25:12.027Z",
   "totalLessons": 6,
   "days": [
     {
@@ -36,25 +36,7 @@
     {
       "dayName": "Среда",
       "dayIndex": 3,
-      "lessons": [
-        {
-          "id": "7803-3-11:50-6",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 307",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-03",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Саенко Артемий Антонович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p131856.jpg?token_static=5710e658157408c937f04c5abe5adfe6"
-          }
-        }
-      ]
+      "lessons": []
     },
     {
       "dayName": "Четверг",
@@ -68,7 +50,7 @@
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 319",
+          "room": "У 316",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-02",
           "weekParity": "up",
@@ -112,6 +94,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-02",
           "weekParity": "down",
+          "teacher": {
+            "name": "Саенко Артемий Антонович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p131856.jpg?token_static=5710e658157408c937f04c5abe5adfe6"
+          }
+        },
+        {
+          "id": "7803-5-08:30-1",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-03",
+          "weekParity": "up",
           "teacher": {
             "name": "Саенко Артемий Антонович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/01/small/p131856.jpg?token_static=5710e658157408c937f04c5abe5adfe6"

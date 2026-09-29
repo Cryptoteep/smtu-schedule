@@ -2,8 +2,8 @@
   "teacherId": "Козирацкая Карина Константиновна",
   "teacherName": "Козирацкая Карина Константиновна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4",
-  "updatedAt": "2026-09-29T08:27:28.738Z",
-  "totalLessons": 28,
+  "updatedAt": "2026-09-29T19:25:11.927Z",
+  "totalLessons": 25,
   "days": [
     {
       "dayName": "Понедельник",
@@ -95,23 +95,6 @@
           }
         },
         {
-          "id": "7467-2-14:00-3",
-          "dayIndex": 2,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 436",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-03",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Козирацкая Карина Константиновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
-          }
-        },
-        {
           "id": "7749-2-19:00-5",
           "dayIndex": 2,
           "time": "19:00-20:30",
@@ -186,40 +169,6 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7467-3-10:10-2",
-          "dayIndex": 3,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 416",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-03",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Козирацкая Карина Константиновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
-          }
-        },
-        {
-          "id": "7467-3-11:50-4",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 435",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-03",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Козирацкая Карина Константиновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
-          }
-        },
-        {
           "id": "7749-3-14:00-1",
           "dayIndex": 3,
           "time": "14:00-15:30",
@@ -237,7 +186,7 @@
           }
         },
         {
-          "id": "7749-3-15:40-2",
+          "id": "7749-3-15:40-3",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -254,7 +203,7 @@
           }
         },
         {
-          "id": "7749-3-17:20-3",
+          "id": "7749-3-17:20-4",
           "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -271,7 +220,7 @@
           }
         },
         {
-          "id": "7749-3-19:00-5",
+          "id": "7749-3-19:00-6",
           "dayIndex": 3,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,

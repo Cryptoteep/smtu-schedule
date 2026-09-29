@@ -1,7 +1,7 @@
 {
   "groupId": "6965",
   "groupName": "12115-04",
-  "updatedAt": "2026-09-29T08:27:04.629Z",
+  "updatedAt": "2026-09-29T19:24:51.982Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -271,7 +271,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 215",
+          "room": "У 205-ИИТ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12115-04",
           "weekParity": "down",
@@ -288,7 +288,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 205-ИИТ",
+          "room": "У 215",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12115-04",
           "weekParity": "down",
@@ -330,10 +330,27 @@
           "subject": "Линейная алгебра, Аналитическая геометрия",
           "type": "lecture",
           "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12115-04",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сорокин Вадим Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101137.jpg?token_static=3c5ba78392bc54806ff547d5a75d1b11"
+          }
+        },
+        {
+          "id": "6965-4-10:10-3",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Линейная алгебра, Аналитическая геометрия",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "Б 401",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12115-04",
-          "weekParity": "both",
+          "weekParity": "down",
           "teacher": {
             "name": "Сорокин Вадим Николаевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101137.jpg?token_static=3c5ba78392bc54806ff547d5a75d1b11"

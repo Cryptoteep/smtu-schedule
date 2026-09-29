@@ -2,8 +2,8 @@
   "teacherId": "Акуленок Ирина Николаевна",
   "teacherName": "Акуленок Ирина Николаевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7",
-  "updatedAt": "2026-09-29T08:27:28.751Z",
-  "totalLessons": 35,
+  "updatedAt": "2026-09-29T19:25:11.941Z",
+  "totalLessons": 37,
   "days": [
     {
       "dayName": "Понедельник",
@@ -318,6 +318,23 @@
       "dayIndex": 3,
       "lessons": [
         {
+          "id": "7776-3-14:00-6",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Цифровые технологии в жизненном цикле морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Акуленок Ирина Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"
+          }
+        },
+        {
           "id": "7780-3-08:30-1",
           "dayIndex": 3,
           "time": "08:30-10:00",
@@ -431,6 +448,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12739-01",
           "weekParity": "down",
+          "teacher": {
+            "name": "Акуленок Ирина Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"
+          }
+        },
+        {
+          "id": "7840-3-17:20-6",
+          "dayIndex": 3,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Информатика",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 107",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12739-02, 12739-03",
+          "weekParity": "up",
           "teacher": {
             "name": "Акуленок Ирина Николаевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"

@@ -2,8 +2,8 @@
   "teacherId": "Царева Полина Евгеньевна",
   "teacherName": "Царева Полина Евгеньевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2",
-  "updatedAt": "2026-09-29T08:27:28.738Z",
-  "totalLessons": 30,
+  "updatedAt": "2026-09-29T19:25:11.927Z",
+  "totalLessons": 29,
   "days": [
     {
       "dayName": "Понедельник",
@@ -225,6 +225,23 @@
             "name": "Царева Полина Евгеньевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
           }
+        },
+        {
+          "id": "7767-2-11:50-5",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Теория игр и исследование операций",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 206",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20321",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Царева Полина Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
+          }
         }
       ]
     },
@@ -233,7 +250,7 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7749-3-17:20-4",
+          "id": "7749-3-17:20-5",
           "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -250,7 +267,7 @@
           }
         },
         {
-          "id": "7749-3-19:00-6",
+          "id": "7749-3-19:00-7",
           "dayIndex": 3,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -278,40 +295,6 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20321",
           "weekParity": "up",
-          "teacher": {
-            "name": "Царева Полина Евгеньевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
-          }
-        },
-        {
-          "id": "7767-3-14:00-7",
-          "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Теория игр и исследование операций",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 436",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20321",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Царева Полина Евгеньевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"
-          }
-        },
-        {
-          "id": "7767-3-15:40-8",
-          "dayIndex": 3,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Теория игр и исследование операций",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 316",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20321",
-          "weekParity": "down",
           "teacher": {
             "name": "Царева Полина Евгеньевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107678.jpg?token_static=6c1a12583280fd16cc496dc9507b97d2"

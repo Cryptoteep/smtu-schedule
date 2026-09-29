@@ -1,7 +1,7 @@
 {
   "groupId": "7497",
   "groupName": "7201",
-  "updatedAt": "2026-09-29T08:27:24.238Z",
+  "updatedAt": "2026-09-29T19:25:08.909Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -466,7 +466,11 @@
           "room": "У 154",
           "campus": "Ульянка (Корпус У)",
           "groupName": "7201",
-          "weekParity": "down"
+          "weekParity": "down",
+          "teacher": {
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
+          }
         },
         {
           "id": "7497-6-10:10-2",

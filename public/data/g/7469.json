@@ -1,7 +1,7 @@
 {
   "groupId": "7469",
   "groupName": "20371",
-  "updatedAt": "2026-09-29T08:27:20.634Z",
+  "updatedAt": "2026-09-29T19:25:05.538Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -105,26 +105,7 @@
           }
         },
         {
-          "id": "7469-2-14:00-2",
-          "dayIndex": 2,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Основы теплофизики и механики сплошных сред",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 324",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20371",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Ларионов Николай Владимирович",
-            "id": "104846",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/104846/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104846.jpg?token_static=de6c8f5c086b0306d8efda8ce9e3cd94"
-          }
-        },
-        {
-          "id": "7469-2-15:40-3",
+          "id": "7469-2-15:40-2",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -141,7 +122,7 @@
           }
         },
         {
-          "id": "7469-2-15:40-4",
+          "id": "7469-2-15:40-3",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -160,7 +141,7 @@
           }
         },
         {
-          "id": "7469-2-17:20-5",
+          "id": "7469-2-17:20-4",
           "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -177,7 +158,7 @@
           }
         },
         {
-          "id": "7469-2-17:20-6",
+          "id": "7469-2-17:20-5",
           "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -194,7 +175,7 @@
           }
         },
         {
-          "id": "7469-2-19:00-7",
+          "id": "7469-2-19:00-6",
           "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -213,7 +194,7 @@
           }
         },
         {
-          "id": "7469-2-19:00-8",
+          "id": "7469-2-19:00-7",
           "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -245,7 +226,7 @@
           "subject": "Теория систем и системный анализ",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 313",
+          "room": "Конгресс-Центр 421",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20371",
           "weekParity": "up",
@@ -262,9 +243,9 @@
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Основы теплофизики и механики сплошных сред",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 322-322а",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 324",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20371",
           "weekParity": "up",
@@ -276,7 +257,45 @@
           }
         },
         {
-          "id": "7469-3-17:20-3",
+          "id": "7469-3-15:40-3",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы теплофизики и механики сплошных сред",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 322-322а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20371",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ларионов Николай Владимирович",
+            "id": "104846",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104846/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104846.jpg?token_static=de6c8f5c086b0306d8efda8ce9e3cd94"
+          }
+        },
+        {
+          "id": "7469-3-17:20-4",
+          "dayIndex": 3,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы теплофизики и механики сплошных сред",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 324",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20371",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ларионов Николай Владимирович",
+            "id": "104846",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/104846/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104846.jpg?token_static=de6c8f5c086b0306d8efda8ce9e3cd94"
+          }
+        },
+        {
+          "id": "7469-3-17:20-5",
           "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -286,26 +305,7 @@
           "room": "У 322-322а",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20371",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Ларионов Николай Владимирович",
-            "id": "104846",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/104846/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p104846.jpg?token_static=de6c8f5c086b0306d8efda8ce9e3cd94"
-          }
-        },
-        {
-          "id": "7469-3-19:00-4",
-          "dayIndex": 3,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Основы теплофизики и механики сплошных сред",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 324",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20371",
-          "weekParity": "up",
+          "weekParity": "down",
           "teacher": {
             "name": "Ларионов Николай Владимирович",
             "id": "104846",
@@ -470,22 +470,22 @@
       "dayIndex": 5,
       "lessons": [
         {
-          "id": "7469-5-14:00-1",
+          "id": "7469-5-11:50-1",
           "dayIndex": 5,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Электроника",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 318",
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 534",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20371",
-          "weekParity": "up",
+          "weekParity": "down",
           "teacher": {
-            "name": "Ветров Борис Георгиевич",
-            "id": "100209",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100209/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/26/small/p100209.jpg?token_static=009872370c283ae287618e9ec0a5c72d"
+            "name": "Бронникова Лилия Васильевна",
+            "id": "100159",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
           }
         },
         {
@@ -499,7 +499,7 @@
           "room": "У 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20371",
-          "weekParity": "down",
+          "weekParity": "up",
           "teacher": {
             "name": "Ветров Борис Георгиевич",
             "id": "100209",
@@ -508,17 +508,17 @@
           }
         },
         {
-          "id": "7469-5-15:40-3",
+          "id": "7469-5-14:00-3",
           "dayIndex": 5,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
           "subject": "Электроника",
-          "type": "practice",
-          "rawType": "Практическое занятие",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "У 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20371",
-          "weekParity": "up",
+          "weekParity": "down",
           "teacher": {
             "name": "Ветров Борис Георгиевич",
             "id": "100209",
@@ -537,6 +537,25 @@
           "room": "У 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20371",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ветров Борис Георгиевич",
+            "id": "100209",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100209/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/06/26/small/p100209.jpg?token_static=009872370c283ae287618e9ec0a5c72d"
+          }
+        },
+        {
+          "id": "7469-5-15:40-5",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Электроника",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20371",
           "weekParity": "down",
           "teacher": {
             "name": "Ветров Борис Георгиевич",
@@ -546,7 +565,7 @@
           }
         },
         {
-          "id": "7469-5-17:20-5",
+          "id": "7469-5-17:20-6",
           "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -560,25 +579,6 @@
           "teacher": {
             "name": "Гриценко Кристина Вадимовна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p122567.jpg?token_static=95f74c567c7811732c279d342b68f0a3"
-          }
-        },
-        {
-          "id": "7469-5-17:20-6",
-          "dayIndex": 5,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Безопасность жизнедеятельности",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 534",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20371",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Бронникова Лилия Васильевна",
-            "id": "100159",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
           }
         }
       ]

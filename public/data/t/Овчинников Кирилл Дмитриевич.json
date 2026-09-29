@@ -3,8 +3,8 @@
   "teacherName": "Овчинников Кирилл Дмитриевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100836.jpg?token_static=2aa4c777fa8676fc89ba0c631c82ef57",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100836/",
-  "updatedAt": "2026-09-29T08:27:28.718Z",
-  "totalLessons": 12,
+  "updatedAt": "2026-09-29T19:25:11.902Z",
+  "totalLessons": 14,
   "days": [
     {
       "dayName": "Понедельник",
@@ -39,6 +39,44 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "1516",
           "weekParity": "both",
+          "teacher": {
+            "name": "Овчинников Кирилл Дмитриевич",
+            "id": "100836",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100836/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100836.jpg?token_static=2aa4c777fa8676fc89ba0c631c82ef57"
+          }
+        },
+        {
+          "id": "7577-1-10:10-3",
+          "dayIndex": 1,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Автоматизированное проектирование судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 169",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1516",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Овчинников Кирилл Дмитриевич",
+            "id": "100836",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100836/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p100836.jpg?token_static=2aa4c777fa8676fc89ba0c631c82ef57"
+          }
+        },
+        {
+          "id": "7577-1-11:50-5",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Автоматизированное проектирование судов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 326",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1516",
+          "weekParity": "down",
           "teacher": {
             "name": "Овчинников Кирилл Дмитриевич",
             "id": "100836",

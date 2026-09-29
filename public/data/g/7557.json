@@ -1,7 +1,7 @@
 {
   "groupId": "7557",
   "groupName": "1310",
-  "updatedAt": "2026-09-29T08:27:07.203Z",
+  "updatedAt": "2026-09-29T19:24:53.630Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -219,13 +219,13 @@
           "subject": "Материаловедение современных и перспективных материалов",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "У 191а",
+          "room": "У 191",
           "campus": "Ульянка (Корпус У)",
           "groupName": "1310",
           "weekParity": "down",
           "teacher": {
-            "name": "Лебедева Светлана Николаевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100663.jpg?token_static=4fbfd08a4db0f4d5cd3eda7a94c74abb"
+            "name": "Фирсов Анатолий Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p101257.jpg?token_static=37b9468440e1158d7392a8440ec7b01d"
           }
         },
         {
@@ -236,13 +236,13 @@
           "subject": "Материаловедение современных и перспективных материалов",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "У 191",
+          "room": "У 191а",
           "campus": "Ульянка (Корпус У)",
           "groupName": "1310",
           "weekParity": "down",
           "teacher": {
-            "name": "Фирсов Анатолий Михайлович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p101257.jpg?token_static=37b9468440e1158d7392a8440ec7b01d"
+            "name": "Лебедева Светлана Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100663.jpg?token_static=4fbfd08a4db0f4d5cd3eda7a94c74abb"
           }
         },
         {
@@ -405,7 +405,43 @@
       "dayIndex": 5,
       "lessons": [
         {
-          "id": "7557-5-11:50-1",
+          "id": "7557-5-08:30-1",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Корабельное электрооборудование",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гришаков Евгений Сергеевич",
+            "id": "100304",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100304/"
+          }
+        },
+        {
+          "id": "7557-5-10:10-2",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Корабельное электрооборудование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 318-А",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1310",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гришаков Евгений Сергеевич",
+            "id": "100304",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100304/"
+          }
+        },
+        {
+          "id": "7557-5-11:50-3",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -424,7 +460,7 @@
           }
         },
         {
-          "id": "7557-5-14:00-2",
+          "id": "7557-5-14:00-4",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -443,7 +479,7 @@
           }
         },
         {
-          "id": "7557-5-14:00-3",
+          "id": "7557-5-14:00-5",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -462,25 +498,7 @@
           }
         },
         {
-          "id": "7557-5-15:40-4",
-          "dayIndex": 5,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Корабельное электрооборудование",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "А 318-А",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "1310",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Гришаков Евгений Сергеевич",
-            "id": "100304",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100304/"
-          }
-        },
-        {
-          "id": "7557-5-15:40-5",
+          "id": "7557-5-15:40-6",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -497,24 +515,6 @@
           }
         },
         {
-          "id": "7557-5-17:20-6",
-          "dayIndex": 5,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Корабельное электрооборудование",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "А 319",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "1310",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Гришаков Евгений Сергеевич",
-            "id": "100304",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100304/"
-          }
-        },
-        {
           "id": "7557-5-17:20-7",
           "dayIndex": 5,
           "time": "17:20-18:50",
@@ -522,7 +522,7 @@
           "subject": "Корабельное электрооборудование",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "А 320",
+          "room": "А 319",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "1310",
           "weekParity": "up",

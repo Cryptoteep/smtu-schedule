@@ -2,8 +2,8 @@
   "teacherId": "Ловягин Никита Юрьевич",
   "teacherName": "Ловягин Никита Юрьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123528.jpg?token_static=a338c14c65568c9a9172b88fc6062893",
-  "updatedAt": "2026-09-29T08:27:28.825Z",
-  "totalLessons": 9,
+  "updatedAt": "2026-09-29T19:25:12.027Z",
+  "totalLessons": 11,
   "days": [
     {
       "dayName": "Понедельник",
@@ -24,7 +24,7 @@
           "rawType": "Лекция",
           "room": "У 161",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-06, 12509-01, 12509-05, 12509-07",
+          "groupName": "12509-06, 12509-01, 12509-05",
           "weekParity": "both",
           "teacher": {
             "name": "Ловягин Никита Юрьевич",
@@ -38,23 +38,6 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7444-3-10:10-1",
-          "dayIndex": 3,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Алгебра и геометрия",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 163",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-02, 12509-04, 12509-03, 12509-08",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Ловягин Никита Юрьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123528.jpg?token_static=a338c14c65568c9a9172b88fc6062893"
-          }
-        },
-        {
           "id": "7487-3-14:00-6",
           "dayIndex": 3,
           "time": "14:00-15:30",
@@ -66,6 +49,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-06",
           "weekParity": "down",
+          "teacher": {
+            "name": "Ловягин Никита Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123528.jpg?token_static=a338c14c65568c9a9172b88fc6062893"
+          }
+        },
+        {
+          "id": "7505-3-10:10-1",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Алгебра и геометрия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-04, 12509-01, 12509-03, 12509-08",
+          "weekParity": "up",
           "teacher": {
             "name": "Ловягин Никита Юрьевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123528.jpg?token_static=a338c14c65568c9a9172b88fc6062893"
@@ -112,7 +112,24 @@
       "dayIndex": 4,
       "lessons": [
         {
-          "id": "7444-4-08:30-1",
+          "id": "7444-4-10:10-1",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Алгебра и геометрия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12509-02, 12509-07",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ловягин Никита Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123528.jpg?token_static=a338c14c65568c9a9172b88fc6062893"
+          }
+        },
+        {
+          "id": "7505-4-08:30-1",
           "dayIndex": 4,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
@@ -121,7 +138,7 @@
           "rawType": "Лекция",
           "room": "У 165",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-02, 12509-04, 12509-03, 12509-08",
+          "groupName": "12509-04, 12509-03, 12509-08",
           "weekParity": "down",
           "teacher": {
             "name": "Ловягин Никита Юрьевич",
@@ -140,6 +157,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-04",
           "weekParity": "down",
+          "teacher": {
+            "name": "Ловягин Никита Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123528.jpg?token_static=a338c14c65568c9a9172b88fc6062893"
+          }
+        },
+        {
+          "id": "7806-4-08:30-1",
+          "dayIndex": 4,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Алгебра и геометрия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12509-07",
+          "weekParity": "up",
           "teacher": {
             "name": "Ловягин Никита Юрьевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123528.jpg?token_static=a338c14c65568c9a9172b88fc6062893"

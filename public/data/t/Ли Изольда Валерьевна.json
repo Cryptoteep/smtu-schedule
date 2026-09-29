@@ -2,8 +2,8 @@
   "teacherId": "Ли Изольда Валерьевна",
   "teacherName": "Ли Изольда Валерьевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8",
-  "updatedAt": "2026-09-29T08:27:28.734Z",
-  "totalLessons": 10,
+  "updatedAt": "2026-09-29T19:25:11.922Z",
+  "totalLessons": 16,
   "days": [
     {
       "dayName": "Понедельник",
@@ -153,7 +153,110 @@
     {
       "dayName": "Среда",
       "dayIndex": 3,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7770-3-11:50-1",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Сети и системы передачи информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        },
+        {
+          "id": "7770-3-14:00-3",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Сети и системы передачи информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        },
+        {
+          "id": "7770-3-15:40-5",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Сети и системы передачи информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        },
+        {
+          "id": "7770-3-17:20-6",
+          "dayIndex": 3,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Программно-аппаратные средства защиты информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        },
+        {
+          "id": "7770-3-17:20-7",
+          "dayIndex": 3,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Сети и системы передачи информации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        },
+        {
+          "id": "7770-3-19:00-8",
+          "dayIndex": 3,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Программно-аппаратные средства защиты информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        }
+      ]
     },
     {
       "dayName": "Четверг",

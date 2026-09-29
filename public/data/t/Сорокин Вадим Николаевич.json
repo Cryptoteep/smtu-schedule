@@ -2,8 +2,8 @@
   "teacherId": "Сорокин Вадим Николаевич",
   "teacherName": "Сорокин Вадим Николаевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101137.jpg?token_static=3c5ba78392bc54806ff547d5a75d1b11",
-  "updatedAt": "2026-09-29T08:27:28.816Z",
-  "totalLessons": 12,
+  "updatedAt": "2026-09-29T19:25:12.018Z",
+  "totalLessons": 13,
   "days": [
     {
       "dayName": "Понедельник",
@@ -59,7 +59,7 @@
           "rawType": "Лекция",
           "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "12226-35, 12226-08, 12226-10",
+          "groupName": "12226-35, 12226-08, 12226-09, 12226-10, 12226-37",
           "weekParity": "both",
           "teacher": {
             "name": "Сорокин Вадим Николаевич",
@@ -137,10 +137,27 @@
           "subject": "Линейная алгебра, Аналитическая геометрия",
           "type": "lecture",
           "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12115-04, 12126-02, 12126-01, 12126-03",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Сорокин Вадим Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101137.jpg?token_static=3c5ba78392bc54806ff547d5a75d1b11"
+          }
+        },
+        {
+          "id": "6965-4-10:10-3",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Линейная алгебра, Аналитическая геометрия",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "Б 401",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12115-04, 12126-02, 12126-01, 12126-03",
-          "weekParity": "both",
+          "weekParity": "down",
           "teacher": {
             "name": "Сорокин Вадим Николаевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101137.jpg?token_static=3c5ba78392bc54806ff547d5a75d1b11"

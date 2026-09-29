@@ -3,7 +3,7 @@
   "teacherName": "Дубин Марат Мухаметханович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
-  "updatedAt": "2026-09-29T08:27:28.746Z",
+  "updatedAt": "2026-09-29T19:25:11.935Z",
   "totalLessons": 27,
   "days": [
     {
@@ -108,7 +108,7 @@
           }
         },
         {
-          "id": "7469-2-19:00-8",
+          "id": "7469-2-19:00-7",
           "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -177,7 +177,7 @@
           "subject": "Теория систем и системный анализ",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 313",
+          "room": "Конгресс-Центр 421",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20371",
           "weekParity": "up",
@@ -208,25 +208,6 @@
           }
         },
         {
-          "id": "7752-3-17:20-3",
-          "dayIndex": 3,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Научно-технический семинар",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 414",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20231",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Дубин Марат Мухаметханович",
-            "id": "123177",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
-          }
-        },
-        {
           "id": "7769-3-14:00-1",
           "dayIndex": 3,
           "time": "14:00-15:30",
@@ -238,6 +219,25 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20370",
           "weekParity": "down",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        },
+        {
+          "id": "7770-3-15:40-4",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 407",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "up",
           "teacher": {
             "name": "Дубин Марат Мухаметханович",
             "id": "123177",
@@ -307,7 +307,7 @@
           }
         },
         {
-          "id": "7766-4-14:00-3",
+          "id": "7766-4-14:00-2",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

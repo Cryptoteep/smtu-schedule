@@ -1,7 +1,7 @@
 {
   "groupId": "7770",
   "groupName": "20380",
-  "updatedAt": "2026-09-29T08:27:20.587Z",
+  "updatedAt": "2026-09-29T19:25:05.552Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -101,7 +101,24 @@
           }
         },
         {
-          "id": "7770-2-15:40-4",
+          "id": "7770-2-14:00-4",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Аудит защищенности объекта информатизации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бобылев Анатолий Викторович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/04/small/p124711.jpg?token_static=621cbba67deb7c1cd1118bd8a07b8365"
+          }
+        },
+        {
+          "id": "7770-2-15:40-5",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -118,7 +135,7 @@
           }
         },
         {
-          "id": "7770-2-17:20-5",
+          "id": "7770-2-17:20-6",
           "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -135,7 +152,7 @@
           }
         },
         {
-          "id": "7770-2-19:00-6",
+          "id": "7770-2-19:00-7",
           "dayIndex": 2,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -156,18 +173,181 @@
       ]
     },
     {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7770-3-11:50-1",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Сети и системы передачи информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        },
+        {
+          "id": "7770-3-14:00-2",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Аудит защищенности объекта информатизации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-06",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Федорова Анастасия Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
+          }
+        },
+        {
+          "id": "7770-3-14:00-3",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Сети и системы передачи информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        },
+        {
+          "id": "7770-3-15:40-4",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 407",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        },
+        {
+          "id": "7770-3-15:40-5",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Сети и системы передачи информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        },
+        {
+          "id": "7770-3-17:20-6",
+          "dayIndex": 3,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Программно-аппаратные средства защиты информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        },
+        {
+          "id": "7770-3-17:20-7",
+          "dayIndex": 3,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Сети и системы передачи информации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        },
+        {
+          "id": "7770-3-19:00-8",
+          "dayIndex": 3,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Программно-аппаратные средства защиты информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 307",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        }
+      ]
+    },
+    {
       "dayName": "Четверг",
       "dayIndex": 4,
       "lessons": [
         {
-          "id": "7770-4-10:10-1",
+          "id": "7770-4-08:30-1",
+          "dayIndex": 4,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Электроника и схемотехника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20380",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Агунов Михаил Викторович",
+            "id": "100006",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100006/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100006.jpg?token_static=c4ea067373c8a23ee19bdf496dad22e1"
+          }
+        },
+        {
+          "id": "7770-4-10:10-2",
           "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Анализ и синтез логических устройств",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "А 407",
+          "room": "А 450",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20380",
           "weekParity": "up",
@@ -177,10 +357,35 @@
           }
         },
         {
-          "id": "7770-4-10:10-2",
+          "id": "7770-4-10:10-3",
           "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
+          "subject": "Электроника и схемотехника",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "20380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Агунов Михаил Викторович",
+            "id": "100006",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100006/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100006.jpg?token_static=c4ea067373c8a23ee19bdf496dad22e1"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7770-5-08:30-1",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
           "subject": "Анализ и синтез логических устройств",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -194,30 +399,7 @@
           }
         },
         {
-          "id": "7770-4-11:50-3",
-          "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Методы и средства криптографической защиты информации",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "А 417-1",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "20380",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Шавинская Сания Караматовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101335.jpg?token_static=1593f2353c0e41c592e022752bdedac3"
-          }
-        }
-      ]
-    },
-    {
-      "dayName": "Пятница",
-      "dayIndex": 5,
-      "lessons": [
-        {
-          "id": "7770-5-10:10-1",
+          "id": "7770-5-10:10-2",
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -240,7 +422,24 @@
       "dayIndex": 6,
       "lessons": [
         {
-          "id": "7770-6-10:10-1",
+          "id": "7770-6-08:30-1",
+          "dayIndex": 6,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Правоведение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Зорина Елена Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/08/27/small/140520.jpg?token_static=a509183b5776aa52fe8e383b7ec4cd28"
+          }
+        },
+        {
+          "id": "7770-6-10:10-2",
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -257,7 +456,24 @@
           }
         },
         {
-          "id": "7770-6-11:50-2",
+          "id": "7770-6-10:10-3",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Правоведение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 514",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Зорина Елена Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/08/27/small/140520.jpg?token_static=a509183b5776aa52fe8e383b7ec4cd28"
+          }
+        },
+        {
+          "id": "7770-6-11:50-4",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -274,10 +490,27 @@
           }
         },
         {
-          "id": "7770-6-14:00-3",
+          "id": "7770-6-14:00-5",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
+          "subject": "Методы и средства криптографической защиты информации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 417-1",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20380",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Гусева Евгения Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/04/small/132124.jpg?token_static=9c98c86e25f30d8cd0429184cd5e31b1"
+          }
+        },
+        {
+          "id": "7770-6-15:40-6",
+          "dayIndex": 6,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
           "subject": "Методы и средства криптографической защиты информации",
           "type": "lab",
           "rawType": "Лабораторное занятие",

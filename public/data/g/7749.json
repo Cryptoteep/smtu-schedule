@@ -1,7 +1,7 @@
 {
   "groupId": "7749",
   "groupName": "20226",
-  "updatedAt": "2026-09-29T08:27:19.127Z",
+  "updatedAt": "2026-09-29T19:25:04.453Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -258,10 +258,10 @@
           }
         },
         {
-          "id": "7749-3-15:40-2",
+          "id": "7749-3-14:00-2",
           "dayIndex": 3,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
           "subject": "Научно-технический семинар",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -269,16 +269,17 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20226",
           "weekParity": "up",
+          "dateSpecific": "30.09",
           "teacher": {
             "name": "Козирацкая Карина Константиновна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
           }
         },
         {
-          "id": "7749-3-17:20-3",
+          "id": "7749-3-15:40-3",
           "dayIndex": 3,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
           "subject": "Научно-технический семинар",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -296,6 +297,23 @@
           "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
+          "subject": "Научно-технический семинар",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-13",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20226",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Козирацкая Карина Константиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
+          }
+        },
+        {
+          "id": "7749-3-17:20-5",
+          "dayIndex": 3,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
           "subject": "Системы высокопроизводительных вычислений",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -309,7 +327,7 @@
           }
         },
         {
-          "id": "7749-3-19:00-5",
+          "id": "7749-3-19:00-6",
           "dayIndex": 3,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -326,7 +344,7 @@
           }
         },
         {
-          "id": "7749-3-19:00-6",
+          "id": "7749-3-19:00-7",
           "dayIndex": 3,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -397,6 +415,168 @@
           "teacher": {
             "name": "Шестаков Михаил Николаевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/29/small/p126417.jpg?token_static=573c19622435f93a73655ad0fa4d26f5"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7749-5-14:00-1",
+          "dayIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20226",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Загребельный Кирилл Александрович",
+            "id": "102751",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
+          }
+        },
+        {
+          "id": "7749-5-15:40-2",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20226",
+          "weekParity": "both",
+          "dateSpecific": "30.10 и 6.11",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7749-5-15:40-3",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20226",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Загребельный Кирилл Александрович",
+            "id": "102751",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
+          }
+        },
+        {
+          "id": "7749-5-17:20-4",
+          "dayIndex": 5,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20226",
+          "weekParity": "both",
+          "dateSpecific": "30.10 и 6.11",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7749-5-17:20-5",
+          "dayIndex": 5,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20226",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Загребельный Кирилл Александрович",
+            "id": "102751",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
+          }
+        },
+        {
+          "id": "7749-5-19:00-6",
+          "dayIndex": 5,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Бережливое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20226",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Загребельный Кирилл Александрович",
+            "id": "102751",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
+          }
+        },
+        {
+          "id": "7749-5-19:00-7",
+          "dayIndex": 5,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20226",
+          "weekParity": "both",
+          "dateSpecific": "30.10 и 6.11",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+          }
+        },
+        {
+          "id": "7749-5-20:40-8",
+          "dayIndex": 5,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 9,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20226",
+          "weekParity": "both",
+          "dateSpecific": "30.10 и 6.11",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
           }
         }
       ]

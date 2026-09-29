@@ -1,7 +1,7 @@
 {
   "groupId": "7782",
   "groupName": "12126-03",
-  "updatedAt": "2026-09-29T08:27:04.597Z",
+  "updatedAt": "2026-09-29T19:24:52.225Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -217,7 +217,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 211",
+          "room": "У 215",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-03",
           "weekParity": "up",
@@ -234,7 +234,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 215",
+          "room": "У 211",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-03",
           "weekParity": "up",
@@ -295,32 +295,30 @@
           "subject": "Линейная алгебра, Аналитическая геометрия",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Б 401",
-          "campus": "Лоцманская (Корпус Б)",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
           "groupName": "12126-03",
-          "weekParity": "both",
+          "weekParity": "up",
           "teacher": {
             "name": "Сорокин Вадим Николаевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101137.jpg?token_static=3c5ba78392bc54806ff547d5a75d1b11"
           }
         },
         {
-          "id": "7782-4-11:50-3",
+          "id": "7782-4-10:10-3",
           "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Введение в специальность",
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Линейная алгебра, Аналитическая геометрия",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "А 450",
-          "campus": "Лоцманская (Корпус А)",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
           "groupName": "12126-03",
-          "weekParity": "up",
+          "weekParity": "down",
           "teacher": {
-            "name": "Черкаев Георгий Владимирович",
-            "id": "101309",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101309/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/25/small/p101309.jpg?token_static=ee2cf7db26238bc7ed44737b082e9642"
+            "name": "Сорокин Вадим Николаевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101137.jpg?token_static=3c5ba78392bc54806ff547d5a75d1b11"
           }
         },
         {
@@ -387,12 +385,12 @@
           "room": "А 450",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "12126-03",
-          "weekParity": "down",
+          "weekParity": "up",
           "teacher": {
-            "name": "Едуш Наталья Юрьевна",
-            "id": "100364",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+            "name": "Черкаев Георгий Владимирович",
+            "id": "101309",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101309/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/25/small/p101309.jpg?token_static=ee2cf7db26238bc7ed44737b082e9642"
           }
         },
         {
@@ -425,6 +423,25 @@
           "groupName": "12126-03",
           "weekParity": "down",
           "teacher": {
+            "name": "Едуш Наталья Юрьевна",
+            "id": "100364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+          }
+        },
+        {
+          "id": "7782-4-11:50-10",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12126-03",
+          "weekParity": "down",
+          "teacher": {
             "name": "Яковлев Алексей Юрьевич",
             "id": "101392",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
@@ -432,7 +449,7 @@
           }
         },
         {
-          "id": "7782-4-11:50-10",
+          "id": "7782-4-11:50-11",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,

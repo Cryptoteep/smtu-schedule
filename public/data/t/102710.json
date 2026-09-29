@@ -3,8 +3,8 @@
   "teacherName": "Манукян Асмик Мануковна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/02/small/p102710.jpg?token_static=c9f1f17693d3c9b7aa96f54d1366848e",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/102710/",
-  "updatedAt": "2026-09-29T08:27:28.818Z",
-  "totalLessons": 22,
+  "updatedAt": "2026-09-29T19:25:12.020Z",
+  "totalLessons": 21,
   "days": [
     {
       "dayName": "Понедельник",
@@ -169,7 +169,7 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7806-2-10:10-2",
+          "id": "7806-2-10:10-1",
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -188,7 +188,7 @@
           }
         },
         {
-          "id": "7806-2-10:10-3",
+          "id": "7806-2-10:10-2",
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -267,7 +267,7 @@
           "room": "У каф.ИЯ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-06",
-          "weekParity": "up",
+          "weekParity": "both",
           "teacher": {
             "name": "Манукян Асмик Мануковна",
             "id": "102710",
@@ -276,26 +276,7 @@
           }
         },
         {
-          "id": "7487-4-11:50-4",
-          "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Иностранный язык",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-06",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Манукян Асмик Мануковна",
-            "id": "102710",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/102710/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/02/small/p102710.jpg?token_static=c9f1f17693d3c9b7aa96f54d1366848e"
-          }
-        },
-        {
-          "id": "7487-4-14:00-5",
+          "id": "7487-4-14:00-4",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -314,7 +295,7 @@
           }
         },
         {
-          "id": "7487-4-14:00-6",
+          "id": "7487-4-14:00-5",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -339,7 +320,7 @@
       "dayIndex": 5,
       "lessons": [
         {
-          "id": "6398-5-15:40-5",
+          "id": "6398-5-15:40-6",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,

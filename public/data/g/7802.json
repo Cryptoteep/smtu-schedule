@@ -1,7 +1,7 @@
 {
   "groupId": "7802",
   "groupName": "12509-01",
-  "updatedAt": "2026-09-29T08:27:17.723Z",
+  "updatedAt": "2026-09-29T19:25:02.837Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -105,22 +105,6 @@
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 316",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-01",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Вайнт Никита"
-          }
-        },
-        {
-          "id": "7802-2-10:10-3",
-          "dayIndex": 2,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
           "subject": "Дискретная математика для инженера-программиста",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -134,7 +118,7 @@
           }
         },
         {
-          "id": "7802-2-11:50-4",
+          "id": "7802-2-11:50-3",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -153,7 +137,7 @@
           }
         },
         {
-          "id": "7802-2-14:00-5",
+          "id": "7802-2-14:00-4",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -183,10 +167,10 @@
           "subject": "Математический анализ",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 312",
+          "room": "У 407",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-01",
-          "weekParity": "down",
+          "weekParity": "up",
           "teacher": {
             "name": "Кротов Евгений Алексеевич",
             "id": "100590",
@@ -196,6 +180,23 @@
         },
         {
           "id": "7802-3-10:10-2",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Алгебра и геометрия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 163",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ловягин Никита Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123528.jpg?token_static=a338c14c65568c9a9172b88fc6062893"
+          }
+        },
+        {
+          "id": "7802-3-10:10-3",
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -214,7 +215,7 @@
           }
         },
         {
-          "id": "7802-3-11:50-3",
+          "id": "7802-3-11:50-4",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -480,24 +481,7 @@
           }
         },
         {
-          "id": "7802-6-11:50-6",
-          "dayIndex": 6,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 209",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-01",
-          "weekParity": "down",
-          "dateSpecific": "21.09",
-          "teacher": {
-            "name": "Вайнт Никита"
-          }
-        },
-        {
-          "id": "7802-6-14:00-7",
+          "id": "7802-6-14:00-6",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -514,7 +498,7 @@
           }
         },
         {
-          "id": "7802-6-14:00-8",
+          "id": "7802-6-14:00-7",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

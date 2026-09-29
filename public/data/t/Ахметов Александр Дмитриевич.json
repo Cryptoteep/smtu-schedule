@@ -2,13 +2,48 @@
   "teacherId": "Ахметов Александр Дмитриевич",
   "teacherName": "Ахметов Александр Дмитриевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106212.jpg?token_static=77830dd30282be9b35bbd7c0d7b645f3",
-  "updatedAt": "2026-09-29T08:27:28.744Z",
-  "totalLessons": 10,
+  "updatedAt": "2026-09-29T19:25:11.933Z",
+  "totalLessons": 12,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "8048-1-14:00-5",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Технологии обработки материалов концентрированными потоками энергии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ УИК104",
+          "campus": "СПбГМТУ",
+          "groupName": "20277",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ахметов Александр Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106212.jpg?token_static=77830dd30282be9b35bbd7c0d7b645f3"
+          }
+        },
+        {
+          "id": "8048-1-15:40-6",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технологии обработки материалов концентрированными потоками энергии",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "ИЛИСТ УИК104",
+          "campus": "СПбГМТУ",
+          "groupName": "20277",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ахметов Александр Дмитриевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106212.jpg?token_static=77830dd30282be9b35bbd7c0d7b645f3"
+          }
+        }
+      ]
     },
     {
       "dayName": "Вторник",
