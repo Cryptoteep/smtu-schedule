@@ -1,7 +1,7 @@
 {
   "groupId": "7761",
   "groupName": "20291",
-  "updatedAt": "2026-09-29T19:25:04.790Z",
+  "updatedAt": "2026-09-29T23:42:16.566Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -390,7 +390,7 @@
           "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
-          "subject": "Технологии разработки информационных ресурсов",
+          "subject": "Программирование",
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Конгресс-Центр 307",
@@ -398,10 +398,8 @@
           "groupName": "20291",
           "weekParity": "down",
           "teacher": {
-            "name": "Горавнева Татьяна Сергеевна",
-            "id": "100281",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec"
+            "name": "Муравьев Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"
           }
         },
         {
@@ -483,7 +481,7 @@
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
-          "subject": "Программирование",
+          "subject": "Технологии разработки информационных ресурсов",
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Конгресс-Центр 307",
@@ -491,8 +489,10 @@
           "groupName": "20291",
           "weekParity": "down",
           "teacher": {
-            "name": "Муравьев Евгений Александрович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"
+            "name": "Горавнева Татьяна Сергеевна",
+            "id": "100281",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100281/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100281.jpg?token_static=dd6e43022c90101c8b9481eced467eec"
           }
         }
       ]

@@ -2,7 +2,7 @@
   "teacherId": "Серебряков Михаил Юрьевич",
   "teacherName": "Серебряков Михаил Юрьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a",
-  "updatedAt": "2026-09-29T19:25:11.927Z",
+  "updatedAt": "2026-09-29T23:42:24.618Z",
   "totalLessons": 34,
   "days": [
     {
@@ -270,23 +270,6 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7816-3-11:50-2",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Вычислительные системы и сетевые технологии",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 436",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-52",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Серебряков Михаил Юрьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
-          }
-        },
-        {
           "id": "7917-3-11:50-2",
           "dayIndex": 3,
           "time": "11:50-13:20",
@@ -402,6 +385,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20227",
           "weekParity": "up",
+          "teacher": {
+            "name": "Серебряков Михаил Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"
+          }
+        },
+        {
+          "id": "7816-4-17:20-4",
+          "dayIndex": 4,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Вычислительные системы и сетевые технологии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-52",
+          "weekParity": "down",
           "teacher": {
             "name": "Серебряков Михаил Юрьевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p107419.jpg?token_static=d2b68dfda7a87768dd6f0a5f5d39853a"

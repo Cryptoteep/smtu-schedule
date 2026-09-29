@@ -2,48 +2,13 @@
   "teacherId": "Акуленок Анатолий Васильевич",
   "teacherName": "Акуленок Анатолий Васильевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100011.jpg?token_static=d39bd00560048560c5618c7e5ca584ab",
-  "updatedAt": "2026-09-29T19:25:11.873Z",
+  "updatedAt": "2026-09-29T23:42:24.566Z",
   "totalLessons": 15,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": [
-        {
-          "id": "7805-1-11:50-1",
-          "dayIndex": 1,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 414",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12510-01",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Акуленок Анатолий Васильевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100011.jpg?token_static=d39bd00560048560c5618c7e5ca584ab"
-          }
-        },
-        {
-          "id": "7805-1-14:00-2",
-          "dayIndex": 1,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 414",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12510-01",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Акуленок Анатолий Васильевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100011.jpg?token_static=d39bd00560048560c5618c7e5ca584ab"
-          }
-        }
-      ]
+      "lessons": []
     },
     {
       "dayName": "Вторник",
@@ -170,6 +135,23 @@
             "name": "Акуленок Анатолий Васильевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100011.jpg?token_static=d39bd00560048560c5618c7e5ca584ab"
           }
+        },
+        {
+          "id": "7805-3-15:40-5",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 415",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Акуленок Анатолий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100011.jpg?token_static=d39bd00560048560c5618c7e5ca584ab"
+          }
         }
       ]
     },
@@ -268,6 +250,23 @@
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Акуленок Анатолий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100011.jpg?token_static=d39bd00560048560c5618c7e5ca584ab"
+          }
+        },
+        {
+          "id": "7805-4-11:50-6",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 316",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12510-01",
           "weekParity": "down",

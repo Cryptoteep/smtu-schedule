@@ -1,7 +1,7 @@
 {
   "groupId": "7776",
   "groupName": "20450",
-  "updatedAt": "2026-09-29T19:25:05.966Z",
+  "updatedAt": "2026-09-29T23:42:17.754Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -361,7 +361,41 @@
       "dayIndex": 4,
       "lessons": [
         {
-          "id": "7776-4-15:40-1",
+          "id": "7776-4-08:30-1",
+          "dayIndex": 4,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Цифровые технологии в жизненном цикле морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Акуленок Ирина Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"
+          }
+        },
+        {
+          "id": "7776-4-10:10-2",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Цифровые технологии в жизненном цикле морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Акуленок Ирина Николаевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"
+          }
+        },
+        {
+          "id": "7776-4-15:40-3",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -378,24 +412,7 @@
           }
         },
         {
-          "id": "7776-4-17:20-2",
-          "dayIndex": 4,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Цифровые технологии в жизненном цикле морской техники",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 415",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20450",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Акуленок Ирина Николаевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"
-          }
-        },
-        {
-          "id": "7776-4-17:20-3",
+          "id": "7776-4-17:20-4",
           "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -411,23 +428,6 @@
             "id": "100888",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100888/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100888.jpg?token_static=404d18c387442a1baa5cc3b45542f1a8"
-          }
-        },
-        {
-          "id": "7776-4-19:00-4",
-          "dayIndex": 4,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Цифровые технологии в жизненном цикле морской техники",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 415",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20450",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Акуленок Ирина Николаевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100012.jpg?token_static=cd67b38d36ff64691d898780551243e7"
           }
         }
       ]

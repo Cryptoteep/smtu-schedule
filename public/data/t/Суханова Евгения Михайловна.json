@@ -2,8 +2,8 @@
   "teacherId": "Суханова Евгения Михайловна",
   "teacherName": "Суханова Евгения Михайловна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/10/14/small/p128742.jpg?token_static=6347d96e0544ede37abfb74ad6c89981",
-  "updatedAt": "2026-09-29T19:25:11.937Z",
-  "totalLessons": 3,
+  "updatedAt": "2026-09-29T23:42:24.628Z",
+  "totalLessons": 5,
   "days": [
     {
       "dayName": "Понедельник",
@@ -58,6 +58,40 @@
       "dayName": "Четверг",
       "dayIndex": 4,
       "lessons": [
+        {
+          "id": "7747-4-10:10-3",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Технологии разработки информационных ресурсов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 439",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20222",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Суханова Евгения Михайловна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/10/14/small/p128742.jpg?token_static=6347d96e0544ede37abfb74ad6c89981"
+          }
+        },
+        {
+          "id": "7747-4-10:10-4",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Технологии разработки информационных ресурсов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20222",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Суханова Евгения Михайловна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/10/14/small/p128742.jpg?token_static=6347d96e0544ede37abfb74ad6c89981"
+          }
+        },
         {
           "id": "7781-4-15:40-5",
           "dayIndex": 4,

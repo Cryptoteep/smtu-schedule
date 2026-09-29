@@ -3,13 +3,52 @@
   "teacherName": "Глускер Михаил Яковлевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
-  "updatedAt": "2026-09-29T19:25:11.920Z",
+  "updatedAt": "2026-09-29T23:42:24.611Z",
   "totalLessons": 34,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7805-1-11:50-1",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Языки программирования",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Глускер Михаил Яковлевич",
+            "id": "122623",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+          }
+        },
+        {
+          "id": "7805-1-14:00-2",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Языки программирования",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 414",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12510-01",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Глускер Михаил Яковлевич",
+            "id": "122623",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+          }
+        }
+      ]
     },
     {
       "dayName": "Вторник",
@@ -548,25 +587,6 @@
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
           }
-        },
-        {
-          "id": "7805-4-11:50-6",
-          "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Языки программирования",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 316",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12510-01",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Глускер Михаил Яковлевич",
-            "id": "122623",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
-          }
         }
       ]
     },
@@ -622,25 +642,6 @@
           "room": "Конгресс-Центр 316",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20290",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Глускер Михаил Яковлевич",
-            "id": "122623",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
-          }
-        },
-        {
-          "id": "7805-5-10:10-4",
-          "dayIndex": 5,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Языки программирования",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 415",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12510-01",
           "weekParity": "down",
           "teacher": {
             "name": "Глускер Михаил Яковлевич",

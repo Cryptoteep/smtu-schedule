@@ -1,7 +1,7 @@
 {
   "groupId": "7805",
   "groupName": "12510-01",
-  "updatedAt": "2026-09-29T19:25:03.658Z",
+  "updatedAt": "2026-09-29T23:42:14.968Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -12,16 +12,18 @@
           "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
+          "subject": "Языки программирования",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "У 414",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12510-01",
           "weekParity": "down",
           "teacher": {
-            "name": "Акуленок Анатолий Васильевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100011.jpg?token_static=d39bd00560048560c5618c7e5ca584ab"
+            "name": "Глускер Михаил Яковлевич",
+            "id": "122623",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
           }
         },
         {
@@ -29,7 +31,7 @@
           "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
-          "subject": "Информатика",
+          "subject": "Языки программирования",
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "У 414",
@@ -37,8 +39,10 @@
           "groupName": "12510-01",
           "weekParity": "down",
           "teacher": {
-            "name": "Акуленок Анатолий Васильевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100011.jpg?token_static=d39bd00560048560c5618c7e5ca584ab"
+            "name": "Глускер Михаил Яковлевич",
+            "id": "122623",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
           }
         },
         {
@@ -259,16 +263,16 @@
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
-          "subject": "История и современная система защиты информации в России",
+          "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 530",
+          "room": "У 415",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12510-01",
           "weekParity": "down",
           "teacher": {
-            "name": "Беляцкая Анастасия Станиславовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
+            "name": "Акуленок Анатолий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100011.jpg?token_static=d39bd00560048560c5618c7e5ca584ab"
           }
         },
         {
@@ -409,7 +413,7 @@
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
-          "subject": "Языки программирования",
+          "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Конгресс-Центр 316",
@@ -417,10 +421,8 @@
           "groupName": "12510-01",
           "weekParity": "down",
           "teacher": {
-            "name": "Глускер Михаил Яковлевич",
-            "id": "122623",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+            "name": "Акуленок Анатолий Васильевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100011.jpg?token_static=d39bd00560048560c5618c7e5ca584ab"
           }
         },
         {
@@ -502,18 +504,16 @@
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Языки программирования",
-          "type": "lecture",
-          "rawType": "Лекция",
+          "subject": "История и современная система защиты информации в России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
           "room": "У 415",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12510-01",
           "weekParity": "down",
           "teacher": {
-            "name": "Глускер Михаил Яковлевич",
-            "id": "122623",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122623/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p122623.jpg?token_static=2a066044ab7107586f7c33f041c01f75"
+            "name": "Беляцкая Анастасия Станиславовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
           }
         },
         {
