@@ -1,7 +1,7 @@
 {
   "groupId": "7797",
   "groupName": "12740-02",
-  "updatedAt": "2026-09-29T23:42:20.713Z",
+  "updatedAt": "2026-09-30T08:32:02.137Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -92,13 +92,15 @@
           "subject": "Основы военной подготовки",
           "type": "military",
           "rawType": "Практическое занятие",
-          "room": "У ВУЦ",
+          "room": "У 407",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12740-02",
           "weekParity": "down",
           "teacher": {
-            "name": "Величко Борис Валерьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+            "name": "Романов Александр Иванович",
+            "id": "122500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
           }
         },
         {
@@ -109,38 +111,17 @@
           "subject": "Основы военной подготовки",
           "type": "military",
           "rawType": "Практическое занятие",
-          "room": "У 407",
+          "room": "У ВУЦ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12740-02",
           "weekParity": "down",
           "teacher": {
-            "name": "Романов Александр Иванович",
-            "id": "122500",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
           }
         },
         {
           "id": "7797-1-14:00-7",
-          "dayIndex": 1,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Основы военной подготовки",
-          "type": "military",
-          "rawType": "Практическое занятие",
-          "room": "У 407",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12740-02",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Романов Александр Иванович",
-            "id": "122500",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
-          }
-        },
-        {
-          "id": "7797-1-14:00-8",
           "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -154,6 +135,25 @@
           "teacher": {
             "name": "Величко Борис Валерьевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
+        },
+        {
+          "id": "7797-1-14:00-8",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
+          "room": "У 407",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-02",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Романов Александр Иванович",
+            "id": "122500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
           }
         },
         {
@@ -182,42 +182,7 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7797-2-08:30-1",
-          "dayIndex": 2,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Иностранный язык",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12740-02",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Кафедра иностранных языков"
-          }
-        },
-        {
-          "id": "7797-2-10:10-2",
-          "dayIndex": 2,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Безопасность жизнедеятельности",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 534",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12740-02",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Бронникова Лилия Васильевна",
-            "id": "100159",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100159/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/07/09/small/p100159.jpg?token_static=1b1e0b501c9c8ec61a484952d74685e9"
-          }
-        },
-        {
-          "id": "7797-2-10:10-3",
+          "id": "7797-2-10:10-1",
           "dayIndex": 2,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -236,7 +201,7 @@
           }
         },
         {
-          "id": "7797-2-11:50-4",
+          "id": "7797-2-11:50-2",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -253,7 +218,7 @@
           }
         },
         {
-          "id": "7797-2-14:00-5",
+          "id": "7797-2-14:00-3",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -267,6 +232,22 @@
           "teacher": {
             "name": "Выволокина Альбина Витальевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/31/small/p126941.jpg?token_static=ac1ee48f55a60d9ac55b35359ccd8a63"
+          }
+        },
+        {
+          "id": "7797-2-15:40-4",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-02",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра иностранных языков"
           }
         }
       ]
@@ -528,11 +509,10 @@
           "subject": "История России",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 107",
+          "room": "Конгресс-Центр Конференц-зал",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12740-02",
           "weekParity": "both",
-          "dateSpecific": "21.09",
           "teacher": {
             "name": "Игнатенко Сергей Владимирович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/05/08/small/p105188.jpg?token_static=50c66911f8b5f89eb1536e2b98f846f1"
@@ -546,10 +526,11 @@
           "subject": "История России",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
+          "room": "У 107",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12740-02",
           "weekParity": "both",
+          "dateSpecific": "21.09",
           "teacher": {
             "name": "Игнатенко Сергей Владимирович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/05/08/small/p105188.jpg?token_static=50c66911f8b5f89eb1536e2b98f846f1"

@@ -1,7 +1,7 @@
 {
   "groupId": "7620",
   "groupName": "2525",
-  "updatedAt": "2026-09-29T23:42:10.431Z",
+  "updatedAt": "2026-09-30T08:31:48.929Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -62,6 +62,44 @@
             "id": "100963",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100963/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100963.jpg?token_static=d5943e4bc45704ebe6d3e67f8418c999"
+          }
+        },
+        {
+          "id": "7620-1-14:00-4",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы научных исследований и испытаний двигателей",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2525",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Минасян Минас Арменакович",
+            "id": "100754",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100754/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100754.jpg?token_static=21b37c2485db0b01e0e177d729420dc8"
+          }
+        },
+        {
+          "id": "7620-1-15:40-5",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы научных исследований и испытаний двигателей",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 339",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2525",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Минасян Минас Арменакович",
+            "id": "100754",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100754/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100754.jpg?token_static=21b37c2485db0b01e0e177d729420dc8"
           }
         }
       ]
@@ -354,50 +392,6 @@
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2525",
           "weekParity": "down",
-          "teacher": {
-            "name": "Минасян Минас Арменакович",
-            "id": "100754",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100754/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100754.jpg?token_static=21b37c2485db0b01e0e177d729420dc8"
-          }
-        }
-      ]
-    },
-    {
-      "dayName": "Суббота",
-      "dayIndex": 6,
-      "lessons": [
-        {
-          "id": "7620-6-11:50-1",
-          "dayIndex": 6,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Основы научных исследований и испытаний двигателей",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 340",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "2525",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Минасян Минас Арменакович",
-            "id": "100754",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100754/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/26/small/p100754.jpg?token_static=21b37c2485db0b01e0e177d729420dc8"
-          }
-        },
-        {
-          "id": "7620-6-14:00-2",
-          "dayIndex": 6,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Основы научных исследований и испытаний двигателей",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "А 340",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "2525",
-          "weekParity": "both",
           "teacher": {
             "name": "Минасян Минас Арменакович",
             "id": "100754",

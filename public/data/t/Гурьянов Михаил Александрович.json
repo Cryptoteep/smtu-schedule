@@ -2,8 +2,8 @@
   "teacherId": "Гурьянов Михаил Александрович",
   "teacherName": "Гурьянов Михаил Александрович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/06/05/small/p114729.jpg?token_static=40e6058f1bcbbc4e6ecc0e45356eac1e",
-  "updatedAt": "2026-09-29T23:42:24.703Z",
-  "totalLessons": 10,
+  "updatedAt": "2026-09-30T08:32:08.809Z",
+  "totalLessons": 12,
   "days": [
     {
       "dayName": "Понедельник",
@@ -58,6 +58,40 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "5270, 5271",
           "weekParity": "up",
+          "teacher": {
+            "name": "Гурьянов Михаил Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/06/05/small/p114729.jpg?token_static=40e6058f1bcbbc4e6ecc0e45356eac1e"
+          }
+        },
+        {
+          "id": "7494-2-19:00-2",
+          "dayIndex": 2,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Тяговые расчеты",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 412",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5470",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гурьянов Михаил Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/06/05/small/p114729.jpg?token_static=40e6058f1bcbbc4e6ecc0e45356eac1e"
+          }
+        },
+        {
+          "id": "7494-2-20:40-4",
+          "dayIndex": 2,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Тяговые расчеты",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 412",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "5470",
+          "weekParity": "down",
           "teacher": {
             "name": "Гурьянов Михаил Александрович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/06/05/small/p114729.jpg?token_static=40e6058f1bcbbc4e6ecc0e45356eac1e"

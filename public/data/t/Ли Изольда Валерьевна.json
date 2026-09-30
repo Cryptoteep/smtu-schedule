@@ -2,13 +2,48 @@
   "teacherId": "Ли Изольда Валерьевна",
   "teacherName": "Ли Изольда Валерьевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8",
-  "updatedAt": "2026-09-29T23:42:24.613Z",
-  "totalLessons": 16,
+  "updatedAt": "2026-09-30T08:32:08.702Z",
+  "totalLessons": 18,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7770-1-11:50-3",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Защита информации от утечки по техническим каналам",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        },
+        {
+          "id": "7770-1-14:00-5",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Защита информации от утечки по техническим каналам",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20380",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ли Изольда Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/06/small/p123719.jpg?token_static=aeb90eadb83d6835ad319337b1ec0bb8"
+          }
+        }
+      ]
     },
     {
       "dayName": "Вторник",

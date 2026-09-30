@@ -2,8 +2,8 @@
   "teacherId": "Чубин Дмитрий Валерьевич",
   "teacherName": "Чубин Дмитрий Валерьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/02/16/small/p124595.jpg?token_static=e67aec73131e515034d01de5425b5258",
-  "updatedAt": "2026-09-29T23:42:24.619Z",
-  "totalLessons": 20,
+  "updatedAt": "2026-09-30T08:32:08.706Z",
+  "totalLessons": 21,
   "days": [
     {
       "dayName": "Понедельник",
@@ -333,6 +333,23 @@
       "dayName": "Суббота",
       "dayIndex": 6,
       "lessons": [
+        {
+          "id": "7768-6-08:30-1",
+          "dayIndex": 6,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Операционные среды больших систем",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "Конгресс-Центр 306",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20350",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Чубин Дмитрий Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/02/16/small/p124595.jpg?token_static=e67aec73131e515034d01de5425b5258"
+          }
+        },
         {
           "id": "7841-6-10:10-2",
           "dayIndex": 6,

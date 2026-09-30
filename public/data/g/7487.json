@@ -1,7 +1,7 @@
 {
   "groupId": "7487",
   "groupName": "12509-06",
-  "updatedAt": "2026-09-29T23:42:14.403Z",
+  "updatedAt": "2026-09-30T08:31:55.741Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -54,16 +54,18 @@
           "dayIndex": 2,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
-          "subject": "Алгебра и геометрия",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 161",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-06",
           "weekParity": "both",
           "teacher": {
-            "name": "Ловягин Никита Юрьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123528.jpg?token_static=a338c14c65568c9a9172b88fc6062893"
+            "name": "Манукян Асмик Мануковна",
+            "id": "102710",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102710/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/02/small/p102710.jpg?token_static=c9f1f17693d3c9b7aa96f54d1366848e"
           }
         },
         {
@@ -261,6 +263,23 @@
           "dayIndex": 4,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
+          "subject": "Алгебра и геометрия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12509-06",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ловягин Никита Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123528.jpg?token_static=a338c14c65568c9a9172b88fc6062893"
+          }
+        },
+        {
+          "id": "7487-4-08:30-2",
+          "dayIndex": 4,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
           "subject": "Дискретная математика для инженера-программиста",
           "type": "lecture",
           "rawType": "Лекция",
@@ -276,7 +295,24 @@
           }
         },
         {
-          "id": "7487-4-10:10-2",
+          "id": "7487-4-10:10-3",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Алгебра и геометрия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12509-06",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Ловягин Никита Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/09/04/small/p123528.jpg?token_static=a338c14c65568c9a9172b88fc6062893"
+          }
+        },
+        {
+          "id": "7487-4-10:10-4",
           "dayIndex": 4,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -293,7 +329,7 @@
           }
         },
         {
-          "id": "7487-4-11:50-3",
+          "id": "7487-4-11:50-5",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -303,7 +339,7 @@
           "room": "У каф.ИЯ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-06",
-          "weekParity": "both",
+          "weekParity": "down",
           "teacher": {
             "name": "Манукян Асмик Мануковна",
             "id": "102710",
@@ -312,26 +348,7 @@
           }
         },
         {
-          "id": "7487-4-14:00-4",
-          "dayIndex": 4,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Иностранный язык",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-06",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Манукян Асмик Мануковна",
-            "id": "102710",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/102710/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/02/small/p102710.jpg?token_static=c9f1f17693d3c9b7aa96f54d1366848e"
-          }
-        },
-        {
-          "id": "7487-4-14:00-5",
+          "id": "7487-4-14:00-6",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
