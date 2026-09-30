@@ -1,7 +1,7 @@
 {
   "groupId": "7787",
   "groupName": "12215-05",
-  "updatedAt": "2026-09-30T08:31:43.439Z",
+  "updatedAt": "2026-09-30T19:17:36.800Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -164,7 +164,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 414",
+          "room": "У 211",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12215-05",
           "weekParity": "up",
@@ -181,7 +181,7 @@
           "subject": "Начертательная геометрия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 211",
+          "room": "У 414",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12215-05",
           "weekParity": "up",
@@ -349,24 +349,7 @@
       "dayIndex": 5,
       "lessons": [
         {
-          "id": "7787-5-14:00-1",
-          "dayIndex": 5,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Математический анализ",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12215-05",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Ипатова Лариса Петровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/20/small/p100477.jpg?token_static=3f083cda02d9de8d91d05e27883d5125"
-          }
-        },
-        {
-          "id": "7787-5-15:40-2",
+          "id": "7787-5-15:40-1",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -385,7 +368,7 @@
           }
         },
         {
-          "id": "7787-5-15:40-3",
+          "id": "7787-5-15:40-2",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -399,6 +382,23 @@
           "teacher": {
             "name": "Свойкин Федор Владимирович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/21/small/p137669.jpg?token_static=4e96f3b114dd186bbc8a475dbacc5da7"
+          }
+        },
+        {
+          "id": "7787-5-17:20-3",
+          "dayIndex": 5,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12215-05",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ипатова Лариса Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/20/small/p100477.jpg?token_static=3f083cda02d9de8d91d05e27883d5125"
           }
         }
       ]

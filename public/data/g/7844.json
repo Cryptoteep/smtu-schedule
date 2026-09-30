@@ -1,7 +1,7 @@
 {
   "groupId": "7844",
   "groupName": "12509-51",
-  "updatedAt": "2026-09-30T08:31:56.127Z",
+  "updatedAt": "2026-09-30T19:17:44.283Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -99,14 +99,14 @@
       "dayIndex": 2,
       "lessons": [
         {
-          "id": "7844-2-11:50-1",
+          "id": "7844-2-15:40-1",
           "dayIndex": 2,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
           "subject": "Инженерия знаний",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У УЛК-13",
+          "room": "У 544",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-51",
           "weekParity": "down",
@@ -184,13 +184,32 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-51",
           "weekParity": "up",
+          "dateSpecific": "21.10",
           "teacher": {
             "name": "Соколова Софья Сергеевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/21/small/p107087.jpg?token_static=5dbc4a0271e02c67e9a8e06c6133bd13"
           }
         },
         {
-          "id": "7844-3-14:00-3",
+          "id": "7844-3-11:50-3",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление проектами и инновациями",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-51",
+          "weekParity": "up",
+          "dateSpecific": "21.10",
+          "teacher": {
+            "name": "Соколова Софья Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/21/small/p107087.jpg?token_static=5dbc4a0271e02c67e9a8e06c6133bd13"
+          }
+        },
+        {
+          "id": "7844-3-14:00-4",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -285,43 +304,20 @@
           }
         },
         {
-          "id": "7844-4-19:00-5",
+          "id": "7844-4-17:20-5",
           "dayIndex": 4,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
           "subject": "Программная инженерия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 316",
+          "room": "У 319",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-51",
           "weekParity": "down",
           "teacher": {
             "name": "Кайнова Татьяна Денисовна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p106561.jpg?token_static=5d5e274a03861a0352c1c0592f368171"
-          }
-        }
-      ]
-    },
-    {
-      "dayName": "Пятница",
-      "dayIndex": 5,
-      "lessons": [
-        {
-          "id": "7844-5-11:50-1",
-          "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Управление проектами и инновациями",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "А 442",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12509-51",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Соколова Софья Сергеевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/21/small/p107087.jpg?token_static=5dbc4a0271e02c67e9a8e06c6133bd13"
           }
         }
       ]

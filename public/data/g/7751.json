@@ -1,7 +1,7 @@
 {
   "groupId": "7751",
   "groupName": "20230",
-  "updatedAt": "2026-09-30T08:31:57.351Z",
+  "updatedAt": "2026-09-30T19:17:45.397Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -220,7 +220,7 @@
           "subject": "Научно-технический семинар",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 414",
+          "room": "У 439",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20230",
           "weekParity": "up",
@@ -239,7 +239,7 @@
           "subject": "Научно-технический семинар",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 414",
+          "room": "У 439",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20230",
           "weekParity": "down",
@@ -258,7 +258,7 @@
           "subject": "Научно-технический семинар",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 414",
+          "room": "У 439",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20230",
           "weekParity": "up",
@@ -277,7 +277,7 @@
           "subject": "Научно-технический семинар",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 414",
+          "room": "У 439",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20230",
           "weekParity": "down",
@@ -454,17 +454,18 @@
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Бережливое производство в судостроении",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 174 - 177",
-          "campus": "Ульянка (Корпус У)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
           "groupName": "20230",
           "weekParity": "both",
+          "dateSpecific": "30.10 и 6.11",
           "teacher": {
-            "name": "Загребельный Кирилл Александрович",
-            "id": "102751",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
           }
         },
         {
@@ -473,18 +474,17 @@
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Бережливое производство в судостроении",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 407",
-          "campus": "Лоцманская (Корпус А)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "20230",
           "weekParity": "both",
-          "dateSpecific": "30.10 и 6.11",
           "teacher": {
-            "name": "Малышев Евгений Анатольевич",
-            "id": "127500",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+            "name": "Загребельный Кирилл Александрович",
+            "id": "102751",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
           }
         },
         {
@@ -493,17 +493,18 @@
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Бережливое производство в судостроении",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 174 - 177",
-          "campus": "Ульянка (Корпус У)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
           "groupName": "20230",
           "weekParity": "both",
+          "dateSpecific": "30.10 и 6.11",
           "teacher": {
-            "name": "Загребельный Кирилл Александрович",
-            "id": "102751",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
           }
         },
         {
@@ -512,42 +513,21 @@
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Бережливое производство в судостроении",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 407",
-          "campus": "Лоцманская (Корпус А)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 174 - 177",
+          "campus": "Ульянка (Корпус У)",
           "groupName": "20230",
           "weekParity": "both",
-          "dateSpecific": "30.10 и 6.11",
           "teacher": {
-            "name": "Малышев Евгений Анатольевич",
-            "id": "127500",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
+            "name": "Загребельный Кирилл Александрович",
+            "id": "102751",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
           }
         },
         {
           "id": "7751-5-19:00-6",
-          "dayIndex": 5,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Бережливое производство в судостроении",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 407",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "20230",
-          "weekParity": "both",
-          "dateSpecific": "30.10 и 6.11",
-          "teacher": {
-            "name": "Малышев Евгений Анатольевич",
-            "id": "127500",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
-          }
-        },
-        {
-          "id": "7751-5-19:00-7",
           "dayIndex": 5,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -563,6 +543,26 @@
             "id": "102751",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/102751/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/09/14/small/p102751.jpg?token_static=53916d8a3682dcf76671d91379d0b9ac"
+          }
+        },
+        {
+          "id": "7751-5-19:00-7",
+          "dayIndex": 5,
+          "time": "19:00-20:30",
+          "timeSlotIndex": 7,
+          "subject": "Бережливое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20230",
+          "weekParity": "both",
+          "dateSpecific": "30.10 и 6.11",
+          "teacher": {
+            "name": "Малышев Евгений Анатольевич",
+            "id": "127500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/127500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/09/small/p127500.jpg?token_static=510623deadcd37c7d6db1e307e7f2c46"
           }
         },
         {

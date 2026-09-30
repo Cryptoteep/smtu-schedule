@@ -1,7 +1,7 @@
 {
   "groupId": "7614",
   "groupName": "2450",
-  "updatedAt": "2026-09-30T08:31:48.561Z",
+  "updatedAt": "2026-09-30T19:17:39.777Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -54,12 +54,46 @@
           "groupName": "2450",
           "weekParity": "down",
           "teacher": {
+            "name": "Пирогов Александр Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100903.jpg?token_static=8de28e9051db17d8804695fac06f8142"
+          }
+        },
+        {
+          "id": "7614-1-11:50-4",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Безопасность систем баз данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 414",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "down",
+          "teacher": {
             "name": "Полтавцева Мария Анатольевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/29/small/p123681.jpg?token_static=b257076f1210c4acea7d24e6455e34fa"
           }
         },
         {
-          "id": "7614-1-14:00-4",
+          "id": "7614-1-14:00-5",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность систем баз данных",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пирогов Александр Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100903.jpg?token_static=8de28e9051db17d8804695fac06f8142"
+          }
+        },
+        {
+          "id": "7614-1-14:00-6",
           "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -76,7 +110,7 @@
           }
         },
         {
-          "id": "7614-1-14:00-5",
+          "id": "7614-1-14:00-7",
           "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -90,6 +124,23 @@
           "teacher": {
             "name": "Полтавцева Мария Анатольевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/29/small/p123681.jpg?token_static=b257076f1210c4acea7d24e6455e34fa"
+          }
+        },
+        {
+          "id": "7614-1-14:00-8",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность систем баз данных",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 414",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пирогов Александр Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100903.jpg?token_static=8de28e9051db17d8804695fac06f8142"
           }
         }
       ]

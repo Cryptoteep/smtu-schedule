@@ -1,7 +1,7 @@
 {
   "groupId": "7503",
   "groupName": "1250",
-  "updatedAt": "2026-09-30T08:31:39.167Z",
+  "updatedAt": "2026-09-30T19:17:34.204Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -50,6 +50,22 @@
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Спортзал",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1250",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
+        },
+        {
+          "id": "7503-2-11:50-2",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
           "subject": "Деловые коммуникации",
           "type": "lecture",
           "rawType": "Лекция",
@@ -63,7 +79,7 @@
           }
         },
         {
-          "id": "7503-2-14:00-2",
+          "id": "7503-2-14:00-3",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -82,7 +98,7 @@
           }
         },
         {
-          "id": "7503-2-14:00-3",
+          "id": "7503-2-14:00-4",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -99,7 +115,7 @@
           }
         },
         {
-          "id": "7503-2-15:40-4",
+          "id": "7503-2-15:40-5",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -115,6 +131,22 @@
             "id": "100021",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100021/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/11/small/p100021.jpg?token_static=9017b4f3bd8aac37c737479a47be7768"
+          }
+        },
+        {
+          "id": "7503-2-15:40-6",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Спортзал",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1250",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
           }
         }
       ]
@@ -196,19 +228,20 @@
           }
         },
         {
-          "id": "7503-3-14:00-5",
+          "id": "7503-3-15:40-5",
           "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Физическая культура и спорт (элективная)",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191а",
           "campus": "Ульянка (Корпус У)",
           "groupName": "1250",
           "weekParity": "down",
           "teacher": {
-            "name": "Кафедра физического воспитания"
+            "name": "Щепелина Дарья Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106091.jpg?token_static=869fd0be91ffb5f55fa6afaab774cb93"
           }
         },
         {
@@ -229,10 +262,10 @@
           }
         },
         {
-          "id": "7503-3-15:40-7",
+          "id": "7503-3-17:20-7",
           "dayIndex": 3,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
           "subject": "Материаловедение",
           "type": "lab",
           "rawType": "Лабораторное занятие",
@@ -260,23 +293,6 @@
           "teacher": {
             "name": "Филиппов Сергей Анатольевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/27/small/p123170.jpg?token_static=f4a42d2549f24ad1f85d125beac38227"
-          }
-        },
-        {
-          "id": "7503-3-17:20-9",
-          "dayIndex": 3,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Материаловедение",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 191а",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "1250",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Щепелина Дарья Дмитриевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106091.jpg?token_static=869fd0be91ffb5f55fa6afaab774cb93"
           }
         }
       ]
@@ -415,22 +431,6 @@
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Физическая культура и спорт (элективная)",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "1250",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
-          }
-        },
-        {
-          "id": "7503-5-10:10-2",
-          "dayIndex": 5,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
           "subject": "Философия",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -444,7 +444,7 @@
           }
         },
         {
-          "id": "7503-5-11:50-3",
+          "id": "7503-5-11:50-2",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -458,6 +458,23 @@
           "teacher": {
             "name": "Голиков Владимир Анатольевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100276.jpg?token_static=8cb24e0fe4a4c2d36f7f5a72fcaa5137"
+          }
+        },
+        {
+          "id": "7503-5-11:50-3",
+          "dayIndex": 5,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технология конструкционных материалов",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 245а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1250",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Щепелина Дарья Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106091.jpg?token_static=869fd0be91ffb5f55fa6afaab774cb93"
           }
         },
         {
@@ -478,24 +495,7 @@
           }
         },
         {
-          "id": "7503-5-11:50-5",
-          "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Технология конструкционных материалов",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 245а",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "1250",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Щепелина Дарья Дмитриевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p106091.jpg?token_static=869fd0be91ffb5f55fa6afaab774cb93"
-          }
-        },
-        {
-          "id": "7503-5-14:00-6",
+          "id": "7503-5-14:00-5",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -512,7 +512,7 @@
           }
         },
         {
-          "id": "7503-5-15:40-7",
+          "id": "7503-5-15:40-6",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,

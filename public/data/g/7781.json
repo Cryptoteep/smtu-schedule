@@ -1,7 +1,7 @@
 {
   "groupId": "7781",
   "groupName": "20513",
-  "updatedAt": "2026-09-30T08:31:59.481Z",
+  "updatedAt": "2026-09-30T19:17:46.971Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -244,8 +244,8 @@
           "groupName": "20513",
           "weekParity": "both",
           "teacher": {
-            "name": "Федорова Анастасия Валерьевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
+            "name": "Юдина Елена Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p101386.jpg?token_static=48a634a058697779237d3870e1d68a58"
           }
         },
         {
@@ -259,10 +259,27 @@
           "room": "У 438",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20513",
-          "weekParity": "both",
+          "weekParity": "up",
           "teacher": {
             "name": "Суханова Евгения Михайловна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/10/14/small/p128742.jpg?token_static=6347d96e0544ede37abfb74ad6c89981"
+          }
+        },
+        {
+          "id": "7781-4-15:40-6",
+          "dayIndex": 4,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Цифровое производство в судостроении",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 438",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20513",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Федорова Анастасия Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
           }
         }
       ]
@@ -279,26 +296,6 @@
           "subject": "Судовые системы",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Б 410",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "20513",
-          "weekParity": "both",
-          "dateSpecific": "18.09",
-          "teacher": {
-            "name": "Плотников Кирилл Вадимович",
-            "id": "100908",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100908/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/30/small/p100908.jpg?token_static=9f103fc36bbc867019d251818d76f5ad"
-          }
-        },
-        {
-          "id": "7781-5-14:00-2",
-          "dayIndex": 5,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Судовые системы",
-          "type": "lecture",
-          "rawType": "Лекция",
           "room": "Б 101",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "20513",
@@ -311,7 +308,7 @@
           }
         },
         {
-          "id": "7781-5-15:40-3",
+          "id": "7781-5-15:40-2",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -322,26 +319,6 @@
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "20513",
           "weekParity": "both",
-          "teacher": {
-            "name": "Плотников Кирилл Вадимович",
-            "id": "100908",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100908/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/30/small/p100908.jpg?token_static=9f103fc36bbc867019d251818d76f5ad"
-          }
-        },
-        {
-          "id": "7781-5-15:40-4",
-          "dayIndex": 5,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Судовые системы",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Б 510",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "20513",
-          "weekParity": "both",
-          "dateSpecific": "18.09",
           "teacher": {
             "name": "Плотников Кирилл Вадимович",
             "id": "100908",

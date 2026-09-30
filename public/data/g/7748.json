@@ -1,7 +1,7 @@
 {
   "groupId": "7748",
   "groupName": "20223",
-  "updatedAt": "2026-09-30T08:31:56.793Z",
+  "updatedAt": "2026-09-30T19:17:45.026Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -330,23 +330,6 @@
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
-          "subject": "Теория вероятностей и математическая статистика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 243",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20223",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Мавлютов Айдар Марселевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/03/small/142859.jpg?token_static=99b29fb7edbcbfb2e897d7733bbab92b"
-          }
-        },
-        {
-          "id": "7748-4-11:50-6",
-          "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
           "subject": "Физическая культура и спорт (элективная)",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -359,7 +342,7 @@
           }
         },
         {
-          "id": "7748-4-14:00-7",
+          "id": "7748-4-14:00-6",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -405,23 +388,6 @@
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Информационная безопасность и защита информации",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У УЛК-06",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20223",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Федорова Анастасия Валерьевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
-          }
-        },
-        {
-          "id": "7748-5-10:10-3",
-          "dayIndex": 5,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
           "subject": "Базы данных",
           "type": "lecture",
           "rawType": "Лекция",
@@ -434,6 +400,23 @@
             "id": "101056",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/101056/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101056.jpg?token_static=542c331173bb10a06a42c1a79b9d07f9"
+          }
+        },
+        {
+          "id": "7748-5-10:10-3",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Информационная безопасность и защита информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-06",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20223",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Федорова Анастасия Валерьевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p106721.jpg?token_static=14a39905a7f3b0a09812bb132ce142b7"
           }
         },
         {
@@ -455,6 +438,23 @@
         },
         {
           "id": "7748-5-14:00-5",
+          "dayIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 243",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20223",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Мавлютов Айдар Марселевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/03/small/142859.jpg?token_static=99b29fb7edbcbfb2e897d7733bbab92b"
+          }
+        },
+        {
+          "id": "7748-5-14:00-6",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

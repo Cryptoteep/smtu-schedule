@@ -2,8 +2,8 @@
   "teacherId": "Гусева Евгения Сергеевна",
   "teacherName": "Гусева Евгения Сергеевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/04/small/132124.jpg?token_static=9c98c86e25f30d8cd0429184cd5e31b1",
-  "updatedAt": "2026-09-30T08:32:08.726Z",
-  "totalLessons": 3,
+  "updatedAt": "2026-09-30T19:17:53.255Z",
+  "totalLessons": 5,
   "days": [
     {
       "dayName": "Понедельник",
@@ -45,6 +45,40 @@
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20380",
           "weekParity": "up",
+          "teacher": {
+            "name": "Гусева Евгения Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/04/small/132124.jpg?token_static=9c98c86e25f30d8cd0429184cd5e31b1"
+          }
+        },
+        {
+          "id": "7605-6-14:00-6",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Методы и средства криптографической защиты информации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 442",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2350",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гусева Евгения Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/04/small/132124.jpg?token_static=9c98c86e25f30d8cd0429184cd5e31b1"
+          }
+        },
+        {
+          "id": "7605-6-15:40-7",
+          "dayIndex": 6,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Методы и средства криптографической защиты информации",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 442",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2350",
+          "weekParity": "down",
           "teacher": {
             "name": "Гусева Евгения Сергеевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/04/small/132124.jpg?token_static=9c98c86e25f30d8cd0429184cd5e31b1"

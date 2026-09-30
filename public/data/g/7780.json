@@ -1,7 +1,7 @@
 {
   "groupId": "7780",
   "groupName": "20490",
-  "updatedAt": "2026-09-30T08:31:59.402Z",
+  "updatedAt": "2026-09-30T19:17:46.884Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -424,32 +424,13 @@
           }
         },
         {
-          "id": "7780-5-15:40-2",
-          "dayIndex": 5,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Защита информации",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 165",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20490",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Гарькушев Александр Юрьевич",
-            "id": "122911",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
-          }
-        },
-        {
-          "id": "7780-5-17:20-3",
+          "id": "7780-5-17:20-2",
           "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Защита информации",
-          "type": "practice",
-          "rawType": "Практическое занятие",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "У 165",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20490",
@@ -590,6 +571,23 @@
           "teacher": {
             "name": "Сидоренко Светлана Анатольевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
+          }
+        },
+        {
+          "id": "7780-6-14:00-8",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Защита информации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У УЛК-06",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20490",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Беляцкая Анастасия Станиславовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/07/09/small/p129708.jpg?token_static=b075728e6c1d93aa021ed6277434ad81"
           }
         }
       ]

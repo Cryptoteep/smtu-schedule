@@ -1,7 +1,7 @@
 {
   "groupId": "7542",
   "groupName": "1210",
-  "updatedAt": "2026-09-30T08:31:38.142Z",
+  "updatedAt": "2026-09-30T19:17:32.358Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -115,6 +115,22 @@
           "teacher": {
             "name": "Сидоренко Светлана Анатольевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142854.jpg?token_static=6deacab07434e110459b596b30ea272b"
+          }
+        },
+        {
+          "id": "7542-2-14:00-5",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А Спортзал",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "1210",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
           }
         }
       ]
@@ -230,13 +246,15 @@
           "subject": "Материаловедение",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "У 191",
+          "room": "У 191а",
           "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "up",
           "teacher": {
-            "name": "Филиппов Сергей Анатольевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/27/small/p123170.jpg?token_static=f4a42d2549f24ad1f85d125beac38227"
+            "name": "Бабынькина Анна Николаевна",
+            "id": "100061",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100061/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100061.jpg?token_static=ee68ca04b80e7fb2894d1e1918a55f63"
           }
         },
         {
@@ -247,15 +265,13 @@
           "subject": "Материаловедение",
           "type": "lab",
           "rawType": "Лабораторное занятие",
-          "room": "У 191а",
+          "room": "У 191",
           "campus": "Ульянка (Корпус У)",
           "groupName": "1210",
           "weekParity": "up",
           "teacher": {
-            "name": "Бабынькина Анна Николаевна",
-            "id": "100061",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100061/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100061.jpg?token_static=ee68ca04b80e7fb2894d1e1918a55f63"
+            "name": "Филиппов Сергей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/07/27/small/p123170.jpg?token_static=f4a42d2549f24ad1f85d125beac38227"
           }
         },
         {
@@ -423,23 +439,7 @@
       "dayIndex": 6,
       "lessons": [
         {
-          "id": "7542-6-08:30-1",
-          "dayIndex": 6,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Физическая культура и спорт (элективная)",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "1210",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
-          }
-        },
-        {
-          "id": "7542-6-10:10-2",
+          "id": "7542-6-10:10-1",
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -456,7 +456,7 @@
           }
         },
         {
-          "id": "7542-6-10:10-3",
+          "id": "7542-6-10:10-2",
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -473,7 +473,7 @@
           }
         },
         {
-          "id": "7542-6-11:50-4",
+          "id": "7542-6-11:50-3",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -487,6 +487,25 @@
           "teacher": {
             "name": "Соловьев Александр Александрович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/09/small/p122763.jpg?token_static=24d0f5096a80155825347cab98c50fc1"
+          }
+        },
+        {
+          "id": "7542-6-11:50-4",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Материаловедение",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 191а",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1210",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Бабынькина Анна Николаевна",
+            "id": "100061",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100061/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100061.jpg?token_static=ee68ca04b80e7fb2894d1e1918a55f63"
           }
         },
         {
@@ -507,26 +526,7 @@
           }
         },
         {
-          "id": "7542-6-11:50-6",
-          "dayIndex": 6,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Материаловедение",
-          "type": "lab",
-          "rawType": "Лабораторное занятие",
-          "room": "У 191а",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "1210",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Бабынькина Анна Николаевна",
-            "id": "100061",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100061/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100061.jpg?token_static=ee68ca04b80e7fb2894d1e1918a55f63"
-          }
-        },
-        {
-          "id": "7542-6-14:00-7",
+          "id": "7542-6-14:00-6",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

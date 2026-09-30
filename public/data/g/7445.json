@@ -1,7 +1,7 @@
 {
   "groupId": "7445",
   "groupName": "12213-01",
-  "updatedAt": "2026-09-30T08:31:43.167Z",
+  "updatedAt": "2026-09-30T19:17:36.490Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -245,10 +245,10 @@
           "groupName": "12213-01",
           "weekParity": "up",
           "teacher": {
-            "name": "Безухов Андрей Павлович",
-            "id": "100085",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100085/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p100085.jpg?token_static=5913fe8def86339b0d57222cd9de9dae"
+            "name": "Едуш Наталья Юрьевна",
+            "id": "100364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
           }
         },
         {
@@ -264,10 +264,10 @@
           "groupName": "12213-01",
           "weekParity": "up",
           "teacher": {
-            "name": "Едуш Наталья Юрьевна",
-            "id": "100364",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+            "name": "Безухов Андрей Павлович",
+            "id": "100085",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100085/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p100085.jpg?token_static=5913fe8def86339b0d57222cd9de9dae"
           }
         },
         {
@@ -312,25 +312,6 @@
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 450",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "12213-01",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Безухов Андрей Павлович",
-            "id": "100085",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100085/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p100085.jpg?token_static=5913fe8def86339b0d57222cd9de9dae"
-          }
-        },
-        {
-          "id": "7445-3-15:40-6",
-          "dayIndex": 3,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Введение в специальность",
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "А 450",
@@ -342,6 +323,25 @@
             "id": "100364",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+          }
+        },
+        {
+          "id": "7445-3-15:40-6",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 450",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12213-01",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Безухов Андрей Павлович",
+            "id": "100085",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100085/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/19/small/p100085.jpg?token_static=5913fe8def86339b0d57222cd9de9dae"
           }
         },
         {
@@ -357,10 +357,8 @@
           "groupName": "12213-01",
           "weekParity": "down",
           "teacher": {
-            "name": "Скоморовский Станислав Альбинович",
-            "id": "101084",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101084/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/27/small/p101084.jpg?token_static=7839ff5ef6b2266b532942f6153ed56d"
+            "name": "Павлов Павел Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
           }
         },
         {
@@ -376,8 +374,10 @@
           "groupName": "12213-01",
           "weekParity": "down",
           "teacher": {
-            "name": "Павлов Павел Валентинович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
+            "name": "Скоморовский Станислав Альбинович",
+            "id": "101084",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101084/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/27/small/p101084.jpg?token_static=7839ff5ef6b2266b532942f6153ed56d"
           }
         }
       ]
@@ -447,24 +447,7 @@
       "dayIndex": 5,
       "lessons": [
         {
-          "id": "7445-5-14:00-1",
-          "dayIndex": 5,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Математический анализ",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Конгресс-Центр Конференц-зал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12213-01",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Ипатова Лариса Петровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/20/small/p100477.jpg?token_static=3f083cda02d9de8d91d05e27883d5125"
-          }
-        },
-        {
-          "id": "7445-5-15:40-2",
+          "id": "7445-5-15:40-1",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -483,7 +466,7 @@
           }
         },
         {
-          "id": "7445-5-15:40-3",
+          "id": "7445-5-15:40-2",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -497,6 +480,23 @@
           "teacher": {
             "name": "Свойкин Федор Владимирович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/21/small/p137669.jpg?token_static=4e96f3b114dd186bbc8a475dbacc5da7"
+          }
+        },
+        {
+          "id": "7445-5-17:20-3",
+          "dayIndex": 5,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12213-01",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ипатова Лариса Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/03/20/small/p100477.jpg?token_static=3f083cda02d9de8d91d05e27883d5125"
           }
         }
       ]
@@ -535,10 +535,8 @@
           "groupName": "12213-01",
           "weekParity": "both",
           "teacher": {
-            "name": "Суринова Елена Аркадьевна",
-            "id": "101156",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101156/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101156.jpg?token_static=52fd6bee87ec2f49ca409f2f940502c8"
+            "name": "Гаранина Евгения Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
           }
         },
         {
@@ -554,8 +552,10 @@
           "groupName": "12213-01",
           "weekParity": "both",
           "teacher": {
-            "name": "Гаранина Евгения Алексеевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/30/small/p127997.jpg?token_static=fdf04a7a88762c4c2632c55905c12c40"
+            "name": "Суринова Елена Аркадьевна",
+            "id": "101156",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101156/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101156.jpg?token_static=52fd6bee87ec2f49ca409f2f940502c8"
           }
         },
         {

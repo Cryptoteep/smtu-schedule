@@ -2,8 +2,8 @@
   "teacherId": "Козирацкая Карина Константиновна",
   "teacherName": "Козирацкая Карина Константиновна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4",
-  "updatedAt": "2026-09-30T08:32:08.706Z",
-  "totalLessons": 25,
+  "updatedAt": "2026-09-30T19:17:53.241Z",
+  "totalLessons": 24,
   "days": [
     {
       "dayName": "Понедельник",
@@ -102,7 +102,7 @@
           "subject": "Человеко-машинный интерфейс",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 316",
+          "room": "У 318",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20226",
           "weekParity": "up",
@@ -317,17 +317,35 @@
           }
         },
         {
-          "id": "7486-5-14:00-2",
+          "id": "7486-5-11:50-2",
+          "dayIndex": 5,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление проектами и инновациями",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 316",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-50, 12509-52",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Козирацкая Карина Константиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
+          }
+        },
+        {
+          "id": "7486-5-14:00-3",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Управление проектами и инновациями",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 420",
+          "room": "У 436",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-50",
+          "groupName": "12509-50, 12509-52",
           "weekParity": "up",
+          "dateSpecific": "30.10 по 18.12",
           "teacher": {
             "name": "Козирацкая Карина Константиновна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
@@ -382,40 +400,6 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20421",
           "weekParity": "down",
-          "teacher": {
-            "name": "Козирацкая Карина Константиновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
-          }
-        },
-        {
-          "id": "7486-6-10:10-3",
-          "dayIndex": 6,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Управление проектами и инновациями",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 316",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-50",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Козирацкая Карина Константиновна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
-          }
-        },
-        {
-          "id": "7486-6-11:50-4",
-          "dayIndex": 6,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Управление проектами и инновациями",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 412",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-50",
-          "weekParity": "up",
           "teacher": {
             "name": "Козирацкая Карина Константиновна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"

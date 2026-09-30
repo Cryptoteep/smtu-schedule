@@ -1,7 +1,7 @@
 {
   "groupId": "7773",
   "groupName": "20402",
-  "updatedAt": "2026-09-30T08:31:58.985Z",
+  "updatedAt": "2026-09-30T19:17:46.460Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -481,6 +481,25 @@
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
+          "subject": "Защита информации",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20402",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гарькушев Александр Юрьевич",
+            "id": "122911",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122911/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/09/small/p122911.jpg?token_static=2f35d2751e58ed605d05ba5a648571ee"
+          }
+        },
+        {
+          "id": "7773-5-17:20-2",
+          "dayIndex": 5,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
           "subject": "Защита информации",
           "type": "lecture",
           "rawType": "Лекция",

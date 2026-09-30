@@ -2,8 +2,8 @@
   "teacherId": "Пирогов Александр Анатольевич",
   "teacherName": "Пирогов Александр Анатольевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100903.jpg?token_static=8de28e9051db17d8804695fac06f8142",
-  "updatedAt": "2026-09-30T08:32:08.752Z",
-  "totalLessons": 5,
+  "updatedAt": "2026-09-30T19:17:53.261Z",
+  "totalLessons": 8,
   "days": [
     {
       "dayName": "Понедельник",
@@ -52,6 +52,57 @@
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2261",
           "weekParity": "up",
+          "teacher": {
+            "name": "Пирогов Александр Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100903.jpg?token_static=8de28e9051db17d8804695fac06f8142"
+          }
+        },
+        {
+          "id": "7614-1-11:50-3",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Безопасность систем баз данных",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 414",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Пирогов Александр Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100903.jpg?token_static=8de28e9051db17d8804695fac06f8142"
+          }
+        },
+        {
+          "id": "7614-1-14:00-5",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность систем баз данных",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 413",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Пирогов Александр Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100903.jpg?token_static=8de28e9051db17d8804695fac06f8142"
+          }
+        },
+        {
+          "id": "7614-1-14:00-8",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Безопасность систем баз данных",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "А 414",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2450",
+          "weekParity": "down",
           "teacher": {
             "name": "Пирогов Александр Анатольевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100903.jpg?token_static=8de28e9051db17d8804695fac06f8142"

@@ -2,7 +2,7 @@
   "teacherId": "Мавлютов Айдар Марселевич",
   "teacherName": "Мавлютов Айдар Марселевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/03/small/142859.jpg?token_static=99b29fb7edbcbfb2e897d7733bbab92b",
-  "updatedAt": "2026-09-30T08:32:08.703Z",
+  "updatedAt": "2026-09-30T19:17:53.238Z",
   "totalLessons": 16,
   "days": [
     {
@@ -22,7 +22,7 @@
           "subject": "Теория вероятностей и математическая статистика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 313",
+          "room": "Конгресс-Центр 243",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20221",
           "weekParity": "up",
@@ -121,7 +121,7 @@
           }
         },
         {
-          "id": "7586-3-14:00-9",
+          "id": "7586-3-14:00-7",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -159,25 +159,7 @@
     {
       "dayName": "Четверг",
       "dayIndex": 4,
-      "lessons": [
-        {
-          "id": "7748-4-11:50-5",
-          "dayIndex": 4,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Теория вероятностей и математическая статистика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 243",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20223",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Мавлютов Айдар Марселевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/03/small/142859.jpg?token_static=99b29fb7edbcbfb2e897d7733bbab92b"
-          }
-        }
-      ]
+      "lessons": []
     },
     {
       "dayName": "Пятница",
@@ -192,7 +174,7 @@
           "rawType": "Практическое занятие",
           "room": "У 105",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "20202",
+          "groupName": "20202, 20223",
           "weekParity": "up",
           "teacher": {
             "name": "Мавлютов Айдар Марселевич",
@@ -289,6 +271,23 @@
           "room": "У 450",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20223",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Мавлютов Айдар Марселевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/03/small/142859.jpg?token_static=99b29fb7edbcbfb2e897d7733bbab92b"
+          }
+        },
+        {
+          "id": "7747-5-15:40-8",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 243",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20222",
           "weekParity": "down",
           "teacher": {
             "name": "Мавлютов Айдар Марселевич",

@@ -2,8 +2,8 @@
   "teacherId": "Примак Анна Викторовна",
   "teacherName": "Примак Анна Викторовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p128880.jpg?token_static=9935d1e3bef26d0b2da4e8f5e318c703",
-  "updatedAt": "2026-09-30T08:32:08.751Z",
-  "totalLessons": 4,
+  "updatedAt": "2026-09-30T19:17:53.260Z",
+  "totalLessons": 5,
   "days": [
     {
       "dayName": "Понедельник",
@@ -34,6 +34,23 @@
           "room": "А 414",
           "campus": "Лоцманская (Корпус А)",
           "groupName": "2450",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Примак Анна Викторовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p128880.jpg?token_static=9935d1e3bef26d0b2da4e8f5e318c703"
+          }
+        },
+        {
+          "id": "7764-4-17:20-7",
+          "dayIndex": 4,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "ЭВМ и периферийные устройства",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 458",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "20302",
           "weekParity": "up",
           "teacher": {
             "name": "Примак Анна Викторовна",

@@ -2,31 +2,13 @@
   "teacherId": "Юдина Елена Евгеньевна",
   "teacherName": "Юдина Елена Евгеньевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p101386.jpg?token_static=48a634a058697779237d3870e1d68a58",
-  "updatedAt": "2026-09-23T13:38:08.725Z",
+  "updatedAt": "2026-09-30T19:17:53.359Z",
   "totalLessons": 1,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": [
-        {
-          "id": "7468-1-08:30-1",
-          "dayIndex": 1,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 415",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12515-01",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Юдина Елена Евгеньевна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p101386.jpg?token_static=48a634a058697779237d3870e1d68a58"
-          }
-        }
-      ]
+      "lessons": []
     },
     {
       "dayName": "Вторник",
@@ -41,7 +23,25 @@
     {
       "dayName": "Четверг",
       "dayIndex": 4,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7781-4-14:00-4",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Цифровое производство в судостроении",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 438",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20513",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Юдина Елена Евгеньевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/13/small/p101386.jpg?token_static=48a634a058697779237d3870e1d68a58"
+          }
+        }
+      ]
     },
     {
       "dayName": "Пятница",
