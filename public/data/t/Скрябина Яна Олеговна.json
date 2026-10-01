@@ -3,7 +3,7 @@
   "teacherName": "Скрябина Яна Олеговна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/28/small/p107663.jpg?token_static=f246b8d87b2a661bd90ff90381a9a867",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/107663/",
-  "updatedAt": "2026-10-01T19:31:35.238Z",
+  "updatedAt": "2026-10-01T23:53:13.021Z",
   "totalLessons": 5,
   "days": [
     {
@@ -93,12 +93,12 @@
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Документационное обеспечение деятельности",
-          "type": "practice",
-          "rawType": "Практическое занятие",
+          "type": "lecture",
+          "rawType": "Лекция",
           "room": "У 518",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12638-11",
-          "weekParity": "down",
+          "weekParity": "up",
           "teacher": {
             "name": "Скрябина Яна Олеговна",
             "id": "107663",
@@ -107,17 +107,17 @@
           }
         },
         {
-          "id": "7888-5-11:50-4",
+          "id": "7888-5-10:10-4",
           "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
           "subject": "Документационное обеспечение деятельности",
-          "type": "lecture",
-          "rawType": "Лекция",
+          "type": "practice",
+          "rawType": "Практическое занятие",
           "room": "У 518",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12638-11",
-          "weekParity": "up",
+          "weekParity": "down",
           "teacher": {
             "name": "Скрябина Яна Олеговна",
             "id": "107663",
