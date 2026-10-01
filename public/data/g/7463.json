@@ -1,7 +1,7 @@
 {
   "groupId": "7463",
   "groupName": "12126-06",
-  "updatedAt": "2026-09-30T23:46:59.187Z",
+  "updatedAt": "2026-10-01T08:53:45.817Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -225,8 +225,10 @@
           "groupName": "12126-06",
           "weekParity": "up",
           "teacher": {
-            "name": "Дроздов Владимир Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+            "name": "Едуш Наталья Юрьевна",
+            "id": "100364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
           }
         },
         {
@@ -242,14 +244,29 @@
           "groupName": "12126-06",
           "weekParity": "up",
           "teacher": {
-            "name": "Едуш Наталья Юрьевна",
-            "id": "100364",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+            "name": "Павлов Павел Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
           }
         },
         {
           "id": "7463-3-14:00-5",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12126-06",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+          }
+        },
+        {
+          "id": "7463-3-14:00-6",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -268,43 +285,7 @@
           }
         },
         {
-          "id": "7463-3-14:00-6",
-          "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б 401",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "12126-06",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Павлов Павел Валентинович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
-          }
-        },
-        {
           "id": "7463-3-14:00-7",
-          "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б 401",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "12126-06",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Миронов Михаил Юрьевич",
-            "id": "100756",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
-          }
-        },
-        {
-          "id": "7463-3-14:00-8",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -321,7 +302,7 @@
           }
         },
         {
-          "id": "7463-3-14:00-9",
+          "id": "7463-3-14:00-8",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -337,6 +318,25 @@
             "id": "100217",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
+          }
+        },
+        {
+          "id": "7463-3-14:00-9",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12126-06",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Миронов Михаил Юрьевич",
+            "id": "100756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
           }
         },
         {
@@ -467,6 +467,39 @@
             "name": "Савченко Анна Викторовна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/03/small/p126409.jpg?token_static=2ccfcd5ce14a52be10cf4a5259d3f041"
           }
+        },
+        {
+          "id": "7463-4-14:00-6",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "История России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 502",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12126-06",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра истории"
+          }
+        },
+        {
+          "id": "7463-4-15:40-7",
+          "dayIndex": 4,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 419",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12126-06",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Бугашев Сергей Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"
+          }
         }
       ]
     },
@@ -531,42 +564,10 @@
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
-          "subject": "История России",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 531",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12126-06",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Кафедра истории"
-          }
-        },
-        {
-          "id": "7463-5-11:50-5",
-          "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Основы российской государственности",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 531",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12126-06",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Щербакова Екатерина Михайловна"
-          }
-        },
-        {
-          "id": "7463-5-14:00-6",
-          "dayIndex": 5,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
           "subject": "Основы российской государственности",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 115",
+          "room": "У 167",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-06",
           "weekParity": "both",

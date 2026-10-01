@@ -1,7 +1,7 @@
 {
   "teacherId": "Кафедра истории",
   "teacherName": "Кафедра истории",
-  "updatedAt": "2026-09-30T23:47:24.884Z",
+  "updatedAt": "2026-10-01T08:54:07.401Z",
   "totalLessons": 4,
   "days": [
     {
@@ -55,28 +55,29 @@
     {
       "dayName": "Четверг",
       "dayIndex": 4,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7463-4-14:00-6",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "История России",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 502",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12126-06",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра истории"
+          }
+        }
+      ]
     },
     {
       "dayName": "Пятница",
       "dayIndex": 5,
       "lessons": [
-        {
-          "id": "7463-5-11:50-4",
-          "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "История России",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 531",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12126-06",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Кафедра истории"
-          }
-        },
         {
           "id": "7784-5-14:00-5",
           "dayIndex": 5,
