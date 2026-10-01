@@ -1,7 +1,7 @@
 {
   "groupId": "7547",
   "groupName": "1219",
-  "updatedAt": "2026-10-01T08:53:47.246Z",
+  "updatedAt": "2026-10-01T19:31:16.365Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -386,6 +386,22 @@
           "dayIndex": 6,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Гребная база Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1219",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
+        },
+        {
+          "id": "7547-6-10:10-2",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
           "subject": "Информационные технологии",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -396,22 +412,6 @@
           "teacher": {
             "name": "Зорин Сергей Сергеевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/08/29/small/p130071.jpg?token_static=51c6826d4c7a216fff4f3a68b6e733ea"
-          }
-        },
-        {
-          "id": "7547-6-08:30-2",
-          "dayIndex": 6,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
-          "subject": "Физическая культура и спорт (элективная)",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Гребная база Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "1219",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
           }
         },
         {
@@ -419,6 +419,22 @@
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
+          "subject": "Физическая культура и спорт (элективная)",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Гребная база Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1219",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
+        },
+        {
+          "id": "7547-6-11:50-4",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
           "subject": "Информационные технологии",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -432,30 +448,14 @@
           }
         },
         {
-          "id": "7547-6-10:10-4",
+          "id": "7547-6-14:00-5",
           "dayIndex": 6,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Физическая культура и спорт (элективная)",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Гребная база Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "1219",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
-          }
-        },
-        {
-          "id": "7547-6-11:50-5",
-          "dayIndex": 6,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
           "subject": "Информационные технологии",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Б 501(1)",
+          "room": "Б 501(2)",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "1219",
           "weekParity": "up",

@@ -3,8 +3,8 @@
   "teacherName": "Власьев Максим Валерьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/03/08/small/p106265.jpg?token_static=39de2e155a4decf65a2fd5bbc32b9f90",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/106265/",
-  "updatedAt": "2026-10-01T08:54:07.317Z",
-  "totalLessons": 16,
+  "updatedAt": "2026-10-01T19:31:35.120Z",
+  "totalLessons": 19,
   "days": [
     {
       "dayName": "Понедельник",
@@ -44,6 +44,63 @@
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "1431",
           "weekParity": "up",
+          "teacher": {
+            "name": "Власьев Максим Валерьевич",
+            "id": "106265",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106265/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/03/08/small/p106265.jpg?token_static=39de2e155a4decf65a2fd5bbc32b9f90"
+          }
+        },
+        {
+          "id": "7464-2-14:00-3",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Научно-технический семинар",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 609",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12126-53, 12126-52",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Власьев Максим Валерьевич",
+            "id": "106265",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106265/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/03/08/small/p106265.jpg?token_static=39de2e155a4decf65a2fd5bbc32b9f90"
+          }
+        },
+        {
+          "id": "7884-2-15:40-3",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Научно-технический семинар",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 609",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12126-63",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Власьев Максим Валерьевич",
+            "id": "106265",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106265/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/03/08/small/p106265.jpg?token_static=39de2e155a4decf65a2fd5bbc32b9f90"
+          }
+        },
+        {
+          "id": "7884-2-17:20-4",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Научно-технический семинар",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 609",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12126-63",
+          "weekParity": "both",
           "teacher": {
             "name": "Власьев Максим Валерьевич",
             "id": "106265",
@@ -174,7 +231,7 @@
           "rawType": "Практическое занятие",
           "room": "Б 610",
           "campus": "Лоцманская (Корпус Б)",
-          "groupName": "1499",
+          "groupName": "1499, 1411",
           "weekParity": "down",
           "teacher": {
             "name": "Власьев Максим Валерьевич",

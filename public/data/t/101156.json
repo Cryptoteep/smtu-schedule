@@ -3,32 +3,13 @@
   "teacherName": "Суринова Елена Аркадьевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101156.jpg?token_static=52fd6bee87ec2f49ca409f2f940502c8",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101156/",
-  "updatedAt": "2026-10-01T08:54:07.400Z",
-  "totalLessons": 24,
+  "updatedAt": "2026-10-01T19:31:35.279Z",
+  "totalLessons": 23,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
       "lessons": [
-        {
-          "id": "7445-1-14:00-6",
-          "dayIndex": 1,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Иностранный язык",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12213-01",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Суринова Елена Аркадьевна",
-            "id": "101156",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101156/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101156.jpg?token_static=52fd6bee87ec2f49ca409f2f940502c8"
-          }
-        },
         {
           "id": "7784-1-11:50-3",
           "dayIndex": 1,
@@ -37,7 +18,7 @@
           "subject": "Иностранный язык",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
+          "room": "У 446",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-07",
           "weekParity": "both",
@@ -56,7 +37,7 @@
           "subject": "Иностранный язык",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
+          "room": "У 446",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-07",
           "weekParity": "up",
@@ -459,7 +440,7 @@
       "dayIndex": 6,
       "lessons": [
         {
-          "id": "7445-6-11:50-3",
+          "id": "7836-6-11:50-3",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -468,7 +449,7 @@
           "rawType": "Практическое занятие",
           "room": "У каф.ИЯ",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "12213-01, 12226-36",
+          "groupName": "12226-36",
           "weekParity": "both",
           "teacher": {
             "name": "Суринова Елена Аркадьевна",

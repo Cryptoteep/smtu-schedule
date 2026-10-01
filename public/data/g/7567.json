@@ -1,7 +1,7 @@
 {
   "groupId": "7567",
   "groupName": "1414",
-  "updatedAt": "2026-10-01T08:53:48.659Z",
+  "updatedAt": "2026-10-01T19:31:18.070Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -381,11 +381,10 @@
           "subject": "Сварка судовых конструкций",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "А 407",
-          "campus": "Лоцманская (Корпус А)",
+          "room": "Б 101",
+          "campus": "Лоцманская (Корпус Б)",
           "groupName": "1414",
           "weekParity": "both",
-          "dateSpecific": "18.09",
           "teacher": {
             "name": "Щербаков Александр Павлович",
             "id": "124780",
@@ -401,10 +400,11 @@
           "subject": "Сварка судовых конструкций",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Б 101",
-          "campus": "Лоцманская (Корпус Б)",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
           "groupName": "1414",
           "weekParity": "both",
+          "dateSpecific": "18.09",
           "teacher": {
             "name": "Щербаков Александр Павлович",
             "id": "124780",
@@ -420,10 +420,11 @@
           "subject": "Конструкция корпуса судов",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Б 101",
+          "room": "Б 508",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "1414",
           "weekParity": "both",
+          "dateSpecific": "18.09",
           "teacher": {
             "name": "Тряскин Владимир Николаевич",
             "id": "101209",
@@ -439,11 +440,10 @@
           "subject": "Конструкция корпуса судов",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Б 508",
+          "room": "Б 101",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "1414",
           "weekParity": "both",
-          "dateSpecific": "18.09",
           "teacher": {
             "name": "Тряскин Владимир Николаевич",
             "id": "101209",
@@ -469,25 +469,7 @@
           }
         },
         {
-          "id": "7567-5-11:50-6",
-          "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Теория корабля",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б 330",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "1414",
-          "weekParity": "both",
-          "dateSpecific": "18.09",
-          "teacher": {
-            "name": "Капонен Валерий Арвиевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p100495.jpg?token_static=1cad03b1b677b2c048933e25e7b44bdf"
-          }
-        },
-        {
-          "id": "7567-5-14:00-7",
+          "id": "7567-5-14:00-6",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

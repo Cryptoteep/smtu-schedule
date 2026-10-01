@@ -1,7 +1,7 @@
 {
   "groupId": "7755",
   "groupName": "20271",
-  "updatedAt": "2026-10-01T08:53:59.784Z",
+  "updatedAt": "2026-10-01T19:31:27.682Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -332,7 +332,7 @@
           "subject": "Деловые коммуникации",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 02ю",
+          "room": "У 439",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20271",
           "weekParity": "up",
@@ -470,31 +470,14 @@
           "room": "У 506",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20271",
-          "weekParity": "up",
+          "weekParity": "both",
           "teacher": {
-            "name": "Бабанин Николай Викторович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p102816.jpg?token_static=e11a96b09e76656b823aeb4d27fc5b2b"
+            "name": "Гур-Мильнер Семен Исаакович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/10/26/small/p100312.jpg?token_static=453db8877fb5240d0e45f83d36c475e5"
           }
         },
         {
-          "id": "7755-5-11:50-4",
-          "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Теоретическая механика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 211",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20271",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Бабанин Николай Викторович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p102816.jpg?token_static=e11a96b09e76656b823aeb4d27fc5b2b"
-          }
-        },
-        {
-          "id": "7755-5-14:00-5",
+          "id": "7755-5-14:00-4",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -513,7 +496,7 @@
           }
         },
         {
-          "id": "7755-5-15:40-6",
+          "id": "7755-5-15:40-5",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -545,25 +528,7 @@
           "subject": "Философия",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 313",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20271",
-          "weekParity": "down",
-          "dateSpecific": "26.09",
-          "teacher": {
-            "name": "Кленин Петр Владиславович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/06/18/small/p124455.jpg?token_static=81323a27eab7571a0e30ea7474358cc9"
-          }
-        },
-        {
-          "id": "7755-6-11:50-2",
-          "dayIndex": 6,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Философия",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 242",
+          "room": "У 514",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20271",
           "weekParity": "down",
@@ -573,7 +538,7 @@
           }
         },
         {
-          "id": "7755-6-14:00-3",
+          "id": "7755-6-14:00-2",
           "dayIndex": 6,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -590,7 +555,7 @@
           }
         },
         {
-          "id": "7755-6-15:40-4",
+          "id": "7755-6-15:40-3",
           "dayIndex": 6,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -607,7 +572,7 @@
           }
         },
         {
-          "id": "7755-6-17:20-5",
+          "id": "7755-6-17:20-4",
           "dayIndex": 6,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,

@@ -1,7 +1,7 @@
 {
   "groupId": "7782",
   "groupName": "12126-03",
-  "updatedAt": "2026-10-01T08:53:45.592Z",
+  "updatedAt": "2026-10-01T19:31:15.114Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -68,7 +68,7 @@
           "subject": "Иностранный язык",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
+          "room": "У 445",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-03",
           "weekParity": "down",
@@ -85,7 +85,7 @@
           "subject": "Иностранный язык",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
+          "room": "У 439",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-03",
           "weekParity": "both",
@@ -334,8 +334,10 @@
           "groupName": "12126-03",
           "weekParity": "up",
           "teacher": {
-            "name": "Никущенко Елена Александровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+            "name": "Миронов Михаил Юрьевич",
+            "id": "100756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
           }
         },
         {
@@ -351,10 +353,8 @@
           "groupName": "12126-03",
           "weekParity": "up",
           "teacher": {
-            "name": "Миронов Михаил Юрьевич",
-            "id": "100756",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
+            "name": "Никущенко Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
           }
         },
         {
@@ -370,8 +370,10 @@
           "groupName": "12126-03",
           "weekParity": "up",
           "teacher": {
-            "name": "Павлов Павел Валентинович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
+            "name": "Черкаев Георгий Владимирович",
+            "id": "101309",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101309/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/25/small/p101309.jpg?token_static=ee2cf7db26238bc7ed44737b082e9642"
           }
         },
         {
@@ -387,10 +389,8 @@
           "groupName": "12126-03",
           "weekParity": "up",
           "teacher": {
-            "name": "Черкаев Георгий Владимирович",
-            "id": "101309",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101309/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/25/small/p101309.jpg?token_static=ee2cf7db26238bc7ed44737b082e9642"
+            "name": "Павлов Павел Валентинович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
           }
         },
         {
@@ -423,10 +423,8 @@
           "groupName": "12126-03",
           "weekParity": "down",
           "teacher": {
-            "name": "Едуш Наталья Юрьевна",
-            "id": "100364",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
           }
         },
         {
@@ -461,8 +459,10 @@
           "groupName": "12126-03",
           "weekParity": "down",
           "teacher": {
-            "name": "Дроздов Владимир Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+            "name": "Едуш Наталья Юрьевна",
+            "id": "100364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
           }
         }
       ]

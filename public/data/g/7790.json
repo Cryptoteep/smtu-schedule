@@ -1,7 +1,7 @@
 {
   "groupId": "7790",
   "groupName": "12317-30",
-  "updatedAt": "2026-10-01T08:53:54.551Z",
+  "updatedAt": "2026-10-01T19:31:23.131Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -53,10 +53,16 @@
           "subject": "Иностранный язык",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
+          "room": "У 446",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12317-30",
-          "weekParity": "down"
+          "weekParity": "down",
+          "teacher": {
+            "name": "Барыбина Наталья Викторовна",
+            "id": "100079",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100079/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/08/31/small/p100079.jpg?token_static=88299250109533efdde4df78508c8b07"
+          }
         },
         {
           "id": "7790-1-11:50-4",
@@ -187,10 +193,16 @@
           "subject": "Иностранный язык",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
+          "room": "У 446",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12317-30",
-          "weekParity": "both"
+          "weekParity": "both",
+          "teacher": {
+            "name": "Барыбина Наталья Викторовна",
+            "id": "100079",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100079/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/08/31/small/p100079.jpg?token_static=88299250109533efdde4df78508c8b07"
+          }
         }
       ]
     },

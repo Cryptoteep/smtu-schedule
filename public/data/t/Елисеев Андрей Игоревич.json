@@ -2,13 +2,65 @@
   "teacherId": "Елисеев Андрей Игоревич",
   "teacherName": "Елисеев Андрей Игоревич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/07/small/p131436.jpg?token_static=a314a9da8a7232342dc16d3e99ac8a86",
-  "updatedAt": "2026-10-01T08:54:07.398Z",
-  "totalLessons": 11,
+  "updatedAt": "2026-10-01T19:31:35.255Z",
+  "totalLessons": 15,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "6965-1-10:10-3",
+          "dayIndex": 1,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 408",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12115-04",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Елисеев Андрей Игоревич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/07/small/p131436.jpg?token_static=a314a9da8a7232342dc16d3e99ac8a86"
+          }
+        },
+        {
+          "id": "6965-1-11:50-5",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 408",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12115-04",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Елисеев Андрей Игоревич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/07/small/p131436.jpg?token_static=a314a9da8a7232342dc16d3e99ac8a86"
+          }
+        },
+        {
+          "id": "7795-1-10:10-1",
+          "dayIndex": 1,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 506",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12315-06",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Елисеев Андрей Игоревич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/07/small/p131436.jpg?token_static=a314a9da8a7232342dc16d3e99ac8a86"
+          }
+        }
+      ]
     },
     {
       "dayName": "Вторник",
@@ -43,6 +95,23 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "12126-32",
           "weekParity": "down",
+          "teacher": {
+            "name": "Елисеев Андрей Игоревич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/07/small/p131436.jpg?token_static=a314a9da8a7232342dc16d3e99ac8a86"
+          }
+        },
+        {
+          "id": "7795-2-11:50-1",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 409",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12315-06",
+          "weekParity": "up",
           "teacher": {
             "name": "Елисеев Андрей Игоревич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/10/07/small/p131436.jpg?token_static=a314a9da8a7232342dc16d3e99ac8a86"

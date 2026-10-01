@@ -3,8 +3,8 @@
   "teacherName": "Дубин Марат Мухаметханович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
-  "updatedAt": "2026-10-01T08:54:07.344Z",
-  "totalLessons": 27,
+  "updatedAt": "2026-10-01T19:31:35.164Z",
+  "totalLessons": 28,
   "days": [
     {
       "dayName": "Понедельник",
@@ -200,6 +200,25 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20230, 20231",
           "weekParity": "up",
+          "teacher": {
+            "name": "Дубин Марат Мухаметханович",
+            "id": "123177",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/123177/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p123177.jpg?token_static=89b500b8163030550d7944df7176cc9c"
+          }
+        },
+        {
+          "id": "7765-3-15:40-5",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Теория систем и системный анализ",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20313",
+          "weekParity": "down",
           "teacher": {
             "name": "Дубин Марат Мухаметханович",
             "id": "123177",

@@ -1,7 +1,7 @@
 {
   "groupId": "7613",
   "groupName": "2441",
-  "updatedAt": "2026-10-01T08:53:53.281Z",
+  "updatedAt": "2026-10-01T19:31:21.989Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -427,6 +427,40 @@
           "teacher": {
             "name": "Военный учебный центр при СПбГМТУ"
           }
+        },
+        {
+          "id": "7613-5-14:00-3",
+          "dayIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Промышленная безопасность технологических процессов",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 206",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2441",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Любимов Ярослав Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/12/small/p127485.jpg?token_static=7b0150e50ca96057774ed4a15dbc34b7"
+          }
+        },
+        {
+          "id": "7613-5-15:40-4",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Промышленная безопасность технологических процессов",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б 510",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "2441",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Любимов Ярослав Евгеньевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/12/small/p127485.jpg?token_static=7b0150e50ca96057774ed4a15dbc34b7"
+          }
         }
       ]
     },
@@ -470,40 +504,6 @@
             "id": "123129",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/123129/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123129.jpg?token_static=c57301c6fc89bb528160cb158c513074"
-          }
-        },
-        {
-          "id": "7613-6-14:00-3",
-          "dayIndex": 6,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Промышленная безопасность технологических процессов",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б 309а",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "2441",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Любимов Ярослав Евгеньевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/12/small/p127485.jpg?token_static=7b0150e50ca96057774ed4a15dbc34b7"
-          }
-        },
-        {
-          "id": "7613-6-15:40-4",
-          "dayIndex": 6,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Промышленная безопасность технологических процессов",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Б 309а",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "2441",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Любимов Ярослав Евгеньевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/09/12/small/p127485.jpg?token_static=7b0150e50ca96057774ed4a15dbc34b7"
           }
         }
       ]

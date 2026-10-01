@@ -3,18 +3,58 @@
   "teacherName": "Воронина Ольга Станиславовна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/26/small/p122494.jpg?token_static=ba121ed71b16a99dc057a8a23cfeb618",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/122494/",
-  "updatedAt": "2026-10-01T08:54:07.386Z",
-  "totalLessons": 2,
+  "updatedAt": "2026-10-01T19:31:35.239Z",
+  "totalLessons": 4,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7666-1-11:50-5",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Деловой иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 154",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Воронина Ольга Станиславовна",
+            "id": "122494",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122494/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/26/small/p122494.jpg?token_static=ba121ed71b16a99dc057a8a23cfeb618"
+          }
+        }
+      ]
     },
     {
       "dayName": "Вторник",
       "dayIndex": 2,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7666-2-14:00-3",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Деловой иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 446",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4202",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Воронина Ольга Станиславовна",
+            "id": "122494",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122494/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/04/26/small/p122494.jpg?token_static=ba121ed71b16a99dc057a8a23cfeb618"
+          }
+        }
+      ]
     },
     {
       "dayName": "Среда",

@@ -1,7 +1,7 @@
 {
   "groupId": "7442",
   "groupName": "12526-34",
-  "updatedAt": "2026-10-01T08:53:58.760Z",
+  "updatedAt": "2026-10-01T19:31:26.971Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -13,15 +13,15 @@
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
           "subject": "Информатика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 416",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12526-34",
-          "weekParity": "down",
+          "weekParity": "up",
           "teacher": {
-            "name": "Антонова Гюзель Владимировна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/21/small/p101550.jpg?token_static=cfd07a585d22e7a65fb59cd51611983f"
+            "name": "Минин Максим Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/01/30/small/p130347.jpg?token_static=99e337925833409623025853d6963cd3"
           }
         },
         {
@@ -253,8 +253,10 @@
           "groupName": "12526-34",
           "weekParity": "up",
           "teacher": {
-            "name": "Никущенко Елена Александровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+            "name": "Миронов Михаил Юрьевич",
+            "id": "100756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
           }
         },
         {
@@ -304,14 +306,29 @@
           "groupName": "12526-34",
           "weekParity": "up",
           "teacher": {
-            "name": "Миронов Михаил Юрьевич",
-            "id": "100756",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
+            "name": "Никущенко Елена Александровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
           }
         },
         {
           "id": "7442-4-14:00-6",
+          "dayIndex": 4,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 401",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "12526-34",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+          }
+        },
+        {
+          "id": "7442-4-14:00-7",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -330,7 +347,7 @@
           }
         },
         {
-          "id": "7442-4-14:00-7",
+          "id": "7442-4-14:00-8",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -346,23 +363,6 @@
             "id": "100217",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
-          }
-        },
-        {
-          "id": "7442-4-14:00-8",
-          "dayIndex": 4,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Введение в специальность",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б 401",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "12526-34",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Дроздов Владимир Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
           }
         },
         {

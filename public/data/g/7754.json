@@ -1,7 +1,7 @@
 {
   "groupId": "7754",
   "groupName": "20270",
-  "updatedAt": "2026-10-01T08:53:59.429Z",
+  "updatedAt": "2026-10-01T19:31:27.628Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -127,31 +127,16 @@
           "room": "У 507",
           "campus": "Ульянка (Корпус У)",
           "groupName": "20270",
-          "weekParity": "up",
+          "weekParity": "both",
           "teacher": {
-            "name": "Бабанин Николай Викторович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p102816.jpg?token_static=e11a96b09e76656b823aeb4d27fc5b2b"
+            "name": "Мелконян Армен Левонович",
+            "id": "100749",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100749/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100749.jpg?token_static=a604f7cb24d29165ccbd7d74ed7372ee"
           }
         },
         {
-          "id": "7754-2-14:00-6",
-          "dayIndex": 2,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Теоретическая механика",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 507",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20270",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Бабанин Николай Викторович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/07/small/p102816.jpg?token_static=e11a96b09e76656b823aeb4d27fc5b2b"
-          }
-        },
-        {
-          "id": "7754-2-15:40-7",
+          "id": "7754-2-15:40-6",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,

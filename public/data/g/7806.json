@@ -1,7 +1,7 @@
 {
   "groupId": "7806",
   "groupName": "12509-07",
-  "updatedAt": "2026-10-01T08:53:58.226Z",
+  "updatedAt": "2026-10-01T19:31:26.366Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -15,7 +15,7 @@
           "subject": "Иностранный язык",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У каф.ИЯ",
+          "room": "У 448",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-07",
           "weekParity": "both",
@@ -78,10 +78,10 @@
           "subject": "Иностранный язык",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
+          "room": "У 448",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-07",
-          "weekParity": "up",
+          "weekParity": "both",
           "teacher": {
             "name": "Манукян Асмик Мануковна",
             "id": "102710",
@@ -90,26 +90,7 @@
           }
         },
         {
-          "id": "7806-2-10:10-2",
-          "dayIndex": 2,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Иностранный язык",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У каф.ИЯ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12509-07",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Манукян Асмик Мануковна",
-            "id": "102710",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/102710/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/04/02/small/p102710.jpg?token_static=c9f1f17693d3c9b7aa96f54d1366848e"
-          }
-        },
-        {
-          "id": "7806-2-11:50-3",
+          "id": "7806-2-11:50-2",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -128,7 +109,7 @@
           }
         },
         {
-          "id": "7806-2-11:50-4",
+          "id": "7806-2-11:50-3",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,

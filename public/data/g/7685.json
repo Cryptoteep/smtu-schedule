@@ -1,7 +1,7 @@
 {
   "groupId": "7685",
   "groupName": "4400",
-  "updatedAt": "2026-10-01T08:54:02.695Z",
+  "updatedAt": "2026-10-01T19:31:31.031Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -49,26 +49,8 @@
           "subject": "Макроэкономическое планирование и прогнозирование",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "А 517",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "4400",
-          "weekParity": "both",
-          "teacher": {
-            "name": "Зефиров Владимир Игоревич",
-            "id": "106021",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/106021/"
-          }
-        },
-        {
-          "id": "7685-1-15:40-4",
-          "dayIndex": 1,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Макроэкономическое планирование и прогнозирование",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 517",
-          "campus": "Лоцманская (Корпус А)",
+          "room": "Б 503",
+          "campus": "Лоцманская (Корпус Б)",
           "groupName": "4400",
           "weekParity": "up",
           "teacher": {
@@ -78,7 +60,43 @@
           }
         },
         {
+          "id": "7685-1-14:00-4",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Макроэкономическое планирование и прогнозирование",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 442",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "4400",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Зефиров Владимир Игоревич",
+            "id": "106021",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106021/"
+          }
+        },
+        {
           "id": "7685-1-15:40-5",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Макроэкономическое планирование и прогнозирование",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б 503",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "4400",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Зефиров Владимир Игоревич",
+            "id": "106021",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/106021/"
+          }
+        },
+        {
+          "id": "7685-1-15:40-6",
           "dayIndex": 1,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
