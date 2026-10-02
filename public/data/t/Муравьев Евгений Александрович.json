@@ -2,8 +2,8 @@
   "teacherId": "Муравьев Евгений Александрович",
   "teacherName": "Муравьев Евгений Александрович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3",
-  "updatedAt": "2026-10-02T08:30:34.556Z",
-  "totalLessons": 19,
+  "updatedAt": "2026-10-02T19:17:16.187Z",
+  "totalLessons": 21,
   "days": [
     {
       "dayName": "Понедельник",
@@ -235,7 +235,7 @@
           }
         },
         {
-          "id": "7771-5-15:40-5",
+          "id": "7771-5-15:40-4",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -252,7 +252,7 @@
           }
         },
         {
-          "id": "7771-5-17:20-6",
+          "id": "7771-5-17:20-5",
           "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -263,6 +263,40 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "20390",
           "weekParity": "up",
+          "teacher": {
+            "name": "Муравьев Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"
+          }
+        },
+        {
+          "id": "7772-5-15:40-1",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технология разработки программного обеспечения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20391",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Муравьев Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"
+          }
+        },
+        {
+          "id": "7772-5-17:20-2",
+          "dayIndex": 5,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технология разработки программного обеспечения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20391",
+          "weekParity": "down",
           "teacher": {
             "name": "Муравьев Евгений Александрович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"

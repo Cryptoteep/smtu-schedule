@@ -2,8 +2,8 @@
   "teacherId": "Смирнов Алексей Павлович",
   "teacherName": "Смирнов Алексей Павлович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/16/small/p124738.jpg?token_static=162bb0c36eb35d0bed5773bdb832d8af",
-  "updatedAt": "2026-10-02T08:30:34.671Z",
-  "totalLessons": 3,
+  "updatedAt": "2026-10-02T19:17:16.361Z",
+  "totalLessons": 4,
   "days": [
     {
       "dayName": "Понедельник",
@@ -41,7 +41,25 @@
     {
       "dayName": "Четверг",
       "dayIndex": 4,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7801-4-15:40-9",
+          "dayIndex": 4,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 416",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12822-02",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Смирнов Алексей Павлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/16/small/p124738.jpg?token_static=162bb0c36eb35d0bed5773bdb832d8af"
+          }
+        }
+      ]
     },
     {
       "dayName": "Пятница",

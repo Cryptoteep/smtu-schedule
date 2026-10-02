@@ -1,7 +1,7 @@
 {
   "groupId": "6965",
   "groupName": "12115-04",
-  "updatedAt": "2026-10-02T08:30:05.628Z",
+  "updatedAt": "2026-10-02T19:16:53.647Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -65,6 +65,23 @@
           "dayIndex": 1,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 444",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12115-04",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Тельнова Алина Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p127996.jpg?token_static=6cfe9ed639541d3396ea2c9abd56717c"
+          }
+        },
+        {
+          "id": "6965-1-10:10-5",
+          "dayIndex": 1,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
           "subject": "Основы российской государственности",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -78,7 +95,7 @@
           }
         },
         {
-          "id": "6965-1-11:50-5",
+          "id": "6965-1-11:50-6",
           "dayIndex": 1,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -95,7 +112,24 @@
           }
         },
         {
-          "id": "6965-1-14:00-6",
+          "id": "6965-1-11:50-7",
+          "dayIndex": 1,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 421",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12115-04",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Тельнова Алина Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/04/small/p127996.jpg?token_static=6cfe9ed639541d3396ea2c9abd56717c"
+          }
+        },
+        {
+          "id": "6965-1-14:00-8",
           "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -112,7 +146,7 @@
           }
         },
         {
-          "id": "6965-1-14:00-7",
+          "id": "6965-1-14:00-9",
           "dayIndex": 1,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

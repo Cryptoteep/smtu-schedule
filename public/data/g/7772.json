@@ -1,7 +1,7 @@
 {
   "groupId": "7772",
   "groupName": "20391",
-  "updatedAt": "2026-10-02T08:30:25.640Z",
+  "updatedAt": "2026-10-02T19:17:08.180Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -304,6 +304,38 @@
             "name": "Галушин Сергей Яковлевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/18/small/p100258.jpg?token_static=b4b019e33609ed6e45b81ee239b86c66"
           }
+        },
+        {
+          "id": "7772-3-15:40-4",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Облачные технологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20391",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра вычислительной техники и информационных технологий"
+          }
+        },
+        {
+          "id": "7772-3-17:20-5",
+          "dayIndex": 3,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Облачные технологии",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 167",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20391",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Кафедра вычислительной техники и информационных технологий"
+          }
         }
       ]
     },
@@ -364,6 +396,46 @@
           "teacher": {
             "name": "Куприянов Дмитрий Олегович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p128882.jpg?token_static=5e44748c4db63195b0147d0621dba7a0"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7772-5-15:40-1",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Технология разработки программного обеспечения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20391",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Муравьев Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"
+          }
+        },
+        {
+          "id": "7772-5-17:20-2",
+          "dayIndex": 5,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Технология разработки программного обеспечения",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 318",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20391",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Муравьев Евгений Александрович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/06/07/small/p100783.jpg?token_static=4b40a68ff3611cddfd6997a21a2d6fe3"
           }
         }
       ]

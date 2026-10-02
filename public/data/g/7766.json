@@ -1,7 +1,7 @@
 {
   "groupId": "7766",
   "groupName": "20320",
-  "updatedAt": "2026-10-02T08:30:24.634Z",
+  "updatedAt": "2026-10-02T19:17:07.830Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -164,8 +164,8 @@
           "groupName": "20320",
           "weekParity": "up",
           "teacher": {
-            "name": "Ложкин Владислав Александрович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89"
+            "name": "Павлова Елизавета Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128579.jpg?token_static=c693b63995910d17b302d6d109314f62"
           }
         },
         {
@@ -293,8 +293,8 @@
           "groupName": "20320",
           "weekParity": "up",
           "teacher": {
-            "name": "Ложкин Владислав Александрович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/31/small/p130191.jpg?token_static=5db9978d830cd2aa40e1015993807b89"
+            "name": "Павлова Елизавета Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128579.jpg?token_static=c693b63995910d17b302d6d109314f62"
           }
         },
         {
@@ -406,7 +406,43 @@
       "dayIndex": 4,
       "lessons": [
         {
-          "id": "7766-4-11:50-1",
+          "id": "7766-4-08:30-1",
+          "dayIndex": 4,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Деловые коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Евграфова Ирина Владимировна",
+            "id": "100356",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100356/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/13/small/p100356.jpg?token_static=3d2d9c8dda67dd8d73a425d0dd1f4191"
+          }
+        },
+        {
+          "id": "7766-4-10:10-2",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Цифровые системы управления и обработки информации в робототехнике",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 319",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Чубин Дмитрий Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/02/16/small/p124595.jpg?token_static=e67aec73131e515034d01de5425b5258"
+          }
+        },
+        {
+          "id": "7766-4-11:50-3",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -423,7 +459,7 @@
           }
         },
         {
-          "id": "7766-4-14:00-2",
+          "id": "7766-4-14:00-4",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -452,23 +488,6 @@
           "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
-          "subject": "Цифровые системы управления и обработки информации в робототехнике",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У УЛК-13",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20320",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Чубин Дмитрий Валерьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/02/16/small/p124595.jpg?token_static=e67aec73131e515034d01de5425b5258"
-          }
-        },
-        {
-          "id": "7766-5-08:30-2",
-          "dayIndex": 5,
-          "time": "08:30-10:00",
-          "timeSlotIndex": 1,
           "subject": "Информационные элементы робототехнических систем",
           "type": "lecture",
           "rawType": "Лекция",
@@ -482,7 +501,7 @@
           }
         },
         {
-          "id": "7766-5-10:10-3",
+          "id": "7766-5-10:10-2",
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -499,7 +518,7 @@
           }
         },
         {
-          "id": "7766-5-10:10-4",
+          "id": "7766-5-10:10-3",
           "dayIndex": 5,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -516,7 +535,7 @@
           }
         },
         {
-          "id": "7766-5-11:50-5",
+          "id": "7766-5-11:50-4",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -533,7 +552,7 @@
           }
         },
         {
-          "id": "7766-5-11:50-6",
+          "id": "7766-5-11:50-5",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -550,7 +569,7 @@
           }
         },
         {
-          "id": "7766-5-14:00-7",
+          "id": "7766-5-14:00-6",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -567,7 +586,7 @@
           }
         },
         {
-          "id": "7766-5-14:00-8",
+          "id": "7766-5-14:00-7",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

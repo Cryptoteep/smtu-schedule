@@ -1,8 +1,8 @@
 {
   "teacherId": "Гафиатулина Елена Саугановна",
   "teacherName": "Гафиатулина Елена Саугановна",
-  "updatedAt": "2026-10-02T08:30:34.555Z",
-  "totalLessons": 7,
+  "updatedAt": "2026-10-02T19:17:16.187Z",
+  "totalLessons": 9,
   "days": [
     {
       "dayName": "Понедельник",
@@ -134,6 +134,38 @@
           "campus": "Лоцманская (Корпус А)",
           "groupName": "20280",
           "weekParity": "up",
+          "teacher": {
+            "name": "Гафиатулина Елена Саугановна"
+          }
+        },
+        {
+          "id": "7471-5-08:30-2",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Электротехника и электроника",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Гафиатулина Елена Саугановна"
+          }
+        },
+        {
+          "id": "7471-5-10:10-3",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Электротехника и электроника",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 319",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "2330",
+          "weekParity": "both",
           "teacher": {
             "name": "Гафиатулина Елена Саугановна"
           }

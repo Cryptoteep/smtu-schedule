@@ -2,8 +2,8 @@
   "teacherId": "Губанов Александр Юрьевич",
   "teacherName": "Губанов Александр Юрьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/22/small/116450.jpg?token_static=1f001290cc408e541896a38a96c92607",
-  "updatedAt": "2026-10-02T08:30:34.662Z",
-  "totalLessons": 3,
+  "updatedAt": "2026-10-02T19:17:16.314Z",
+  "totalLessons": 4,
   "days": [
     {
       "dayName": "Понедельник",
@@ -63,8 +63,25 @@
           "rawType": "Лекция",
           "room": "ЦДО Дистанционно",
           "campus": "СПбГМТУ",
-          "groupName": "2262",
+          "groupName": "2262, 2292",
           "weekParity": "up",
+          "teacher": {
+            "name": "Губанов Александр Юрьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/22/small/116450.jpg?token_static=1f001290cc408e541896a38a96c92607"
+          }
+        },
+        {
+          "id": "7597-3-20:40-4",
+          "dayIndex": 3,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 5,
+          "subject": "Моделирование электроэнергетических систем",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "ЦДО Дистанционно",
+          "campus": "СПбГМТУ",
+          "groupName": "2292",
+          "weekParity": "both",
           "teacher": {
             "name": "Губанов Александр Юрьевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/22/small/116450.jpg?token_static=1f001290cc408e541896a38a96c92607"

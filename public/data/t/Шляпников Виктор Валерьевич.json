@@ -2,8 +2,8 @@
   "teacherId": "Шляпников Виктор Валерьевич",
   "teacherName": "Шляпников Виктор Валерьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142861.jpg?token_static=be8563b0fe6111fae0e12cdd9e550aef",
-  "updatedAt": "2026-10-02T08:30:34.502Z",
-  "totalLessons": 4,
+  "updatedAt": "2026-10-02T19:17:16.082Z",
+  "totalLessons": 8,
   "days": [
     {
       "dayName": "Понедельник",
@@ -36,7 +36,26 @@
     {
       "dayName": "Среда",
       "dayIndex": 3,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7757-3-20:40-3",
+          "dayIndex": 3,
+          "time": "20:40-22:10",
+          "timeSlotIndex": 4,
+          "subject": "Философия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 412",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20275",
+          "weekParity": "down",
+          "dateSpecific": "07.09 по 19.10",
+          "teacher": {
+            "name": "Шляпников Виктор Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142861.jpg?token_static=be8563b0fe6111fae0e12cdd9e550aef"
+          }
+        }
+      ]
     },
     {
       "dayName": "Четверг",
@@ -89,6 +108,57 @@
           "room": "Конгресс-Центр 427",
           "campus": "Ульянка (Корпус У)",
           "groupName": "1280",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Шляпников Виктор Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142861.jpg?token_static=be8563b0fe6111fae0e12cdd9e550aef"
+          }
+        },
+        {
+          "id": "7626-5-08:30-1",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Философия",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 165",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3224, 3225, 3226, 3227",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шляпников Виктор Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142861.jpg?token_static=be8563b0fe6111fae0e12cdd9e550aef"
+          }
+        },
+        {
+          "id": "7626-5-10:10-3",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 440",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3224, 3227",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Шляпников Виктор Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/07/small/142861.jpg?token_static=be8563b0fe6111fae0e12cdd9e550aef"
+          }
+        },
+        {
+          "id": "7627-5-08:30-1",
+          "dayIndex": 5,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Философия",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 440",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "3225",
           "weekParity": "up",
           "teacher": {
             "name": "Шляпников Виктор Валерьевич",

@@ -2,8 +2,8 @@
   "teacherId": "Левин Сергей Михайлович",
   "teacherName": "Левин Сергей Михайлович",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123537.jpg?token_static=c80696fc3e373517247f83a66b712fe6",
-  "updatedAt": "2026-10-02T08:30:34.664Z",
-  "totalLessons": 31,
+  "updatedAt": "2026-10-02T19:17:16.335Z",
+  "totalLessons": 33,
   "days": [
     {
       "dayName": "Понедельник",
@@ -89,6 +89,40 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "8270, 13738-71",
           "weekParity": "both",
+          "teacher": {
+            "name": "Левин Сергей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123537.jpg?token_static=c80696fc3e373517247f83a66b712fe6"
+          }
+        },
+        {
+          "id": "7733-1-15:40-1",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы философии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 419",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8420, 8430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Левин Сергей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123537.jpg?token_static=c80696fc3e373517247f83a66b712fe6"
+          }
+        },
+        {
+          "id": "7733-1-17:20-2",
+          "dayIndex": 1,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы философии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 419",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8420, 8430",
+          "weekParity": "down",
           "teacher": {
             "name": "Левин Сергей Михайлович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123537.jpg?token_static=c80696fc3e373517247f83a66b712fe6"
@@ -193,7 +227,6 @@
       "lessons": [
         {
           "id": "7733-3-14:00-1",
-          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Основы философии",
@@ -210,7 +243,6 @@
         },
         {
           "id": "7733-3-14:00-2",
-          "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
           "subject": "Основы философии",
@@ -482,23 +514,6 @@
           }
         },
         {
-          "id": "7734-6-14:00-1",
-          "dayIndex": 6,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Основы философии",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 418",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "8430, 8440",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Левин Сергей Михайлович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123537.jpg?token_static=c80696fc3e373517247f83a66b712fe6"
-          }
-        },
-        {
           "id": "7735-6-11:50-2",
           "dayIndex": 6,
           "time": "11:50-13:20",
@@ -509,6 +524,23 @@
           "room": "У 422",
           "campus": "Ульянка (Корпус У)",
           "groupName": "8440",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Левин Сергей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123537.jpg?token_static=c80696fc3e373517247f83a66b712fe6"
+          }
+        },
+        {
+          "id": "7735-6-14:00-4",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Основы философии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 418",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8440, 8430",
           "weekParity": "down",
           "teacher": {
             "name": "Левин Сергей Михайлович",

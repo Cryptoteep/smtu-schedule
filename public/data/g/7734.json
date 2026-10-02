@@ -1,8 +1,48 @@
 {
   "groupId": "7734",
   "groupName": "8430",
-  "updatedAt": "2026-10-02T08:30:34.309Z",
+  "updatedAt": "2026-10-02T19:17:15.631Z",
   "days": [
+    {
+      "dayName": "Понедельник",
+      "dayIndex": 1,
+      "lessons": [
+        {
+          "id": "7734-1-15:40-1",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы философии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 419",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Левин Сергей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123537.jpg?token_static=c80696fc3e373517247f83a66b712fe6"
+          }
+        },
+        {
+          "id": "7734-1-17:20-2",
+          "dayIndex": 1,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Основы философии",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 419",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "8430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Левин Сергей Михайлович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123537.jpg?token_static=c80696fc3e373517247f83a66b712fe6"
+          }
+        }
+      ]
+    },
     {
       "dayName": "Вторник",
       "dayIndex": 2,
@@ -321,24 +361,7 @@
       "dayIndex": 6,
       "lessons": [
         {
-          "id": "7734-6-14:00-1",
-          "dayIndex": 6,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Основы философии",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 418",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "8430",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Левин Сергей Михайлович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p123537.jpg?token_static=c80696fc3e373517247f83a66b712fe6"
-          }
-        },
-        {
-          "id": "7734-6-15:40-2",
+          "id": "7734-6-15:40-1",
           "dayIndex": 6,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -355,7 +378,7 @@
           }
         },
         {
-          "id": "7734-6-15:40-3",
+          "id": "7734-6-15:40-2",
           "dayIndex": 6,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -372,7 +395,7 @@
           }
         },
         {
-          "id": "7734-6-17:20-4",
+          "id": "7734-6-17:20-3",
           "dayIndex": 6,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,

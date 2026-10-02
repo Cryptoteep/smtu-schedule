@@ -1,8 +1,8 @@
 {
   "teacherId": "Кафедра гражданско-правовых дисциплин",
   "teacherName": "Кафедра гражданско-правовых дисциплин",
-  "updatedAt": "2026-10-02T08:30:34.664Z",
-  "totalLessons": 6,
+  "updatedAt": "2026-10-02T19:17:16.315Z",
+  "totalLessons": 5,
   "days": [
     {
       "dayName": "Понедельник",
@@ -109,24 +109,7 @@
     {
       "dayName": "Пятница",
       "dayIndex": 5,
-      "lessons": [
-        {
-          "id": "7717-5-15:40-4",
-          "dayIndex": 5,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Жилищное право",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 161",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "7461, 7463",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Кафедра гражданско-правовых дисциплин"
-          }
-        }
-      ]
+      "lessons": []
     },
     {
       "dayName": "Суббота",

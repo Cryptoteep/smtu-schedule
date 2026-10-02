@@ -2,8 +2,8 @@
   "teacherId": "Павлова Елизавета Алексеевна",
   "teacherName": "Павлова Елизавета Алексеевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128579.jpg?token_static=c693b63995910d17b302d6d109314f62",
-  "updatedAt": "2026-10-02T08:30:34.559Z",
-  "totalLessons": 7,
+  "updatedAt": "2026-10-02T19:17:16.188Z",
+  "totalLessons": 11,
   "days": [
     {
       "dayName": "Понедельник",
@@ -61,13 +61,82 @@
             "name": "Павлова Елизавета Алексеевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128579.jpg?token_static=c693b63995910d17b302d6d109314f62"
           }
+        },
+        {
+          "id": "7766-2-11:50-3",
+          "dayIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Классическая и современная теория автоматического управления",
+          "type": "lab",
+          "rawType": "Лабораторное занятие",
+          "room": "У 532",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Павлова Елизавета Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128579.jpg?token_static=c693b63995910d17b302d6d109314f62"
+          }
+        },
+        {
+          "id": "7767-2-14:00-6",
+          "dayIndex": 2,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Управление дискретно-непрерывными системами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 437",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20321",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Павлова Елизавета Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128579.jpg?token_static=c693b63995910d17b302d6d109314f62"
+          }
         }
       ]
     },
     {
       "dayName": "Среда",
       "dayIndex": 3,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7766-3-10:10-2",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Классическая и современная теория автоматического управления",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 450",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Павлова Елизавета Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128579.jpg?token_static=c693b63995910d17b302d6d109314f62"
+          }
+        },
+        {
+          "id": "7767-3-11:50-3",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление дискретно-непрерывными системами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 544",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20321",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Павлова Елизавета Алексеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2020/08/31/small/p128579.jpg?token_static=c693b63995910d17b302d6d109314f62"
+          }
+        }
+      ]
     },
     {
       "dayName": "Четверг",
