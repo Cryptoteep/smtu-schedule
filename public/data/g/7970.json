@@ -1,7 +1,7 @@
 {
   "groupId": "7970",
   "groupName": "1101",
-  "updatedAt": "2026-10-01T23:52:43.176Z",
+  "updatedAt": "2026-10-02T08:30:04.603Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -15,7 +15,7 @@
           "subject": "",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 451",
+          "room": "У 450",
           "campus": "Ульянка (Корпус У)",
           "groupName": "1101",
           "weekParity": "both",
@@ -23,20 +23,6 @@
         },
         {
           "id": "7970-1-17:20-2",
-          "dayIndex": 1,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "21.09 -16.10 Довузовская подготовка",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 443",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "1101",
-          "weekParity": "both",
-          "dateSpecific": "21.09 -16.10"
-        },
-        {
-          "id": "7970-1-17:20-3",
           "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -50,6 +36,20 @@
           "dateSpecific": "21.09 -16.10"
         },
         {
+          "id": "7970-1-17:20-3",
+          "dayIndex": 1,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "21.09 -16.10 Довузовская подготовка",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 443",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "1101",
+          "weekParity": "both",
+          "dateSpecific": "21.09 -16.10"
+        },
+        {
           "id": "7970-1-17:20-4",
           "dayIndex": 1,
           "time": "17:20-18:50",
@@ -57,7 +57,7 @@
           "subject": "",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 450",
+          "room": "У 451",
           "campus": "Ульянка (Корпус У)",
           "groupName": "1101",
           "weekParity": "both",
@@ -147,7 +147,7 @@
           "subject": "21.09 -16.10 Довузовская подготовка",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 451",
+          "room": "У 450",
           "campus": "Ульянка (Корпус У)",
           "groupName": "1101",
           "weekParity": "both",
@@ -161,7 +161,7 @@
           "subject": "21.09 -16.10 Довузовская подготовка",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 450",
+          "room": "У 451",
           "campus": "Ульянка (Корпус У)",
           "groupName": "1101",
           "weekParity": "both",
@@ -175,7 +175,7 @@
           "subject": "21.09 -16.10 Довузовская подготовка",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 450",
+          "room": "Конгресс-Центр 306",
           "campus": "Ульянка (Корпус У)",
           "groupName": "1101",
           "weekParity": "both",
@@ -189,7 +189,7 @@
           "subject": "21.09 -16.10 Довузовская подготовка",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Конгресс-Центр 306",
+          "room": "У 450",
           "campus": "Ульянка (Корпус У)",
           "groupName": "1101",
           "weekParity": "both",
@@ -216,21 +216,7 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7970-3-14:00-1",
-          "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Бронь на мероприятие 30.09.2026",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "А 308",
-          "campus": "Лоцманская (Корпус А)",
-          "groupName": "1101",
-          "weekParity": "up",
-          "dateSpecific": "30.09"
-        },
-        {
-          "id": "7970-3-15:40-2",
+          "id": "7970-3-15:40-1",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -244,7 +230,7 @@
           "dateSpecific": "30.09"
         },
         {
-          "id": "7970-3-17:20-3",
+          "id": "7970-3-17:20-2",
           "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -258,7 +244,7 @@
           "dateSpecific": "21.09 -16.10"
         },
         {
-          "id": "7970-3-17:20-4",
+          "id": "7970-3-17:20-3",
           "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -272,7 +258,7 @@
           "dateSpecific": "21.09 -16.10"
         },
         {
-          "id": "7970-3-17:20-5",
+          "id": "7970-3-17:20-4",
           "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -286,7 +272,7 @@
           "dateSpecific": "21.09 -16.10"
         },
         {
-          "id": "7970-3-17:20-6",
+          "id": "7970-3-17:20-5",
           "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -300,7 +286,7 @@
           "dateSpecific": "21.09 -16.10"
         },
         {
-          "id": "7970-3-19:00-7",
+          "id": "7970-3-19:00-6",
           "dayIndex": 3,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -314,7 +300,7 @@
           "dateSpecific": "21.09 -16.10"
         },
         {
-          "id": "7970-3-19:00-8",
+          "id": "7970-3-19:00-7",
           "dayIndex": 3,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -328,7 +314,7 @@
           "dateSpecific": "21.09 -16.10"
         },
         {
-          "id": "7970-3-19:00-9",
+          "id": "7970-3-19:00-8",
           "dayIndex": 3,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
@@ -342,7 +328,7 @@
           "dateSpecific": "21.09 -16.10"
         },
         {
-          "id": "7970-3-19:00-10",
+          "id": "7970-3-19:00-9",
           "dayIndex": 3,
           "time": "19:00-20:30",
           "timeSlotIndex": 7,
