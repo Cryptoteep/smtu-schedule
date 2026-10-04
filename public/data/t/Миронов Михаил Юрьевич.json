@@ -3,8 +3,8 @@
   "teacherName": "Миронов Михаил Юрьевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
-  "updatedAt": "2026-10-04T18:09:28.206Z",
-  "totalLessons": 21,
+  "updatedAt": "2026-10-04T23:07:57.814Z",
+  "totalLessons": 22,
   "days": [
     {
       "dayName": "Понедельник",
@@ -214,6 +214,25 @@
           "room": "Б 401",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "12126-06, 12126-04, 12126-05, 12126-07",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Миронов Михаил Юрьевич",
+            "id": "100756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
+          }
+        },
+        {
+          "id": "7786-3-11:50-7",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-08, 12226-09, 12226-10, 12226-11, 12826-12",
           "weekParity": "down",
           "teacher": {
             "name": "Миронов Михаил Юрьевич",

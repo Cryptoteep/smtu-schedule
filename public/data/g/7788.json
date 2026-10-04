@@ -1,7 +1,7 @@
 {
   "groupId": "7788",
   "groupName": "12226-09",
-  "updatedAt": "2026-10-04T18:09:11.679Z",
+  "updatedAt": "2026-10-04T23:07:41.880Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -269,8 +269,10 @@
           "groupName": "12226-09",
           "weekParity": "up",
           "teacher": {
-            "name": "Дроздов Владимир Владимирович",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+            "name": "Едуш Наталья Юрьевна",
+            "id": "100364",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
           }
         },
         {
@@ -286,10 +288,8 @@
           "groupName": "12226-09",
           "weekParity": "up",
           "teacher": {
-            "name": "Яковлев Алексей Юрьевич",
-            "id": "101392",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
+            "name": "Дроздов Владимир Владимирович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
           }
         },
         {
@@ -322,10 +322,10 @@
           "groupName": "12226-09",
           "weekParity": "up",
           "teacher": {
-            "name": "Едуш Наталья Юрьевна",
-            "id": "100364",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+            "name": "Яковлев Алексей Юрьевич",
+            "id": "101392",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101392/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101392.jpg?token_static=8cfe0724e451e9396cbd75414aa0e453"
           }
         },
         {
@@ -377,6 +377,25 @@
           "groupName": "12226-09",
           "weekParity": "down",
           "teacher": {
+            "name": "Миронов Михаил Юрьевич",
+            "id": "100756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
+          }
+        },
+        {
+          "id": "7788-3-11:50-11",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-09",
+          "weekParity": "down",
+          "teacher": {
             "name": "Вихров Николай Михайлович",
             "id": "100217",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
@@ -384,7 +403,7 @@
           }
         },
         {
-          "id": "7788-3-11:50-11",
+          "id": "7788-3-11:50-12",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -401,7 +420,7 @@
           }
         },
         {
-          "id": "7788-3-14:00-12",
+          "id": "7788-3-14:00-13",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -420,7 +439,7 @@
           }
         },
         {
-          "id": "7788-3-14:00-13",
+          "id": "7788-3-14:00-14",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -439,7 +458,7 @@
           }
         },
         {
-          "id": "7788-3-15:40-14",
+          "id": "7788-3-15:40-15",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,

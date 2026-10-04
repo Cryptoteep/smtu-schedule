@@ -1,7 +1,7 @@
 {
   "groupId": "7795",
   "groupName": "12315-06",
-  "updatedAt": "2026-10-04T18:09:15.640Z",
+  "updatedAt": "2026-10-04T23:07:45.353Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -312,7 +312,25 @@
           }
         },
         {
-          "id": "7795-4-11:50-3",
+          "id": "7795-4-10:10-3",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Обучение служением",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 115",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12315-06",
+          "weekParity": "down",
+          "dateSpecific": "06.10 - 26.10",
+          "teacher": {
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
+          }
+        },
+        {
+          "id": "7795-4-11:50-4",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -329,7 +347,7 @@
           }
         },
         {
-          "id": "7795-4-14:00-4",
+          "id": "7795-4-14:00-5",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -361,6 +379,23 @@
           "subject": "Основы военной подготовки",
           "type": "military",
           "rawType": "Практическое занятие",
+          "room": "У ВУЦ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12315-06",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+          }
+        },
+        {
+          "id": "7795-5-10:10-2",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Основы военной подготовки",
+          "type": "military",
+          "rawType": "Практическое занятие",
           "room": "У 407",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12315-06",
@@ -373,10 +408,10 @@
           }
         },
         {
-          "id": "7795-5-10:10-2",
+          "id": "7795-5-11:50-3",
           "dayIndex": 5,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
           "subject": "Основы военной подготовки",
           "type": "military",
           "rawType": "Практическое занятие",
@@ -390,7 +425,7 @@
           }
         },
         {
-          "id": "7795-5-11:50-3",
+          "id": "7795-5-11:50-4",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -406,23 +441,6 @@
             "id": "122500",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
-          }
-        },
-        {
-          "id": "7795-5-11:50-4",
-          "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Основы военной подготовки",
-          "type": "military",
-          "rawType": "Практическое занятие",
-          "room": "У ВУЦ",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12315-06",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Величко Борис Валерьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
           }
         },
         {

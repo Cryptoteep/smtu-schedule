@@ -1,7 +1,7 @@
 {
   "groupId": "7793",
   "groupName": "12327-02",
-  "updatedAt": "2026-10-04T18:09:15.934Z",
+  "updatedAt": "2026-10-04T23:07:45.985Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -229,13 +229,13 @@
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Социальное взаимодействие в профессиональной деятельности",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 207",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 105",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12327-02",
           "weekParity": "down",
-          "dateSpecific": "27.10-21.12",
+          "dateSpecific": "01.09 по 26.10",
           "teacher": {
             "name": "Ильина Екатерина Владимировна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100466.jpg?token_static=a0d59a7049958518a8966b4eb0c215f2"
@@ -247,13 +247,13 @@
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
           "subject": "Социальное взаимодействие в профессиональной деятельности",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 105",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 207",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12327-02",
           "weekParity": "down",
-          "dateSpecific": "01.09 по 26.10",
+          "dateSpecific": "27.10-21.12",
           "teacher": {
             "name": "Ильина Екатерина Владимировна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p100466.jpg?token_static=a0d59a7049958518a8966b4eb0c215f2"
@@ -319,7 +319,25 @@
           }
         },
         {
-          "id": "7793-4-11:50-2",
+          "id": "7793-4-10:10-2",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Обучение служением",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 115",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12327-02",
+          "weekParity": "down",
+          "dateSpecific": "06.10 - 26.10",
+          "teacher": {
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
+          }
+        },
+        {
+          "id": "7793-4-11:50-3",
           "dayIndex": 4,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -336,7 +354,7 @@
           }
         },
         {
-          "id": "7793-4-14:00-3",
+          "id": "7793-4-14:00-4",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -353,7 +371,7 @@
           }
         },
         {
-          "id": "7793-4-14:00-4",
+          "id": "7793-4-14:00-5",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -372,7 +390,7 @@
           }
         },
         {
-          "id": "7793-4-15:40-5",
+          "id": "7793-4-15:40-6",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -391,7 +409,7 @@
           }
         },
         {
-          "id": "7793-4-15:40-6",
+          "id": "7793-4-15:40-7",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -410,7 +428,7 @@
           }
         },
         {
-          "id": "7793-4-15:40-7",
+          "id": "7793-4-15:40-8",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,

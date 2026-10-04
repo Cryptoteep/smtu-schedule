@@ -1,7 +1,7 @@
 {
   "groupId": "7796",
   "groupName": "12740-01",
-  "updatedAt": "2026-10-04T18:09:24.694Z",
+  "updatedAt": "2026-10-04T23:07:54.282Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -427,7 +427,24 @@
           }
         },
         {
-          "id": "7796-5-14:00-2",
+          "id": "7796-5-11:50-2",
+          "dayIndex": 5,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-01",
+          "weekParity": "down",
+          "dateSpecific": "06.10",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
+          }
+        },
+        {
+          "id": "7796-5-14:00-3",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -446,7 +463,7 @@
           }
         },
         {
-          "id": "7796-5-14:00-3",
+          "id": "7796-5-14:00-4",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -465,7 +482,7 @@
           }
         },
         {
-          "id": "7796-5-15:40-4",
+          "id": "7796-5-15:40-5",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -482,7 +499,7 @@
           }
         },
         {
-          "id": "7796-5-15:40-5",
+          "id": "7796-5-15:40-6",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -500,7 +517,7 @@
           }
         },
         {
-          "id": "7796-5-17:20-6",
+          "id": "7796-5-17:20-7",
           "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -524,7 +541,25 @@
       "dayIndex": 6,
       "lessons": [
         {
-          "id": "7796-6-11:50-1",
+          "id": "7796-6-10:10-1",
+          "dayIndex": 6,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Обучение служением",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 154",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-01",
+          "weekParity": "both",
+          "dateSpecific": "06.10-19.10",
+          "teacher": {
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
+          }
+        },
+        {
+          "id": "7796-6-11:50-2",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -536,6 +571,24 @@
           "groupName": "12740-01",
           "weekParity": "up",
           "dateSpecific": "03.10",
+          "teacher": {
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
+          }
+        },
+        {
+          "id": "7796-6-11:50-3",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Обучение служением",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 154",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-01",
+          "weekParity": "both",
+          "dateSpecific": "06.10-19.10",
           "teacher": {
             "name": "Березовская Ирина Петровна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"

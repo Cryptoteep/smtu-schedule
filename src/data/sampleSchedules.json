@@ -2,7 +2,7 @@
   "1101": {
     "groupId": "7970",
     "groupName": "1101",
-    "updatedAt": "2026-10-04T18:09:06.610Z",
+    "updatedAt": "2026-10-04T23:07:37.066Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -487,7 +487,7 @@
   "1201": {
     "groupId": "7540",
     "groupName": "1201",
-    "updatedAt": "2026-10-04T18:09:06.579Z",
+    "updatedAt": "2026-10-04T23:07:36.918Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -974,7 +974,7 @@
   "2201": {
     "groupId": "7470",
     "groupName": "2201",
-    "updatedAt": "2026-10-04T18:09:12.344Z",
+    "updatedAt": "2026-10-04T23:07:42.303Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -1620,7 +1620,7 @@
   "3210": {
     "groupId": "7624",
     "groupName": "3210",
-    "updatedAt": "2026-10-04T18:09:16.339Z",
+    "updatedAt": "2026-10-04T23:07:46.019Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -2089,7 +2089,7 @@
   "3220": {
     "groupId": "7625",
     "groupName": "3220",
-    "updatedAt": "2026-10-04T18:09:16.572Z",
+    "updatedAt": "2026-10-04T23:07:45.754Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -2192,7 +2192,7 @@
             "subject": "Экология",
             "type": "practice",
             "rawType": "Практическое занятие",
-            "room": "У 340(2)",
+            "room": "У 340(1)",
             "campus": "Ульянка (Корпус У)",
             "groupName": "3220",
             "weekParity": "up",
@@ -2211,7 +2211,7 @@
             "subject": "Экология",
             "type": "practice",
             "rawType": "Практическое занятие",
-            "room": "У 340(1)",
+            "room": "У 340(2)",
             "campus": "Ульянка (Корпус У)",
             "groupName": "3220",
             "weekParity": "up",
@@ -2496,8 +2496,8 @@
             "groupName": "3220",
             "weekParity": "up",
             "teacher": {
-              "name": "Анистратова Валерия Владимировна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/09/small/p124521.jpg?token_static=c658f01e1f4418830d68d2f457688ca3"
+              "name": "Косенко Дарья Максимовна",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p126085.jpg?token_static=b367710e8a5df1be327cf9d825db79a7"
             }
           },
           {
@@ -2513,8 +2513,8 @@
             "groupName": "3220",
             "weekParity": "up",
             "teacher": {
-              "name": "Косенко Дарья Максимовна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p126085.jpg?token_static=b367710e8a5df1be327cf9d825db79a7"
+              "name": "Анистратова Валерия Владимировна",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/09/small/p124521.jpg?token_static=c658f01e1f4418830d68d2f457688ca3"
             }
           },
           {
@@ -2540,23 +2540,6 @@
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
             "subject": "Основы управленческой деятельности",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "Г 312",
-            "campus": "Горьковская (Корпус Г)",
-            "groupName": "3220",
-            "weekParity": "up",
-            "teacher": {
-              "name": "Григоров Максим Юрьевич",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113051.jpg?token_static=229a53a2e515b2be673253677af5b9a2"
-            }
-          },
-          {
-            "id": "7625-5-11:50-6",
-            "dayIndex": 5,
-            "time": "11:50-13:20",
-            "timeSlotIndex": 3,
-            "subject": "Основы управленческой деятельности",
             "type": "practice",
             "rawType": "Практическое занятие",
             "room": "Г 215",
@@ -2564,12 +2547,12 @@
             "groupName": "3220",
             "weekParity": "down",
             "teacher": {
-              "name": "Остроумова Полина Леонидовна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/14/small/p128734.jpg?token_static=4e663136607d927f71713cb041760657"
+              "name": "Юрьева Диана Юрьевна",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/03/10/small/p124491.jpg?token_static=cfa9fc3d46246bd0f636ff9b175135b3"
             }
           },
           {
-            "id": "7625-5-11:50-7",
+            "id": "7625-5-11:50-6",
             "dayIndex": 5,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -2586,24 +2569,7 @@
             }
           },
           {
-            "id": "7625-5-11:50-8",
-            "dayIndex": 5,
-            "time": "11:50-13:20",
-            "timeSlotIndex": 3,
-            "subject": "Основы управленческой деятельности",
-            "type": "practice",
-            "rawType": "Практическое занятие",
-            "room": "Г 215",
-            "campus": "Горьковская (Корпус Г)",
-            "groupName": "3220",
-            "weekParity": "down",
-            "teacher": {
-              "name": "Юрьева Диана Юрьевна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/03/10/small/p124491.jpg?token_static=cfa9fc3d46246bd0f636ff9b175135b3"
-            }
-          },
-          {
-            "id": "7625-5-11:50-9",
+            "id": "7625-5-11:50-7",
             "dayIndex": 5,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -2620,24 +2586,7 @@
             }
           },
           {
-            "id": "7625-5-14:00-10",
-            "dayIndex": 5,
-            "time": "14:00-15:30",
-            "timeSlotIndex": 4,
-            "subject": "История морской подводной техники",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "Г 312",
-            "campus": "Горьковская (Корпус Г)",
-            "groupName": "3220",
-            "weekParity": "up",
-            "teacher": {
-              "name": "Филимонова Елена Анатольевна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101252.jpg?token_static=328c5b57462d1329ce139479c07e8a35"
-            }
-          },
-          {
-            "id": "7625-5-14:00-11",
+            "id": "7625-5-14:00-8",
             "dayIndex": 5,
             "time": "14:00-15:30",
             "timeSlotIndex": 4,
@@ -2654,7 +2603,7 @@
             }
           },
           {
-            "id": "7625-5-14:00-12",
+            "id": "7625-5-14:00-9",
             "dayIndex": 5,
             "time": "14:00-15:30",
             "timeSlotIndex": 4,
@@ -2666,12 +2615,12 @@
             "groupName": "3220",
             "weekParity": "up",
             "teacher": {
-              "name": "Истомина Мария Ивановна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/26/small/p124829.jpg?token_static=189884c7e89b504176e02d7d54c46a6d"
+              "name": "Филимонова Елена Анатольевна",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101252.jpg?token_static=328c5b57462d1329ce139479c07e8a35"
             }
           },
           {
-            "id": "7625-5-14:00-13",
+            "id": "7625-5-14:00-10",
             "dayIndex": 5,
             "time": "14:00-15:30",
             "timeSlotIndex": 4,
@@ -2690,41 +2639,7 @@
             }
           },
           {
-            "id": "7625-5-14:00-14",
-            "dayIndex": 5,
-            "time": "14:00-15:30",
-            "timeSlotIndex": 4,
-            "subject": "История морской подводной техники",
-            "type": "practice",
-            "rawType": "Практическое занятие",
-            "room": "Г 414",
-            "campus": "Горьковская (Корпус Г)",
-            "groupName": "3220",
-            "weekParity": "down",
-            "teacher": {
-              "name": "Истомина Мария Ивановна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/26/small/p124829.jpg?token_static=189884c7e89b504176e02d7d54c46a6d"
-            }
-          },
-          {
-            "id": "7625-5-14:00-15",
-            "dayIndex": 5,
-            "time": "14:00-15:30",
-            "timeSlotIndex": 4,
-            "subject": "История морской подводной техники",
-            "type": "practice",
-            "rawType": "Практическое занятие",
-            "room": "Г 130",
-            "campus": "Горьковская (Корпус Г)",
-            "groupName": "3220",
-            "weekParity": "down",
-            "teacher": {
-              "name": "Филимонова Елена Анатольевна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101252.jpg?token_static=328c5b57462d1329ce139479c07e8a35"
-            }
-          },
-          {
-            "id": "7625-5-14:00-16",
+            "id": "7625-5-14:00-11",
             "dayIndex": 5,
             "time": "14:00-15:30",
             "timeSlotIndex": 4,
@@ -2743,7 +2658,24 @@
             }
           },
           {
-            "id": "7625-5-14:00-17",
+            "id": "7625-5-14:00-12",
+            "dayIndex": 5,
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "История морской подводной техники",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 130",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3220",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Филимонова Елена Анатольевна",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101252.jpg?token_static=328c5b57462d1329ce139479c07e8a35"
+            }
+          },
+          {
+            "id": "7625-5-14:00-13",
             "dayIndex": 5,
             "time": "14:00-15:30",
             "timeSlotIndex": 4,
@@ -2840,7 +2772,7 @@
   "3280": {
     "groupId": "7640",
     "groupName": "3280",
-    "updatedAt": "2026-10-04T18:09:17.158Z",
+    "updatedAt": "2026-10-04T23:07:46.738Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -3417,7 +3349,7 @@
   "4200": {
     "groupId": "7665",
     "groupName": "4200",
-    "updatedAt": "2026-10-04T18:09:22.712Z",
+    "updatedAt": "2026-10-04T23:07:52.629Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -3901,7 +3833,7 @@
   "7200": {
     "groupId": "7704",
     "groupName": "7200",
-    "updatedAt": "2026-10-04T18:09:25.303Z",
+    "updatedAt": "2026-10-04T23:07:54.801Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -4368,7 +4300,7 @@
   "7470": {
     "groupId": "7470",
     "groupName": "2201",
-    "updatedAt": "2026-10-04T18:09:12.344Z",
+    "updatedAt": "2026-10-04T23:07:42.303Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -5014,7 +4946,7 @@
   "7540": {
     "groupId": "7540",
     "groupName": "1201",
-    "updatedAt": "2026-10-04T18:09:06.579Z",
+    "updatedAt": "2026-10-04T23:07:36.918Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -5501,7 +5433,7 @@
   "7624": {
     "groupId": "7624",
     "groupName": "3210",
-    "updatedAt": "2026-10-04T18:09:16.339Z",
+    "updatedAt": "2026-10-04T23:07:46.019Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -5970,7 +5902,7 @@
   "7625": {
     "groupId": "7625",
     "groupName": "3220",
-    "updatedAt": "2026-10-04T18:09:16.572Z",
+    "updatedAt": "2026-10-04T23:07:45.754Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -6073,7 +6005,7 @@
             "subject": "Экология",
             "type": "practice",
             "rawType": "Практическое занятие",
-            "room": "У 340(2)",
+            "room": "У 340(1)",
             "campus": "Ульянка (Корпус У)",
             "groupName": "3220",
             "weekParity": "up",
@@ -6092,7 +6024,7 @@
             "subject": "Экология",
             "type": "practice",
             "rawType": "Практическое занятие",
-            "room": "У 340(1)",
+            "room": "У 340(2)",
             "campus": "Ульянка (Корпус У)",
             "groupName": "3220",
             "weekParity": "up",
@@ -6377,8 +6309,8 @@
             "groupName": "3220",
             "weekParity": "up",
             "teacher": {
-              "name": "Анистратова Валерия Владимировна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/09/small/p124521.jpg?token_static=c658f01e1f4418830d68d2f457688ca3"
+              "name": "Косенко Дарья Максимовна",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p126085.jpg?token_static=b367710e8a5df1be327cf9d825db79a7"
             }
           },
           {
@@ -6394,8 +6326,8 @@
             "groupName": "3220",
             "weekParity": "up",
             "teacher": {
-              "name": "Косенко Дарья Максимовна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p126085.jpg?token_static=b367710e8a5df1be327cf9d825db79a7"
+              "name": "Анистратова Валерия Владимировна",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/09/small/p124521.jpg?token_static=c658f01e1f4418830d68d2f457688ca3"
             }
           },
           {
@@ -6421,23 +6353,6 @@
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
             "subject": "Основы управленческой деятельности",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "Г 312",
-            "campus": "Горьковская (Корпус Г)",
-            "groupName": "3220",
-            "weekParity": "up",
-            "teacher": {
-              "name": "Григоров Максим Юрьевич",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113051.jpg?token_static=229a53a2e515b2be673253677af5b9a2"
-            }
-          },
-          {
-            "id": "7625-5-11:50-6",
-            "dayIndex": 5,
-            "time": "11:50-13:20",
-            "timeSlotIndex": 3,
-            "subject": "Основы управленческой деятельности",
             "type": "practice",
             "rawType": "Практическое занятие",
             "room": "Г 215",
@@ -6445,12 +6360,12 @@
             "groupName": "3220",
             "weekParity": "down",
             "teacher": {
-              "name": "Остроумова Полина Леонидовна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/14/small/p128734.jpg?token_static=4e663136607d927f71713cb041760657"
+              "name": "Юрьева Диана Юрьевна",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/03/10/small/p124491.jpg?token_static=cfa9fc3d46246bd0f636ff9b175135b3"
             }
           },
           {
-            "id": "7625-5-11:50-7",
+            "id": "7625-5-11:50-6",
             "dayIndex": 5,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -6467,24 +6382,7 @@
             }
           },
           {
-            "id": "7625-5-11:50-8",
-            "dayIndex": 5,
-            "time": "11:50-13:20",
-            "timeSlotIndex": 3,
-            "subject": "Основы управленческой деятельности",
-            "type": "practice",
-            "rawType": "Практическое занятие",
-            "room": "Г 215",
-            "campus": "Горьковская (Корпус Г)",
-            "groupName": "3220",
-            "weekParity": "down",
-            "teacher": {
-              "name": "Юрьева Диана Юрьевна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/03/10/small/p124491.jpg?token_static=cfa9fc3d46246bd0f636ff9b175135b3"
-            }
-          },
-          {
-            "id": "7625-5-11:50-9",
+            "id": "7625-5-11:50-7",
             "dayIndex": 5,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -6501,24 +6399,7 @@
             }
           },
           {
-            "id": "7625-5-14:00-10",
-            "dayIndex": 5,
-            "time": "14:00-15:30",
-            "timeSlotIndex": 4,
-            "subject": "История морской подводной техники",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "Г 312",
-            "campus": "Горьковская (Корпус Г)",
-            "groupName": "3220",
-            "weekParity": "up",
-            "teacher": {
-              "name": "Филимонова Елена Анатольевна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101252.jpg?token_static=328c5b57462d1329ce139479c07e8a35"
-            }
-          },
-          {
-            "id": "7625-5-14:00-11",
+            "id": "7625-5-14:00-8",
             "dayIndex": 5,
             "time": "14:00-15:30",
             "timeSlotIndex": 4,
@@ -6535,7 +6416,7 @@
             }
           },
           {
-            "id": "7625-5-14:00-12",
+            "id": "7625-5-14:00-9",
             "dayIndex": 5,
             "time": "14:00-15:30",
             "timeSlotIndex": 4,
@@ -6547,12 +6428,12 @@
             "groupName": "3220",
             "weekParity": "up",
             "teacher": {
-              "name": "Истомина Мария Ивановна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/26/small/p124829.jpg?token_static=189884c7e89b504176e02d7d54c46a6d"
+              "name": "Филимонова Елена Анатольевна",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101252.jpg?token_static=328c5b57462d1329ce139479c07e8a35"
             }
           },
           {
-            "id": "7625-5-14:00-13",
+            "id": "7625-5-14:00-10",
             "dayIndex": 5,
             "time": "14:00-15:30",
             "timeSlotIndex": 4,
@@ -6571,41 +6452,7 @@
             }
           },
           {
-            "id": "7625-5-14:00-14",
-            "dayIndex": 5,
-            "time": "14:00-15:30",
-            "timeSlotIndex": 4,
-            "subject": "История морской подводной техники",
-            "type": "practice",
-            "rawType": "Практическое занятие",
-            "room": "Г 414",
-            "campus": "Горьковская (Корпус Г)",
-            "groupName": "3220",
-            "weekParity": "down",
-            "teacher": {
-              "name": "Истомина Мария Ивановна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/26/small/p124829.jpg?token_static=189884c7e89b504176e02d7d54c46a6d"
-            }
-          },
-          {
-            "id": "7625-5-14:00-15",
-            "dayIndex": 5,
-            "time": "14:00-15:30",
-            "timeSlotIndex": 4,
-            "subject": "История морской подводной техники",
-            "type": "practice",
-            "rawType": "Практическое занятие",
-            "room": "Г 130",
-            "campus": "Горьковская (Корпус Г)",
-            "groupName": "3220",
-            "weekParity": "down",
-            "teacher": {
-              "name": "Филимонова Елена Анатольевна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101252.jpg?token_static=328c5b57462d1329ce139479c07e8a35"
-            }
-          },
-          {
-            "id": "7625-5-14:00-16",
+            "id": "7625-5-14:00-11",
             "dayIndex": 5,
             "time": "14:00-15:30",
             "timeSlotIndex": 4,
@@ -6624,7 +6471,24 @@
             }
           },
           {
-            "id": "7625-5-14:00-17",
+            "id": "7625-5-14:00-12",
+            "dayIndex": 5,
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "История морской подводной техники",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 130",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "3220",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Филимонова Елена Анатольевна",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/02/27/small/p101252.jpg?token_static=328c5b57462d1329ce139479c07e8a35"
+            }
+          },
+          {
+            "id": "7625-5-14:00-13",
             "dayIndex": 5,
             "time": "14:00-15:30",
             "timeSlotIndex": 4,
@@ -6721,7 +6585,7 @@
   "7640": {
     "groupId": "7640",
     "groupName": "3280",
-    "updatedAt": "2026-10-04T18:09:17.158Z",
+    "updatedAt": "2026-10-04T23:07:46.738Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -7298,7 +7162,7 @@
   "7665": {
     "groupId": "7665",
     "groupName": "4200",
-    "updatedAt": "2026-10-04T18:09:22.712Z",
+    "updatedAt": "2026-10-04T23:07:52.629Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -7782,7 +7646,7 @@
   "7704": {
     "groupId": "7704",
     "groupName": "7200",
-    "updatedAt": "2026-10-04T18:09:25.303Z",
+    "updatedAt": "2026-10-04T23:07:54.801Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -8249,7 +8113,7 @@
   "7738": {
     "groupId": "7738",
     "groupName": "10274",
-    "updatedAt": "2026-10-04T18:09:25.999Z",
+    "updatedAt": "2026-10-04T23:07:55.460Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -8786,7 +8650,7 @@
   "7798": {
     "groupId": "7798",
     "groupName": "12226-11",
-    "updatedAt": "2026-10-04T18:09:11.675Z",
+    "updatedAt": "2026-10-04T23:07:41.876Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -9104,8 +8968,8 @@
             "groupName": "12226-11",
             "weekParity": "up",
             "teacher": {
-              "name": "Дроздов Владимир Владимирович",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+              "name": "Павлов Павел Валентинович",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
             }
           },
           {
@@ -9121,8 +8985,8 @@
             "groupName": "12226-11",
             "weekParity": "up",
             "teacher": {
-              "name": "Павлов Павел Валентинович",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
+              "name": "Дроздов Владимир Владимирович",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
             }
           },
           {
@@ -9138,31 +9002,14 @@
             "groupName": "12226-11",
             "weekParity": "down",
             "teacher": {
-              "name": "Вихров Николай Михайлович",
-              "id": "100217",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
+              "name": "Миронов Михаил Юрьевич",
+              "id": "100756",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
             }
           },
           {
             "id": "7798-3-11:50-8",
-            "dayIndex": 3,
-            "time": "11:50-13:20",
-            "timeSlotIndex": 3,
-            "subject": "Введение в специальность",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "А 407",
-            "campus": "Лоцманская (Корпус А)",
-            "groupName": "12226-11",
-            "weekParity": "down",
-            "teacher": {
-              "name": "Никущенко Елена Александровна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
-            }
-          },
-          {
-            "id": "7798-3-11:50-9",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -9181,7 +9028,43 @@
             }
           },
           {
+            "id": "7798-3-11:50-9",
+            "dayIndex": 3,
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Введение в специальность",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "А 407",
+            "campus": "Лоцманская (Корпус А)",
+            "groupName": "12226-11",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Вихров Николай Михайлович",
+              "id": "100217",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
+            }
+          },
+          {
             "id": "7798-3-11:50-10",
+            "dayIndex": 3,
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Введение в специальность",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "А 407",
+            "campus": "Лоцманская (Корпус А)",
+            "groupName": "12226-11",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Никущенко Елена Александровна",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+            }
+          },
+          {
+            "id": "7798-3-11:50-11",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -9320,7 +9203,7 @@
   "7799": {
     "groupId": "7799",
     "groupName": "12826-12",
-    "updatedAt": "2026-10-04T18:09:26.434Z",
+    "updatedAt": "2026-10-04T23:07:56.061Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -9599,10 +9482,8 @@
             "groupName": "12826-12",
             "weekParity": "up",
             "teacher": {
-              "name": "Едуш Наталья Юрьевна",
-              "id": "100364",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+              "name": "Дроздов Владимир Владимирович",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
             }
           },
           {
@@ -9618,29 +9499,14 @@
             "groupName": "12826-12",
             "weekParity": "up",
             "teacher": {
-              "name": "Дроздов Владимир Владимирович",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+              "name": "Едуш Наталья Юрьевна",
+              "id": "100364",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
             }
           },
           {
             "id": "7799-3-11:50-5",
-            "dayIndex": 3,
-            "time": "11:50-13:20",
-            "timeSlotIndex": 3,
-            "subject": "Введение в специальность",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "А 407",
-            "campus": "Лоцманская (Корпус А)",
-            "groupName": "12826-12",
-            "weekParity": "up",
-            "teacher": {
-              "name": "Павлов Павел Валентинович",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
-            }
-          },
-          {
-            "id": "7799-3-11:50-6",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -9659,7 +9525,7 @@
             }
           },
           {
-            "id": "7799-3-11:50-7",
+            "id": "7799-3-11:50-6",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -9669,14 +9535,14 @@
             "room": "А 407",
             "campus": "Лоцманская (Корпус А)",
             "groupName": "12826-12",
-            "weekParity": "down",
+            "weekParity": "up",
             "teacher": {
-              "name": "Никущенко Елена Александровна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+              "name": "Павлов Павел Валентинович",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
             }
           },
           {
-            "id": "7799-3-11:50-8",
+            "id": "7799-3-11:50-7",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -9692,6 +9558,25 @@
               "id": "101313",
               "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
               "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
+            }
+          },
+          {
+            "id": "7799-3-11:50-8",
+            "dayIndex": 3,
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Введение в специальность",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "А 407",
+            "campus": "Лоцманская (Корпус А)",
+            "groupName": "12826-12",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Миронов Михаил Юрьевич",
+              "id": "100756",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
             }
           },
           {
@@ -9715,6 +9600,23 @@
           },
           {
             "id": "7799-3-11:50-10",
+            "dayIndex": 3,
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Введение в специальность",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "А 407",
+            "campus": "Лоцманская (Корпус А)",
+            "groupName": "12826-12",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Никущенко Елена Александровна",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+            }
+          },
+          {
+            "id": "7799-3-11:50-11",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -9887,15 +9789,15 @@
   "7843": {
     "groupId": "7843",
     "groupName": "12815-55",
-    "updatedAt": "2026-10-04T18:09:26.447Z",
+    "updatedAt": "2026-10-04T23:07:55.871Z",
     "days": [
       {
-        "dayName": "Вторник",
-        "dayIndex": 2,
+        "dayName": "Понедельник",
+        "dayIndex": 1,
         "lessons": [
           {
-            "id": "7843-2-15:40-1",
-            "dayIndex": 2,
+            "id": "7843-1-15:40-1",
+            "dayIndex": 1,
             "time": "15:40-17:10",
             "timeSlotIndex": 5,
             "subject": "Теория эксперимента в исследованиях систем",
@@ -9910,8 +9812,8 @@
             }
           },
           {
-            "id": "7843-2-15:40-2",
-            "dayIndex": 2,
+            "id": "7843-1-15:40-2",
+            "dayIndex": 1,
             "time": "15:40-17:10",
             "timeSlotIndex": 5,
             "subject": "Управление проектами и инновациями",
@@ -9926,8 +9828,8 @@
             }
           },
           {
-            "id": "7843-2-17:20-3",
-            "dayIndex": 2,
+            "id": "7843-1-17:20-3",
+            "dayIndex": 1,
             "time": "17:20-18:50",
             "timeSlotIndex": 6,
             "subject": "Теория эксперимента в исследованиях систем",
@@ -9942,8 +9844,8 @@
             }
           },
           {
-            "id": "7843-2-17:20-4",
-            "dayIndex": 2,
+            "id": "7843-1-17:20-4",
+            "dayIndex": 1,
             "time": "17:20-18:50",
             "timeSlotIndex": 6,
             "subject": "Управление проектами и инновациями",
@@ -10210,7 +10112,7 @@
   "7970": {
     "groupId": "7970",
     "groupName": "1101",
-    "updatedAt": "2026-10-04T18:09:06.610Z",
+    "updatedAt": "2026-10-04T23:07:37.066Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -10695,7 +10597,7 @@
   "10274": {
     "groupId": "7738",
     "groupName": "10274",
-    "updatedAt": "2026-10-04T18:09:25.999Z",
+    "updatedAt": "2026-10-04T23:07:55.460Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -11232,7 +11134,7 @@
   "12226-11": {
     "groupId": "7798",
     "groupName": "12226-11",
-    "updatedAt": "2026-10-04T18:09:11.675Z",
+    "updatedAt": "2026-10-04T23:07:41.876Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -11550,8 +11452,8 @@
             "groupName": "12226-11",
             "weekParity": "up",
             "teacher": {
-              "name": "Дроздов Владимир Владимирович",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+              "name": "Павлов Павел Валентинович",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
             }
           },
           {
@@ -11567,8 +11469,8 @@
             "groupName": "12226-11",
             "weekParity": "up",
             "teacher": {
-              "name": "Павлов Павел Валентинович",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
+              "name": "Дроздов Владимир Владимирович",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
             }
           },
           {
@@ -11584,31 +11486,14 @@
             "groupName": "12226-11",
             "weekParity": "down",
             "teacher": {
-              "name": "Вихров Николай Михайлович",
-              "id": "100217",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
+              "name": "Миронов Михаил Юрьевич",
+              "id": "100756",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
             }
           },
           {
             "id": "7798-3-11:50-8",
-            "dayIndex": 3,
-            "time": "11:50-13:20",
-            "timeSlotIndex": 3,
-            "subject": "Введение в специальность",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "А 407",
-            "campus": "Лоцманская (Корпус А)",
-            "groupName": "12226-11",
-            "weekParity": "down",
-            "teacher": {
-              "name": "Никущенко Елена Александровна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
-            }
-          },
-          {
-            "id": "7798-3-11:50-9",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -11627,7 +11512,43 @@
             }
           },
           {
+            "id": "7798-3-11:50-9",
+            "dayIndex": 3,
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Введение в специальность",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "А 407",
+            "campus": "Лоцманская (Корпус А)",
+            "groupName": "12226-11",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Вихров Николай Михайлович",
+              "id": "100217",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100217/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100217.jpg?token_static=cf9cf60b1faf136ea767b6b312f494e7"
+            }
+          },
+          {
             "id": "7798-3-11:50-10",
+            "dayIndex": 3,
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Введение в специальность",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "А 407",
+            "campus": "Лоцманская (Корпус А)",
+            "groupName": "12226-11",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Никущенко Елена Александровна",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+            }
+          },
+          {
+            "id": "7798-3-11:50-11",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -11763,10 +11684,333 @@
       }
     ]
   },
+  "12815-55": {
+    "groupId": "7843",
+    "groupName": "12815-55",
+    "updatedAt": "2026-10-04T23:07:55.871Z",
+    "days": [
+      {
+        "dayName": "Понедельник",
+        "dayIndex": 1,
+        "lessons": [
+          {
+            "id": "7843-1-15:40-1",
+            "dayIndex": 1,
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Теория эксперимента в исследованиях систем",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 509",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "12815-55",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Кафедра &quot;Медицинской техники и робототехники&quot;"
+            }
+          },
+          {
+            "id": "7843-1-15:40-2",
+            "dayIndex": 1,
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Управление проектами и инновациями",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 509",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "12815-55",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Кафедра &quot;Медицинской техники и робототехники&quot;"
+            }
+          },
+          {
+            "id": "7843-1-17:20-3",
+            "dayIndex": 1,
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
+            "subject": "Теория эксперимента в исследованиях систем",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 509",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "12815-55",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Кафедра &quot;Медицинской техники и робототехники&quot;"
+            }
+          },
+          {
+            "id": "7843-1-17:20-4",
+            "dayIndex": 1,
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
+            "subject": "Управление проектами и инновациями",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 509",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "12815-55",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Кафедра &quot;Медицинской техники и робототехники&quot;"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Среда",
+        "dayIndex": 3,
+        "lessons": [
+          {
+            "id": "7843-3-15:40-1",
+            "dayIndex": 3,
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Иностранный язык в профессиональной и академической коммуникации",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У каф.ИЯ",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "12815-55",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Силина Екатерина Кузьминична",
+              "id": "101075",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101075/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/12/small/p101075.jpg?token_static=069007c8e0d264f2a44a67dc923db9ce"
+            }
+          },
+          {
+            "id": "7843-3-17:20-2",
+            "dayIndex": 3,
+            "time": "17:20-18:50",
+            "timeSlotIndex": 6,
+            "subject": "Иностранный язык в профессиональной и академической коммуникации",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У каф.ИЯ",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "12815-55",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Силина Екатерина Кузьминична",
+              "id": "101075",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101075/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/12/small/p101075.jpg?token_static=069007c8e0d264f2a44a67dc923db9ce"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "dayIndex": 4,
+        "lessons": [
+          {
+            "id": "7843-4-08:30-1",
+            "dayIndex": 4,
+            "time": "08:30-10:00",
+            "timeSlotIndex": 1,
+            "subject": "Методы искусственного интеллекта в мехатронике и робототехнике",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 315",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "12815-55",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Семенов Николай Николаевич",
+              "id": "101053",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101053/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101053.jpg?token_static=9c0dc0ec5472b832efe1126c7cec1b44"
+            }
+          },
+          {
+            "id": "7843-4-10:10-2",
+            "dayIndex": 4,
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Методы искусственного интеллекта в мехатронике и робототехнике",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 315",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "12815-55",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Семенов Николай Николаевич",
+              "id": "101053",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101053/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101053.jpg?token_static=9c0dc0ec5472b832efe1126c7cec1b44"
+            }
+          },
+          {
+            "id": "7843-4-11:50-3",
+            "dayIndex": 4,
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Методы искусственного интеллекта в мехатронике и робототехнике",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 315",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "12815-55",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Семенов Николай Николаевич",
+              "id": "101053",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/101053/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101053.jpg?token_static=9c0dc0ec5472b832efe1126c7cec1b44"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "dayIndex": 5,
+        "lessons": [
+          {
+            "id": "7843-5-15:40-1",
+            "dayIndex": 5,
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Методы принятия решений в профессиональной деятельности",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "Г 509",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "12815-55",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Кафедра &quot;Медицинской техники и робототехники&quot;"
+            }
+          },
+          {
+            "id": "7843-5-15:40-2",
+            "dayIndex": 5,
+            "time": "15:40-17:10",
+            "timeSlotIndex": 5,
+            "subject": "Методы принятия решений в профессиональной деятельности",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "Г 509",
+            "campus": "Горьковская (Корпус Г)",
+            "groupName": "12815-55",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Кафедра &quot;Медицинской техники и робототехники&quot;"
+            }
+          }
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "dayIndex": 6,
+        "lessons": [
+          {
+            "id": "7843-6-10:10-1",
+            "dayIndex": 6,
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Информационные системы в мехатронике и робототехнике",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 450",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "12815-55",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Савинова Наталья Владимировна",
+              "id": "123574",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/123574/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/30/small/p123574.jpg?token_static=ae9b9b3cee6ab34befabf865a6a75fa3"
+            }
+          },
+          {
+            "id": "7843-6-10:10-2",
+            "dayIndex": 6,
+            "time": "10:10-11:40",
+            "timeSlotIndex": 2,
+            "subject": "Комплексные информационные технологии",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "У 450",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "12815-55",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Савинова Наталья Владимировна",
+              "id": "123574",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/123574/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/30/small/p123574.jpg?token_static=ae9b9b3cee6ab34befabf865a6a75fa3"
+            }
+          },
+          {
+            "id": "7843-6-11:50-3",
+            "dayIndex": 6,
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Информационные системы в мехатронике и робототехнике",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 450",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "12815-55",
+            "weekParity": "up",
+            "teacher": {
+              "name": "Савинова Наталья Владимировна",
+              "id": "123574",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/123574/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/30/small/p123574.jpg?token_static=ae9b9b3cee6ab34befabf865a6a75fa3"
+            }
+          },
+          {
+            "id": "7843-6-11:50-4",
+            "dayIndex": 6,
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Комплексные информационные технологии",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 450",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "12815-55",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Савинова Наталья Владимировна",
+              "id": "123574",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/123574/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/30/small/p123574.jpg?token_static=ae9b9b3cee6ab34befabf865a6a75fa3"
+            }
+          },
+          {
+            "id": "7843-6-14:00-5",
+            "dayIndex": 6,
+            "time": "14:00-15:30",
+            "timeSlotIndex": 4,
+            "subject": "Комплексные информационные технологии",
+            "type": "practice",
+            "rawType": "Практическое занятие",
+            "room": "У 450",
+            "campus": "Ульянка (Корпус У)",
+            "groupName": "12815-55",
+            "weekParity": "both",
+            "teacher": {
+              "name": "Савинова Наталья Владимировна",
+              "id": "123574",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/123574/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/30/small/p123574.jpg?token_static=ae9b9b3cee6ab34befabf865a6a75fa3"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "12826-12": {
     "groupId": "7799",
     "groupName": "12826-12",
-    "updatedAt": "2026-10-04T18:09:26.434Z",
+    "updatedAt": "2026-10-04T23:07:56.061Z",
     "days": [
       {
         "dayName": "Понедельник",
@@ -12045,10 +12289,8 @@
             "groupName": "12826-12",
             "weekParity": "up",
             "teacher": {
-              "name": "Едуш Наталья Юрьевна",
-              "id": "100364",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
+              "name": "Дроздов Владимир Владимирович",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
             }
           },
           {
@@ -12064,29 +12306,14 @@
             "groupName": "12826-12",
             "weekParity": "up",
             "teacher": {
-              "name": "Дроздов Владимир Владимирович",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/09/01/small/p139723.jpg?token_static=cf0598e811899f4f9585ccf1952b7537"
+              "name": "Едуш Наталья Юрьевна",
+              "id": "100364",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100364/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2022/11/30/small/p100364.jpg?token_static=ea27ce2d30394cd7f493b2103ff1b5c6"
             }
           },
           {
             "id": "7799-3-11:50-5",
-            "dayIndex": 3,
-            "time": "11:50-13:20",
-            "timeSlotIndex": 3,
-            "subject": "Введение в специальность",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "А 407",
-            "campus": "Лоцманская (Корпус А)",
-            "groupName": "12826-12",
-            "weekParity": "up",
-            "teacher": {
-              "name": "Павлов Павел Валентинович",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
-            }
-          },
-          {
-            "id": "7799-3-11:50-6",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -12105,7 +12332,7 @@
             }
           },
           {
-            "id": "7799-3-11:50-7",
+            "id": "7799-3-11:50-6",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -12115,14 +12342,14 @@
             "room": "А 407",
             "campus": "Лоцманская (Корпус А)",
             "groupName": "12826-12",
-            "weekParity": "down",
+            "weekParity": "up",
             "teacher": {
-              "name": "Никущенко Елена Александровна",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+              "name": "Павлов Павел Валентинович",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100859.jpg?token_static=64543682761cefc3762b7ae3e0f9110f"
             }
           },
           {
-            "id": "7799-3-11:50-8",
+            "id": "7799-3-11:50-7",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -12138,6 +12365,25 @@
               "id": "101313",
               "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
               "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/04/17/small/p101313.jpg?token_static=4361b0598fe01def04a990ad5d110a8b"
+            }
+          },
+          {
+            "id": "7799-3-11:50-8",
+            "dayIndex": 3,
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Введение в специальность",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "А 407",
+            "campus": "Лоцманская (Корпус А)",
+            "groupName": "12826-12",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Миронов Михаил Юрьевич",
+              "id": "100756",
+              "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
             }
           },
           {
@@ -12161,6 +12407,23 @@
           },
           {
             "id": "7799-3-11:50-10",
+            "dayIndex": 3,
+            "time": "11:50-13:20",
+            "timeSlotIndex": 3,
+            "subject": "Введение в специальность",
+            "type": "lecture",
+            "rawType": "Лекция",
+            "room": "А 407",
+            "campus": "Лоцманская (Корпус А)",
+            "groupName": "12826-12",
+            "weekParity": "down",
+            "teacher": {
+              "name": "Никущенко Елена Александровна",
+              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p108043.jpg?token_static=197e5870c20e7ba81c075e0b7db1c626"
+            }
+          },
+          {
+            "id": "7799-3-11:50-11",
             "dayIndex": 3,
             "time": "11:50-13:20",
             "timeSlotIndex": 3,
@@ -12324,329 +12587,6 @@
             "teacher": {
               "name": "Свойкин Федор Владимирович",
               "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/08/21/small/p137669.jpg?token_static=4e96f3b114dd186bbc8a475dbacc5da7"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  "12815-55": {
-    "groupId": "7843",
-    "groupName": "12815-55",
-    "updatedAt": "2026-10-04T18:09:26.447Z",
-    "days": [
-      {
-        "dayName": "Вторник",
-        "dayIndex": 2,
-        "lessons": [
-          {
-            "id": "7843-2-15:40-1",
-            "dayIndex": 2,
-            "time": "15:40-17:10",
-            "timeSlotIndex": 5,
-            "subject": "Теория эксперимента в исследованиях систем",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "Г 509",
-            "campus": "Горьковская (Корпус Г)",
-            "groupName": "12815-55",
-            "weekParity": "up",
-            "teacher": {
-              "name": "Кафедра &quot;Медицинской техники и робототехники&quot;"
-            }
-          },
-          {
-            "id": "7843-2-15:40-2",
-            "dayIndex": 2,
-            "time": "15:40-17:10",
-            "timeSlotIndex": 5,
-            "subject": "Управление проектами и инновациями",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "Г 509",
-            "campus": "Горьковская (Корпус Г)",
-            "groupName": "12815-55",
-            "weekParity": "down",
-            "teacher": {
-              "name": "Кафедра &quot;Медицинской техники и робототехники&quot;"
-            }
-          },
-          {
-            "id": "7843-2-17:20-3",
-            "dayIndex": 2,
-            "time": "17:20-18:50",
-            "timeSlotIndex": 6,
-            "subject": "Теория эксперимента в исследованиях систем",
-            "type": "practice",
-            "rawType": "Практическое занятие",
-            "room": "Г 509",
-            "campus": "Горьковская (Корпус Г)",
-            "groupName": "12815-55",
-            "weekParity": "up",
-            "teacher": {
-              "name": "Кафедра &quot;Медицинской техники и робототехники&quot;"
-            }
-          },
-          {
-            "id": "7843-2-17:20-4",
-            "dayIndex": 2,
-            "time": "17:20-18:50",
-            "timeSlotIndex": 6,
-            "subject": "Управление проектами и инновациями",
-            "type": "practice",
-            "rawType": "Практическое занятие",
-            "room": "Г 509",
-            "campus": "Горьковская (Корпус Г)",
-            "groupName": "12815-55",
-            "weekParity": "down",
-            "teacher": {
-              "name": "Кафедра &quot;Медицинской техники и робототехники&quot;"
-            }
-          }
-        ]
-      },
-      {
-        "dayName": "Среда",
-        "dayIndex": 3,
-        "lessons": [
-          {
-            "id": "7843-3-15:40-1",
-            "dayIndex": 3,
-            "time": "15:40-17:10",
-            "timeSlotIndex": 5,
-            "subject": "Иностранный язык в профессиональной и академической коммуникации",
-            "type": "practice",
-            "rawType": "Практическое занятие",
-            "room": "У каф.ИЯ",
-            "campus": "Ульянка (Корпус У)",
-            "groupName": "12815-55",
-            "weekParity": "down",
-            "teacher": {
-              "name": "Силина Екатерина Кузьминична",
-              "id": "101075",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/101075/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/12/small/p101075.jpg?token_static=069007c8e0d264f2a44a67dc923db9ce"
-            }
-          },
-          {
-            "id": "7843-3-17:20-2",
-            "dayIndex": 3,
-            "time": "17:20-18:50",
-            "timeSlotIndex": 6,
-            "subject": "Иностранный язык в профессиональной и академической коммуникации",
-            "type": "practice",
-            "rawType": "Практическое занятие",
-            "room": "У каф.ИЯ",
-            "campus": "Ульянка (Корпус У)",
-            "groupName": "12815-55",
-            "weekParity": "down",
-            "teacher": {
-              "name": "Силина Екатерина Кузьминична",
-              "id": "101075",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/101075/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/01/12/small/p101075.jpg?token_static=069007c8e0d264f2a44a67dc923db9ce"
-            }
-          }
-        ]
-      },
-      {
-        "dayName": "Четверг",
-        "dayIndex": 4,
-        "lessons": [
-          {
-            "id": "7843-4-08:30-1",
-            "dayIndex": 4,
-            "time": "08:30-10:00",
-            "timeSlotIndex": 1,
-            "subject": "Методы искусственного интеллекта в мехатронике и робототехнике",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "Г 315",
-            "campus": "Горьковская (Корпус Г)",
-            "groupName": "12815-55",
-            "weekParity": "up",
-            "teacher": {
-              "name": "Семенов Николай Николаевич",
-              "id": "101053",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/101053/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101053.jpg?token_static=9c0dc0ec5472b832efe1126c7cec1b44"
-            }
-          },
-          {
-            "id": "7843-4-10:10-2",
-            "dayIndex": 4,
-            "time": "10:10-11:40",
-            "timeSlotIndex": 2,
-            "subject": "Методы искусственного интеллекта в мехатронике и робототехнике",
-            "type": "practice",
-            "rawType": "Практическое занятие",
-            "room": "Г 315",
-            "campus": "Горьковская (Корпус Г)",
-            "groupName": "12815-55",
-            "weekParity": "up",
-            "teacher": {
-              "name": "Семенов Николай Николаевич",
-              "id": "101053",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/101053/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101053.jpg?token_static=9c0dc0ec5472b832efe1126c7cec1b44"
-            }
-          },
-          {
-            "id": "7843-4-11:50-3",
-            "dayIndex": 4,
-            "time": "11:50-13:20",
-            "timeSlotIndex": 3,
-            "subject": "Методы искусственного интеллекта в мехатронике и робототехнике",
-            "type": "practice",
-            "rawType": "Практическое занятие",
-            "room": "Г 315",
-            "campus": "Горьковская (Корпус Г)",
-            "groupName": "12815-55",
-            "weekParity": "up",
-            "teacher": {
-              "name": "Семенов Николай Николаевич",
-              "id": "101053",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/101053/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p101053.jpg?token_static=9c0dc0ec5472b832efe1126c7cec1b44"
-            }
-          }
-        ]
-      },
-      {
-        "dayName": "Пятница",
-        "dayIndex": 5,
-        "lessons": [
-          {
-            "id": "7843-5-15:40-1",
-            "dayIndex": 5,
-            "time": "15:40-17:10",
-            "timeSlotIndex": 5,
-            "subject": "Методы принятия решений в профессиональной деятельности",
-            "type": "practice",
-            "rawType": "Практическое занятие",
-            "room": "Г 509",
-            "campus": "Горьковская (Корпус Г)",
-            "groupName": "12815-55",
-            "weekParity": "up",
-            "teacher": {
-              "name": "Кафедра &quot;Медицинской техники и робототехники&quot;"
-            }
-          },
-          {
-            "id": "7843-5-15:40-2",
-            "dayIndex": 5,
-            "time": "15:40-17:10",
-            "timeSlotIndex": 5,
-            "subject": "Методы принятия решений в профессиональной деятельности",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "Г 509",
-            "campus": "Горьковская (Корпус Г)",
-            "groupName": "12815-55",
-            "weekParity": "down",
-            "teacher": {
-              "name": "Кафедра &quot;Медицинской техники и робототехники&quot;"
-            }
-          }
-        ]
-      },
-      {
-        "dayName": "Суббота",
-        "dayIndex": 6,
-        "lessons": [
-          {
-            "id": "7843-6-10:10-1",
-            "dayIndex": 6,
-            "time": "10:10-11:40",
-            "timeSlotIndex": 2,
-            "subject": "Информационные системы в мехатронике и робототехнике",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "У 450",
-            "campus": "Ульянка (Корпус У)",
-            "groupName": "12815-55",
-            "weekParity": "up",
-            "teacher": {
-              "name": "Савинова Наталья Владимировна",
-              "id": "123574",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/123574/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/30/small/p123574.jpg?token_static=ae9b9b3cee6ab34befabf865a6a75fa3"
-            }
-          },
-          {
-            "id": "7843-6-10:10-2",
-            "dayIndex": 6,
-            "time": "10:10-11:40",
-            "timeSlotIndex": 2,
-            "subject": "Комплексные информационные технологии",
-            "type": "lecture",
-            "rawType": "Лекция",
-            "room": "У 450",
-            "campus": "Ульянка (Корпус У)",
-            "groupName": "12815-55",
-            "weekParity": "down",
-            "teacher": {
-              "name": "Савинова Наталья Владимировна",
-              "id": "123574",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/123574/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/30/small/p123574.jpg?token_static=ae9b9b3cee6ab34befabf865a6a75fa3"
-            }
-          },
-          {
-            "id": "7843-6-11:50-3",
-            "dayIndex": 6,
-            "time": "11:50-13:20",
-            "timeSlotIndex": 3,
-            "subject": "Информационные системы в мехатронике и робототехнике",
-            "type": "practice",
-            "rawType": "Практическое занятие",
-            "room": "У 450",
-            "campus": "Ульянка (Корпус У)",
-            "groupName": "12815-55",
-            "weekParity": "up",
-            "teacher": {
-              "name": "Савинова Наталья Владимировна",
-              "id": "123574",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/123574/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/30/small/p123574.jpg?token_static=ae9b9b3cee6ab34befabf865a6a75fa3"
-            }
-          },
-          {
-            "id": "7843-6-11:50-4",
-            "dayIndex": 6,
-            "time": "11:50-13:20",
-            "timeSlotIndex": 3,
-            "subject": "Комплексные информационные технологии",
-            "type": "practice",
-            "rawType": "Практическое занятие",
-            "room": "У 450",
-            "campus": "Ульянка (Корпус У)",
-            "groupName": "12815-55",
-            "weekParity": "down",
-            "teacher": {
-              "name": "Савинова Наталья Владимировна",
-              "id": "123574",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/123574/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/30/small/p123574.jpg?token_static=ae9b9b3cee6ab34befabf865a6a75fa3"
-            }
-          },
-          {
-            "id": "7843-6-14:00-5",
-            "dayIndex": 6,
-            "time": "14:00-15:30",
-            "timeSlotIndex": 4,
-            "subject": "Комплексные информационные технологии",
-            "type": "practice",
-            "rawType": "Практическое занятие",
-            "room": "У 450",
-            "campus": "Ульянка (Корпус У)",
-            "groupName": "12815-55",
-            "weekParity": "both",
-            "teacher": {
-              "name": "Савинова Наталья Владимировна",
-              "id": "123574",
-              "profileUrl": "https://www.smtu.ru/ru/viewperson/123574/",
-              "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/01/30/small/p123574.jpg?token_static=ae9b9b3cee6ab34befabf865a6a75fa3"
             }
           }
         ]

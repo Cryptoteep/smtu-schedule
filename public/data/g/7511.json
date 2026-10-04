@@ -1,7 +1,7 @@
 {
   "groupId": "7511",
   "groupName": "3290",
-  "updatedAt": "2026-10-04T18:09:17.299Z",
+  "updatedAt": "2026-10-04T23:07:46.989Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -369,8 +369,8 @@
           "groupName": "3290",
           "weekParity": "up",
           "teacher": {
-            "name": "Анистратова Валерия Владимировна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/09/small/p124521.jpg?token_static=c658f01e1f4418830d68d2f457688ca3"
+            "name": "Косенко Дарья Максимовна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p126085.jpg?token_static=b367710e8a5df1be327cf9d825db79a7"
           }
         },
         {
@@ -386,8 +386,8 @@
           "groupName": "3290",
           "weekParity": "up",
           "teacher": {
-            "name": "Косенко Дарья Максимовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/08/28/small/p126085.jpg?token_static=b367710e8a5df1be327cf9d825db79a7"
+            "name": "Анистратова Валерия Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/09/small/p124521.jpg?token_static=c658f01e1f4418830d68d2f457688ca3"
           }
         },
         {
@@ -412,23 +412,6 @@
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
-          "subject": "Основы управленческой деятельности",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Г 312",
-          "campus": "Горьковская (Корпус Г)",
-          "groupName": "3290",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Григоров Максим Юрьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p113051.jpg?token_static=229a53a2e515b2be673253677af5b9a2"
-          }
-        },
-        {
-          "id": "7511-5-11:50-5",
-          "dayIndex": 5,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
           "subject": "Экология",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -444,7 +427,7 @@
           }
         },
         {
-          "id": "7511-5-11:50-6",
+          "id": "7511-5-11:50-5",
           "dayIndex": 5,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -463,7 +446,7 @@
           }
         },
         {
-          "id": "7511-5-14:00-7",
+          "id": "7511-5-14:00-6",
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -479,6 +462,23 @@
             "id": "101010",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/101010/",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/06/10/small/p101010.jpg?token_static=3c464b7c92b987552bc6a88f1a7546cf"
+          }
+        },
+        {
+          "id": "7511-5-14:00-7",
+          "dayIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "История морской подводной техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3290",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Анистратова Валерия Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/09/small/p124521.jpg?token_static=c658f01e1f4418830d68d2f457688ca3"
           }
         },
         {
@@ -503,40 +503,6 @@
           "dayIndex": 5,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
-          "subject": "История морской подводной техники",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Г 312",
-          "campus": "Горьковская (Корпус Г)",
-          "groupName": "3290",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Анистратова Валерия Владимировна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/09/small/p124521.jpg?token_static=c658f01e1f4418830d68d2f457688ca3"
-          }
-        },
-        {
-          "id": "7511-5-14:00-10",
-          "dayIndex": 5,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "История морской подводной техники",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Г 312",
-          "campus": "Горьковская (Корпус Г)",
-          "groupName": "3290",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Истомина Мария Ивановна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/26/small/p124829.jpg?token_static=189884c7e89b504176e02d7d54c46a6d"
-          }
-        },
-        {
-          "id": "7511-5-14:00-11",
-          "dayIndex": 5,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
           "subject": "Высшая математика",
           "type": "practice",
           "rawType": "Практическое занятие",
@@ -552,7 +518,24 @@
           }
         },
         {
-          "id": "7511-5-15:40-12",
+          "id": "7511-5-15:40-10",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Основы управленческой деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Г 312",
+          "campus": "Горьковская (Корпус Г)",
+          "groupName": "3290",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Анистратова Валерия Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/09/small/p124521.jpg?token_static=c658f01e1f4418830d68d2f457688ca3"
+          }
+        },
+        {
+          "id": "7511-5-15:40-11",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -569,41 +552,7 @@
           }
         },
         {
-          "id": "7511-5-15:40-13",
-          "dayIndex": 5,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Основы управленческой деятельности",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Г 312",
-          "campus": "Горьковская (Корпус Г)",
-          "groupName": "3290",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Анистратова Валерия Владимировна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/09/small/p124521.jpg?token_static=c658f01e1f4418830d68d2f457688ca3"
-          }
-        },
-        {
-          "id": "7511-5-15:40-14",
-          "dayIndex": 5,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Основы управленческой деятельности",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Г 207",
-          "campus": "Горьковская (Корпус Г)",
-          "groupName": "3290",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Остроумова Полина Леонидовна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/14/small/p128734.jpg?token_static=4e663136607d927f71713cb041760657"
-          }
-        },
-        {
-          "id": "7511-5-15:40-15",
+          "id": "7511-5-15:40-12",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -620,7 +569,7 @@
           }
         },
         {
-          "id": "7511-5-15:40-16",
+          "id": "7511-5-15:40-13",
           "dayIndex": 5,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -639,24 +588,7 @@
           }
         },
         {
-          "id": "7511-5-17:20-17",
-          "dayIndex": 5,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "История морской подводной техники",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Г 412",
-          "campus": "Горьковская (Корпус Г)",
-          "groupName": "3290",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Анистратова Валерия Владимировна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/09/small/p124521.jpg?token_static=c658f01e1f4418830d68d2f457688ca3"
-          }
-        },
-        {
-          "id": "7511-5-17:20-18",
+          "id": "7511-5-17:20-14",
           "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -673,24 +605,24 @@
           }
         },
         {
-          "id": "7511-5-17:20-19",
+          "id": "7511-5-17:20-15",
           "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "История морской подводной техники",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Г 312",
+          "room": "Г 412",
           "campus": "Горьковская (Корпус Г)",
           "groupName": "3290",
           "weekParity": "up",
           "teacher": {
-            "name": "Истомина Мария Ивановна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/12/26/small/p124829.jpg?token_static=189884c7e89b504176e02d7d54c46a6d"
+            "name": "Анистратова Валерия Владимировна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/11/09/small/p124521.jpg?token_static=c658f01e1f4418830d68d2f457688ca3"
           }
         },
         {
-          "id": "7511-5-17:20-20",
+          "id": "7511-5-17:20-16",
           "dayIndex": 5,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,

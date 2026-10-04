@@ -1,7 +1,7 @@
 {
   "groupId": "7786",
   "groupName": "12226-08",
-  "updatedAt": "2026-10-04T18:09:11.750Z",
+  "updatedAt": "2026-10-04T23:07:41.879Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -321,6 +321,25 @@
           "groupName": "12226-08",
           "weekParity": "down",
           "teacher": {
+            "name": "Миронов Михаил Юрьевич",
+            "id": "100756",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100756/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100756.jpg?token_static=dfbada9da0cddde8ad414a1d72fa16eb"
+          }
+        },
+        {
+          "id": "7786-3-11:50-8",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Введение в специальность",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А 407",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12226-08",
+          "weekParity": "down",
+          "teacher": {
             "name": "Чернов Александр Иванович",
             "id": "101313",
             "profileUrl": "https://www.smtu.ru/ru/viewperson/101313/",
@@ -328,7 +347,7 @@
           }
         },
         {
-          "id": "7786-3-11:50-8",
+          "id": "7786-3-11:50-9",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -345,7 +364,7 @@
           }
         },
         {
-          "id": "7786-3-14:00-9",
+          "id": "7786-3-14:00-10",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,

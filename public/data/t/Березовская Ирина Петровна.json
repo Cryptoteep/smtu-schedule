@@ -2,8 +2,8 @@
   "teacherId": "Березовская Ирина Петровна",
   "teacherName": "Березовская Ирина Петровна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f",
-  "updatedAt": "2026-10-04T18:09:28.319Z",
-  "totalLessons": 26,
+  "updatedAt": "2026-10-04T23:07:57.964Z",
+  "totalLessons": 28,
   "days": [
     {
       "dayName": "Понедельник",
@@ -149,6 +149,24 @@
             "name": "Березовская Ирина Петровна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
           }
+        },
+        {
+          "id": "7925-3-15:40-3",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Обучение служением",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 511",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-31",
+          "weekParity": "down",
+          "dateSpecific": "06.10 по 23.11",
+          "teacher": {
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
+          }
         }
       ]
     },
@@ -169,6 +187,24 @@
           "groupName": "12327-02",
           "weekParity": "up",
           "dateSpecific": "29.09-16.11",
+          "teacher": {
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
+          }
+        },
+        {
+          "id": "7793-4-10:10-2",
+          "dayIndex": 4,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Обучение служением",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 115",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12327-02, 12315-06",
+          "weekParity": "down",
+          "dateSpecific": "06.10 - 26.10",
           "teacher": {
             "name": "Березовская Ирина Петровна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
@@ -358,7 +394,25 @@
           }
         },
         {
-          "id": "7509-6-17:20-2",
+          "id": "7509-6-15:40-2",
+          "dayIndex": 6,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Обучение служением",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 101",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-02, 12317-30, 12317-31, 12317-33",
+          "weekParity": "down",
+          "dateSpecific": "10.10",
+          "teacher": {
+            "name": "Березовская Ирина Петровна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
+          }
+        },
+        {
+          "id": "7509-6-17:20-3",
           "dayIndex": 6,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
@@ -376,36 +430,18 @@
           }
         },
         {
-          "id": "7790-6-15:40-4",
-          "dayIndex": 6,
-          "time": "15:40-17:10",
-          "timeSlotIndex": 5,
-          "subject": "Обучение служением",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 154",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12317-30, 12317-31, 12317-33",
-          "weekParity": "down",
-          "dateSpecific": "20.10-09.11",
-          "teacher": {
-            "name": "Березовская Ирина Петровна",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
-          }
-        },
-        {
-          "id": "7790-6-17:20-5",
+          "id": "7509-6-17:20-4",
           "dayIndex": 6,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Обучение служением",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 154",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 101",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "12317-30, 12317-31, 12317-33",
+          "groupName": "12317-02, 12317-30, 12317-31, 12317-33",
           "weekParity": "down",
-          "dateSpecific": "20.10-09.11",
+          "dateSpecific": "10.10",
           "teacher": {
             "name": "Березовская Ирина Петровна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
@@ -448,7 +484,7 @@
           }
         },
         {
-          "id": "7797-6-10:10-2",
+          "id": "7796-6-10:10-1",
           "dayIndex": 6,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
@@ -457,16 +493,16 @@
           "rawType": "Практическое занятие",
           "room": "У 154",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "12740-02",
+          "groupName": "12740-01, 12740-02",
           "weekParity": "both",
-          "dateSpecific": "20.10-02.11",
+          "dateSpecific": "06.10-19.10",
           "teacher": {
             "name": "Березовская Ирина Петровна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"
           }
         },
         {
-          "id": "7797-6-11:50-4",
+          "id": "7796-6-11:50-3",
           "dayIndex": 6,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -475,9 +511,9 @@
           "rawType": "Практическое занятие",
           "room": "У 154",
           "campus": "Ульянка (Корпус У)",
-          "groupName": "12740-02",
+          "groupName": "12740-01, 12740-02",
           "weekParity": "both",
-          "dateSpecific": "20.10-02.11",
+          "dateSpecific": "06.10-19.10",
           "teacher": {
             "name": "Березовская Ирина Петровна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/23/small/142848.jpg?token_static=86d4b4d92729fc18e8566e781805db6f"

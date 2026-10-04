@@ -2,8 +2,8 @@
   "teacherId": "Чимаров Николай Сергеевич",
   "teacherName": "Чимаров Николай Сергеевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/07/small/p124520.jpg?token_static=d175d54ad482d06d02af13d586a77905",
-  "updatedAt": "2026-10-04T18:09:28.336Z",
-  "totalLessons": 11,
+  "updatedAt": "2026-10-04T23:07:57.967Z",
+  "totalLessons": 13,
   "days": [
     {
       "dayName": "Понедельник",
@@ -52,6 +52,42 @@
           "campus": "Ульянка (Корпус У)",
           "groupName": "7363",
           "weekParity": "both",
+          "teacher": {
+            "name": "Чимаров Николай Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/07/small/p124520.jpg?token_static=d175d54ad482d06d02af13d586a77905"
+          }
+        },
+        {
+          "id": "7709-1-15:40-1",
+          "dayIndex": 1,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Правовое регулирование внешнеэкономической деятельности",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 403",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7280",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 26.10",
+          "teacher": {
+            "name": "Чимаров Николай Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/07/small/p124520.jpg?token_static=d175d54ad482d06d02af13d586a77905"
+          }
+        },
+        {
+          "id": "7709-1-17:20-2",
+          "dayIndex": 1,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Правовое регулирование внешнеэкономической деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 403",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "7280",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 26.10",
           "teacher": {
             "name": "Чимаров Николай Сергеевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/07/small/p124520.jpg?token_static=d175d54ad482d06d02af13d586a77905"

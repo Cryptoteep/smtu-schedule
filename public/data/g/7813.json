@@ -1,61 +1,15 @@
 {
   "groupId": "7813",
   "groupName": "12740-52",
-  "updatedAt": "2026-10-04T18:09:24.858Z",
+  "updatedAt": "2026-10-04T23:07:54.435Z",
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
       "lessons": [
         {
-          "id": "7813-1-17:20-1",
+          "id": "7813-1-15:40-1",
           "dayIndex": 1,
-          "time": "17:20-18:50",
-          "timeSlotIndex": 6,
-          "subject": "Основы научно-исследовательской деятельности",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 01Ю",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12740-52",
-          "weekParity": "both",
-          "dateSpecific": "01.09 по 28.09",
-          "teacher": {
-            "name": "Богданова Татьяна Владимировна",
-            "id": "100122",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100122/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/05/small/p100122.jpg?token_static=647755b070c41d931bb0b14a2a82dec3"
-          }
-        },
-        {
-          "id": "7813-1-19:00-2",
-          "dayIndex": 1,
-          "time": "19:00-20:30",
-          "timeSlotIndex": 7,
-          "subject": "Основы научно-исследовательской деятельности",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "У 01Ю",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12740-52",
-          "weekParity": "both",
-          "dateSpecific": "01.09 по 28.09",
-          "teacher": {
-            "name": "Богданова Татьяна Владимировна",
-            "id": "100122",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/100122/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2018/11/05/small/p100122.jpg?token_static=647755b070c41d931bb0b14a2a82dec3"
-          }
-        }
-      ]
-    },
-    {
-      "dayName": "Вторник",
-      "dayIndex": 2,
-      "lessons": [
-        {
-          "id": "7813-2-15:40-1",
-          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Международное морское право",
@@ -73,8 +27,8 @@
           }
         },
         {
-          "id": "7813-2-17:20-2",
-          "dayIndex": 2,
+          "id": "7813-1-17:20-2",
+          "dayIndex": 1,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Международное морское право",
@@ -231,8 +185,7 @@
           "weekParity": "both",
           "dateSpecific": "01.09 по 12.10",
           "teacher": {
-            "name": "Тарасов Александр Сергеевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/25/small/p127622.jpg?token_static=423628d80af8147008744c36b3f5f078"
+            "name": "Кафедра государственно-правовых дисциплин"
           }
         },
         {
@@ -249,7 +202,8 @@
           "weekParity": "both",
           "dateSpecific": "01.09 по 12.10",
           "teacher": {
-            "name": "Кафедра государственно-правовых дисциплин"
+            "name": "Тарасов Александр Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/25/small/p127622.jpg?token_static=423628d80af8147008744c36b3f5f078"
           }
         },
         {
