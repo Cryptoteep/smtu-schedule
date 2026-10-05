@@ -1,7 +1,7 @@
 {
   "groupId": "7756",
   "groupName": "20272",
-  "updatedAt": "2026-10-05T09:01:02.316Z",
+  "updatedAt": "2026-10-05T21:29:01.541Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -53,22 +53,6 @@
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Управление проектами",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Конгресс-Центр 420",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "20272",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Кафедра вычислительной техники и информационных технологий"
-          }
-        },
-        {
-          "id": "7756-3-11:50-2",
-          "dayIndex": 3,
-          "time": "11:50-13:20",
-          "timeSlotIndex": 3,
-          "subject": "Управление проектами",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Конгресс-Центр 420",
@@ -78,6 +62,23 @@
           "teacher": {
             "name": "Соколова Софья Сергеевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/21/small/p107087.jpg?token_static=5dbc4a0271e02c67e9a8e06c6133bd13"
+          }
+        },
+        {
+          "id": "7756-3-11:50-2",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Управление проектами",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 420",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "20272",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Козирацкая Карина Константиновна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/02/small/p128747.jpg?token_static=69250ec8b7f479bd5ca10d79ca6dfdb4"
           }
         },
         {

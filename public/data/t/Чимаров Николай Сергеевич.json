@@ -2,7 +2,7 @@
   "teacherId": "Чимаров Николай Сергеевич",
   "teacherName": "Чимаров Николай Сергеевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/07/small/p124520.jpg?token_static=d175d54ad482d06d02af13d586a77905",
-  "updatedAt": "2026-10-05T09:01:47.233Z",
+  "updatedAt": "2026-10-05T21:29:09.011Z",
   "totalLessons": 13,
   "days": [
     {
@@ -56,10 +56,16 @@
             "name": "Чимаров Николай Сергеевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/07/07/small/p124520.jpg?token_static=d175d54ad482d06d02af13d586a77905"
           }
-        },
+        }
+      ]
+    },
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
         {
-          "id": "7709-1-15:40-1",
-          "dayIndex": 1,
+          "id": "7709-2-15:40-1",
+          "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
           "subject": "Правовое регулирование внешнеэкономической деятельности",
@@ -76,8 +82,8 @@
           }
         },
         {
-          "id": "7709-1-17:20-2",
-          "dayIndex": 1,
+          "id": "7709-2-17:20-2",
+          "dayIndex": 2,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
           "subject": "Правовое регулирование внешнеэкономической деятельности",
@@ -94,11 +100,6 @@
           }
         }
       ]
-    },
-    {
-      "dayName": "Вторник",
-      "dayIndex": 2,
-      "lessons": []
     },
     {
       "dayName": "Среда",
