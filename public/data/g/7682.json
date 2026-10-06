@@ -1,7 +1,7 @@
 {
   "groupId": "7682",
   "groupName": "4320",
-  "updatedAt": "2026-10-05T21:29:04.402Z",
+  "updatedAt": "2026-10-06T08:57:37.372Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -160,26 +160,7 @@
           }
         },
         {
-          "id": "7682-2-10:10-2",
-          "dayIndex": 2,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Производственный менеджмент",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У 450",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "4320",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Скрябина Яна Олеговна",
-            "id": "107663",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/107663/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/28/small/p107663.jpg?token_static=f246b8d87b2a661bd90ff90381a9a867"
-          }
-        },
-        {
-          "id": "7682-2-11:50-3",
+          "id": "7682-2-11:50-2",
           "dayIndex": 2,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -198,7 +179,7 @@
           }
         },
         {
-          "id": "7682-2-14:00-4",
+          "id": "7682-2-14:00-3",
           "dayIndex": 2,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -217,7 +198,7 @@
           }
         },
         {
-          "id": "7682-2-15:40-5",
+          "id": "7682-2-15:40-4",
           "dayIndex": 2,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -242,7 +223,26 @@
       "dayIndex": 3,
       "lessons": [
         {
-          "id": "7682-3-11:50-1",
+          "id": "7682-3-10:10-1",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Производственный менеджмент",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 519",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "4320",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Скрябина Яна Олеговна",
+            "id": "107663",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/107663/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2021/09/28/small/p107663.jpg?token_static=f246b8d87b2a661bd90ff90381a9a867"
+          }
+        },
+        {
+          "id": "7682-3-11:50-2",
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
@@ -261,7 +261,7 @@
           }
         },
         {
-          "id": "7682-3-14:00-2",
+          "id": "7682-3-14:00-3",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -280,7 +280,7 @@
           }
         },
         {
-          "id": "7682-3-14:00-3",
+          "id": "7682-3-14:00-4",
           "dayIndex": 3,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -299,7 +299,7 @@
           }
         },
         {
-          "id": "7682-3-15:40-4",
+          "id": "7682-3-15:40-5",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -316,7 +316,7 @@
           }
         },
         {
-          "id": "7682-3-15:40-5",
+          "id": "7682-3-15:40-6",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
@@ -335,7 +335,7 @@
           }
         },
         {
-          "id": "7682-3-17:20-6",
+          "id": "7682-3-17:20-7",
           "dayIndex": 3,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
