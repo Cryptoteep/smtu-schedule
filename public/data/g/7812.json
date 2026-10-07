@@ -1,6 +1,288 @@
 {
   "groupId": "7812",
   "groupName": "12740-50",
-  "updatedAt": "2026-10-07T08:37:30.535Z",
-  "days": []
+  "updatedAt": "2026-10-07T19:58:50.798Z",
+  "days": [
+    {
+      "dayName": "Вторник",
+      "dayIndex": 2,
+      "lessons": [
+        {
+          "id": "7812-2-15:40-1",
+          "dayIndex": 2,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Международное морское право",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Конгресс-Центр 403",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-50",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ладыка Сергей Иванович",
+            "id": "100652",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100652/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100652.jpg?token_static=72ffcb9a21f07a0af5ce8f938f7cfe8f"
+          }
+        },
+        {
+          "id": "7812-2-17:20-2",
+          "dayIndex": 2,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Международное морское право",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 403",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-50",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Ладыка Сергей Иванович",
+            "id": "100652",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100652/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100652.jpg?token_static=72ffcb9a21f07a0af5ce8f938f7cfe8f"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Среда",
+      "dayIndex": 3,
+      "lessons": [
+        {
+          "id": "7812-3-11:50-1",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Международное морское право",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 02ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ладыка Сергей Иванович",
+            "id": "100652",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100652/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100652.jpg?token_static=72ffcb9a21f07a0af5ce8f938f7cfe8f"
+          }
+        },
+        {
+          "id": "7812-3-14:00-2",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Международное морское право",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 02ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-50",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Ладыка Сергей Иванович",
+            "id": "100652",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/100652/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/04/26/small/p100652.jpg?token_static=72ffcb9a21f07a0af5ce8f938f7cfe8f"
+          }
+        },
+        {
+          "id": "7812-3-15:40-3",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Управление проектами и инновациями",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 01Ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-50",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 12.10",
+          "teacher": {
+            "name": "Тарасов Александр Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/25/small/p127622.jpg?token_static=423628d80af8147008744c36b3f5f078"
+          }
+        },
+        {
+          "id": "7812-3-17:20-4",
+          "dayIndex": 3,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Управление проектами и инновациями",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 01Ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-50",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 12.10",
+          "teacher": {
+            "name": "Тарасов Александр Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/25/small/p127622.jpg?token_static=423628d80af8147008744c36b3f5f078"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Четверг",
+      "dayIndex": 4,
+      "lessons": [
+        {
+          "id": "7812-4-08:30-1",
+          "dayIndex": 4,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
+          "subject": "Военная подготовка (офицеры запаса)",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "А ВУЦ",
+          "campus": "Лоцманская (Корпус А)",
+          "groupName": "12740-50",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Военный учебный центр при СПбГМТУ"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Пятница",
+      "dayIndex": 5,
+      "lessons": [
+        {
+          "id": "7812-5-11:50-1",
+          "dayIndex": 5,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Актуальные проблемы политико-правовых теорий",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 304ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-50",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 12.10",
+          "teacher": {
+            "name": "Тарасов Александр Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/25/small/p127622.jpg?token_static=423628d80af8147008744c36b3f5f078"
+          }
+        },
+        {
+          "id": "7812-5-14:00-2",
+          "dayIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Актуальные проблемы политико-правовых теорий",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 304ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-50",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 12.10",
+          "teacher": {
+            "name": "Кафедра государственно-правовых дисциплин"
+          }
+        },
+        {
+          "id": "7812-5-14:00-3",
+          "dayIndex": 5,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Актуальные проблемы политико-правовых теорий",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 304ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-50",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 12.10",
+          "teacher": {
+            "name": "Тарасов Александр Сергеевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/25/small/p127622.jpg?token_static=423628d80af8147008744c36b3f5f078"
+          }
+        },
+        {
+          "id": "7812-5-15:40-4",
+          "dayIndex": 5,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Иностранный язык в профессиональной и академической коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-50",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 26.10",
+          "teacher": {
+            "name": "Кафедра иностранных языков"
+          }
+        },
+        {
+          "id": "7812-5-17:20-5",
+          "dayIndex": 5,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
+          "subject": "Иностранный язык в профессиональной и академической коммуникации",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У каф.ИЯ",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-50",
+          "weekParity": "both",
+          "dateSpecific": "01.09 по 26.10",
+          "teacher": {
+            "name": "Кафедра иностранных языков"
+          }
+        }
+      ]
+    },
+    {
+      "dayName": "Суббота",
+      "dayIndex": 6,
+      "lessons": [
+        {
+          "id": "7812-6-11:50-1",
+          "dayIndex": 6,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Цифровые ресурсы в юридической деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 209ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-50",
+          "weekParity": "both",
+          "dateSpecific": "27.10 по 07.12",
+          "teacher": {
+            "name": "Зорина Елена Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/08/27/small/140520.jpg?token_static=a509183b5776aa52fe8e383b7ec4cd28"
+          }
+        },
+        {
+          "id": "7812-6-14:00-2",
+          "dayIndex": 6,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Цифровые ресурсы в юридической деятельности",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 209ю",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12740-50",
+          "weekParity": "both",
+          "dateSpecific": "27.10 по 07.12",
+          "teacher": {
+            "name": "Зорина Елена Андреевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/08/27/small/140520.jpg?token_static=a509183b5776aa52fe8e383b7ec4cd28"
+          }
+        }
+      ]
+    }
+  ]
 }
