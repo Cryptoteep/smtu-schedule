@@ -1,7 +1,7 @@
 {
   "groupId": "7509",
   "groupName": "12317-02",
-  "updatedAt": "2026-10-06T23:47:45.742Z",
+  "updatedAt": "2026-10-07T08:37:20.363Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -363,17 +363,34 @@
           "subject": "Информатика",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 435",
+          "room": "Конгресс-Центр 306",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12317-02",
-          "weekParity": "both",
+          "weekParity": "up",
           "teacher": {
             "name": "Фомченко Андрей Андреевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
           }
         },
         {
-          "id": "7509-4-14:00-4",
+          "id": "7509-4-11:50-4",
+          "dayIndex": 4,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Информатика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 435",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12317-02",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Фомченко Андрей Андреевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/09/21/small/132126.jpg?token_static=a6293e1d43bd8bd7970e36276e74f2e8"
+          }
+        },
+        {
+          "id": "7509-4-14:00-5",
           "dayIndex": 4,
           "time": "14:00-15:30",
           "timeSlotIndex": 4,
@@ -392,7 +409,7 @@
           }
         },
         {
-          "id": "7509-4-15:40-5",
+          "id": "7509-4-15:40-6",
           "dayIndex": 4,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
