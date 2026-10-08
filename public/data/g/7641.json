@@ -1,7 +1,7 @@
 {
   "groupId": "7641",
   "groupName": "3300",
-  "updatedAt": "2026-10-08T08:56:20.037Z",
+  "updatedAt": "2026-10-08T19:56:27.717Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -400,7 +400,7 @@
           "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
-          "subject": "Военная подготовка (матросы/солдаты запаса)",
+          "subject": "Военная подготовка (офицеры запаса)",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Г 216",
@@ -416,7 +416,7 @@
           "dayIndex": 5,
           "time": "08:30-10:00",
           "timeSlotIndex": 1,
-          "subject": "Военная подготовка (офицеры запаса)",
+          "subject": "Военная подготовка (матросы/солдаты запаса)",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "Г 216",
@@ -588,13 +588,15 @@
           "subject": "Основы военной подготовки",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У 103",
+          "room": "У ВУЦ",
           "campus": "Ульянка (Корпус У)",
           "groupName": "3300",
           "weekParity": "both",
           "teacher": {
-            "name": "Величко Борис Валерьевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
+            "name": "Романов Александр Иванович",
+            "id": "122500",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
           }
         },
         {
@@ -605,15 +607,13 @@
           "subject": "Основы военной подготовки",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "У ВУЦ",
+          "room": "У 103",
           "campus": "Ульянка (Корпус У)",
           "groupName": "3300",
           "weekParity": "both",
           "teacher": {
-            "name": "Романов Александр Иванович",
-            "id": "122500",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/122500/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/10/05/small/p122500.jpg?token_static=7cb2d4014085ced57133fe91c12dc391"
+            "name": "Величко Борис Валерьевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2019/10/14/small/p127667.jpg?token_static=10a285e36f106f33e15236d5253d1594"
           }
         }
       ]
@@ -664,7 +664,7 @@
           "subject": "Деловые коммуникации",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 107",
+          "room": "У 519",
           "campus": "Ульянка (Корпус У)",
           "groupName": "3300",
           "weekParity": "up",
@@ -715,7 +715,7 @@
           "subject": "Теория систем и системный анализ",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "У 105",
+          "room": "У 420",
           "campus": "Ульянка (Корпус У)",
           "groupName": "3300",
           "weekParity": "up",

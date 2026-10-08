@@ -2,13 +2,31 @@
   "teacherId": "Стрелец Екатерина Сергеевна",
   "teacherName": "Стрелец Екатерина Сергеевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/06/30/small/p126743.jpg?token_static=34579ffec790b8a14317c72a8419d51b",
-  "updatedAt": "2026-10-08T08:56:33.691Z",
-  "totalLessons": 1,
+  "updatedAt": "2026-10-08T19:56:40.049Z",
+  "totalLessons": 2,
   "days": [
     {
       "dayName": "Понедельник",
       "dayIndex": 1,
-      "lessons": []
+      "lessons": [
+        {
+          "id": "7804-1-14:00-3",
+          "dayIndex": 1,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Дискретная математика для инженера-программиста",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У 451",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12509-05",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Стрелец Екатерина Сергеевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/06/30/small/p126743.jpg?token_static=34579ffec790b8a14317c72a8419d51b"
+          }
+        }
+      ]
     },
     {
       "dayName": "Вторник",
@@ -25,7 +43,7 @@
           "room": "Конгресс-Центр 206",
           "campus": "Ульянка (Корпус У)",
           "groupName": "12509-05",
-          "weekParity": "both",
+          "weekParity": "down",
           "teacher": {
             "name": "Стрелец Екатерина Сергеевна",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2026/06/30/small/p126743.jpg?token_static=34579ffec790b8a14317c72a8419d51b"
