@@ -1,7 +1,7 @@
 {
   "groupId": "7881",
   "groupName": "12829-01",
-  "updatedAt": "2026-10-08T00:11:45.892Z",
+  "updatedAt": "2026-10-08T08:56:31.689Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -310,6 +310,24 @@
           "dayIndex": 4,
           "time": "17:20-18:50",
           "timeSlotIndex": 6,
+          "subject": "История России 08.10",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "У 115",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "up",
+          "dateSpecific": "08.10",
+          "teacher": {
+            "name": "Бугашев Сергей Иванович",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/09/22/small/p124737.jpg?token_static=678119b0d99f792dafa29a350d121a92"
+          }
+        },
+        {
+          "id": "7881-4-17:20-5",
+          "dayIndex": 4,
+          "time": "17:20-18:50",
+          "timeSlotIndex": 6,
           "subject": "История России",
           "type": "lecture",
           "rawType": "Лекция",
@@ -334,23 +352,6 @@
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
           "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "У Спортзал",
-          "campus": "Ульянка (Корпус У)",
-          "groupName": "12829-01",
-          "weekParity": "both",
-          "dateSpecific": "09.10",
-          "teacher": {
-            "name": "Кафедра физического воспитания"
-          }
-        },
-        {
-          "id": "7881-5-10:10-2",
-          "dayIndex": 5,
-          "time": "10:10-11:40",
-          "timeSlotIndex": 2,
-          "subject": "Физическая культура и спорт",
           "type": "lecture",
           "rawType": "Лекция",
           "room": "У 101",
@@ -361,6 +362,23 @@
           "teacher": {
             "name": "Лапин Валерий Викторович",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/04/12/small/p128180.jpg?token_static=77107b9386e89abe57027f4eace5d5ff"
+          }
+        },
+        {
+          "id": "7881-5-10:10-2",
+          "dayIndex": 5,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "У Спортзал",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "12829-01",
+          "weekParity": "both",
+          "dateSpecific": "09.10",
+          "teacher": {
+            "name": "Кафедра физического воспитания"
           }
         },
         {
