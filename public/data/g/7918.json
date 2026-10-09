@@ -1,7 +1,7 @@
 {
   "groupId": "7918",
   "groupName": "1431",
-  "updatedAt": "2026-10-09T09:00:39.010Z",
+  "updatedAt": "2026-10-09T19:32:25.639Z",
   "days": [
     {
       "dayName": "Понедельник",
@@ -199,18 +199,16 @@
           "dayIndex": 3,
           "time": "10:10-11:40",
           "timeSlotIndex": 2,
-          "subject": "Качка корабля. Введение",
+          "subject": "Технология обслуживания и ремонта морской техники",
           "type": "practice",
           "rawType": "Практическое занятие",
-          "room": "Б 419",
+          "room": "Б лаб.СУиС",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "1431",
           "weekParity": "down",
           "teacher": {
-            "name": "Семенова Виктория Юрьевна",
-            "id": "101054",
-            "profileUrl": "https://www.smtu.ru/ru/viewperson/101054/",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p101054.jpg?token_static=ebe8f210ab0cb93306e96a8f447a378c"
+            "name": "Петров Алексей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/03/small/p105649.jpg?token_static=eac6ea9aba73a7a9694d6e71fa1a1448"
           }
         },
         {
@@ -218,10 +216,44 @@
           "dayIndex": 3,
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
+          "subject": "Технология обслуживания и ремонта морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Петров Алексей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/03/small/p105649.jpg?token_static=eac6ea9aba73a7a9694d6e71fa1a1448"
+          }
+        },
+        {
+          "id": "7918-3-11:50-3",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технология обслуживания и ремонта морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Петров Алексей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/03/small/p105649.jpg?token_static=eac6ea9aba73a7a9694d6e71fa1a1448"
+          }
+        },
+        {
+          "id": "7918-3-14:00-4",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
           "subject": "Качка корабля. Введение",
           "type": "lecture",
           "rawType": "Лекция",
-          "room": "Б 419",
+          "room": "Б лаб.СУиС",
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "1431",
           "weekParity": "both",
@@ -233,45 +265,11 @@
           }
         },
         {
-          "id": "7918-3-14:00-3",
-          "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Технология обслуживания и ремонта морской техники",
-          "type": "lecture",
-          "rawType": "Лекция",
-          "room": "Б лаб.СУиС",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "1431",
-          "weekParity": "up",
-          "teacher": {
-            "name": "Петров Алексей Анатольевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/03/small/p105649.jpg?token_static=eac6ea9aba73a7a9694d6e71fa1a1448"
-          }
-        },
-        {
-          "id": "7918-3-14:00-4",
-          "dayIndex": 3,
-          "time": "14:00-15:30",
-          "timeSlotIndex": 4,
-          "subject": "Технология обслуживания и ремонта морской техники",
-          "type": "practice",
-          "rawType": "Практическое занятие",
-          "room": "Б лаб.СУиС",
-          "campus": "Лоцманская (Корпус Б)",
-          "groupName": "1431",
-          "weekParity": "down",
-          "teacher": {
-            "name": "Петров Алексей Анатольевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/03/small/p105649.jpg?token_static=eac6ea9aba73a7a9694d6e71fa1a1448"
-          }
-        },
-        {
           "id": "7918-3-15:40-5",
           "dayIndex": 3,
           "time": "15:40-17:10",
           "timeSlotIndex": 5,
-          "subject": "Технология обслуживания и ремонта морской техники",
+          "subject": "Качка корабля. Введение",
           "type": "practice",
           "rawType": "Практическое занятие",
           "room": "Б лаб.СУиС",
@@ -279,8 +277,10 @@
           "groupName": "1431",
           "weekParity": "up",
           "teacher": {
-            "name": "Петров Алексей Анатольевич",
-            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/03/small/p105649.jpg?token_static=eac6ea9aba73a7a9694d6e71fa1a1448"
+            "name": "Семенова Виктория Юрьевна",
+            "id": "101054",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101054/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p101054.jpg?token_static=ebe8f210ab0cb93306e96a8f447a378c"
           }
         },
         {

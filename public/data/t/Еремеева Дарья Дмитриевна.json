@@ -2,8 +2,8 @@
   "teacherId": "Еремеева Дарья Дмитриевна",
   "teacherName": "Еремеева Дарья Дмитриевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p127344.jpg?token_static=fb97232ff487c8a37f6a93eb8fededeb",
-  "updatedAt": "2026-10-09T09:01:00.428Z",
-  "totalLessons": 22,
+  "updatedAt": "2026-10-09T19:33:34.433Z",
+  "totalLessons": 23,
   "days": [
     {
       "dayName": "Понедельник",
@@ -381,6 +381,23 @@
           "id": "7612-6-11:50-4",
           "time": "11:50-13:20",
           "timeSlotIndex": 3,
+          "subject": "Экономика",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Конгресс-Центр 427",
+          "campus": "Ульянка (Корпус У)",
+          "groupName": "2430",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Еремеева Дарья Дмитриевна",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2024/03/22/small/p127344.jpg?token_static=fb97232ff487c8a37f6a93eb8fededeb"
+          }
+        },
+        {
+          "id": "7612-6-08:30-1",
+          "dayIndex": 6,
+          "time": "08:30-10:00",
+          "timeSlotIndex": 1,
           "subject": "Экономика",
           "type": "practice",
           "rawType": "Практическое занятие",

@@ -2,8 +2,8 @@
   "teacherId": "Петров Алексей Анатольевич",
   "teacherName": "Петров Алексей Анатольевич",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/03/small/p105649.jpg?token_static=eac6ea9aba73a7a9694d6e71fa1a1448",
-  "updatedAt": "2026-10-09T09:01:00.380Z",
-  "totalLessons": 3,
+  "updatedAt": "2026-10-09T19:33:34.375Z",
+  "totalLessons": 6,
   "days": [
     {
       "dayName": "Понедельник",
@@ -62,6 +62,57 @@
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "1431",
           "weekParity": "up",
+          "teacher": {
+            "name": "Петров Алексей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/03/small/p105649.jpg?token_static=eac6ea9aba73a7a9694d6e71fa1a1448"
+          }
+        },
+        {
+          "id": "7918-3-10:10-1",
+          "dayIndex": 3,
+          "time": "10:10-11:40",
+          "timeSlotIndex": 2,
+          "subject": "Технология обслуживания и ремонта морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "down",
+          "teacher": {
+            "name": "Петров Алексей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/03/small/p105649.jpg?token_static=eac6ea9aba73a7a9694d6e71fa1a1448"
+          }
+        },
+        {
+          "id": "7918-3-11:50-2",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технология обслуживания и ремонта морской техники",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "up",
+          "teacher": {
+            "name": "Петров Алексей Анатольевич",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/03/small/p105649.jpg?token_static=eac6ea9aba73a7a9694d6e71fa1a1448"
+          }
+        },
+        {
+          "id": "7918-3-11:50-3",
+          "dayIndex": 3,
+          "time": "11:50-13:20",
+          "timeSlotIndex": 3,
+          "subject": "Технология обслуживания и ремонта морской техники",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "down",
           "teacher": {
             "name": "Петров Алексей Анатольевич",
             "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2025/02/03/small/p105649.jpg?token_static=eac6ea9aba73a7a9694d6e71fa1a1448"

@@ -3,8 +3,8 @@
   "teacherName": "Семенова Виктория Юрьевна",
   "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p101054.jpg?token_static=ebe8f210ab0cb93306e96a8f447a378c",
   "profileUrl": "https://www.smtu.ru/ru/viewperson/101054/",
-  "updatedAt": "2026-10-09T09:01:00.373Z",
-  "totalLessons": 12,
+  "updatedAt": "2026-10-09T19:33:34.366Z",
+  "totalLessons": 14,
   "days": [
     {
       "dayName": "Понедельник",
@@ -86,6 +86,44 @@
           "campus": "Лоцманская (Корпус Б)",
           "groupName": "1431",
           "weekParity": "both",
+          "teacher": {
+            "name": "Семенова Виктория Юрьевна",
+            "id": "101054",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101054/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p101054.jpg?token_static=ebe8f210ab0cb93306e96a8f447a378c"
+          }
+        },
+        {
+          "id": "7918-3-14:00-4",
+          "dayIndex": 3,
+          "time": "14:00-15:30",
+          "timeSlotIndex": 4,
+          "subject": "Качка корабля. Введение",
+          "type": "lecture",
+          "rawType": "Лекция",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "both",
+          "teacher": {
+            "name": "Семенова Виктория Юрьевна",
+            "id": "101054",
+            "profileUrl": "https://www.smtu.ru/ru/viewperson/101054/",
+            "photoUrl": "https://ds1.smtu.ru/files/isu_person/photo/2023/03/10/small/p101054.jpg?token_static=ebe8f210ab0cb93306e96a8f447a378c"
+          }
+        },
+        {
+          "id": "7918-3-15:40-5",
+          "dayIndex": 3,
+          "time": "15:40-17:10",
+          "timeSlotIndex": 5,
+          "subject": "Качка корабля. Введение",
+          "type": "practice",
+          "rawType": "Практическое занятие",
+          "room": "Б лаб.СУиС",
+          "campus": "Лоцманская (Корпус Б)",
+          "groupName": "1431",
+          "weekParity": "up",
           "teacher": {
             "name": "Семенова Виктория Юрьевна",
             "id": "101054",
